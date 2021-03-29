@@ -1,0 +1,3236 @@
+,Address,City,Zip Code,Price,sqft,# of Beds,# of Baths
+0,7947 Claremont DR,Dallas,75228,317900,,3.0,2.0
+1,9833 Walnut Street,Dallas,75243,50000,,1.0,1.0
+2,9825 Walnut Street,Dallas,75243,50000,,1.0,1.0
+3,9809 Walnut Street,Dallas,75243,50000,,1.0,1.0
+4,9805 Walnut Street,Dallas,75243,51000,,1.0,1.0
+5,9815 Walnut Street,Dallas,75243,51000,,1.0,1.0
+6,9833 Walnut Street,Dallas,75243,70000,,1.0,2.0
+7,8600 Coppertowne Lane,Dallas,75243,144000,,2.0,1.0
+8,6215 Teague Drive,Dallas,75241,160000,,4.0,2.0
+9,1446 Laura Lane,Dallas,75241,160000,,2.0,1.0
+10,2824 Belknap Avenue,Dallas,75216,164000,,3.0,1.0
+11,3615 Dutton Drive,Dallas,75211,173000,,2.0,1.0
+12,6015 Sunny Crest Lane,Dallas,75241,180000,,4.0,3.0
+13,1200 Main Street,Dallas,75202,200000,,1.0,1.0
+14,1122 Jackson Street,Dallas,75202,206000,,1.0,1.0
+15,6102 Summer Creek Circle,Dallas,75231,210000,,2.0,2.0
+16,13536 Vida Lane,Dallas,75253,210000,,3.0,2.0
+17,12146 Willowdell Drive,Dallas,75243,219900,,3.0,2.0
+18,5100 Verde Valley Lane,Dallas,75254,229000,,2.0,2.0
+19,4242 N Capistrano Drive,Dallas,75287,235000,,2.0,2.0
+20,2962 Housley Drive,Dallas,75228,235000,,3.0,2.0
+21,2962 Housley DR,Dallas,75228,235000,,3.0,2.0
+22,2820 Linfield Road,Dallas,75216,239900,,3.0,3.0
+23,2919 Gus Thomasson Road,Dallas,75228,240000,,3.0,2.0
+24,3035 Newcastle Drive,Dallas,75220,249900,,3.0,2.0
+25,2507 S Vernon Avenue,Dallas,75224,259000,,4.0,3.0
+26,9835 Whistler Drive,Dallas,75217,275000,,4.0,3.0
+27,5200 Martel Avenue,Dallas,75206,279000,,2.0,3.0
+28,2150 Lovedale Avenue,Dallas,75235,300000,,2.0,2.0
+29,4834 Fallon Place,Dallas,75227,320000,,3.0,3.0
+30,1407 Glenfield Avenue,Dallas,75224,325000,,2.0,2.0
+31,1627 Wilbur Street,Dallas,75224,325000,,3.0,2.0
+32,13911 Preston Valley Place,Dallas,75240,340000,,2.0,2.0
+33,9752 Burney Drive,Dallas,75243,379900,,3.0,3.0
+34,11232 Lanewood Circle,Dallas,75218,435000,,3.0,2.0
+35,2217 Kirby Street,Dallas,75204,449900,,3.0,3.0
+36,5015 Manett Street,Dallas,75206,459990,,2.0,3.0
+37,4611 Travis Street,Dallas,75205,470000,,2.0,3.0
+38,9703 Robin Hill Circle,Dallas,75238,475000,,3.0,3.0
+39,9723 Lanward Circle,Dallas,75238,475000,,4.0,2.0
+40,1632 Vaughan Court,Dallas,75208,485000,,3.0,3.0
+41,17201 Meadow Tree Circle,Dallas,75248,509900,,3.0,4.0
+42,202 S Edgefield Avenue,Dallas,75208,519900,,4.0,3.0
+43,180 S Cisco Street,Dallas,75226,539000,,3.0,3.0
+44,7001 Vivian Avenue,Dallas,75223,599000,,3.0,3.0
+45,10849 Scotspring Lane,Dallas,75218,725000,,5.0,4.0
+46,7704 Queens Garden Drive,Dallas,75248,725000,,4.0,4.0
+47,9591 Highedge Drive,Dallas,75238,759000,,5.0,4.0
+48,9118 Rock Daisy Court,Dallas,75231,799000,,3.0,3.0
+49,6858 Meadowcreek Drive,Dallas,75254,850000,,5.0,6.0
+50,9515 Moss Haven Drive,Dallas,75231,899000,,4.0,5.0
+51,6230 Joyce Way,Dallas,75225,1400000,,3.0,3.0
+52,5331 Emerson Avenue,Dallas,75209,1595000,,5.0,5.0
+53,5122 Horseshoe Trail,Dallas,75209,2250000,,5.0,5.0
+54,5001 Bowser Avenue,Dallas,75209,82500,,1.0,1.0
+55,8601 Park Lane,Dallas,75231,89900,,1.0,1.0
+56,2121 Lolita Drive,Dallas,75227,125375,,3.0,1.0
+57,2627 Douglas Avenue,Dallas,75219,128500,,1.0,1.0
+58,8550 Fair Oaks Crossing,Dallas,75243,129900,,2.0,1.0
+59,3700 Hancock Street,Dallas,75210,129900,,3.0,2.0
+60,10121 Stebbins Street,Dallas,75217,130000,,2.0,1.0
+61,5550 Spring Valley Road,Dallas,75254,130000,,1.0,1.0
+62,9801 Royal Lane,Dallas,75231,135000,,2.0,2.0
+63,12888 Montfort Drive,Dallas,75230,139000,,2.0,2.0
+64,8600 Coppertowne Lane #1705,Dallas,75243,144000,,2.0,1.0
+65,4117 Pampas Street,Dallas,75211,145000,,2.0,1.0
+66,5335 Bent Tree Forest Drive,Dallas,75248,145000,,1.0,1.0
+67,8615 Files Street,Dallas,75217,146750,,3.0,1.0
+68,511 Glencairn Drive,Dallas,75232,154900,,3.0,2.0
+69,3038 Marjorie Avenue,Dallas,75216,155000,,3.0,1.0
+70,4410 Cinda Ree Lane,Dallas,75216,169000,,4.0,2.0
+71,7706 Meadow Road,Dallas,75230,174900,,2.0,2.0
+72,1816 Peabody Avenue,Dallas,75215,175000,,3.0,2.0
+73,5051 N Hall Street,Dallas,75235,177000,,2.0,2.0
+74,1920 Oak Hill Circle,Dallas,75217,178374,,4.0,2.0
+75,5100 Verde Valley Lane,Dallas,75254,180000,,1.0,2.0
+76,5881 Preston View Boulevard,Dallas,75240,184000,,2.0,2.0
+77,7640 W Greenway Boulevard,Dallas,75209,184000,,1.0,2.0
+78,1619 Mcadams Avenue,Dallas,75224,189000,,3.0,2.0
+79,2314 Toulon Lane,Dallas,75227,190000,,3.0,2.0
+80,4105 Hamilton Avenue,Dallas,75210,195000,,4.0,2.0
+81,1811 Goldwood Drive,Dallas,75232,215995,,3.0,2.0
+82,5808 Sandhurst Lane,Dallas,75206,217000,,3.0,3.0
+83,2720 E Atoll Drive,Dallas,75216,225000,,5.0,2.0
+84,1200 Main Street,Dallas,75202,225000,,1.0,1.0
+85,9826 Amberton Parkway,Dallas,75243,225000,,3.0,3.0
+86,406 Penguin Drive,Dallas,75241,229900,,4.0,3.0
+87,3919 Kenilworth Street,Dallas,75210,235000,,4.0,3.0
+88,6234 Bandera Avenue,Dallas,75225,235000,,2.0,2.0
+89,17820 Windflower Way,Dallas,75252,239900,,2.0,3.0
+90,1926 Berwick Avenue,Dallas,75203,240000,,3.0,2.0
+91,4102 Buena Vista Street,Dallas,75204,240000,,1.0,2.0
+92,11364 Lanewood Circle,Dallas,75218,240000,,3.0,1.0
+93,9307 Sandyhook Circle,Dallas,75227,240000,,3.0,2.0
+94,2210 Tosca Lane,Dallas,75224,245000,,3.0,2.0
+95,804 Cameron Avenue,Dallas,75223,249000,,3.0,2.0
+96,2639 Crest Ridge Drive,Dallas,75228,250000,,4.0,2.0
+97,2727 Reagan Street,Dallas,75219,259000,,2.0,2.0
+98,4144 Pluto Street,Dallas,75212,259900,,4.0,2.0
+99,100 N Hampton Road,Dallas,75208,269900,,3.0,2.0
+100,2119 Highwood Drive,Dallas,75228,299000,,3.0,2.0
+101,3531 Burlingdell Avenue,Dallas,75211,319000,,4.0,2.0
+102,1530 S Montreal Avenue,Dallas,75208,327900,,2.0,2.0
+103,4319 Bowser Avenue,Dallas,75219,329500,,2.0,2.0
+104,6932 Allview Lane,Dallas,75227,329900,,3.0,2.0
+105,2340 Peavy Place,Dallas,75228,340000,,3.0,2.0
+106,5200 Keller Springs Road,Dallas,75248,349900,,3.0,2.0
+107,2435 Hillsboro Avenue,Dallas,75228,349900,,3.0,2.0
+108,17928 Brent Drive,Dallas,75287,359000,,4.0,2.0
+109,2121 Kessler Court,Dallas,75208,369000,,2.0,2.0
+110,8949 Boundbrook Avenue,Dallas,75243,374900,,3.0,2.0
+111,12618 Trenton Drive,Dallas,75243,375000,,4.0,3.0
+112,2504 Kingsridge Drive,Dallas,75287,385000,,3.0,3.0
+113,2360 Peavy Place,Dallas,75228,389000,,3.0,3.0
+114,10660 Longmeadow Drive,Dallas,75238,390000,,3.0,2.0
+115,8634 Lockhaven Drive,Dallas,75238,390000,,2.0,2.0
+116,8783 Oak Stream,Dallas,75243,390000,,3.0,3.0
+117,9747 E Lake Highlands Drive,Dallas,75218,395000,,3.0,2.0
+118,6226 La Cosa DR,Dallas,75248,407800,,3.0,3.0
+119,11060 Wallbrook Drive,Dallas,75238,415000,,4.0,2.0
+120,10912 Beauty Lane,Dallas,75229,425000,,3.0,2.0
+121,3928 Walden Way,Dallas,75287,425000,,4.0,2.0
+122,6720 Natures Way,Dallas,75236,425900,,4.0,3.0
+123,4103 Country Brook Drive,Dallas,75287,439000,,3.0,3.0
+124,3139 Whirlaway Road,Dallas,75229,440000,,4.0,3.0
+125,8105 Claremont Drive,Dallas,75228,450000,,3.0,2.0
+126,3501 Dickason Avenue,Dallas,75219,454900,,2.0,3.0
+127,10315 Cromwell Drive,Dallas,75229,459000,,3.0,2.0
+128,9102 Summer Glen,Dallas,75243,465000,,3.0,3.0
+129,3228 Altman Drive,Dallas,75229,475000,,4.0,3.0
+130,10211 Carry Back Circle,Dallas,75229,485000,,3.0,3.0
+131,917 N Beckley Avenue,Dallas,75203,487500,,3.0,1.0
+132,915 N Beckley Avenue,Dallas,75203,487500,,2.0,1.0
+133,909 N Beckley Avenue,Dallas,75203,487500,,4.0,2.0
+134,112 W 5 th Street,Dallas,75208,487500,,2.0,2.0
+135,4962 Fuqua Street,Dallas,75206,495000,,2.0,3.0
+136,6218 Reiger Avenue,Dallas,75214,499000,,2.0,2.0
+137,10619 Lakemere Drive,Dallas,75238,499900,,3.0,2.0
+138,10548 Wyatt Street,Dallas,75218,499999,,4.0,3.0
+139,3836 Antigua Drive,Dallas,75244,500000,,3.0,3.0
+140,1771 McCoy Street,Dallas,75204,519000,,2.0,3.0
+141,4060 Travis Street,Dallas,75204,525000,,3.0,3.0
+142,4931 Jack Court,Dallas,75206,525000,,2.0,3.0
+143,4319 Firebrick Lane,Dallas,75287,525000,,4.0,3.0
+144,1520 San Saba Drive,Dallas,75218,535000,,3.0,2.0
+145,118 N Winnetka Avenue,Dallas,75208,535000,,3.0,2.0
+146,4118 Park Lane,Dallas,75220,535000,,2.0,2.0
+147,6424 E Lovers Lane,Dallas,75214,545000,,4.0,2.0
+148,7138 Tabor Drive,Dallas,75231,549000,,4.0,3.0
+149,6926 Vivian Avenue,Dallas,75223,549900,,2.0,2.0
+150,7606 Kevin Drive,Dallas,75248,550000,,5.0,4.0
+151,2055 Angelina Drive,Dallas,75212,579900,,4.0,4.0
+152,4029 Bowser Avenue,Dallas,75219,585000,,3.0,4.0
+153,7610 Dunoon Avenue,Dallas,75248,589900,,4.0,4.0
+154,5227 Homer Street,Dallas,75206,599750,,3.0,2.0
+155,7845 Blackbird Lane,Dallas,75238,649900,,3.0,2.0
+156,818 Cordova Street,Dallas,75223,650000,,3.0,2.0
+157,6406 La Manga Drive,Dallas,75248,659500,,4.0,3.0
+158,2813 State Street,Dallas,75204,669000,,3.0,4.0
+159,5616 Willow Wood Lane,Dallas,75252,674900,,4.0,5.0
+160,8914 Santa Clara Drive,Dallas,75218,675000,,3.0,2.0
+161,10746 Royal Springs Drive,Dallas,75229,699000,,3.0,3.0
+162,5432 Druid Lane,Dallas,75209,725000,,3.0,2.0
+163,5505 Ellsworth Avenue,Dallas,75206,729000,,4.0,5.0
+164,8110 San Cristobal Drive,Dallas,75218,749900,,4.0,3.0
+165,5827 Morningside Avenue,Dallas,75206,765000,,4.0,3.0
+166,5806 Royal Crest Drive,Dallas,75230,775000,,4.0,4.0
+167,5935 Royal Crest Drive,Dallas,75230,785000,,3.0,2.0
+168,6122 Richmond Avenue,Dallas,75214,799000,,4.0,3.0
+169,6243 Monticello Avenue,Dallas,75214,799000,,3.0,4.0
+170,1 Royal Way,Dallas,75229,799000,,3.0,5.0
+171,4228 Glenaire Drive,Dallas,75229,815000,,4.0,4.0
+172,4612 Live Oak Street,Dallas,75204,825000,,3.0,3.0
+173,6882 Avalon Avenue,Dallas,75214,829500,,3.0,2.0
+174,5334 Morningside Avenue,Dallas,75206,840000,,4.0,3.0
+175,5301 Merrimac Avenue,Dallas,75206,869900,,4.0,3.0
+176,6664 Yosemite Lane,Dallas,75214,895000,,4.0,3.0
+177,9231 Moss Haven Drive,Dallas,75231,895000,,4.0,3.0
+178,3739 Vinecrest Drive,Dallas,75229,899000,,5.0,5.0
+179,4748 Hallmark Drive,Dallas,75229,940000,,4.0,4.0
+180,8510 Catawba Road,Dallas,75209,974900,,2.0,2.0
+181,6716 Azalea Lane,Dallas,75230,979100,,4.0,4.0
+182,7602 Roper Street,Dallas,75209,1095000,,5.0,4.0
+183,7007 Inwood Road,Dallas,75209,1100000,,3.0,2.0
+184,16118 Ranchita Drive,Dallas,75248,1119000,,5.0,4.0
+185,3911 Park Lane,Dallas,75220,1124000,,4.0,5.0
+186,16208 Ranchita Drive,Dallas,75248,1150000,,5.0,7.0
+187,14140 Valley Creek Drive,Dallas,75254,1195000,,4.0,6.0
+188,2119 Madera Street,Dallas,75206,1320000,,5.0,6.0
+189,4037 Lively Lane,Dallas,75220,1350000,,5.0,6.0
+190,22 Vanguard Way,Dallas,75243,1399000,,3.0,3.0
+191,6506 Barnsbury Court,Dallas,75248,1425000,,5.0,6.0
+192,6725 Gaston Avenue,Dallas,75214,1500000,,3.0,3.0
+193,7021 Stone Meadow Drive,Dallas,75230,1695000,,3.0,5.0
+194,6711 Aberdeen Avenue,Dallas,75230,1850000,,5.0,4.0
+195,917 N Beckley Avenue,Dallas,75203,1950000,,5.0,3.0
+196,915 N Beckley Avenue,Dallas,75203,1950000,,3.0,2.0
+197,909 N Beckley Avenue,Dallas,75203,1950000,,4.0,2.0
+198,112 W 5th Street,Dallas,75208,1950000,,2.0,2.0
+199,6630 Northport Drive,Dallas,75230,2150000,,5.0,7.0
+200,7219 Marquette Street,Dallas,75225,2200000,,5.0,5.0
+201,6823 Northport Drive,Dallas,75230,2990000,,5.0,6.0
+202,4110 Cochran Chapel,Dallas,75209,3195000,,4.0,5.0
+203,1747 Leonard Street,Dallas,75201,3950000,,2.0,3.0
+204,2060 Echo Lake Drive,Dallas,75253,97000,,3.0,1.0
+205,6646 E Lovers Lane,Dallas,75214,99900,,1.0,1.0
+206,6646 E Lovers LN 1501,Dallas,75214,99900,,1.0,1.0
+207,5325 Bent Tree Forest Drive,Dallas,75248,119000,,1.0,1.0
+208,5335 Bent Tree Forest Drive,Dallas,75248,119900,,1.0,1.0
+209,414 W Montana Avenue,Dallas,75224,121000,,3.0,2.0
+210,8404 Forest Lane,Dallas,75243,125000,,1.0,2.0
+211,8555 Fair Oaks Crossing,Dallas,75243,150000,,2.0,1.0
+212,10427 Benbrook Drive,Dallas,75228,154500,,3.0,1.0
+213,13753 Biggs Street,Dallas,75253,155000,,3.0,2.0
+214,4777 Cedar Springs Road,Dallas,75219,160000,,1.0,2.0
+215,5300 Keller Springs Road,Dallas,75248,160000,,1.0,2.0
+216,1945 New Haven Drive,Dallas,75217,164900,,2.0,2.0
+217,5100 E Verde Valley Lane,Dallas,75254,175000,,1.0,2.0
+218,9222 Church Road,Dallas,75231,179900,,2.0,3.0
+219,11302 Castolon Drive,Dallas,75228,180000,,3.0,2.0
+220,150 Buttercup Lane,Dallas,75217,180000,,4.0,2.0
+221,1337 Kingsley Drive,Dallas,75216,181900,,3.0,2.0
+222,9910 Royal Lane,Dallas,75231,182500,,2.0,2.0
+223,14277 Preston Road,Dallas,75254,185000,,2.0,2.0
+224,14151 Montfort Unit# 213,Dallas,75254,189000,,2.0,2.0
+225,9910 Royal Lane,Dallas,75231,194000,,2.0,3.0
+226,3883 Turtle Creek Boulevard,Dallas,75219,195000,,1.0,1.0
+227,5757 E University Boulevard,Dallas,75206,195000,,2.0,2.0
+228,5200 Martel Avenue,Dallas,75206,199500,,2.0,2.0
+229,4605 Cedar Springs Road,Dallas,75219,205000,,1.0,1.0
+230,9202 Firelog Lane,Dallas,75243,205000,,2.0,2.0
+231,7616 Texridge Drive,Dallas,75232,209000,,3.0,2.0
+232,1122 Jackson Street,Dallas,75202,211000,,1.0,1.0
+233,11812 Flamingo Lane,Dallas,75218,215000,,3.0,2.0
+234,9721 Smokefeather Lane,Dallas,75243,220000,,2.0,2.0
+235,10938 Desdemona Drive,Dallas,75228,225000,,3.0,2.0
+236,4031 Holland Avenue,Dallas,75219,232500,,1.0,1.0
+237,7702 Ike Avenue,Dallas,75241,234900,,4.0,3.0
+238,13119 Southview Lane,Dallas,75240,239000,,3.0,2.0
+239,17820 Windflower WAY # 1404,Dallas,75252,239900,,2.0,3.0
+240,2436 Oak Dale Road,Dallas,75241,239900,,4.0,2.0
+241,1200 Main Street,Dallas,75202,239999,,1.0,1.0
+242,4242 Buena Vista Street,Dallas,75205,240000,,1.0,2.0
+243,6903 Sammy Circle,Dallas,75237,245000,,3.0,2.0
+244,6131 Lewisburg Lane,Dallas,75237,249900,,3.0,1.0
+245,9963 Constance Street,Dallas,75220,250000,,3.0,2.0
+246,9209 Sweetwater Drive,Dallas,75228,250000,,3.0,2.0
+247,3139 Dusty Oak Drive,Dallas,75227,259900,,4.0,3.0
+248,4242 Buena Vista Street,Dallas,75205,259900,,1.0,2.0
+249,9246 Emberglow Lane,Dallas,75243,260000,,4.0,3.0
+250,4920 Hollow Ridge Road,Dallas,75227,269700,,3.0,2.0
+251,9408 Thornberry Lane,Dallas,75220,299900,,3.0,2.0
+252,1511 Matagorda Drive,Dallas,75232,300000,,3.0,2.0
+253,1323 Saint Joseph Street,Dallas,75204,310000,,2.0,3.0
+254,6314C Bandera Avenue,Dallas,75225,315000,,2.0,2.0
+255,6211 W Northwest Highway,Dallas,75225,317000,,2.0,2.0
+256,4107 Bowser Avenue,Dallas,75219,319000,,2.0,2.0
+257,6830 Prairie Flower Trail,Dallas,75227,319000,,4.0,2.0
+258,3190 Lockmoor Lane,Dallas,75220,325000,,4.0,3.0
+259,2427 Catherine Street,Dallas,75211,329500,,2.0,2.0
+260,4325 Bowser Avenue,Dallas,75219,329900,,2.0,3.0
+261,4127 Joshua Lane,Dallas,75287,349900,,3.0,3.0
+262,2710 Kimsey Drive,Dallas,75235,350000,,2.0,1.0
+263,4017 Buena Vista Street,Dallas,75204,355000,,2.0,2.0
+264,7603 Kenwell Street,Dallas,75209,374900,,3.0,2.0
+265,1725 Bennett Avenue,Dallas,75206,374900,,2.0,3.0
+266,3251 Leahy Drive,Dallas,75229,375000,,3.0,2.0
+267,2812 Alden Avenue,Dallas,75211,375000,,3.0,1.0
+268,1529 Seegar Street,Dallas,75215,379900,,2.0,3.0
+269,9612 Ferndale Road,Dallas,75238,389000,,3.0,2.0
+270,3847 Stockton Lane,Dallas,75287,389000,,3.0,3.0
+271,1500 Pecos Street,Dallas,75204,390000,,3.0,3.0
+272,5411 Maple Springs Boulevard,Dallas,75235,395000,,2.0,3.0
+273,2638 Alco Avenue,Dallas,75211,400000,,3.0,2.0
+274,6226 La Cosa Drive,Dallas,75248,407800,,3.0,3.0
+275,1725 Bennett Avenue,Dallas,75206,414900,,2.0,3.0
+276,3227 Citation Drive,Dallas,75229,415000,,3.0,2.0
+277,3715 Valley Ridge Road,Dallas,75220,415000,,3.0,2.0
+278,7049 Belteau Lane,Dallas,75227,415000,,5.0,4.0
+279,2323 N Houston Street,Dallas,75219,425000,,1.0,2.0
+280,409 S Rosemont Avenue,Dallas,75208,430000,,3.0,2.0
+281,1914 Euclid Avenue,Dallas,75206,448000,,2.0,3.0
+282,1823 Naylor Street,Dallas,75228,450000,,4.0,3.0
+283,6341 E Lovers Lane,Dallas,75214,450000,,2.0,2.0
+284,2015 Kidwell Street,Dallas,75214,450000,,3.0,3.0
+285,3024 Zenia Drive,Dallas,75204,451000,,2.0,3.0
+286,3501 Dickason Avenue Unit# B,Dallas,75219,454900,,2.0,3.0
+287,10426 Royalwood Drive,Dallas,75238,455000,,3.0,2.0
+288,2828 Hood Street,Dallas,75219,469900,,1.0,2.0
+289,3924 Belton Drive,Dallas,75287,475000,,4.0,3.0
+290,7036 Winchester Street,Dallas,75231,475000,,3.0,2.0
+291,6907 Middle Cove Drive,Dallas,75248,475000,,4.0,3.0
+292,6035 Ellsworth Avenue,Dallas,75206,479900,,2.0,2.0
+293,6054 Winton Street,Dallas,75206,495000,,2.0,2.0
+294,7952 Minglewood Lane,Dallas,75231,499000,,3.0,3.0
+295,6558 Laurel Valley Road,Dallas,75248,500000,,3.0,3.0
+296,2411 N Hall Street,Dallas,75204,507000,,2.0,3.0
+297,2417 Thatcher Drive,Dallas,75206,515000,,3.0,4.0
+298,5331 Holland Avenue,Dallas,75209,520000,,3.0,4.0
+299,3390 Northaven Road,Dallas,75229,525000,,4.0,3.0
+300,2217 Annex Avenue,Dallas,75204,535000,,2.0,3.0
+301,4212 Bowser Avenue #C,Dallas,75219,545000,,3.0,4.0
+302,3999 Goodfellow Drive,Dallas,75229,545000,,4.0,3.0
+303,4030 Travis Street,Dallas,75204,550000,,2.0,3.0
+304,2411 Hall Street,Dallas,75204,560000,,3.0,4.0
+305,10006 Milltrail Drive,Dallas,75238,589900,,5.0,3.0
+306,4211 Rawlins Street,Dallas,75219,595000,,3.0,4.0
+307,9634 Shoreview Road,Dallas,75238,599000,,3.0,2.0
+308,5120 Vandelia Street,Dallas,75235,614700,,4.0,3.0
+309,6726 Crestland Avenue,Dallas,75252,615950,,4.0,3.0
+310,7103 Nicki Court,Dallas,75252,649900,,4.0,3.0
+311,6811 Ledyard Drive,Dallas,75248,649950,,4.0,3.0
+312,7331 Roundrock Road,Dallas,75248,674900,,4.0,4.0
+313,4914 Reiger Avenue,Dallas,75214,689000,,3.0,3.0
+314,4222 Meadowdale Lane,Dallas,75229,699000,,3.0,3.0
+315,11727 Welch Road,Dallas,75229,699000,,3.0,3.0
+316,5522 W Amherst Avenue,Dallas,75209,714900,,3.0,2.0
+317,4408 Mill Run Road,Dallas,75244,724900,,5.0,4.0
+318,3911 Gilbert Avenue,Dallas,75219,784900,,3.0,2.0
+319,6538 Trammel Drive,Dallas,75214,815000,,4.0,4.0
+320,7306 Azalea Lane,Dallas,75230,825000,,3.0,3.0
+321,7121 Lakehurst Avenue,Dallas,75230,840000,,4.0,4.0
+322,4324 Twin Post Road,Dallas,75244,859000,,4.0,4.0
+323,6159 Ellsworth Avenue,Dallas,75214,899000,,4.0,3.0
+324,9610 Lanshire Drive,Dallas,75238,899900,,5.0,4.0
+325,5926 Flintshire LN,Dallas,75252,925000,,5.0,5.0
+326,5926 Flintshire Lane,Dallas,75252,925000,,5.0,5.0
+327,12526 Sunlight Drive,Dallas,75230,975000,,4.0,3.0
+328,7127 Casa Loma Avenue,Dallas,75214,995000,,4.0,4.0
+329,3401 Lee Parkway,Dallas,75219,999999,,2.0,3.0
+330,2700 Thomas Avenue,Dallas,75204,1050000,,3.0,3.0
+331,9535 Fieldcrest Drive,Dallas,75238,1050000,,5.0,4.0
+332,6217 Ellsworth Avenue,Dallas,75214,1135000,,5.0,4.0
+333,7139 Midcrest Drive,Dallas,75254,1175000,,4.0,4.0
+334,5327 Vanderbilt Avenue,Dallas,75206,1265900,,4.0,3.0
+335,11316 Valleydale Drive,Dallas,75230,1275000,,4.0,4.0
+336,13 Lakeside Park,Dallas,75225,1295000,,2.0,4.0
+337,4719 Junius Street,Dallas,75246,1400000,,4.0,8.0
+338,6323 Royalton,Dallas,75230,1495000,,5.0,6.0
+339,5922 Joyce Way,Dallas,75225,1525000,,5.0,6.0
+340,13731 Hughes Lane,Dallas,75240,1700000,,4.0,6.0
+341,1747 Leonard Street #801,Dallas,75201,1850000,,2.0,2.0
+342,4129-4133 Herschel Avenue,Dallas,75219,1875000,,3.0,4.0
+343,4129-33 Herschel Avenue,Dallas,75219,1875000,,3.0,4.0
+344,5510 Lindenshire Lane,Dallas,75230,2049000,,5.0,6.0
+345,2430 Victory Park Lane,Dallas,75219,2100000,,3.0,4.0
+346,6815 Tulip Lane,Dallas,75230,2175000,,5.0,7.0
+347,4420 Ridge Road,Dallas,75229,2199000,,5.0,6.0
+348,6229 Tulip Lane,Dallas,75230,2799000,,5.0,6.0
+349,1747 Leonard Street #402,Dallas,75201,3950000,,2.0,3.0
+350,1810 N Garrett Avenue,Dallas,75206,95000,,1.0,1.0
+351,4228 Copeland Street,Dallas,75210,99000,,2.0,2.0
+352,11655 Audelia Road,Dallas,75243,110000,,1.0,2.0
+353,5550 Spring Valley,Dallas,75254,112000,,1.0,1.0
+354,2918 Reed Lane,Dallas,75215,118000,,3.0,2.0
+355,4859 Cedar Springs Road,Dallas,75219,124900,,1.0,1.0
+356,6646 E Lovers Lane,Dallas,75214,134900,,2.0,2.0
+357,2915 Marburg Street,Dallas,75215,140500,,3.0,1.0
+358,4748 Old Bent Tree Lane,Dallas,75287,149990,,2.0,2.0
+359,15221 Berry Trail,Dallas,75248,155000,,2.0,2.0
+360,15909 Stillwood Drive,Dallas,75248,155000,,1.0,1.0
+361,11348 Park Central Place,Dallas,75230,165000,,2.0,2.0
+362,2245 E Overton Road,Dallas,75216,173900,,3.0,2.0
+363,3130 Utah Avenue,Dallas,75216,175000,,3.0,2.0
+364,1310 Mentor Avenue,Dallas,75216,199000,,3.0,2.0
+365,2529 Fenwick Drive,Dallas,75228,204900,,3.0,1.0
+366,7311 Hardwood Trail,Dallas,75249,209900,,3.0,2.0
+367,9419 Eddy Sass Court,Dallas,75227,210000,,4.0,2.0
+368,4414 Cedar Springs Road,Dallas,75219,217000,,2.0,1.0
+369,4000 Hamilton Avenue,Dallas,75210,225000,,4.0,2.0
+370,9129 Laneyvale Avenue,Dallas,75217,229000,,3.0,2.0
+371,2668 Healey Drive,Dallas,75228,229000,,3.0,1.0
+372,3883 Turtle Creek Boulevard,Dallas,75219,260000,,2.0,2.0
+373,2730 Emmett Street,Dallas,75211,279000,,3.0,3.0
+374,11333 Dumbarton Drive,Dallas,75228,280000,,3.0,2.0
+375,13216 Meandering Way,Dallas,75240,289900,,3.0,2.0
+376,5132 Westgrove,Dallas,75248,295000,,2.0,3.0
+377,7130 Rolling Fork Drive,Dallas,75227,298000,,3.0,2.0
+378,2970 Sundial Drive,Dallas,75229,299000,,4.0,2.0
+379,130 Appian Way,Dallas,75216,315000,,3.0,1.0
+380,2512 Springhill Drive,Dallas,75228,324900,,4.0,4.0
+381,12323 High Meadow Drive,Dallas,75234,325000,,3.0,3.0
+382,1318 Melbourne Avenue,Dallas,75224,325000,,3.0,2.0
+383,2941 Vacherie Lane,Dallas,75227,335000,,3.0,2.0
+384,4310 Rosser Square,Dallas,75244,335000,,2.0,2.0
+385,2415 Stutz Drive,Dallas,75235,335000,,2.0,3.0
+386,2030 Trinidad Drive,Dallas,75232,335987,,3.0,2.0
+387,3236 Tower Trail,Dallas,75229,340000,,3.0,2.0
+388,6735 Webster Street,Dallas,75209,344900,,3.0,2.0
+389,406 S Montreal Avenue,Dallas,75208,350000,,3.0,2.0
+390,4123 Lawngate Drive,Dallas,75287,350000,,3.0,3.0
+391,3908 Kiestmeadow Drive,Dallas,75233,359900,,4.0,4.0
+392,874 Peavy Road,Dallas,75218,365000,,3.0,2.0
+393,1402 Seevers Avenue,Dallas,75216,389000,,3.0,2.0
+394,10638 Sandpiper Lane,Dallas,75230,389999,,3.0,3.0
+395,928 Stillmeadow Road,Dallas,75232,394950,,4.0,4.0
+396,2529 Fenestra Drive,Dallas,75228,395000,,3.0,2.0
+397,2220 Canton Street,Dallas,75201,415000,,1.0,2.0
+398,3511 Dickason Avenue,Dallas,75219,435000,,2.0,3.0
+399,1826 Mapleton Drive,Dallas,75228,439000,,4.0,3.0
+400,5030 Pershing Street,Dallas,75206,449000,,2.0,1.0
+401,7209 Bennington Drive,Dallas,75214,450000,,2.0,2.0
+402,634 Bizerte Avenue,Dallas,75224,469000,,3.0,2.0
+403,6024 Victor Street,Dallas,75214,475000,,2.0,2.0
+404,628 Blanning Drive,Dallas,75218,489000,,3.0,2.0
+405,418 S Willomet Avenue,Dallas,75208,490000,,3.0,2.0
+406,3957 High Summit Drive,Dallas,75244,499000,,4.0,3.0
+407,7714 Caillet Street,Dallas,75209,500000,,3.0,1.0
+408,4411 Sexton Lane,Dallas,75229,515000,,3.0,2.0
+409,4924 Forest Bend Road,Dallas,75244,549000,,5.0,3.0
+410,5605 Northaven Road,Dallas,75230,549000,,3.0,3.0
+411,12231 Snow White Drive,Dallas,75244,552000,,4.0,2.0
+412,1066 N Buckner Boulevard,Dallas,75218,559000,,3.0,3.0
+413,8711 San Leandro Drive,Dallas,75218,575000,,3.0,2.0
+414,7631 Meadow Road,Dallas,75230,616900,,4.0,3.0
+415,4725 Manett Street,Dallas,75204,619000,,2.0,3.0
+416,7943 Xavier Court,Dallas,75218,639000,,4.0,4.0
+417,6135 Belmont Avenue,Dallas,75214,675000,,4.0,3.0
+418,8258 Vitex Avenue,Dallas,75252,690500,,4.0,3.0
+419,8226 Vitex Avenue,Dallas,75252,700500,,4.0,4.0
+420,8242 Vitex Avenue,Dallas,75252,720500,,4.0,4.0
+421,8016 Cool River Drive,Frisco,75036,305000,,2.0,2.0
+422,10005 Ashmont Drive,Frisco,75035,350000,,3.0,2.0
+423,949 Imperial Valley Lane,Frisco,75036,430000,,2.0,2.0
+424,12350 Flowering Drive,Frisco,75035,500000,,5.0,4.0
+425,2079 Alcove Drive,Frisco,75034,640000,,4.0,3.0
+426,3 Southern Hills Court,Frisco,75034,725000,,4.0,4.0
+427,16492 Creek Plum Road,Frisco,75033,725000,,5.0,4.0
+428,11707 Coronado Trail,Frisco,75033,769900,,4.0,4.0
+429,4151 Castle Bank Lane,Frisco,75033,1050000,,5.0,6.0
+430,6959 Maple Street,Frisco,75033,274900,,3.0,2.0
+431,10313 BURGUNDY Drive,Frisco,75035,295000,,3.0,3.0
+432,9152 Apollo Court,Frisco,75033,345000,,3.0,2.0
+433,15738 Durango Drive,Frisco,75035,350000,,3.0,3.0
+434,9581 Magnolia Road,Frisco,75033,369900,,3.0,2.0
+435,1692 Dowelling Court,Frisco,75036,379900,,4.0,2.0
+436,15833 Rockingham Street,Frisco,75036,395000,,4.0,3.0
+437,1924 Dexter Lane,Frisco,75036,423550,,3.0,2.0
+438,11566 Caladium Lane,Frisco,75035,465000,,4.0,4.0
+439,9629 Planters Row Drive,Frisco,75033,479000,,4.0,4.0
+440,10196 Ferry Farm Lane,Frisco,75035,505000,,4.0,4.0
+441,1946 Countryside Drive,Frisco,75036,520000,,5.0,4.0
+442,5498 Balmoral Drive,Frisco,75034,530000,,4.0,4.0
+443,8260 Fairview Drive,Frisco,75033,540000,,3.0,4.0
+444,13761 Stallion Heights Lane,Frisco,75035,547000,,5.0,5.0
+445,13942 Badger Creek Drive,Frisco,75033,549900,,5.0,4.0
+446,698 Caveson Drive,Frisco,75036,570000,,4.0,4.0
+447,15199 Mountain Creek Trail,Frisco,75035,595900,,4.0,4.0
+448,11761 Orange Court,Frisco,75035,599900,,4.0,3.0
+449,1745 Evening Star Road,Frisco,75033,625000,,4.0,5.0
+450,3331 Cedar Creek Trail,Frisco,75034,625000,,4.0,4.0
+451,11248 Tavern Creek Court,Frisco,75035,639500,,3.0,4.0
+452,10229 Fire Ridge Drive,Frisco,75033,725000,,5.0,5.0
+453,5627 Miramar Drive,Frisco,75034,725000,,3.0,3.0
+454,12858 Palo Duro Drive,Frisco,75033,749000,,5.0,6.0
+455,16372 Lorna Doone Lane,Frisco,75033,774900,,5.0,5.0
+456,5951 Beacon Hill Drive,Frisco,75036,775000,,5.0,5.0
+457,13272 Ignatius Drive,Frisco,75035,785000,,5.0,4.0
+458,12977 Railhead Court,Frisco,75033,869900,,3.0,4.0
+459,4171 Mission Avenue,Frisco,75034,909000,,5.0,6.0
+460,5111 Stillwater Trail,Frisco,75034,925000,,4.0,5.0
+461,5125 Normandy Drive,Frisco,75034,1099000,,5.0,5.0
+462,12262 Genova Court,Frisco,75035,1100000,,5.0,5.0
+463,5774 Park Lane,Frisco,75034,1195000,,4.0,5.0
+464,7 Harbour Town Court,Frisco,75034,1200000,,4.0,4.0
+465,6006 Connely Drive,Frisco,75034,1200000,,5.0,5.0
+466,12684 Riverhill Road,Frisco,75033,1299000,,5.0,7.0
+467,6203 Sweeney Trail,Frisco,75034,1895000,,5.0,7.0
+468,9805 Concord Drive,Frisco,75035,295000,,3.0,3.0
+469,2249 Lariat Trail,Frisco,75036,324900,,3.0,2.0
+470,13160 Guerin Drive,Frisco,75035,325000,,4.0,2.0
+471,7297 Chinquapin Drive,Frisco,75033,325000,,4.0,2.0
+472,11908 Clearpoint Ct,Frisco,75036,325400,,4.0,2.0
+473,6848 Regello Drive,Frisco,75034,340000,,2.0,3.0
+474,9758 Golden Fountain Drive,Frisco,75033,350000,,4.0,2.0
+475,2450 Thorntree Drive,Frisco,75033,369000,,4.0,3.0
+476,12506 Melrose Lane,Frisco,75035,369900,,4.0,3.0
+477,5904 Louisville Drive,Frisco,75035,375000,,4.0,2.0
+478,12732 Hollister Drive,Frisco,75033,389000,,3.0,2.0
+479,2910 Reynolds Lane,Frisco,75033,389900,,3.0,2.0
+480,15833 Rockingham ST,Frisco,75036,395000,,4.0,3.0
+481,9812 Adolphus DR,Frisco,75035,400000,,3.0,2.0
+482,11017 Aurora Lane,Frisco,75035,405000,,3.0,3.0
+483,7601 Blossom Lane,Frisco,75034,439900,,3.0,3.0
+484,12004 Rushing Creek Drive,Frisco,75035,445900,,4.0,4.0
+485,9991 Slick Rock Trail,Frisco,75033,449900,,4.0,3.0
+486,10156 Burnt Mill Lane,Frisco,75035,459900,,4.0,4.0
+487,9569 Lance DR,Frisco,75035,460000,,4.0,3.0
+488,9569 Lance Drive,Frisco,75035,460000,,4.0,3.0
+489,12299 Antler Drive,Frisco,75035,465000,,4.0,3.0
+490,11025 Villita Street,Frisco,75035,475000,,4.0,3.0
+491,1090 Frisco Ranch Road,Frisco,75033,489900,,4.0,4.0
+492,1690 Foard Drive,Frisco,75034,499000,,3.0,2.0
+493,7152 Maumee Valley Court,Frisco,75036,500000,,3.0,2.0
+494,7152 Maumee Valley CT,Frisco,75036,500000,,3.0,2.0
+495,2397 Mackinac Drive,Frisco,75033,509900,,4.0,3.0
+496,6341 Lorwood Drive,Frisco,75035,579000,,5.0,5.0
+497,9547 Amberwoods Lane,Frisco,75035,599900,,6.0,6.0
+498,1403 Crockett Drive,Frisco,75033,625000,,4.0,4.0
+499,15692 Atkins Lane,Frisco,75035,675000,,5.0,4.0
+500,5358 Moss Glen Drive,Frisco,75034,889000,,5.0,4.0
+501,6198 Rachel Drive,Frisco,75034,900000,,4.0,4.0
+502,3499 Cedar Cottage Circle,Frisco,75034,939900,,4.0,5.0
+503,7380 Calla Lilly Lane,Frisco,75034,968000,,5.0,5.0
+504,6756 Stallion Ranch Road,Frisco,75036,970000,,5.0,6.0
+505,6281 Memorial Drive,Frisco,75034,1100000,,4.0,5.0
+506,8400 Hickory Street,Frisco,75034,290000,,3.0,2.0
+507,13959 Stevens Point Drive,Frisco,75033,330000,,3.0,2.0
+508,11708 Beach Street,Frisco,75036,375000,,3.0,2.0
+509,9413 Prestmont Place,Frisco,75035,395000,,4.0,2.0
+510,4042 Guadalupe Lane,Frisco,75034,397000,,3.0,3.0
+511,7927 Canal Street,Frisco,75034,425000,,2.0,3.0
+512,2649 Marshall Drive,Frisco,75033,437500,,4.0,4.0
+513,11564 Santa Maria Road,Frisco,75035,459900,,4.0,3.0
+514,13714 French Creek Lane,Frisco,75035,475000,,3.0,3.0
+515,13767 Monstrell Road,Frisco,75035,510000,,4.0,4.0
+516,8326 Sitka Street,Frisco,75035,515000,,4.0,3.0
+517,14014 Susana Lane,Frisco,75035,529900,,4.0,4.0
+518,11777 Estacado Drive,Frisco,75033,548000,,4.0,4.0
+519,2771 Barnhill Lane,Frisco,75034,550000,,4.0,4.0
+520,14694 Mediterranean Drive,Frisco,75035,550000,,5.0,5.0
+521,10923 Chilmark Court,Frisco,75035,599000,,5.0,6.0
+522,5611 Lightfoot Lane,Frisco,75036,625000,,5.0,4.0
+523,1567 San Andres Drive,Frisco,75033,675000,,5.0,4.0
+524,14121 Berryfield Lane,Frisco,75035,759000,,4.0,3.0
+525,13162 Ignatius Drive,Frisco,75035,799900,,5.0,5.0
+526,984 Havenbrook Lane,Frisco,75036,800000,,5.0,5.0
+527,4849 Northshore Drive,Frisco,75034,899900,,5.0,5.0
+528,4520 Florence Drive,Frisco,75034,930000,,3.0,4.0
+529,5733 Travis Drive,Frisco,75034,1200000,,3.0,4.0
+530,3050 Briarwood Lane,Frisco,75034,1299000,,5.0,5.0
+531,6440 Memorial Drive,Frisco,75034,1699000,,5.0,7.0
+532,5094 Oak Knoll Lane,Frisco,75034,1775000,,4.0,4.0
+533,5205 Mosscreek Lane,Frisco,75035,319999,,3.0,2.0
+534,12018 Chattanooga Drive,Frisco,75035,339999,,3.0,2.0
+535,638 Enfield Drive,Frisco,75036,359900,,3.0,2.0
+536,10045 Bell Rock Road,Frisco,75035,365000,,3.0,2.0
+537,9706 Prestmont Place,Frisco,75035,397000,,4.0,3.0
+538,7617 Quiet Meadow Lane,Frisco,75033,405000,,4.0,3.0
+539,5871 Rivendell Drive,Frisco,75035,435000,,4.0,3.0
+540,15688 Renner Lane,Frisco,75068,631300,,4.0,3.0
+541,758 Pleasant Point Lane,Frisco,75068,700958,,4.0,5.0
+542,561 Meandering Lane,Frisco,75068,702045,,5.0,4.0
+543,589 Pentonville Lane,Frisco,75068,763875,,4.0,4.0
+544,12886 Five Bar Drive,Frisco,75035,775000,,5.0,5.0
+545,781 Pentonville Lane,Frisco,75068,816576,,5.0,6.0
+546,3749 Marble Hill Road,Frisco,75034,962309,,5.0,5.0
+547,6259 Loxton Boulevard,Frisco,75034,989000,,5.0,6.0
+548,5964 Burkett Drive,Frisco,75034,1100000,,4.0,5.0
+549,11821 Summer Springs Drive,Frisco,75036,314900,,3.0,2.0
+550,12502 Melrose Lane,Frisco,75035,315000,,3.0,2.0
+551,12144 Cardinal Creek Drive,Frisco,75033,329000,,3.0,2.0
+552,11911 Chattanooga Drive,Frisco,75035,339990,,3.0,2.0
+553,11006 Shadow Brook Lane,Frisco,75035,389900,,3.0,2.0
+554,8500 Beartooth Drive,Frisco,75036,400000,,5.0,3.0
+555,8212 Wharf Street,Frisco,75035,410000,,3.0,3.0
+556,2138 Mustang Trail,Frisco,75033,425000,,4.0,3.0
+557,14157 Salmon Drive,Frisco,75035,425000,,4.0,3.0
+558,8550 Holly Street,Frisco,75034,430000,,6.0,4.0
+559,9617 Robinwoods Drive,Frisco,75035,535000,,5.0,5.0
+560,10204 Fire Ridge Drive,Frisco,75033,555000,,5.0,4.0
+561,6389 Culverdale Lane,Frisco,75034,724900,,4.0,4.0
+562,8312 Kara Creek Road,Frisco,75036,750000,,5.0,4.0
+563,2387 Alcove Drive,Frisco,75034,1097394,,5.0,4.0
+564,9651 Vita Dolce Drive,Frisco,75035,1099900,,4.0,5.0
+565,2766 Sparks Drive,Frisco,75036,350000,,4.0,4.0
+566,4408 Ripplewood Road,Frisco,75035,399999,,3.0,2.0
+567,9704 Legend Trail,Frisco,75035,429000,,4.0,3.0
+568,16405 Prairie Oak Road,Frisco,75033,669000,,4.0,4.0
+569,12709 Grand Valley Drive,Frisco,75033,728900,,4.0,4.0
+570,6797 Reims Court,Frisco,75034,2099000,,6.0,7.0
+571,11800 Kurth Drive,Frisco,75036,305000,,3.0,2.0
+572,10100 Oxbow Avenue,Frisco,75035,576918,,5.0,5.0
+573,774 Caveson Drive,Frisco,75036,599900,,5.0,4.0
+574,10744 Manuel Street,Frisco,75035,604924,,5.0,5.0
+575,11371 Pear Ridge Drive,Frisco,75035,325000,,4.0,3.0
+576,15812 Langsdale Street,Frisco,75036,360000,,4.0,3.0
+577,9657 Stratton Drive,Frisco,75035,439000,,3.0,2.0
+578,6468 Stallion Ranch Road,Frisco,75036,565000,,5.0,3.0
+579,14040 Raspberry Lane,Frisco,75035,565000,,4.0,4.0
+580,5270 Town and Country Boulevard,Frisco,75034,750000,,2.0,3.0
+581,13327 Terlingua Creek Drive,Frisco,75033,815000,,3.0,4.0
+582,4800 Star Ridge Lane,Frisco,75034,1150000,,4.0,5.0
+583,7134 Calypso Lane,Frisco,75036,1150000,,5.0,6.0
+584,15246 Crystal Beach Lane,Frisco,75035,1150000,,6.0,6.0
+585,13980 Nash Lane,Frisco,75035,1198000,,5.0,6.0
+586,1635 Torrey Pines Lane,Frisco,75034,1495000,,5.0,7.0
+587,9040 3rd Street,Frisco,75033,275000,,3.0,2.0
+588,8256 Short Street,Frisco,75034,339000,,2.0,3.0
+589,2396 Beachfront Drive,Frisco,75036,339900,,2.0,2.0
+590,4920 Baton Rouge Boulevard,Frisco,75035,368900,,3.0,2.0
+591,11498 La Grange Drive,Frisco,75035,390000,,3.0,2.0
+592,11302 Tenison Lane,Frisco,75033,474900,,4.0,3.0
+593,12513 Flowering Drive,Frisco,75035,475000,,5.0,5.0
+594,1317 Alamo Court,Frisco,75033,479900,,4.0,4.0
+595,13378 Chittamwood Lane,Frisco,75035,489900,,5.0,4.0
+596,12923 Yale Court,Frisco,75035,499900,,3.0,3.0
+597,15867 Christopher Lane,Frisco,75035,524900,,4.0,3.0
+598,1057 Gentle Wind Lane,Frisco,75036,550000,,5.0,5.0
+599,9823 Gristmill Lane,Frisco,75035,557997,,3.0,3.0
+600,8443 Wild Rye Road,Frisco,75035,688000,,4.0,4.0
+601,5459 Widgeon Way,Frisco,75034,849900,,4.0,4.0
+602,4734 Heritage Oaks Drive,Frisco,75034,1275000,,5.0,5.0
+603,5855 Arminta Avenue,Frisco,75034,1300000,,5.0,6.0
+604,15 Riva Ridge,Frisco,75034,3845000,,6.0,9.0
+605,11995 Westlawn Lane,Frisco,75033,320000,,3.0,2.0
+606,2260 Lariat TRL,Frisco,75036,350000,,3.0,2.0
+607,6508 Liberty Court,Frisco,75035,412000,,4.0,3.0
+608,8234 Robertson DR,Frisco,75036,415000,,4.0,4.0
+609,8514 Brown Stone Lane,Frisco,75033,475000,,4.0,4.0
+610,4184 Republic DR,Frisco,75034,475000,,4.0,3.0
+611,11322 Raveneaux Drive,Frisco,75033,525000,,5.0,4.0
+612,3768 Caruth Lane,Frisco,75034,550000,,5.0,4.0
+613,1298 Bowie Lane,Frisco,75033,559900,,4.0,5.0
+614,1275 Bowie Lane,Frisco,75033,725000,,4.0,4.0
+615,5356 Highflyer Hills Trail,Frisco,75036,749900,,4.0,5.0
+616,3823 Broadmoor Way,Frisco,75033,1999999,,5.0,6.0
+617,15608 Cornwallis Street,Frisco,75036,340000,,3.0,2.0
+618,2260 Lariat Trail,Frisco,75036,350000,,3.0,2.0
+619,9500 Crossvine Lane,Frisco,75035,499000,,4.0,3.0
+620,1515 Courtland Drive,Frisco,75034,2499000,,5.0,7.0
+621,5001 Hidden Pond Drive,Frisco,75036,280000,,3.0,2.0
+622,6512 Clydesdale Court,Frisco,75034,329995,,3.0,2.0
+623,3805 Moorcroft Road,Frisco,75036,340000,,3.0,2.0
+624,1070 Imperial Valley Lane,Frisco,75036,345000,,2.0,2.0
+625,10108 Preston Vineyard Drive,Frisco,75035,350000,,4.0,3.0
+626,1416 Pelican Drive,Frisco,75033,365000,,4.0,3.0
+627,6262 Rainbow Valley Place,Frisco,75035,376000,,3.0,3.0
+628,10908 Spring Lake Road,Frisco,75035,395000,,4.0,2.0
+629,1191 Pasatiempo Drive,Frisco,75036,489900,,2.0,2.0
+630,554 Quarter Horse Lane,Frisco,75036,600000,,4.0,5.0
+631,7025 Pecan Chase Lane,Frisco,75034,630000,,5.0,4.0
+632,6974 Irongate Place,Frisco,75036,650000,,5.0,4.0
+633,3918 Fairbanks Drive,Frisco,75033,825000,,3.0,4.0
+634,1 Pasture Place,Frisco,75033,975000,,2.0,2.0
+635,5413 Braemar Drive,Frisco,75034,1050000,,4.0,6.0
+636,1747 Garrison Drive,Frisco,75033,375000,,4.0,3.0
+637,1112 Resaca Drive,Frisco,75033,379900,,3.0,2.0
+638,5210 Golfside Drive,Frisco,75035,419900,,4.0,4.0
+639,2397 Mackinac DR,Frisco,75033,509900,,4.0,3.0
+640,10627 Buccaneer Point,Frisco,75036,949000,,3.0,2.0
+641,8201 Bells Street,Frisco,75035,298000,,3.0,2.0
+642,5434 Travis Drive,Frisco,75034,500000,,3.0,3.0
+643,11292 Berkeley Hall Lane,Frisco,75033,592000,,5.0,5.0
+644,3304 Hartford Lane,Frisco,75033,775000,,5.0,4.0
+645,7684 Traveller Street,Frisco,75034,895000,,4.0,5.0
+646,7 Riva Ridge,Frisco,75034,3499000,,6.0,11.0
+647,8400 Hickory Street,Frisco,75034,219000,,1.0,2.0
+648,13033 Galaxy Drive,Frisco,75035,289000,,3.0,2.0
+649,4220 Armistice Drive,Frisco,75034,320000,,3.0,2.0
+650,7326 Sprangletop ST,Frisco,75033,340000,,2.0,3.0
+651,16008 Royston Street,Frisco,75036,354900,,3.0,2.0
+652,3713 Wrexham Street,Frisco,75036,380000,,4.0,3.0
+653,7692 Fossil Ridge Drive,Frisco,75034,449900,,3.0,2.0
+654,11394 Lenox Lane,Frisco,75033,915000,,5.0,5.0
+655,15618 Brookwood Drive,Frisco,75035,475000,,5.0,4.0
+656,4138 Honor Drive,Frisco,75034,515000,,5.0,4.0
+657,8300 Christie Drive,Frisco,75033,320000,,3.0,2.0
+658,2503 Windgate Lane,Frisco,75033,378000,,3.0,2.0
+659,15115 Blakehill Drive,Frisco,75035,450000,,4.0,4.0
+660,9661 Needles,Frisco,75035,545686,,5.0,4.0
+661,11341 Lenox Lane,Frisco,75033,910000,,5.0,6.0
+662,2171 Prospect Drive,Frisco,75036,1000000,,4.0,5.0
+663,5900 Chamberlyne Drive,Frisco,75034,1575000,,4.0,5.0
+664,8502 Holly Street,Frisco,75034,179000,,2.0,1.0
+665,12700 Skeeter Drive,Frisco,75036,269900,,3.0,2.0
+666,12525 Fair Lane,Frisco,75036,359900,,3.0,3.0
+667,8272 Haltered Horse LN,Frisco,75036,448000,,3.0,2.0
+668,863 Gladewater Drive,Frisco,75033,468500,,4.0,3.0
+669,2865 Reynolds Lane,Frisco,75033,525000,,4.0,3.0
+670,1066 Bayfield Drive,Frisco,75033,530000,,5.0,4.0
+671,10985 Pike Lake Drive,Frisco,75035,720000,,5.0,5.0
+672,2226 Bristlegrass Road,Frisco,75033,784400,,5.0,5.0
+673,15699 Thorn Apple Road,Frisco,75033,792900,,5.0,4.0
+674,13334 Ignatius Drive,Frisco,75035,880000,,5.0,5.0
+675,7472 Sage Valley Lane,Frisco,75036,365000,,2.0,2.0
+676,14205 Red Wood Circle N,Frisco,75071,520000,,3.0,2.0
+677,4398 Verde Lane,Frisco,75034,570000,,4.0,4.0
+678,1545 Morris Lane,Frisco,75034,679545,,4.0,3.0
+679,14191 Berryfield Lane,Frisco,75035,849000,,5.0,4.0
+680,6728 Firenze Lane,Frisco,75034,289995,,2.0,3.0
+681,8833 Beartooth Drive,Frisco,75036,369950,,3.0,2.0
+682,7357 Rustling Oaks Road,Frisco,75036,382500,,2.0,2.0
+683,3568 Baldcypress Drive,Frisco,75033,525000,,4.0,4.0
+684,10894 Panorama Drive,Frisco,75035,545000,,5.0,5.0
+685,6570 Stallion Ranch Road,Frisco,75036,589000,,5.0,4.0
+686,15643 Cherry Blossom,Frisco,75033,761061,,5.0,6.0
+687,15375 Viburnum Road,Frisco,75035,999000,,5.0,6.0
+688,5085 Normandy Drive,Frisco,75034,1190000,,5.0,5.0
+689,662 Pendle Forest Drive,Frisco,75036,375000,,3.0,3.0
+690,9993 Wyndbrook Drive,Frisco,75035,435000,,5.0,4.0
+691,8125 Sedum Carpet,Frisco,75035,468720,,4.0,3.0
+692,15753 Shasta Daisy Road,Frisco,75035,510073,,4.0,4.0
+693,1217 Roma Drive,Frisco,75036,565000,,4.0,4.0
+694,5029 Brandywine Lane,Frisco,75034,1375000,,5.0,6.0
+695,8070 Rock Brook Street,Frisco,75034,299000,,3.0,2.0
+696,4339 Bal Harbour Lane,Frisco,75033,600000,,5.0,4.0
+697,3148 Fish Hook Lane,Frisco,75036,315000,,2.0,2.0
+698,8747 Anacua Road,Frisco,75035,630000,,4.0,5.0
+699,8747 Anacua RD,Frisco,75035,630000,,4.0,5.0
+700,13258 Secretariat Boulevard,Frisco,75035,1199900,,5.0,6.0
+701,13335 Chittamwood Lane,Frisco,75035,449000,,4.0,4.0
+702,4975 Oak Knoll Lane,Frisco,75034,1449900,,4.0,5.0
+703,1549 Courtland Drive,Frisco,75034,2595000,,5.0,7.0
+704,2208 Sturgis Drive,Frisco,75033,469900,,5.0,4.0
+705,9610 Beckett Drive,Frisco,75035,474750,,4.0,3.0
+706,5410 Keswick Drive,Frisco,75034,489000,,4.0,4.0
+707,9790 Staffordshire Road,Frisco,75035,515500,,4.0,3.0
+708,11550 Henderson Drive,Frisco,75035,330000,,3.0,2.0
+709,7039 Maumee Valley Court,Frisco,75036,639000,,3.0,3.0
+710,4154 Forest Park Lane,Frisco,75033,1150000,,5.0,6.0
+711,6027 Rivendell Drive,Frisco,75035,429900,,4.0,3.0
+712,2114 Lariat Trail,Frisco,75036,849900,,4.0,6.0
+713,14981 Foxbriar Lane,Frisco,75035,730000,,5.0,5.0
+714,2578 Berry Brook Lane,Frisco,75034,740000,,5.0,6.0
+715,11412 Sadie Street,Frisco,75036,365000,,4.0,4.0
+716,1170 Shortgrass Lane,Frisco,75033,449900,,4.0,3.0
+717,5074 Statesman Lane,Frisco,75036,775000,,4.0,4.0
+718,6249 Aylworth DR,Frisco,75035,475000,,4.0,4.0
+719,7312 Panicum Drive,Frisco,75033,384990,,2.0,3.0
+720,15643 Carnoustie Lane,Frisco,75035,510500,,4.0,4.0
+721,8024 Splitbeard Road,Frisco,75035,911640,,4.0,6.0
+722,3148 Fish Hook LN,Frisco,75036,315000,,2.0,2.0
+723,16619 Nightshade Road,Frisco,75033,575000,,4.0,3.0
+724,7200 Neches Pine Drive,Frisco,75036,564900,,3.0,3.0
+725,14813 Speargrass Drive,Frisco,75033,476619,,3.0,3.0
+726,7832 Buffaloberry Road,Frisco,75035,569400,,4.0,4.0
+727,7824 Buffaloberry Road,Frisco,75035,589900,,4.0,4.0
+728,2933 Shenandoah Drive,Frisco,75034,2350000,,5.0,7.0
+729,8711 6th Street,Frisco,75034,650000,,3.0,4.0
+730,1224 Crockett Drive,Frisco,75033,700000,,4.0,5.0
+731,15752 Foliage Road,Frisco,75035,639900,,4.0,4.0
+732,7606 Traveller Street,Frisco,75034,810000,,5.0,5.0
+733,12408 Fair Lane,Frisco,75036,335000,,4.0,3.0
+734,4189 Hazelwood Avenue,Frisco,75034,899990,,4.0,6.0
+735,12605 Waterslide Way,Frisco,75036,375000,,5.0,4.0
+736,1181 Ducks Landing,Frisco,75033,384800,,4.0,3.0
+737,4400 Ballymena Drive,Frisco,75034,415000,,3.0,3.0
+738,15696 Carnoustie Lane,Frisco,75035,515500,,4.0,4.0
+739,2544 Horsetail,Frisco,75033,745400,,5.0,4.0
+740,15680 Custer Trail,Frisco,75035,1156500,,4.0,5.0
+741,2887 Montreaux Drive,Frisco,75034,1399999,,3.0,4.0
+742,13230 Sellaronda Way,Frisco,75035,757000,,4.0,5.0
+743,9188 Williams Place,Frisco,75033,349900,,3.0,2.0
+744,9723 Stratton Drive,Frisco,75035,454000,,4.0,3.0
+745,11392 Lamar Lane,Frisco,75033,595000,,5.0,6.0
+746,3975 Marble Hill Road,Frisco,75034,922000,,4.0,4.0
+747,5270 Town and Country Boulevard,Frisco,75034,995000,,2.0,3.0
+748,5209 Madison Drive,Frisco,75035,369900,,4.0,2.0
+749,13274 Parnell Place,Frisco,75035,999900,,5.0,6.0
+750,4901 Buena Vista Drive,Frisco,75034,1725000,,5.0,6.0
+751,10710 Manuel Street,Frisco,75035,649000,,4.0,5.0
+752,11092 Snyder Drive,Frisco,75035,384900,,4.0,3.0
+753,2452 Horsetail,Frisco,75033,659900,,4.0,5.0
+754,15831 Terenwood Street,Frisco,75035,662900,,5.0,4.0
+755,7527 Perennial Street,Frisco,75035,664900,,5.0,4.0
+756,2408 Horsetail Road,Frisco,75033,761900,,4.0,4.0
+757,5502 Monterey Drive,Frisco,75034,2629000,,5.0,7.0
+758,3766 Ladera Heights Boulevard,Frisco,75034,986019,,4.0,5.0
+759,3794 Marble Hill Road,Frisco,75034,1072882,,5.0,4.0
+760,6199 Stockwell Drive,Frisco,75034,1192851,,5.0,7.0
+761,5663 Edmonton Avenue,Frisco,75034,1603552,,5.0,7.0
+762,2396 Courtland Drive,Frisco,75034,2999999,,6.0,8.0
+763,6329 Paragon Drive,Frisco,75036,450000,,3.0,2.0
+764,16468 Barton Creek Lane,Frisco,75068,518000,,4.0,4.0
+765,12025 Blake Place,Frisco,75036,1898000,,5.0,6.0
+766,12045 Blake Place,Frisco,75036,1948000,,5.0,6.0
+767,286 Timber Creek Lane,Frisco,75068,504060,,3.0,3.0
+768,5979 Rivendell Drive,Frisco,75035,425900,,4.0,3.0
+769,8598 Kincaid Lane,Frisco,75036,499990,,4.0,4.0
+770,3569 Midwick Drive,Frisco,75034,2899000,,6.0,7.0
+771,2481 Haft River Road,Frisco,75034,1152990,,5.0,4.0
+772,12310 Harvest Meadow Drive,Frisco,75033,2505000,,5.0,7.0
+773,1434 Gray Fox Lane,Frisco,75033,518281,,5.0,4.0
+774,6179 Blythe Drive,Frisco,75035,419000,,3.0,4.0
+775,5270 Town and Country Boulevard,Frisco,75034,795000,,2.0,3.0
+776,5270 Town and Country Boulevard,Frisco,75034,895000,,2.0,3.0
+777,5243 Spicewood Lane,Frisco,75034,2100000,,4.0,6.0
+778,11205 Knoxville Lane,Frisco,75035,479475,,5.0,4.0
+779,7700 Jennifer,Frisco,75034,325000,,3.0,2.0
+780,12556 Littlefield Drive,Frisco,75035,382000,,6.0,4.0
+781,7340 Goose Creek Drive,Frisco,75036,779344,,5.0,5.0
+782,5395 Statesman Lane,Frisco,75036,780000,,5.0,6.0
+783,2250 Lead Plumb Drive,Frisco,75036,783424,,5.0,5.0
+784,13734 Gabriel,Frisco,75035,835098,,5.0,4.0
+785,6275 Chamberlyne Drive,Frisco,75034,3200000,,7.0,8.0
+786,5931 Rivendell Drive,Frisco,75035,399900,,4.0,3.0
+787,4250 Pebble Creek Court,Frisco,75033,675000,,4.0,3.0
+788,7211 Walnut Street,Frisco,75033,450000,,3.0,2.0
+789,14756 Speargrass Drive,Frisco,75033,463501,,4.0,3.0
+790,15196 Spider Lily Road,Frisco,75035,898900,,5.0,6.0
+791,3772 Hamilton Heights Avenue,Frisco,75034,1651990,,5.0,7.0
+792,2227 Lilac Lane,Frisco,75034,3300000,,5.0,7.0
+793,5687 Edmonton Avenue,Frisco,75034,1602369,,4.0,7.0
+794,12616 Joplin Drive,Frisco,75036,325000,,4.0,3.0
+795,9754 Staffordshire Road,Frisco,75035,437500,,3.0,2.0
+796,15127 Springwood Drive,Frisco,75035,499000,,4.0,4.0
+797,12509 Burnt Prairie Lane,Frisco,75035,699000,,5.0,6.0
+798,11808 Kurth Drive,Frisco,75036,344900,,4.0,3.0
+799,1573 Prince William Lane,Frisco,75034,2750000,,5.0,8.0
+800,6225 Blythe Drive,Frisco,75035,414000,,3.0,4.0
+801,3735 Starling Drive,Frisco,75034,3899900,,5.0,8.0
+802,7881 Kings Ridge Road,Frisco,75035,252000,,3.0,2.0
+803,6205 Montgomery Drive,Frisco,75035,295000,,3.0,2.0
+804,8528 6th Street,Frisco,75034,350000,,3.0,2.0
+805,4115 Kearsage Drive,Frisco,75034,369000,,3.0,4.0
+806,7236 Joshua Road,Frisco,75033,382900,,3.0,2.0
+807,5847 Rivendell Drive,Frisco,75035,397900,,4.0,3.0
+808,5963 Rivendell Drive,Frisco,75035,399900,,4.0,3.0
+809,6253 Blythe Drive,Frisco,75035,414000,,3.0,4.0
+810,7295 Zachery Drive,Frisco,75033,424900,,3.0,3.0
+811,7269 Zachery Drive,Frisco,75033,428900,,3.0,4.0
+812,7208 Joshua Road,Frisco,75033,434900,,3.0,2.0
+813,7242 Pecan Street,Frisco,75034,450000,,4.0,2.0
+814,15601 Carnoustie Lane,Frisco,75035,455000,,4.0,3.0
+815,7300 Joshua Road,Frisco,75033,479900,,3.0,3.0
+816,2877 Nightwind Court,Frisco,75034,494999,,4.0,5.0
+817,11947 Cape Royal Lane,Frisco,75033,499000,,5.0,4.0
+818,628 Sahallee Drive,Frisco,75033,537000,,6.0,5.0
+819,7411 Joshua Road,Frisco,75033,583900,,5.0,4.0
+820,8462 Gerbera Daisy Road,Frisco,75035,743900,,4.0,4.0
+821,2268 Lead Plumb Drive,Frisco,75036,744268,,5.0,4.0
+822,2148 Lead Plumb Drive,Frisco,75036,766848,,5.0,5.0
+823,8478 Gerbera Daisy Road,Frisco,75035,775900,,4.0,5.0
+824,7073 Goose Creek Road,Frisco,75036,797804,,5.0,5.0
+825,7160 Tailwater Trail,Frisco,75035,1141900,,4.0,5.0
+826,6008 Briarwood Lane,Frisco,75034,1174900,,3.0,5.0
+827,13129 Secretariat Blvd,Frisco,75035,1224990,,4.0,6.0
+828,1167 Echols Drive,Frisco,75036,1799000,,5.0,6.0
+829,12035 Blake Place,Frisco,75036,1898000,,5.0,6.0
+830,8100 Main Street,Frisco,75033,1925000,,3.0,2.0
+831,1640 Chambord Avenue,Frisco,75034,1950000,,5.0,7.0
+832,1700 Hidalgo Lane,Frisco,75034,2475000,,5.0,7.0
+833,3232 Tuscan Oaks,Frisco,75034,2515000,,5.0,7.0
+834,12438 Harvest Meadow Drive,Frisco,75033,2549000,,5.0,7.0
+835,12349 Farmstead Drive,Frisco,75033,2559000,,5.0,7.0
+836,3336 Tuscan Oaks Drive,Frisco,75034,2579000,,5.0,7.0
+837,3328 Santa Bella,Frisco,75034,2609858,,5.0,7.0
+838,3315 Midwick Drive,Frisco,75034,3225000,,5.0,7.0
+839,6616 Bluffview Drive,Frisco,75034,3375000,,5.0,7.0
+840,2311 Lilac,Frisco,75034,4100000,,5.0,7.0
+841,5345 Monterey Drive,Frisco,75034,4480000,,6.0,9.0
+842,5 Stonebriar Way,Frisco,75034,5495000,,6.0,10.0
+843,3709 Mckinley Drive,Plano,75023,212000,,3.0,2.0
+844,6017 Pinto Court,Plano,75023,250000,,3.0,2.0
+845,4672 Perthshire Court,Plano,75024,315000,,3.0,3.0
+846,934 Windy Meadow Drive,Plano,75023,338000,,4.0,2.0
+847,6512 Texana Way,Plano,75074,365000,,3.0,3.0
+848,3425 Brunchberry Lane,Plano,75023,399000,,3.0,2.0
+849,3700 Straw Harvest Drive,Plano,75075,399900,,3.0,3.0
+850,1400 Kittery Drive,Plano,75093,399999,,3.0,2.0
+851,3705 Longbow Lane,Plano,75023,424900,,3.0,2.0
+852,2224 Dampton Drive,Plano,75025,479100,,4.0,4.0
+853,1809 Sandpiper Lane,Plano,75075,537000,,4.0,4.0
+854,5032 Silver Lake Drive,Plano,75093,1150000,,5.0,5.0
+855,6817 Amaretto Court,Plano,75024,2999900,,5.0,7.0
+856,2104 Willow Bend Drive,Plano,75093,4800000,,7.0,14.0
+857,1605 Tampico Drive,Plano,75075,219900,,3.0,2.0
+858,5 Eastvale Place,Plano,75074,287999,,3.0,2.0
+859,1128 Gannon Drive,Plano,75025,290000,,3.0,2.0
+860,3025 Bonsai Drive,Plano,75093,295000,,2.0,2.0
+861,2905 Newport Circle,Plano,75075,319900,,3.0,3.0
+862,1133 Nickerson Lane,Plano,75094,335000,,4.0,2.0
+863,7616 Capella Court,Plano,75025,340000,,3.0,2.0
+864,4121 Midnight Drive,Plano,75093,350000,,4.0,2.0
+865,7801 Slater Trail,Plano,75025,350000,,3.0,2.0
+866,3809 Solarium Place,Plano,75075,355000,,3.0,3.0
+867,3408 Porter Creek Drive,Plano,75025,370000,,3.0,3.0
+868,7536 Crested Butte Drive,Plano,75025,375000,,4.0,3.0
+869,3817 Graphic Place,Plano,75075,390000,,4.0,3.0
+870,1804 Tampico Drive,Plano,75075,394995,,3.0,2.0
+871,6420 Hermosa Drive,Plano,75024,395000,,3.0,3.0
+872,1800 Switzerland Avenue,Plano,75025,400000,,4.0,3.0
+873,5781 Lois Lane,Plano,75024,400000,,3.0,3.0
+874,3704 Aransas Drive,Plano,75025,415000,,4.0,3.0
+875,1417 Callaway Drive,Plano,75075,415000,,3.0,3.0
+876,2808 Mollimar Drive,Plano,75075,419900,,4.0,3.0
+877,3552 Bender Trail,Plano,75075,424900,,4.0,3.0
+878,1705 Tawakoni Lane,Plano,75075,435000,,4.0,3.0
+879,2320 Cimmaron Drive,Plano,75025,441000,,5.0,3.0
+880,9705 Royal Lytham Drive,Plano,75025,449000,,5.0,4.0
+881,4441 Bentley Drive,Plano,75093,450000,,3.0,3.0
+882,3613 Slickrock Drive,Plano,75074,454900,,4.0,4.0
+883,1908 Uplands Drive,Plano,75025,475000,,4.0,4.0
+884,2917 Falling Brook Drive,Plano,75023,495000,,6.0,4.0
+885,6404 Dunmoor Drive,Plano,75093,525000,,4.0,3.0
+886,3608 Danbury Lane,Plano,75074,535000,,5.0,4.0
+887,1412 Alberti Avenue,Plano,75075,599900,,4.0,4.0
+888,6509 Hillswick Drive,Plano,75093,665000,,4.0,4.0
+889,1809 Triple Crown Lane,Plano,75093,700000,,4.0,3.0
+890,3053 Greenhill Drive,Plano,75093,799500,,4.0,3.0
+891,5909 Fairchild Court,Plano,75093,949000,,5.0,5.0
+892,1709 ANGLEBLUFF Lane,Plano,75093,999000,,4.0,5.0
+893,5321 Inverrary Drive,Plano,75093,1449900,,5.0,5.0
+894,1700 Amelia Court,Plano,75075,140000,,1.0,1.0
+895,2005 Meadowcreek DR,Plano,75074,250000,,3.0,2.0
+896,4024 Angelina Drive,Plano,75074,279900,,3.0,2.0
+897,2601 Marsh Lane,Plano,75093,300000,,2.0,2.0
+898,820 Simon Drive,Plano,75025,305000,,3.0,2.0
+899,1308 Lufkin Drive,Plano,75093,309900,,3.0,2.0
+900,6203 Rainier Road,Plano,75023,325000,,3.0,2.0
+901,4025 Mesa Drive,Plano,75074,332000,,3.0,3.0
+902,2601 Marsh Lane,Plano,75093,340000,,2.0,2.0
+903,6716 Darton Drive,Plano,75023,350000,,3.0,2.0
+904,8304 Tavaros Drive,Plano,75024,350000,,4.0,2.0
+905,1505 Baffin Bay Drive,Plano,75075,364900,,3.0,3.0
+906,6821 Thorncliff Trail,Plano,75023,365000,,4.0,2.0
+907,4324 Palmdale Drive,Plano,75024,365000,,4.0,2.0
+908,1508 Croston Drive,Plano,75075,369000,,3.0,3.0
+909,1601 Glenwick Drive,Plano,75075,375000,,3.0,3.0
+910,3536 Stroll Road,Plano,75025,375000,,3.0,2.0
+911,3932 Carrizo Drive,Plano,75074,386900,,4.0,3.0
+912,2305 Newcastle Circle,Plano,75075,395000,,4.0,4.0
+913,3629 Big Horn Trail,Plano,75075,400000,,4.0,3.0
+914,5781 Lois LN,Plano,75024,400000,,3.0,3.0
+915,9213 Fairwood Court,Plano,75025,430000,,4.0,3.0
+916,3609 Banks Circle,Plano,75025,445000,,4.0,3.0
+917,2437 Fieldlark Drive,Plano,75074,450000,,3.0,2.0
+918,4705 Bayview Drive,Plano,75093,450000,,3.0,3.0
+919,4201 Tidworth Drive,Plano,75093,462000,,4.0,4.0
+920,2300 Belmont Place,Plano,75023,475000,,4.0,3.0
+921,3300 Edwards Drive,Plano,75025,489000,,4.0,4.0
+922,6841 Flicker Lane,Plano,75074,489900,,4.0,4.0
+923,6817 Oak Park Lane,Plano,75023,495000,,4.0,4.0
+924,6328 Park Meadow Lane,Plano,75093,519000,,3.0,3.0
+925,4204 Warminster Drive,Plano,75093,530000,,5.0,4.0
+926,3236 Caravan Drive,Plano,75025,535000,,4.0,4.0
+927,1505 Parliament Lane,Plano,75093,571000,,4.0,3.0
+928,5908 Sandhills Circle,Plano,75093,675000,,5.0,4.0
+929,5600 Saint Peter Drive,Plano,75093,759900,,5.0,4.0
+930,5505 Grasmere Drive,Plano,75093,799900,,4.0,5.0
+931,7808 Merit Lane,Plano,75024,839000,,3.0,4.0
+932,5809 ROSWELL Drive,Plano,75093,1175000,,5.0,6.0
+933,2912 meadows Drive,Plano,75074,197000,,4.0,3.0
+934,12 Eastcreek Place,Plano,75074,245000,,4.0,2.0
+935,2005 Meadowcreek Drive,Plano,75074,250000,,3.0,2.0
+936,3928 Villa Downs Drive,Plano,75023,299000,,3.0,2.0
+937,7133 Goldenrod Drive,Plano,75025,329000,,3.0,3.0
+938,3621 Worthington Way,Plano,75023,330000,,3.0,2.0
+939,7112 Van Gogh Drive,Plano,75093,335000,,3.0,2.0
+940,7916 Country Ridge Lane,Plano,75024,339000,,3.0,2.0
+941,4000 Bandera Drive,Plano,75074,349500,,4.0,2.0
+942,2800 Winterplace Circle,Plano,75075,349900,,4.0,2.0
+943,7317 Ryan Drive,Plano,75025,429900,,4.0,3.0
+944,3721 Atrium Drive,Plano,75075,430000,,3.0,3.0
+945,6008 Sargent Drive,Plano,75094,439995,,5.0,3.0
+946,3001 Charring Cross,Plano,75025,470000,,4.0,4.0
+947,6728 Alcove Lane,Plano,75024,490000,,4.0,3.0
+948,5057 TRAIL LAKE Drive,Plano,75093,650000,,3.0,3.0
+949,5613 Risborough Drive,Plano,75093,700000,,5.0,4.0
+950,7812 Secluded Avenue,Plano,75024,999500,,3.0,4.0
+951,5008 Bellaire Drive,Plano,75093,1200000,,5.0,6.0
+952,3817 Ranch Estates Drive,Plano,75074,1225000,,7.0,7.0
+953,5625 Kelly Lane,Plano,75093,1695000,,6.0,5.0
+954,1627 Hawthorne Lane,Plano,75074,235000,,3.0,1.0
+955,791 Antoine Drive,Plano,75023,285000,,3.0,3.0
+956,4432 Bentley Drive,Plano,75093,399950,,3.0,2.0
+957,3836 Santiago Drive,Plano,75023,425000,,4.0,3.0
+958,3300 Canoncita Lane,Plano,75023,460000,,4.0,4.0
+959,5837 Pathfinder Trail,Plano,75093,560000,,4.0,4.0
+960,3312 Emily Drive,Plano,75093,667500,,4.0,4.0
+961,1620 Farmstead Street,Plano,75075,809000,,5.0,6.0
+962,6609 Indian Trail,Plano,75024,1150000,,5.0,6.0
+963,933 Shenandoah Drive,Plano,75023,210000,,3.0,2.0
+964,736 Warwick Drive,Plano,75023,259900,,3.0,2.0
+965,3407 San Mateo Drive,Plano,75023,265000,,3.0,3.0
+966,9909 Monastery Drive,Plano,75025,279995,,2.0,2.0
+967,2816 Laurel Lane,Plano,75074,280000,,4.0,2.0
+968,4024 Hedgerow Drive,Plano,75024,299000,,3.0,3.0
+969,7104 Dalewood Drive,Plano,75074,349000,,4.0,2.0
+970,3416 Brunchberry Lane,Plano,75023,350000,,4.0,2.0
+971,3412 Flat Creek Drive,Plano,75025,350000,,3.0,4.0
+972,4649 Home Place,Plano,75024,385000,,4.0,3.0
+973,2600 Chamberlain Drive,Plano,75023,394500,,3.0,3.0
+974,9840 De Loach Drive,Plano,75025,400000,,3.0,3.0
+975,7400 Hamner Lane,Plano,75024,489000,,4.0,4.0
+976,1920 Jubilee Road,Plano,75093,520000,,5.0,3.0
+977,6612 Shady Point Drive,Plano,75024,725000,,4.0,4.0
+978,2621 Boedeker Drive,Plano,75074,205000,,2.0,2.0
+979,6721 Norway Court,Plano,75023,285000,,3.0,2.0
+980,1526 W Spring Creek Parkway,Plano,75023,335000,,3.0,2.0
+981,2008 Midcrest Drive,Plano,75075,374900,,4.0,3.0
+982,1708 Lake Shore Lane,Plano,75023,445000,,4.0,3.0
+983,4200 Warminster Drive,Plano,75093,525000,,4.0,3.0
+984,3709 Randa DR,Plano,75074,240000,,3.0,2.0
+985,3803 Silverstone Drive,Plano,75023,255000,,3.0,2.0
+986,,Plano,75023,255000,,3.0,2.0
+987,7216 Mediterranean Drive,Plano,75093,300000,,2.0,3.0
+988,7901 Mulchin S Way,Plano,75024,340000,,3.0,2.0
+989,2701 Prestonwood Drive,Plano,75093,540000,,3.0,3.0
+990,3425 Melanie LN,Plano,75023,540000,,4.0,4.0
+991,3401 Twin Lakes Way,Plano,75093,1548500,,6.0,8.0
+992,2625 Ezekial Way,Plano,75074,215000,,2.0,2.0
+993,2108 Overglen Drive,Plano,75074,249000,,3.0,2.0
+994,1313 Berkeley Court,Plano,75023,299000,,3.0,2.0
+995,1302 Nest Place,Plano,75093,307000,,3.0,2.0
+996,6500 Wickliff Trail,Plano,75023,339500,,3.0,3.0
+997,4140 Aldenham Drive,Plano,75024,339900,,3.0,3.0
+998,6713 Osage Trail,Plano,75023,340000,,4.0,3.0
+999,3933 Carrizo Drive,Plano,75074,349900,,4.0,3.0
+1000,4416 Boston Drive,Plano,75093,399900,,4.0,3.0
+1001,3104 Charring Cross,Plano,75025,410000,,4.0,3.0
+1002,4617 Portrait Lane,Plano,75024,434500,,4.0,3.0
+1003,3701 TrilogyDrive,Plano,75075,444900,,4.0,3.0
+1004,4716 Rabbit Trail,Plano,75074,599000,,4.0,4.0
+1005,7901 Windrose Avenue,Plano,75024,5100000,,4.0,5.0
+1006,2613 Tilden Drive,Plano,75074,245000,,3.0,3.0
+1007,1447 Vanderbilt Drive,Plano,75023,250000,,3.0,2.0
+1008,908 Harvest Glen Drive,Plano,75023,255000,,3.0,2.0
+1009,2424 Majestic Drive,Plano,75074,255000,,3.0,2.0
+1010,6532 Ute Court,Plano,75023,294000,,3.0,2.0
+1011,9004 Azinger Drive,Plano,75025,325000,,3.0,2.0
+1012,6800 Hickory Creek,Plano,75023,330000,,3.0,3.0
+1013,3932 Capricorn Court,Plano,75023,335000,,3.0,3.0
+1014,3924 Windford Drive,Plano,75025,343900,,3.0,3.0
+1015,2408 Windsor Place,Plano,75075,389900,,4.0,3.0
+1016,4616 Ringgold Lane,Plano,75093,400000,,4.0,2.0
+1017,3117 Aurora Drive,Plano,75093,419888,,3.0,3.0
+1018,4733 Durham Drive,Plano,75093,430000,,3.0,3.0
+1019,3581 Stroll Road,Plano,75025,475000,,4.0,4.0
+1020,5000 Castle Creek Court,Plano,75093,1275000,,5.0,6.0
+1021,2916 BEAUCHAMP Drive,Plano,75093,1295000,,5.0,5.0
+1022,3509 Twin Lakes Way,Plano,75093,2465000,,6.0,7.0
+1023,5600 Cradlerock Circle,Plano,75093,3500000,,6.0,9.0
+1024,3801 14th Street,Plano,75074,162500,,2.0,2.0
+1025,2204 W Park Boulevard,Plano,75075,220000,,2.0,3.0
+1026,3344 Tarkio Road,Plano,75074,255000,,3.0,2.0
+1027,1741 Blossom Trail,Plano,75074,265000,,3.0,2.0
+1028,6409 Fort Scott Court,Plano,75023,269000,,4.0,2.0
+1029,3501 Deep Valley Trail,Plano,75023,370000,,3.0,3.0
+1030,8633 Pauline Street,Plano,75024,389000,,3.0,3.0
+1031,3209 Sailmaker Lane,Plano,75023,424905,,4.0,3.0
+1032,4108 Aldenham Drive,Plano,75024,450000,,4.0,3.0
+1033,4504 Crown Ridge Drive,Plano,75024,485000,,4.0,3.0
+1034,5985 Tipperary Drive,Plano,75093,687000,,5.0,4.0
+1035,3308 Castle Drive,Plano,75074,299900,,3.0,2.0
+1036,2425 Fairview Drive,Plano,75075,325000,,4.0,3.0
+1037,8429 Pipe Stone Drive,Plano,75025,339900,,3.0,2.0
+1038,4421 Early Morn Drive,Plano,75093,349000,,4.0,2.0
+1039,2708 Cotton Court,Plano,75093,400000,,3.0,3.0
+1040,2541 Indian Paint Drive,Plano,75025,419000,,4.0,3.0
+1041,548 Shoreline Street,Plano,75075,599999,,3.0,4.0
+1042,5621 Snowberry Drive,Plano,75094,689900,,5.0,4.0
+1043,6604 Josephine Street,Plano,75024,1255000,,3.0,3.0
+1044,1607 California Trail,Plano,75023,290000,,3.0,2.0
+1045,3916 Rolling Hills Drive,Plano,75025,354900,,4.0,2.0
+1046,7220 Netherlands Lane,Plano,75025,370000,,4.0,2.0
+1047,2305 Treehouse Lane,Plano,75023,380000,,3.0,3.0
+1048,3109 Hilltop Lane,Plano,75075,380000,,3.0,2.0
+1049,2225 Delmar Drive,Plano,75075,409000,,4.0,2.0
+1050,4077 Olympic Court,Plano,75093,430500,,4.0,3.0
+1051,2709 Oakland Hills Drive,Plano,75025,465000,,4.0,4.0
+1052,7020 Coverdale Drive,Plano,75024,485000,,3.0,3.0
+1053,7016 Redstone Lane,Plano,75024,499000,,3.0,4.0
+1054,5121 Seascape Lane,Plano,75093,1050000,,5.0,5.0
+1055,5000 Kirkland Court,Plano,75093,1250000,,5.0,5.0
+1056,5504 Cavendish Court,Plano,75093,4700000,,5.0,8.0
+1057,2117 Winslow Drive,Plano,75023,315000,,3.0,4.0
+1058,2708 Royal Oaks Drive,Plano,75074,319900,,4.0,3.0
+1059,2305 Newcastle CIR,Plano,75075,395000,,4.0,4.0
+1060,9600 Gold Hills Drive,Plano,75025,449900,,5.0,3.0
+1061,4421 Risinghill Drive,Plano,75024,495000,,4.0,4.0
+1062,3624 Oakcrest Drive,Plano,75025,540000,,5.0,4.0
+1063,4612 Vista Grande,Plano,75024,549900,,5.0,5.0
+1064,5144 Arrowhead Lane,Plano,75093,615000,,4.0,4.0
+1065,1627 Amherst Drive,Plano,75075,399900,,3.0,2.0
+1066,2332 San Gabriel Drive,Plano,75074,409000,,4.0,3.0
+1067,1724 Westlake Drive,Plano,75075,455000,,4.0,3.0
+1068,6013 Hagerman Drive,Plano,75094,459900,,5.0,4.0
+1069,4313 Phyllis Lane,Plano,75074,315000,,4.0,3.0
+1070,2505 Horseman Drive,Plano,75025,360000,,4.0,3.0
+1071,3633 Legendary Lane,Plano,75023,409000,,4.0,2.0
+1072,3304 Runabout Court,Plano,75023,439000,,4.0,3.0
+1073,4533 Arlen Drive,Plano,75093,474900,,4.0,3.0
+1074,3625 Leathertop Drive,Plano,75075,484900,,4.0,3.0
+1075,2200 W Park Boulevard,Plano,75075,225000,,2.0,2.0
+1076,1928 Hawken Drive,Plano,75023,315000,,3.0,2.0
+1077,2613 Ridgewood Drive,Plano,75074,330000,,4.0,2.0
+1078,2033 Brabant Drive,Plano,75025,405000,,4.0,4.0
+1079,1616 Amber Lane,Plano,75075,449900,,4.0,3.0
+1080,6529 Sleepy Spring Drive,Plano,75024,559000,,3.0,3.0
+1081,2601 Preston Road,Plano,75093,200000,,1.0,1.0
+1082,7036 Jasper Drive,Plano,75074,350000,,4.0,2.0
+1083,2308 Regal Road,Plano,75075,424900,,4.0,3.0
+1084,7301 Hollingsworth Drive,Plano,75025,499000,,4.0,3.0
+1085,4112 Westmoreland Drive,Plano,75093,529900,,5.0,3.0
+1086,5920 Royal Palm Drive,Plano,75093,658000,,4.0,4.0
+1087,2205 Bradbury Court,Plano,75093,850000,,5.0,5.0
+1088,3513 Twin Lakes Way,Plano,75093,2465000,,5.0,7.0
+1089,9817 Castlewood Drive,Plano,75025,250000,,2.0,3.0
+1090,2601 Marsh Lane,Plano,75093,315000,,2.0,2.0
+1091,4821 Mulholland Drive,Plano,75074,449900,,3.0,2.0
+1092,5829 Bridle Bend Trail,Plano,75093,596000,,4.0,3.0
+1093,3813 Hibbs Street,Plano,75025,599000,,5.0,4.0
+1094,4520 Hartford Drive,Plano,75093,336000,,4.0,2.0
+1095,901 Brookville Court,Plano,75074,340000,,4.0,4.0
+1096,2313 Brennan Drive,Plano,75075,343000,,3.0,3.0
+1097,1908 Sandpiper Lane,Plano,75075,365000,,3.0,2.0
+1098,3617 Candelaria Drive,Plano,75023,395000,,4.0,3.0
+1099,4205 Ambrosia Lane,Plano,75093,410000,,4.0,3.0
+1100,621 Arapaho Drive,Plano,75075,420335,,2.0,3.0
+1101,4573 Lancelot Drive,Plano,75024,675000,,5.0,4.0
+1102,5121 MEADOWSIDE Lane,Plano,75093,1150000,,4.0,4.0
+1103,4116 Mesa DR,Plano,75074,339900,,4.0,2.0
+1104,5760 Baltic Boulevard,Plano,75024,420000,,2.0,4.0
+1105,2824 Kyle Drive,Plano,75075,449999,,4.0,3.0
+1106,2600 Royal Birkdale Drive,Plano,75025,475000,,4.0,3.0
+1107,3204 Sleepy Hollow Drive,Plano,75093,1095000,,4.0,5.0
+1108,6620 Josephine Street,Plano,75024,1149900,,3.0,3.0
+1109,1805 W Spring Creek Parkway,Plano,75023,176900,,1.0,1.0
+1110,2800 Poplar Court,Plano,75074,239000,,3.0,2.0
+1111,2033 Hawken Drive,Plano,75023,325000,,4.0,2.0
+1112,2409 Trailwest Lane,Plano,75025,330000,,3.0,2.0
+1113,3417 Burnet Drive,Plano,75025,445000,,4.0,4.0
+1114,3021 Deansbrook Drive,Plano,75093,667000,,4.0,3.0
+1115,1109 F Avenue,Plano,75074,179900,,3.0,1.0
+1116,2800 Poplar CT,Plano,75074,239000,,3.0,2.0
+1117,1714 Cherokee Trail,Plano,75023,288500,,3.0,2.0
+1118,1620 Lorraine Drive,Plano,75074,289900,,4.0,2.0
+1119,3248 Parma Lane,Plano,75093,300000,,2.0,3.0
+1120,3809 Solarium PL,Plano,75075,355000,,3.0,3.0
+1121,2708 Summit View Drive,Plano,75025,382000,,4.0,3.0
+1122,3929 Carrizo Drive,Plano,75074,410000,,4.0,3.0
+1123,8016 Cornelius Drive,Plano,75024,579000,,3.0,3.0
+1124,5144 Arrowhead LN,Plano,75093,615000,,4.0,4.0
+1125,2739 N Colfax Circle,Plano,75075,328500,,3.0,2.0
+1126,2000 Willow Bend Drive,Plano,75093,4490000,,7.0,11.0
+1127,1520 Fairfield Drive,Plano,75074,175000,,3.0,2.0
+1128,6401 Meridian Court,Plano,75023,280000,,3.0,2.0
+1129,1508 Croston DR,Plano,75075,369000,,3.0,3.0
+1130,4549 Wilbarger Street,Plano,75024,551000,,4.0,3.0
+1131,9112 Guadalupe Street,Plano,75024,621300,,4.0,3.0
+1132,6925 Marigold Court,Plano,75074,335000,,4.0,2.0
+1133,4661 HERSHEY Lane,Plano,75024,550000,,4.0,4.0
+1134,7624 Highcroft Way,Plano,75024,580900,,3.0,3.0
+1135,6112 Echelon Way,Plano,75024,630900,,3.0,4.0
+1136,5949 Newgate Lane,Plano,75093,719900,,4.0,4.0
+1137,4700 Bear Run Drive,Plano,75093,340000,,3.0,3.0
+1138,2605 Laurel Lane,Plano,75074,325000,,4.0,3.0
+1139,2033 Ruger Drive,Plano,75023,355000,,3.0,3.0
+1140,7048 Pensacola DR,Plano,75074,500000,,6.0,4.0
+1141,1805 W Spring Creek Parkway,Plano,75023,165000,,2.0,2.0
+1142,2537 Bunker Hill Circle,Plano,75075,350000,,4.0,2.0
+1143,6208 Preserve Drive,Plano,75024,1563900,,4.0,6.0
+1144,3208 Brookshire Drive,Plano,75075,439000,,4.0,3.0
+1145,2204 Plantation Lane,Plano,75093,4485000,,6.0,10.0
+1146,5508 Seapines Drive,Plano,75093,3300000,,6.0,7.0
+1147,2400 Jupiter Road,Plano,75074,129000,,1.0,1.0
+1148,2633 Regal Road,Plano,75075,399000,,4.0,3.0
+1149,1808 Watermill Court,Plano,75093,1999000,,5.0,7.0
+1150,1767 Montgomery Drive,Plano,75075,410230,,3.0,3.0
+1151,6824 Bonaparte Court,Plano,75024,1179000,,3.0,3.0
+1152,7901 Windrose Avenue Unit# 1403,Plano,75024,1398000,,2.0,3.0
+1153,7901 Windrose Avenue,Plano,75024,1398000,,2.0,3.0
+1154,3101 Townbluff Drive,Plano,75075,215000,,2.0,2.0
+1155,6713 Mossberg Drive,Plano,75023,415000,,4.0,4.0
+1156,3005 Chippenham Drive,Plano,75093,515000,,4.0,4.0
+1157,1412 Linden Drive,Plano,75075,314000,,4.0,3.0
+1158,2601 Preston Road,Plano,75093,225000,,2.0,2.0
+1159,9108 Guadalupe Street,Plano,75024,571300,,3.0,3.0
+1160,1332 Exeter Drive,Plano,75093,280000,,3.0,2.0
+1161,1913 Briarwood Drive,Plano,75074,219000,,3.0,2.0
+1162,1801 Hawthorne Lane,Plano,75074,280000,,4.0,2.0
+1163,4305 Waterford Drive,Plano,75024,480000,,4.0,4.0
+1164,1905 Pleasant Valley Drive,Plano,75023,369900,,3.0,2.0
+1165,6600 Josephine Street,Plano,75024,1152000,,3.0,3.0
+1166,5341 Tate Avenue,Plano,75093,1449000,,5.0,5.0
+1167,8045 Cornelius Drive,Plano,75024,470900,,3.0,3.0
+1168,5765 Lois Lane,Plano,75024,528375,,3.0,4.0
+1169,5912 Lindfield Court,Plano,75093,755000,,5.0,4.0
+1170,7901 Windrose Avenue,Plano,75024,2332000,,3.0,4.0
+1171,4520 Refugio Drive,Plano,75024,616300,,4.0,4.0
+1172,5804 Milano Drive,Plano,75093,535000,,4.0,4.0
+1173,3412 Matagorda Springs Drive,Plano,75025,450000,,5.0,4.0
+1174,2408 Huntington Drive,Plano,75075,349000,,4.0,3.0
+1175,6904 Laramie Drive,Plano,75023,407000,,4.0,3.0
+1176,4413 Oak Knoll Drive,Plano,75093,587300,,5.0,4.0
+1177,6721 Denali Drive,Plano,75023,594049,,4.0,5.0
+1178,6725 Denali Lane,Plano,75023,644864,,5.0,4.0
+1179,7901 Windrose Avenue,Plano,75024,1299000,,2.0,3.0
+1180,3508 Curbstone Way,Plano,75074,489000,,4.0,4.0
+1181,6128 Preserve Drive,Plano,75024,594900,,3.0,3.0
+1182,6117 Echelon Way,Plano,75024,677900,,3.0,3.0
+1183,7805 Steppington Drive,Plano,75025,330000,,3.0,2.0
+1184,7901 Windrose Avenue,Plano,75024,1145000,,2.0,3.0
+1185,4536 Wilbarger Street,Plano,75024,499000,,3.0,2.0
+1186,1921 Tampico Drive,Plano,75075,285000,,3.0,2.0
+1187,8028 Zeppos Drive,Plano,75024,545900,,3.0,3.0
+1188,768 Pierre Lane,Plano,75023,319000,,4.0,3.0
+1189,4524 Refugio Drive,Plano,75024,516000,,4.0,3.0
+1190,4532 Wilbarger Street,Plano,75024,531000,,4.0,3.0
+1191,4808 Sunnybrook Drive,Plano,75093,665240,,3.0,4.0
+1192,7901 Windrose Avenue,Plano,75024,2687000,,3.0,4.0
+1193,8024 Zeppos Drive,Plano,75024,437900,,3.0,3.0
+1194,2120 Cliffside Drive,Plano,75023,454500,,4.0,3.0
+1195,9821 Lightcatcher Drive,Plano,75025,325000,,3.0,3.0
+1196,2005 Briarwood Drive,Plano,75074,200000,,3.0,2.0
+1197,1604 Kesser Drive,Plano,75025,280000,,3.0,2.0
+1198,1905 Eden Valley Lane,Plano,75093,359900,,4.0,3.0
+1199,1701 G Avenue,Plano,75074,459900,,4.0,4.0
+1200,8020 Zeppos Drive,Plano,75024,495900,,3.0,3.0
+1201,2701 Deansbrook Drive,Plano,75093,657500,,3.0,3.0
+1202,4732 Sunnybrook Drive,Plano,75093,673600,,4.0,3.0
+1203,5413 Glenscape,Plano,75094,754900,,4.0,3.0
+1204,7901 Windrose Avenue,Plano,75024,850000,,1.0,1.0
+1205,7901 Windrose Avenue,Plano,75024,2050000,,2.0,3.0
+1206,3500 Ranchero Road,Plano,75093,2200000,,4.0,6.0
+1207,5049 Royal Creek Lane,Plano,75093,3250000,,5.0,8.0
+1208,7901 Windrose Avenue,Plano,75024,3775000,,3.0,4.0
+1209,1714 Cherokee Trail,Plano,75023,288500,,3.0,2.0
+1210,1905 Pleasant Valley Drive,Plano,75023,369900,,3.0,2.0
+1211,2120 Cliffside Drive,Plano,75023,454500,,4.0,3.0
+1212,6500 Wickliff Trail,Plano,75023,339500,,3.0,3.0
+1213,1607 California Trail,Plano,75023,290000,,3.0,2.0
+1214,2033 Ruger Drive,Plano,75023,355000,,3.0,3.0
+1215,1526 W Spring Creek Parkway,Plano,75023,335000,,3.0,2.0
+1216,2300 Belmont Place,Plano,75023,475000,,4.0,3.0
+1217,1708 Lake Shore Lane,Plano,75023,445000,,4.0,3.0
+1218,6713 Osage Trail,Plano,75023,340000,,4.0,3.0
+1219,1447 Vanderbilt Drive,Plano,75023,250000,,3.0,2.0
+1220,6203 Rainier Road,Plano,75023,325000,,3.0,2.0
+1221,1928 Hawken Drive,Plano,75023,315000,,3.0,2.0
+1222,6409 Fort Scott Court,Plano,75023,269000,,4.0,2.0
+1223,6713 Mossberg Drive,Plano,75023,415000,,4.0,4.0
+1224,2033 Hawken Drive,Plano,75023,325000,,4.0,2.0
+1225,6716 Darton Drive,Plano,75023,350000,,3.0,2.0
+1226,6532 Ute Court,Plano,75023,294000,,3.0,2.0
+1227,2600 Chamberlain Drive,Plano,75023,394500,,3.0,3.0
+1228,4700 Strong Avenue,Fort Worth,76105,94900,,2.0,1.0
+1229,2303 Ridgmar Plaza,Fort Worth,76116,132500,,2.0,2.0
+1230,3817 E 1st Street,Fort Worth,76111,154900,,2.0,1.0
+1231,4605 Norris Valley Drive,Fort Worth,76135,164900,,2.0,1.0
+1232,6715 Old Stone Drive,Fort Worth,76137,169900,,2.0,2.0
+1233,2504 Capri Drive,Fort Worth,76114,172000,,3.0,1.0
+1234,3417 Glenmont Drive,Fort Worth,76133,190000,,3.0,2.0
+1235,10132 Stoney Bridge Road,Fort Worth,76108,193000,,3.0,2.0
+1236,2616 Countryside Lane,Fort Worth,76133,199900,,3.0,2.0
+1237,2908 Carolina Drive,Fort Worth,76123,209990,,3.0,2.0
+1238,7616 Acapulco Road,Fort Worth,76112,210000,,3.0,2.0
+1239,405 Flowering Plum Lane,Fort Worth,76140,215000,,4.0,2.0
+1240,8116 Autumn Creek Trail,Fort Worth,76134,218000,,3.0,2.0
+1241,3512 Burton Avenue,Fort Worth,76105,220000,,3.0,2.0
+1242,5901 Saddle Flap Drive,Fort Worth,76179,235000,,3.0,2.0
+1243,1327 E Morphy Street,Fort Worth,76104,235000,,3.0,2.0
+1244,5729 Mountain Bluff Drive,Fort Worth,76179,240000,,3.0,2.0
+1245,2810 20th Street NW,Fort Worth,76106,249000,,3.0,2.0
+1246,1305 W Shaw Street,Fort Worth,76110,250000,,3.0,2.0
+1247,8104 Southern Pine Way,Fort Worth,76123,250000,,4.0,3.0
+1248,5825 Blue Ribbon Road,Fort Worth,76179,255000,,4.0,3.0
+1249,800 Salida Road,Fort Worth,76052,262900,,3.0,2.0
+1250,2200 Denmark Lane,Fort Worth,76108,269900,,4.0,2.0
+1251,3114 Rosen Avenue,Fort Worth,76106,275000,,4.0,4.0
+1252,10804 Ersebrook Court,Fort Worth,76052,299000,,3.0,2.0
+1253,2801 Maple Creek Drive,Fort Worth,76177,300000,,3.0,2.0
+1254,10469 Evening View Drive,Fort Worth,76131,310000,,4.0,3.0
+1255,7784 Beaver Head Road,Fort Worth,76137,318000,,5.0,4.0
+1256,220 Lemley Drive,Fort Worth,76131,332000,,4.0,2.0
+1257,2501 Breccia Drive,Fort Worth,76108,340000,,3.0,3.0
+1258,10013 Warberry Trail,Fort Worth,76131,345000,,3.0,2.0
+1259,5108 Azul Lane,Fort Worth,76036,350000,,3.0,2.0
+1260,5660 Banks Road,Fort Worth,76140,355000,,3.0,2.0
+1261,6005 Carmona Trail,Fort Worth,76132,369937,,2.0,2.0
+1262,6641 Lake Overlook,Fort Worth,76135,381114,,3.0,2.0
+1263,4900 Birchman Avenue,Fort Worth,76107,400000,,3.0,2.0
+1264,432 Palmito Ranch Road,Fort Worth,76131,410000,,4.0,4.0
+1265,15740 Carlton Oaks Drive,Fort Worth,76177,425000,,4.0,4.0
+1266,9909 Crawford Farms Drive,Fort Worth,76244,462500,,5.0,4.0
+1267,3901 Piedmont Road,Fort Worth,76116,467000,,3.0,3.0
+1268,2131 Warner Road,Fort Worth,76110,674900,,3.0,3.0
+1269,6705 Olympia Hills Road,Fort Worth,76132,960000,,4.0,4.0
+1270,2439 Wabash Avenue,Fort Worth,76109,975000,,3.0,3.0
+1271,700 Grove Street,Fort Worth,76102,1258000,,5.0,5.0
+1272,1418 Meadowood Village Drive,Fort Worth,76120,103000,,1.0,2.0
+1273,3614 N Harding Street,Fort Worth,76106,125000,,3.0,1.0
+1274,3620 Pate Dr Drive,Fort Worth,76119,125000,,3.0,1.0
+1275,6140 River Pointe Drive,Fort Worth,76114,142500,,3.0,2.0
+1276,700 S Hughes Avenue,Fort Worth,76103,145000,,3.0,2.0
+1277,4512 Martha Lane,Fort Worth,76103,150000,,2.0,1.0
+1278,9925 Plainfield Drive,Fort Worth,76108,153900,,3.0,2.0
+1279,6705 Monterrey Drive,Fort Worth,76112,171000,,3.0,2.0
+1280,4620 Houghton Avenue,Fort Worth,76107,185000,,3.0,2.0
+1281,6900 Van Natta Lane,Fort Worth,76112,189000,,3.0,2.0
+1282,1207 S Chicago Avenue,Fort Worth,76105,189900,,5.0,2.0
+1283,1035 E Harvey Avenue,Fort Worth,76104,189900,,3.0,3.0
+1284,7312 Blackthorn Drive,Fort Worth,76137,198000,,3.0,2.0
+1285,8724 Polo Drive,Fort Worth,76123,198000,,3.0,2.0
+1286,6912 Legato Lane,Fort Worth,76134,199000,,3.0,2.0
+1287,2900 Elsinor Drive,Fort Worth,76116,199000,,3.0,2.0
+1288,7600 Kell Drive,Fort Worth,76112,199900,,4.0,2.0
+1289,3012 Creekwood Lane,Fort Worth,76123,200000,,3.0,2.0
+1290,2305 Whispering Court,Fort Worth,76133,204900,,2.0,2.0
+1291,933 Stone Chapel Way,Fort Worth,76179,215000,,3.0,2.0
+1292,8617 Guadalupe Road,Fort Worth,76116,215000,,3.0,2.0
+1293,4620 Mustang Drive,Fort Worth,76137,219000,,3.0,2.0
+1294,3008 Vicksburg Lane,Fort Worth,76123,224900,,3.0,2.0
+1295,5016 River Rock Boulevard,Fort Worth,76179,225000,,3.0,2.0
+1296,734 Heights Drive,Fort Worth,76112,229000,,2.0,3.0
+1297,5263 Meadowbrook Drive,Fort Worth,76112,229900,,4.0,3.0
+1298,11720 Latania Lane,Fort Worth,76244,230000,,3.0,2.0
+1299,713 Key Deer Drive,Fort Worth,76028,230000,,3.0,2.0
+1300,1328 Nicole Way,Fort Worth,76028,235000,,4.0,3.0
+1301,10920 Deauville Circle N,Fort Worth,76108,238500,,4.0,2.0
+1302,2208 Wakecrest Drive,Fort Worth,76108,240000,,3.0,2.0
+1303,4556 Grainland Court,Fort Worth,76179,240000,,4.0,2.0
+1304,1720 Danciger Drive,Fort Worth,76112,240000,,4.0,3.0
+1305,7573 Vanessa Drive,Fort Worth,76112,244900,,4.0,3.0
+1306,2745 Cochran Way,Fort Worth,76108,245000,,3.0,2.0
+1307,7429 Laurie Drive,Fort Worth,76112,249500,,3.0,2.0
+1308,7216 Briarwyck Court,Fort Worth,76137,250000,,4.0,2.0
+1309,5820 Ridgerock Court,Fort Worth,76132,255000,,3.0,2.0
+1310,8424 Steel Dust Drive,Fort Worth,76179,259000,,3.0,2.0
+1311,8368 Pipestone Drive,Fort Worth,76137,259900,,3.0,2.0
+1312,4101 Piedmont Road,Fort Worth,76116,260000,,3.0,2.0
+1313,8612 Star Thistle Drive,Fort Worth,76179,260000,,4.0,3.0
+1314,2209 Sims Drive,Fort Worth,76119,262000,,4.0,3.0
+1315,1700 Kings Glen Lane,Fort Worth,76140,264900,,4.0,2.0
+1316,8209 Water Buck Run,Fort Worth,76179,266000,,3.0,2.0
+1317,4732 Great Divide Drive,Fort Worth,76137,269000,,3.0,3.0
+1318,2624 Twinflower Drive,Fort Worth,76244,270000,,3.0,2.0
+1319,621 Bent Oak Drive,Fort Worth,76131,275000,,3.0,2.0
+1320,12913 Parkersburg Drive,Fort Worth,76244,275000,,3.0,2.0
+1321,9244 Bronze Meadow Drive,Fort Worth,76131,275000,,3.0,2.0
+1322,10445 Evening View Drive,Fort Worth,76131,279000,,4.0,3.0
+1323,9105 Settlers Peak Road,Fort Worth,76179,279900,,3.0,2.0
+1324,7333 Mesa Verde Trail,Fort Worth,76137,285000,,5.0,3.0
+1325,3905 Clayton Road E,Fort Worth,76116,285000,,3.0,2.0
+1326,4540 Indian Rock Drive,Fort Worth,76244,290000,,4.0,2.0
+1327,11805 Dixon Drive,Fort Worth,76108,294990,,4.0,2.0
+1328,220 Ridgeland Oak Drive,Fort Worth,76120,296900,,3.0,2.0
+1329,2408 Flowing Springs Drive,Fort Worth,76177,300000,,3.0,2.0
+1330,7413 Buckskin Court,Fort Worth,76137,300000,,3.0,3.0
+1331,9104 Tyne Trail,Fort Worth,76118,300000,,3.0,2.0
+1332,8240 Pine Meadows Drive,Fort Worth,76244,300000,,3.0,2.0
+1333,7525 Pleasant Oaks Street,Fort Worth,76120,309900,,4.0,3.0
+1334,4925 Cedar Brush Drive,Fort Worth,76123,315000,,5.0,4.0
+1335,1005 Terrace View Drive,Fort Worth,76108,315000,,4.0,4.0
+1336,7801 Lake Meredith Way,Fort Worth,76137,315000,,4.0,3.0
+1337,3737 Redwood Creek Lane,Fort Worth,76137,315000,,4.0,3.0
+1338,7633 Quail Ridge,Fort Worth,76179,315000,,3.0,2.0
+1339,2909 Marys Lane,Fort Worth,76116,320000,,3.0,2.0
+1340,8184 Black Ash Drive,Fort Worth,76131,320000,,3.0,2.0
+1341,3329 Park Ridge Boulevard,Fort Worth,76109,320500,,3.0,2.0
+1342,232 Wild Onion Lane,Fort Worth,76131,322274,,3.0,2.0
+1343,1128 Twin Brooks Lane,Fort Worth,76177,325000,,4.0,2.0
+1344,13784 Trail Break Drive,Fort Worth,76052,325000,,5.0,3.0
+1345,1813 Sevilla Road,Fort Worth,76116,328000,,3.0,2.0
+1346,216 Bearman Drive,Fort Worth,76120,334900,,4.0,3.0
+1347,7245 Laguna Del Campo Trail,Fort Worth,76131,340000,,4.0,3.0
+1348,8628 Funtier Court,Fort Worth,76179,345000,,4.0,3.0
+1349,1632 Barrel Oak Drive,Fort Worth,76028,349900,,4.0,3.0
+1350,5358 Desert Falls Drive,Fort Worth,76137,350000,,5.0,4.0
+1351,144 Plumed Thistle Drive,Fort Worth,76131,354990,,4.0,3.0
+1352,10428 Misty Redwood Trail,Fort Worth,76177,369500,,4.0,4.0
+1353,3541 Gallant Trail,Fort Worth,76244,375000,,4.0,4.0
+1354,6516 Genoa Road,Fort Worth,76116,395000,,3.0,3.0
+1355,2306 Park Place Avenue,Fort Worth,76110,399900,,2.0,2.0
+1356,4324 Rosebriar Way,Fort Worth,76244,399990,,4.0,2.0
+1357,10428 Devin Lane,Fort Worth,76053,410000,,5.0,4.0
+1358,6769 Lost Star Lane,Fort Worth,76132,424900,,2.0,4.0
+1359,9837 Crawford Farms Drive,Fort Worth,76244,425000,,4.0,4.0
+1360,12532 Treyburn Drive,Fort Worth,76244,434900,,4.0,3.0
+1361,6928 Talon Drive,Fort Worth,76179,435000,,4.0,3.0
+1362,2611 McCart Avenue,Fort Worth,76110,440000,,3.0,4.0
+1363,6905 Camino Court,Fort Worth,76126,470000,,4.0,3.0
+1364,4317 Old Grove Way,Fort Worth,76244,499900,,5.0,4.0
+1365,9633 Ben Hogan Lane,Fort Worth,76244,550000,,5.0,3.0
+1366,12549 Bella Amore Drive,Fort Worth,76126,599000,,4.0,3.0
+1367,4500 Ranch View Road,Fort Worth,76109,850000,,4.0,3.0
+1368,3213 Crenshaw Avenue,Fort Worth,76105,139900,,2.0,1.0
+1369,508 E Pafford Street,Fort Worth,76110,144900,,2.0,1.0
+1370,2401 Ben Avenue,Fort Worth,76103,150000,,2.0,2.0
+1371,6817 Greenlee Street,Fort Worth,76112,150000,,2.0,1.0
+1372,5025 Royal Drive,Fort Worth,76116,159900,,2.0,1.0
+1373,10137 Lone Eagle Drive,Fort Worth,76108,175000,,3.0,2.0
+1374,5204 Ruston Avenue,Fort Worth,76133,178000,,3.0,2.0
+1375,6916 Sandybrook Drive,Fort Worth,76120,179900,,3.0,2.0
+1376,10808 Hornby Street,Fort Worth,76108,198000,,3.0,2.0
+1377,3724 Cork Place,Fort Worth,76116,199000,,3.0,2.0
+1378,3217 Hanger Avenue,Fort Worth,76105,199306,,3.0,2.0
+1379,5801 Mirror Ridge Drive,Fort Worth,76179,200000,,3.0,2.0
+1380,2700 W Fuller Avenue,Fort Worth,76133,209000,,3.0,2.0
+1381,2315 Market Avenue,Fort Worth,76164,209900,,3.0,3.0
+1382,1729 Cedar Tree,Fort Worth,76131,209900,,3.0,2.0
+1383,8340 Tucson Trail,Fort Worth,76116,210000,,3.0,2.0
+1384,713 Sunrise Court,Fort Worth,76120,214900,,3.0,2.0
+1385,201 W Lancaster Avenue,Fort Worth,76102,215000,,2.0,2.0
+1386,7829 Waxwing Circle W,Fort Worth,76137,215000,,3.0,2.0
+1387,313 Rock Prairie Lane,Fort Worth,76140,219900,,4.0,3.0
+1388,10221 Westward Drive,Fort Worth,76108,220000,,3.0,2.0
+1389,8013 Summer Sun Drive,Fort Worth,76137,220000,,3.0,2.0
+1390,7105 Lindentree Lane,Fort Worth,76137,225000,,3.0,2.0
+1391,7105 Lindentree LN,Fort Worth,76137,225000,,3.0,2.0
+1392,9944 Plainfield Drive,Fort Worth,76108,229000,,3.0,2.0
+1393,2312 Williston Court,Fort Worth,76108,234000,,4.0,2.0
+1394,4808 Fishhook CT,Fort Worth,76179,234900,,3.0,2.0
+1395,5000 Cockrell Avenue,Fort Worth,76133,234900,,3.0,2.0
+1396,2305 Charisma Drive,Fort Worth,76131,235000,,3.0,2.0
+1397,324 Center Lane,Fort Worth,76140,239000,,4.0,2.0
+1398,5944 Melanie Drive,Fort Worth,76131,239000,,3.0,2.0
+1399,4403 Bellaire Drive S,Fort Worth,76109,239900,,3.0,2.0
+1400,3409 WINOAK DR,Fort Worth,76123,244251,,4.0,2.0
+1401,3409 WINOAK Drive,Fort Worth,76123,244251,,4.0,2.0
+1402,9612 Linton Drive,Fort Worth,76108,245000,,3.0,2.0
+1403,6313 Eagle Pier Way,Fort Worth,76179,245900,,4.0,2.0
+1404,708 Kelley Court,Fort Worth,76120,248000,,4.0,2.0
+1405,1908 Watson Street,Fort Worth,76103,249500,,3.0,2.0
+1406,2117 Swenson Ranch Trail,Fort Worth,76134,249900,,3.0,2.0
+1407,8401 Greylock Court,Fort Worth,76137,250000,,3.0,2.0
+1408,4640 Parkmount Drive,Fort Worth,76137,255000,,4.0,2.0
+1409,8420 Ram Ridge Road,Fort Worth,76137,255000,,3.0,2.0
+1410,11812 Castleford Way,Fort Worth,76036,259000,,4.0,2.0
+1411,14605 San Pablo Drive,Fort Worth,76052,259900,,3.0,2.0
+1412,9524 Chiefton Way,Fort Worth,76244,262500,,4.0,2.0
+1413,11636 Netleaf Lane,Fort Worth,76244,265000,,4.0,2.0
+1414,7733 Blossom Drive,Fort Worth,76133,265000,,3.0,3.0
+1415,8069 Whitney Lane,Fort Worth,76120,265000,,3.0,2.0
+1416,4266 Balboa Drive,Fort Worth,76133,268000,,4.0,3.0
+1417,6466 Lindell Avenue,Fort Worth,76116,269000,,2.0,2.0
+1418,5209 Warm Springs Trail,Fort Worth,76137,269000,,3.0,2.0
+1419,3909 Confidence Drive,Fort Worth,76244,270000,,3.0,2.0
+1420,9244 Bronze Meadow DR,Fort Worth,76131,275000,,3.0,2.0
+1421,2725 Ryan Avenue,Fort Worth,76110,275000,,2.0,2.0
+1422,7913 Songbird Lane,Fort Worth,76123,275000,,4.0,2.0
+1423,4920 Spur Ridge Court,Fort Worth,76244,275000,,4.0,2.0
+1424,1963 Lanewood Drive,Fort Worth,76112,279000,,4.0,2.0
+1425,10304 Little Falls Trail,Fort Worth,76177,279900,,3.0,2.0
+1426,5924 Paddlefish Drive,Fort Worth,76179,285000,,3.0,2.0
+1427,528 Winbridge Lane,Fort Worth,76052,289900,,4.0,3.0
+1428,6132 Malvey Avenue,Fort Worth,76116,290000,,2.0,2.0
+1429,1804 Lariat Drive,Fort Worth,76247,290000,,5.0,3.0
+1430,9617 Lea Shore Street,Fort Worth,76179,299900,,3.0,2.0
+1431,2625 Sandcherry Drive,Fort Worth,76244,300000,,3.0,2.0
+1432,1329 Ocotillo Lane,Fort Worth,76177,300000,,3.0,2.0
+1433,1817 Capulin Road,Fort Worth,76131,300000,,4.0,3.0
+1434,9104 Flying Eagle Lane,Fort Worth,76131,304900,,4.0,2.0
+1435,9104 Flying Eagle LN,Fort Worth,76131,304900,,4.0,2.0
+1436,9300 Herringbone Drive,Fort Worth,76131,307000,,3.0,2.0
+1437,3477 Vista Highlands,Fort Worth,76135,310500,,3.0,3.0
+1438,2507 Lipscomb ST,Fort Worth,76110,312000,,3.0,2.0
+1439,2507 Lipscomb Street,Fort Worth,76110,312000,,3.0,2.0
+1440,14360 Mariposa Lily Lane,Fort Worth,76052,315000,,4.0,3.0
+1441,2906 8th Avenue,Fort Worth,76110,315000,,4.0,3.0
+1442,245 Black Alder Drive,Fort Worth,76131,315000,,3.0,2.0
+1443,6024 Dunnlevy Drive,Fort Worth,76179,319000,,4.0,2.0
+1444,6424 Darwood Avenue,Fort Worth,76116,319000,,3.0,2.0
+1445,2321 Primrose Avenue,Fort Worth,76111,319900,,3.0,1.0
+1446,2604 Avenel Court,Fort Worth,76177,320000,,4.0,3.0
+1447,6024 Welch Avenue,Fort Worth,76133,325000,,4.0,3.0
+1448,2441 Whispering Pines Drive,Fort Worth,76177,325000,,4.0,3.0
+1449,9652 Rio Frio Trail,Fort Worth,76126,330000,,3.0,2.0
+1450,5339 Tobey Court,Fort Worth,76126,335000,,4.0,2.0
+1451,500 White Bud Lane,Fort Worth,76131,335000,,4.0,2.0
+1452,7700 Boat Wind Road,Fort Worth,76179,335000,,3.0,3.0
+1453,4632 Norwich Drive,Fort Worth,76109,339900,,3.0,3.0
+1454,5221 Cedar Brush Drive,Fort Worth,76123,340000,,4.0,4.0
+1455,5221 Cedar Brush DR,Fort Worth,76123,340000,,4.0,4.0
+1456,8013 Mount Shasta Circle,Fort Worth,76137,349000,,3.0,3.0
+1457,2217 Irwin Street,Fort Worth,76110,349900,,2.0,1.0
+1458,7955 Mellie Court,Fort Worth,76123,349900,,6.0,4.0
+1459,2613 Twinflower Drive,Fort Worth,76244,349900,,4.0,3.0
+1460,3600 Rogers Avenue,Fort Worth,76109,349900,,3.0,2.0
+1461,4408 Camp Bowie Boulevard,Fort Worth,76107,350000,,1.0,2.0
+1462,4813 Hildring Drive E,Fort Worth,76109,369500,,3.0,2.0
+1463,2808 Stable Door Lane,Fort Worth,76244,370000,,4.0,3.0
+1464,6649 Texas Cowboy Dr,Fort Worth,76123,379196,,3.0,3.0
+1465,4220 Doe Creek Trail,Fort Worth,76244,389900,,5.0,3.0
+1466,404 High Desert Drive,Fort Worth,76131,395000,,5.0,4.0
+1467,6424 Locke Avenue,Fort Worth,76116,399000,,3.0,2.0
+1468,11741 Tuscarora Drive,Fort Worth,76108,399900,,4.0,4.0
+1469,12369 Maken Trail,Fort Worth,76052,399900,,4.0,4.0
+1470,5136 Collinwood Avenue,Fort Worth,76107,405000,,2.0,2.0
+1471,14413 Walsh Avenue,Fort Worth,76008,424825,,4.0,4.0
+1472,2716 Sandage Avenue,Fort Worth,76109,435000,,3.0,2.0
+1473,,Fort Worth,76109,435000,,3.0,2.0
+1474,1325 Fairmount Avenue,Fort Worth,76104,460000,,3.0,2.0
+1475,2229 Dunstan Drive,Fort Worth,76008,491164,,4.0,5.0
+1476,6417 Chauncery Place,Fort Worth,76116,499000,,3.0,3.0
+1477,1012 Merion Drive,Fort Worth,76028,525000,,4.0,4.0
+1478,2320 Edwin Street,Fort Worth,76110,539000,,3.0,2.0
+1479,3759 W 4th Street,Fort Worth,76107,549000,,3.0,2.0
+1480,411 W 7th Street,Fort Worth,76102,584900,,2.0,3.0
+1481,2216 Park Place Avenue,Fort Worth,76110,585000,,4.0,2.0
+1482,411 W 7th Street,Fort Worth,76102,624900,,3.0,3.0
+1483,6356 Davis Road,Fort Worth,76140,769000,,4.0,3.0
+1484,2305 Flemming Drive,Fort Worth,76112,105000,,3.0,1.0
+1485,1100 California Parkway N,Fort Worth,76115,109900,,3.0,1.0
+1486,1346 E Richmond Avenue,Fort Worth,76104,112000,,3.0,2.0
+1487,3808 6th Avenue,Fort Worth,76110,178700,,2.0,1.0
+1488,3563 Frazier Avenue,Fort Worth,76110,182900,,3.0,2.0
+1489,1340 Steinburg,Fort Worth,76134,185000,,3.0,2.0
+1490,1909 Milam Street,Fort Worth,76112,198900,,4.0,2.0
+1491,3916 Wrenwood Drive,Fort Worth,76137,199000,,3.0,2.0
+1492,324 Afton Road,Fort Worth,76134,199900,,3.0,2.0
+1493,5907 Diaz Avenue,Fort Worth,76107,210000,,3.0,2.0
+1494,5812 Wake Robin Drive,Fort Worth,76123,218900,,3.0,2.0
+1495,2524 Concina Way,Fort Worth,76108,219500,,3.0,2.0
+1496,1617 E Tucker Street,Fort Worth,76104,220000,,3.0,2.0
+1497,10261 Sunset View Drive,Fort Worth,76108,225000,,3.0,2.0
+1498,8232 Ranch Hand Trail,Fort Worth,76131,232900,,4.0,2.0
+1499,9744 Francesca Drive,Fort Worth,76108,233000,,3.0,3.0
+1500,3913 Oceanside Drive,Fort Worth,76040,235000,,3.0,3.0
+1501,6320 Provinces Street,Fort Worth,76179,240000,,4.0,2.0
+1502,5908 Helmick Avenue,Fort Worth,76107,245000,,3.0,2.0
+1503,8009 Boat Wind Road,Fort Worth,76179,249900,,4.0,2.0
+1504,7116 Culver Avenue,Fort Worth,76116,249900,,3.0,2.0
+1505,613 Cranbrook Drive,Fort Worth,76131,252500,,3.0,2.0
+1506,633 Goldstone Lane,Fort Worth,76131,255000,,3.0,2.0
+1507,2355 Laurelhill Lane,Fort Worth,76133,257000,,4.0,2.0
+1508,5624 Donnelly Avenue,Fort Worth,76107,258000,,3.0,2.0
+1509,7228 Wavecrest Way,Fort Worth,76179,265000,,3.0,3.0
+1510,1548 Milmo Drive,Fort Worth,76134,275000,,5.0,3.0
+1511,8513 Viridian Lane,Fort Worth,76123,275000,,3.0,2.0
+1512,3620 W Seminary Drive,Fort Worth,76109,275000,,3.0,1.0
+1513,2524 Flowing Springs Drive,Fort Worth,76177,280000,,4.0,2.0
+1514,5621 Dennis Avenue,Fort Worth,76114,290000,,4.0,2.0
+1515,5209 Threshing Drive,Fort Worth,76179,300000,,4.0,2.0
+1516,1541 Fallingwater Trail,Fort Worth,76052,305000,,3.0,2.0
+1517,6552 Longhorn Herd Lane,Fort Worth,76123,309500,,3.0,2.0
+1518,7616 Truchard Drive,Fort Worth,76179,310000,,3.0,2.0
+1519,2625 Swift Creek Drive,Fort Worth,76123,310000,,5.0,4.0
+1520,5329 Corn Field Drive,Fort Worth,76179,312500,,4.0,3.0
+1521,2536 Grey Kingbird Trail,Fort Worth,76244,315000,,3.0,2.0
+1522,3336 Park Ridge Boulevard,Fort Worth,76109,315000,,2.0,1.0
+1523,3968 Tule Ranch Road,Fort Worth,76262,315000,,3.0,2.0
+1524,14300 Mariposa Lily Lane,Fort Worth,76052,319900,,4.0,3.0
+1525,2744 Albatross Lane,Fort Worth,76177,319900,,3.0,2.0
+1526,4351 Salix Court,Fort Worth,76109,320000,,3.0,3.0
+1527,8709 Glenburne Drive,Fort Worth,76131,325000,,4.0,3.0
+1528,6024 Blanchard Court,Fort Worth,76126,341000,,3.0,2.0
+1529,3309 Park Ridge Boulevard,Fort Worth,76109,345000,,3.0,2.0
+1530,941 Pinnacle Ridge Road,Fort Worth,76052,350000,,4.0,2.0
+1531,9700 Gessner Drive,Fort Worth,76244,365000,,4.0,3.0
+1532,3905 Pershing Avenue,Fort Worth,76107,369000,,2.0,2.0
+1533,9024 Silsby Drive,Fort Worth,76244,369900,,4.0,3.0
+1534,3320 Rosemeade Drive,Fort Worth,76116,369900,,2.0,2.0
+1535,1924 Forest Park Boulevard,Fort Worth,76110,374900,,2.0,2.0
+1536,308 Darlington Trail,Fort Worth,76131,374900,,5.0,3.0
+1537,10032 Tule Lake Road,Fort Worth,76177,379900,,4.0,3.0
+1538,2505 Trailhead Drive,Fort Worth,76177,385000,,4.0,4.0
+1539,15640 Fire Creek Lane,Fort Worth,76177,400000,,4.0,4.0
+1540,10516 Oates Branch Lane,Fort Worth,76126,404900,,3.0,2.0
+1541,5860 Brightfield Road,Fort Worth,76137,410000,,5.0,3.0
+1542,5448 Tuxbury Pond Drive,Fort Worth,76179,424900,,4.0,4.0
+1543,644 E Bluff Street,Fort Worth,76102,475000,,3.0,4.0
+1544,7117 Meadowside Road S,Fort Worth,76132,499000,,5.0,4.0
+1545,5725 Violet Crown Place,Fort Worth,76126,517900,,4.0,4.0
+1546,5724 Violet Crown Place,Fort Worth,76126,532900,,4.0,4.0
+1547,9717 Bison Court,Fort Worth,76244,539900,,6.0,4.0
+1548,2472 Indian Cove Street,Fort Worth,76108,550000,,3.0,2.0
+1549,5708 Violet Crown Place,Fort Worth,76126,559900,,4.0,4.0
+1550,4604 Harley Avenue,Fort Worth,76107,590000,,3.0,3.0
+1551,1222 Virginia Place,Fort Worth,76107,609000,,3.0,3.0
+1552,4628 Dexter Avenue,Fort Worth,76107,725000,,4.0,4.0
+1553,1822 Westover Square,Fort Worth,76107,749000,,2.0,3.0
+1554,3513 Arborlawn Drive,Fort Worth,76109,1249000,,5.0,5.0
+1555,8416 Ashbriar Lane,Fort Worth,76126,1290000,,4.0,4.0
+1556,2528 Highview Terrace,Fort Worth,76109,1895000,,4.0,5.0
+1557,4532 Pine Tree Circle E,Fort Worth,76244,139999,,3.0,2.0
+1558,3137 Major Street,Fort Worth,76112,145000,,3.0,1.0
+1559,2569 High Crest Avenue,Fort Worth,76111,159900,,2.0,1.0
+1560,3440 Baylor ST,Fort Worth,76119,170000,,3.0,1.0
+1561,2500 Wallace Street,Fort Worth,76105,170000,,3.0,2.0
+1562,7628 Dahlen Street,Fort Worth,76116,175000,,3.0,2.0
+1563,1809 Bolingbroke Place,Fort Worth,76140,185000,,3.0,2.0
+1564,5513 Wheaton Drive,Fort Worth,76133,199900,,3.0,2.0
+1565,4137 Lisbon Street,Fort Worth,76107,209900,,2.0,1.0
+1566,1344 E Fogg Street,Fort Worth,76115,210000,,3.0,2.0
+1567,6708 Dandelion Drive,Fort Worth,76137,215000,,3.0,2.0
+1568,2016 Graham Ranch Road,Fort Worth,76134,235000,,3.0,2.0
+1569,7436 Creekfall Drive,Fort Worth,76137,239999,,3.0,2.0
+1570,2932 Wispy Trail,Fort Worth,76108,250000,,4.0,4.0
+1571,8017 Jolie Drive,Fort Worth,76137,250000,,3.0,2.0
+1572,5712 Minnow Drive,Fort Worth,76179,255000,,3.0,2.0
+1573,901 Newberry Trail,Fort Worth,76120,256000,,3.0,2.0
+1574,2619 Mccart Avenue,Fort Worth,76110,259000,,2.0,3.0
+1575,4621 Bonnell Avenue,Fort Worth,76107,260000,,3.0,2.0
+1576,10505 Turning Leaf Trail,Fort Worth,76131,264500,,4.0,3.0
+1577,844 Cats Eye Drive,Fort Worth,76179,265000,,3.0,3.0
+1578,2313 Senepol Way,Fort Worth,76131,269900,,3.0,2.0
+1579,7520 Yolanda Drive,Fort Worth,76112,270000,,3.0,3.0
+1580,4160 Fossile Butte Drive,Fort Worth,76244,272000,,4.0,3.0
+1581,825 E Powell Avenue,Fort Worth,76104,279900,,4.0,3.0
+1582,6636 Friendsway Drive,Fort Worth,76137,285000,,4.0,3.0
+1583,10433 Merced Lake Road,Fort Worth,76177,285000,,3.0,2.0
+1584,6025 Wester Avenue,Fort Worth,76133,285000,,3.0,2.0
+1585,9132 Landmark,Fort Worth,76244,295000,,4.0,3.0
+1586,7401 Innisbrook Lane,Fort Worth,76179,295000,,4.0,2.0
+1587,10817 Abbeyglen Court,Fort Worth,76052,299900,,3.0,3.0
+1588,3217 Gidran Drive,Fort Worth,76244,299900,,3.0,2.0
+1589,1705 Jenson Road,Fort Worth,76112,309000,,5.0,3.0
+1590,1700 Aden Road,Fort Worth,76116,310000,,3.0,2.0
+1591,7513 Gairlock Drive,Fort Worth,76179,315000,,3.0,3.0
+1592,2813 Fossil Run Boulevard,Fort Worth,76131,315000,,4.0,3.0
+1593,529 Linacre Drive,Fort Worth,76036,325000,,4.0,3.0
+1594,7924 Rushmore Court,Fort Worth,76137,329000,,5.0,4.0
+1595,15737 Buffalo Nickel Drive,Fort Worth,76177,335000,,4.0,3.0
+1596,4513 Foxfire Way,Fort Worth,76133,336250,,3.0,2.0
+1597,4945 Monte Verde Drive,Fort Worth,76244,358900,,3.0,2.0
+1598,6025 Foxwheel Place,Fort Worth,76123,374000,,4.0,3.0
+1599,6133 Plum Orchard Trail,Fort Worth,76179,410000,,4.0,4.0
+1600,2344 Offerande Drive,Fort Worth,76008,419432,,3.0,2.0
+1601,3527 Westcliff Road S,Fort Worth,76109,435000,,3.0,4.0
+1602,9505 Cholla Cactus Trail,Fort Worth,76177,439900,,5.0,3.0
+1603,5125 Azul Lane,Fort Worth,76036,450000,,4.0,4.0
+1604,11804 Balta Drive,Fort Worth,76244,484990,,5.0,4.0
+1605,7413 Foxgrass Place,Fort Worth,76123,493072,,4.0,3.0
+1606,2204 Edwin Street,Fort Worth,76110,529000,,4.0,2.0
+1607,3809 Winslow Drive,Fort Worth,76109,621000,,4.0,4.0
+1608,2217 Stanley Avenue,Fort Worth,76110,663000,,4.0,4.0
+1609,5617 Byers Avenue,Fort Worth,76107,685000,,4.0,5.0
+1610,6613 York Street,Fort Worth,76132,1690000,,5.0,6.0
+1611,4605 Quails Lane,Fort Worth,76119,149900,,3.0,1.0
+1612,5937 Diaz Avenue,Fort Worth,76107,172000,,3.0,2.0
+1613,1505 Selene Street,Fort Worth,76106,175000,,3.0,1.0
+1614,3257 Donnelly Circle,Fort Worth,76107,179000,,2.0,2.0
+1615,636 Upton Avenue,Fort Worth,76103,189900,,3.0,2.0
+1616,8028 Arbor Ave,Fort Worth,76116,189990,,3.0,2.0
+1617,512 Flint Street,Fort Worth,76115,194900,,3.0,2.0
+1618,3608 Avenue J,Fort Worth,76105,194999,,4.0,3.0
+1619,245 Chalk Mountain Drive,Fort Worth,76140,199000,,3.0,2.0
+1620,5009 Locke Avenue,Fort Worth,76107,199900,,2.0,1.0
+1621,220 Chalk Mountain Drive,Fort Worth,76140,199900,,3.0,2.0
+1622,4021 Engleman Street,Fort Worth,76137,199900,,3.0,2.0
+1623,2817 S Meadow Drive,Fort Worth,76133,199900,,3.0,2.0
+1624,1908 N Riverside Drive,Fort Worth,76111,200000,,2.0,1.0
+1625,5505 Wales Avenue,Fort Worth,76133,204800,,3.0,2.0
+1626,9525 Navarro Street,Fort Worth,76036,210000,,3.0,2.0
+1627,3008 San Marcos Drive,Fort Worth,76116,219000,,4.0,2.0
+1628,1105 Eagle Claw Drive,Fort Worth,76052,220000,,3.0,2.0
+1629,5729 Stone Meadow Lane,Fort Worth,76179,220000,,3.0,2.0
+1630,7412 Beckwood Drive,Fort Worth,76112,220000,,3.0,2.0
+1631,4901 Whistler Drive,Fort Worth,76133,223209,,3.0,2.0
+1632,1900 Willow Vale Drive,Fort Worth,76134,229700,,3.0,2.0
+1633,3320 Camp Bowie Boulevard,Fort Worth,76107,235000,,1.0,1.0
+1634,4928 Chapman Street,Fort Worth,76105,235000,,3.0,2.0
+1635,4820 Willow Branch Court,Fort Worth,76036,235200,,3.0,2.0
+1636,1805 Junius Street,Fort Worth,76103,239000,,3.0,2.0
+1637,4048 Winfield Avenue,Fort Worth,76109,239500,,4.0,2.0
+1638,8513 Cactus Flower Drive,Fort Worth,76131,245300,,3.0,2.0
+1639,1812 Diamond Lake Trail,Fort Worth,76247,249000,,3.0,3.0
+1640,829 San Miguel Trail,Fort Worth,76052,250000,,3.0,2.0
+1641,324 Memory Drive,Fort Worth,76108,255000,,4.0,2.0
+1642,9921 Shelburne,Fort Worth,76244,260000,,3.0,3.0
+1643,201 W Lancaster Avenue,Fort Worth,76102,260000,,2.0,2.0
+1644,15921 Avenel Way,Fort Worth,76177,264999,,3.0,2.0
+1645,7900 Flowertree Court,Fort Worth,76137,266000,,3.0,2.0
+1646,7512 Mesa Verde Trail,Fort Worth,76137,269000,,4.0,3.0
+1647,3305 Leith Avenue,Fort Worth,76133,274900,,3.0,2.0
+1648,10404 Sixpence Lane,Fort Worth,76108,276000,,3.0,3.0
+1649,5608 Wiltshire Drive,Fort Worth,76135,280000,,5.0,3.0
+1650,2224 Limestone Lane,Garland,75040,179900,,2.0,2.0
+1651,6310 Green Valley Drive,Garland,75043,206900,,3.0,2.0
+1652,2005 High Summit Drive,Garland,75041,234900,,3.0,2.0
+1653,3701 Tulane Circle,Garland,75043,238000,,3.0,2.0
+1654,450 Thistle Drive,Garland,75043,240000,,3.0,2.0
+1655,4806 Snowdrop Drive,Garland,75043,259000,,3.0,3.0
+1656,3142 Lariat,Garland,75042,270000,,3.0,2.0
+1657,1625 Nicole Lane,Garland,75040,309700,,4.0,3.0
+1658,2806 Knightsbridge LN,Garland,75043,399997,,4.0,4.0
+1659,1504 Lakewood Drive,Garland,75042,159950,,3.0,1.0
+1660,3229 Old Orchard Road,Garland,75041,199900,,3.0,2.0
+1661,1504 Hilltop Drive,Garland,75042,209000,,2.0,1.0
+1662,538 Grinnell Drive,Garland,75043,220000,,3.0,2.0
+1663,1401 Inwood Boulevard,Garland,75042,222800,,3.0,2.0
+1664,2204 Sharon Drive,Garland,75041,225000,,3.0,2.0
+1665,5437 La Jolla Drive,Garland,75043,259000,,5.0,3.0
+1666,1817 Bardfield Avenue,Garland,75041,260000,,3.0,2.0
+1667,2826 Geneva Drive,Garland,75040,260000,,3.0,2.0
+1668,1905 Hilltop Drive,Garland,75042,300000,,4.0,3.0
+1669,4726 Maritime Cove,Garland,75043,320000,,3.0,3.0
+1670,6603 Wildlife Trail,Garland,75044,325000,,2.0,3.0
+1671,4414 Willett Lane,Garland,75043,435000,,4.0,4.0
+1672,801 Royal Birkdale Drive,Garland,75044,479900,,4.0,4.0
+1673,1820 Place One Lane,Garland,75042,179000,,3.0,2.0
+1674,1609 Axe Drive,Garland,75041,185500,,3.0,2.0
+1675,822 Westbrook Drive,Garland,75043,225000,,4.0,2.0
+1676,4006 Bucknell Drive,Garland,75042,240000,,3.0,2.0
+1677,2906 Branch Oaks Drive,Garland,75043,255000,,4.0,2.0
+1678,4506 Cornell Drive,Garland,75042,279000,,3.0,2.0
+1679,1517 Danbury Drive,Garland,75040,289900,,4.0,3.0
+1680,2722 Princewood Drive,Garland,75040,295900,,4.0,2.0
+1681,2209 Villawood Lane,Garland,75040,319000,,4.0,3.0
+1682,5518 Juniper Drive,Garland,75043,345588,,3.0,2.0
+1683,5018 Hidden Creek Road,Garland,75043,360000,,4.0,3.0
+1684,1822 Mcclary Street,Garland,75040,379900,,3.0,3.0
+1685,2725 Winding Oak Trail,Garland,75044,439000,,4.0,3.0
+1686,1514 Summit Ridge Drive,Garland,75043,629900,,5.0,4.0
+1687,5714 Marina Drive,Garland,75043,79900,,2.0,2.0
+1688,904 Sycamore Drive,Garland,75041,209900,,3.0,1.0
+1689,4333 Hanover Drive,Garland,75042,230000,,3.0,2.0
+1690,4134 Greenway Drive,Garland,75041,235000,,3.0,2.0
+1691,2617 Brookcrest Drive,Garland,75040,249000,,3.0,3.0
+1692,2006 Mill Creek Road,Garland,75044,269995,,4.0,2.0
+1693,2226 Country Valley Road,Garland,75041,270000,,4.0,3.0
+1694,1706 Hill Creek Drive,Garland,75043,350000,,4.0,3.0
+1695,2514 Ivanridge Circle,Garland,75044,375000,,4.0,2.0
+1696,1513 Surrey Court,Garland,75043,399000,,5.0,4.0
+1697,2806 Knightsbridge Lane,Garland,75043,399997,,4.0,4.0
+1698,2013 Lake Front Trail,Garland,75043,428000,,4.0,3.0
+1699,1818 Country Club Circle,Garland,75043,490000,,4.0,3.0
+1700,1320 Stonecreek Court,Garland,75043,695000,,5.0,5.0
+1701,315 Glenfield Drive,Garland,75040,140000,,3.0,1.0
+1702,633 Carriagehouse Lane,Garland,75040,149000,,2.0,2.0
+1703,1029 Wakefield Drive,Garland,75040,215000,,2.0,2.0
+1704,1113 Larchfield Drive,Garland,75042,225000,,4.0,2.0
+1705,3833 Commonwealth Drive,Garland,75043,250000,,4.0,2.0
+1706,117 Camelia Street,Garland,75043,347900,,3.0,2.0
+1707,1714 Lynn Drive,Garland,75040,169000,,3.0,2.0
+1708,506 Henderson Circle,Garland,75040,194900,,4.0,1.0
+1709,117 Sunflower Drive,Garland,75041,219900,,3.0,2.0
+1710,1605 Dent Street,Garland,75042,229900,,3.0,2.0
+1711,713 Worcester Lane,Garland,75040,229900,,4.0,2.0
+1712,3034 Hillsdale Lane,Garland,75042,245000,,4.0,3.0
+1713,3614 BOXWOOD Drive,Garland,75040,260000,,3.0,3.0
+1714,3234 Embercrest Lane,Garland,75044,260000,,3.0,2.0
+1715,6301 Galaxie Road,Garland,75044,318000,,3.0,2.0
+1716,106 Lake Forest Court,Garland,75044,336000,,4.0,2.0
+1717,4406 Carlton Drive,Garland,75043,345000,,4.0,3.0
+1718,3146 Grand Bay Drive,Garland,75040,349900,,3.0,2.0
+1719,1916 Lake Front Trail,Garland,75043,389000,,5.0,4.0
+1720,4309 Exeter Drive,Garland,75043,429000,,5.0,4.0
+1721,133 W Avenue G,Garland,75040,175000,,3.0,1.0
+1722,2618 Western Drive,Garland,75042,225000,,3.0,2.0
+1723,1314 Deville Circle,Garland,75043,239000,,3.0,3.0
+1724,438 Thistle Drive,Garland,75043,239900,,3.0,2.0
+1725,2713 Esquire Lane,Garland,75044,249990,,3.0,2.0
+1726,2325 Glenbrook Meadows Drive,Garland,75040,274900,,4.0,2.0
+1727,741 Baruna Circle,Garland,75043,114900,,2.0,2.0
+1728,1330 Colony Drive,Garland,75040,160000,,3.0,2.0
+1729,1114 Foxe Basin Drive,Garland,75040,235000,,3.0,2.0
+1730,2914 Shenandoah Drive,Garland,75042,250000,,3.0,2.0
+1731,3921 Douglas Drive,Garland,75041,265000,,4.0,3.0
+1732,1705 Meridian Way,Garland,75040,215000,,3.0,2.0
+1733,422 Ivy Way,Garland,75043,228900,,3.0,2.0
+1734,1221 Phoebe Lane,Garland,75042,250000,,3.0,2.0
+1735,1421 Meandering Way,Garland,75040,289999,,3.0,2.0
+1736,3421 Crossbow Lane,Garland,75044,305000,,4.0,3.0
+1737,3462 Forest Hills Circle,Garland,75044,347000,,3.0,2.0
+1738,2106 Shari Lane,Garland,75043,425000,,4.0,4.0
+1739,624 Chandler Drive,Garland,75040,135000,,2.0,1.0
+1740,1233 Dent Street,Garland,75040,159900,,2.0,1.0
+1741,710 Carpenter Drive,Garland,75040,170000,,3.0,2.0
+1742,117 E Vista Drive,Garland,75041,175000,,3.0,1.0
+1743,2104 Prairie Creek Trail,Garland,75040,199990,,3.0,2.0
+1744,3904 Ashville Drive,Garland,75041,233000,,4.0,2.0
+1745,1713 Timbercreek Drive,Garland,75042,249900,,3.0,2.0
+1746,1013 Greenbriar Drive,Garland,75043,259000,,3.0,2.0
+1747,2326 LANCECREST Drive,Garland,75044,260000,,3.0,2.0
+1748,5709 Indian Hills Drive,Garland,75044,419500,,5.0,4.0
+1749,836 Clarissa Place,Garland,75040,159999,,3.0,3.0
+1750,4606 Lawler Road,Garland,75042,178000,,3.0,1.0
+1751,4434 Wind River Lane,Garland,75042,185000,,2.0,2.0
+1752,2409 Highmont Drive,Garland,75041,210000,,3.0,2.0
+1753,3130 Willowbrook Court,Garland,75044,220000,,2.0,2.0
+1754,3102 O Henry Drive,Garland,75042,230000,,4.0,2.0
+1755,617 Prescott DR,Garland,75041,234999,,3.0,2.0
+1756,805 Hillcrest Drive,Garland,75040,235000,,4.0,2.0
+1757,708 Cedar Cove Drive,Garland,75040,344999,,3.0,3.0
+1758,2105 River Canyon Lane,Garland,75041,389000,,5.0,4.0
+1759,2446 Chesterfield Road,Garland,75043,399000,,3.0,4.0
+1760,3931 N Garland Avenue,Garland,75040,123000,,2.0,2.0
+1761,2027 Court Place,Garland,75041,165000,,3.0,2.0
+1762,3129 Willowbrook Court,Garland,75044,199999,,3.0,3.0
+1763,2502 Patricia Lane,Garland,75041,232900,,3.0,2.0
+1764,3238 Knights Haven Lane,Garland,75044,238900,,3.0,2.0
+1765,4229 Burning Tree Lane,Garland,75042,250000,,3.0,3.0
+1766,513 Willowcrest Drive,Garland,75040,259900,,3.0,2.0
+1767,4501 Baskerville Drive,Garland,75043,260000,,3.0,2.0
+1768,1821 Homestead Place,Garland,75044,263000,,3.0,2.0
+1769,3705 Berrywood Circle,Garland,75040,274999,,4.0,2.0
+1770,2514 Rodeo Court,Garland,75044,287900,,4.0,2.0
+1771,1310 GENOA Circle,Garland,75040,425000,,4.0,3.0
+1772,2837 Beasley Drive,Garland,75041,162600,,3.0,2.0
+1773,3614 Edgewood Drive,Garland,75042,174990,,3.0,2.0
+1774,1418 Greencove Drive,Garland,75040,190000,,3.0,2.0
+1775,5433 Deep Canyon Drive,Garland,75043,230000,,3.0,2.0
+1776,1433 Park East Drive,Garland,75043,242900,,4.0,2.0
+1777,501 WORCESTER Lane,Garland,75040,245000,,3.0,2.0
+1778,5728 Marina Drive,Garland,75043,159000,,2.0,2.0
+1779,4213 Mary Jane Lane,Garland,75043,208000,,3.0,2.0
+1780,2404 Scotswood Drive,Garland,75041,249000,,3.0,2.0
+1781,6403 Eagle Nest Drive,Garland,75044,299000,,3.0,3.0
+1782,1010 Lawson Drive,Garland,75042,237500,,4.0,2.0
+1783,3403 Aries Drive,Garland,75044,239000,,3.0,3.0
+1784,1301 W Walnut ST,Garland,75040,199500,,2.0,1.0
+1785,1729 Whiteoak Drive,Garland,75040,204900,,3.0,2.0
+1786,1312 Sylvan Drive,Garland,75040,210000,,3.0,1.0
+1787,1807 Geary Street,Garland,75043,230000,,3.0,2.0
+1788,3505 Ridgemoor Drive,Garland,75044,249000,,3.0,2.0
+1789,1109 Quail Drive,Garland,75040,250000,,3.0,2.0
+1790,3801 Bellaire Drive,Garland,75040,265000,,4.0,2.0
+1791,3217 Flameleaf Street,Garland,75044,269333,,3.0,2.0
+1792,2402 EMERSON Drive,Garland,75044,289900,,3.0,2.0
+1793,2625 Rochdale Street,Garland,75040,295000,,4.0,3.0
+1794,925 Royal Birkdale Drive,Garland,75044,319000,,4.0,3.0
+1795,1614 Skyline Drive,Garland,75043,365000,,4.0,4.0
+1796,510 Basswood Trail,Garland,75040,450000,,5.0,4.0
+1797,4209 Tynes Drive,Garland,75042,239900,,3.0,2.0
+1798,3417 Forest Hills Circle,Garland,75044,265000,,3.0,2.0
+1799,714 Carpenter Drive,Garland,75040,274900,,3.0,2.0
+1800,1421 Bowie Street,Garland,75042,310000,,5.0,2.0
+1801,2102 Richbrook Drive,Garland,75044,315000,,4.0,3.0
+1802,608 Edgefield Drive,Garland,75040,45000,,3.0,2.0
+1803,1018 Beverly Drive,Garland,75040,140000,,4.0,2.0
+1804,1110 Wycliff Drive,Garland,75040,159900,,3.0,2.0
+1805,840 Holly Drive,Garland,75040,165000,,2.0,1.0
+1806,1702 Legend Drive,Garland,75040,205000,,3.0,2.0
+1807,1110 Mill River Drive,Garland,75043,239000,,4.0,2.0
+1808,1228 ravina,Garland,75041,270000,,5.0,3.0
+1809,1506 Turning Leaf Lane,Garland,75040,425000,,4.0,4.0
+1810,3809 Whiterock TRL,Garland,75043,225000,,3.0,2.0
+1811,5537 Jester Drive,Garland,75044,225900,,3.0,2.0
+1812,1325 Meandering Way,Garland,75040,291000,,4.0,3.0
+1813,142 Camelia Street,Garland,75043,395900,,4.0,3.0
+1814,1106 Lourock Street,Garland,75040,197500,,3.0,2.0
+1815,1413 Kingsbridge Drive,Garland,75044,270000,,4.0,2.0
+1816,4113 Carrington Drive,Garland,75043,349000,,5.0,4.0
+1817,3117 Knightsbridge Lane,Garland,75043,510000,,6.0,4.0
+1818,717 Armstrong Drive,Garland,75040,209900,,3.0,2.0
+1819,1720 Bardfield Avenue,Garland,75041,235000,,3.0,2.0
+1820,1506 Glouchester Drive,Garland,75044,245000,,3.0,2.0
+1821,3130 Cross Timbers Lane,Garland,75044,399900,,4.0,3.0
+1822,536 Henderson Circle,Garland,75040,179900,,3.0,1.0
+1823,1417 Danbury Drive,Garland,75040,240000,,3.0,2.0
+1824,1433 Prestonwood Road,Garland,75040,449000,,4.0,3.0
+1825,5805 Marvin Loving Drive,Garland,75043,91000,,1.0,1.0
+1826,5106 Lakeridge Court,Garland,75043,184900,,2.0,2.0
+1827,2814 Hardy Way,Garland,75041,184900,,4.0,2.0
+1828,102 Roma Drive,Garland,75041,228900,,4.0,3.0
+1829,852 Crockett Street,Garland,75040,235000,,4.0,2.0
+1830,3421 Shoreside Drive,Garland,75043,249900,,3.0,2.0
+1831,2506 Cresthaven Drive,Garland,75040,335000,,4.0,3.0
+1832,1108 Sleepy Hollow Drive,Garland,75043,210000,,3.0,2.0
+1833,905 Bradfield Drive,Garland,75042,230000,,4.0,3.0
+1834,3314 RIDGE OAK Drive,Garland,75044,295000,,3.0,2.0
+1835,3105 Annette Court,Garland,75044,358990,,3.0,3.0
+1836,369 Myrtle Beach Drive,Garland,75040,485396,,3.0,3.0
+1837,2705 Holm DR,Garland,75041,140000,,2.0,1.0
+1838,2705 Holm Drive,Garland,75041,140000,,2.0,1.0
+1839,1410 Quail Drive,Garland,75040,210000,,3.0,2.0
+1840,3929 Roanoke Drive,Garland,75041,225000,,3.0,2.0
+1841,2909 Riviera Drive,Garland,75040,270000,,3.0,2.0
+1842,3116 Pebblebrook Court,Garland,75044,229000,,3.0,3.0
+1843,6326 McCartney Lane,Garland,75043,235000,,3.0,2.0
+1844,1110 Cabana Lane,Garland,75042,293000,,5.0,4.0
+1845,1505 Palm Valley Drive,Garland,75043,335000,,4.0,3.0
+1846,5906 Marina DR 36,Garland,75043,130000,,2.0,2.0
+1847,1005 Foxe Basin Drive,Garland,75040,179000,,3.0,2.0
+1848,2940 Pegasus Drive,Garland,75044,179000,,2.0,1.0
+1849,2133 Rolling Oak Lane,Garland,75044,399900,,3.0,3.0
+1850,2006 Woodnote Lane,Garland,75040,193500,,3.0,2.0
+1851,4110 Ashville Drive,Garland,75041,249900,,3.0,2.0
+1852,3130 Ripplewood DR,Garland,75044,287000,,3.0,2.0
+1853,1125 Gardengate Circle,Garland,75043,304900,,4.0,2.0
+1854,3417 Blueridge Lane,Garland,75042,290000,,4.0,2.0
+1855,3217 Whatley Drive,Garland,75043,149900,,2.0,2.0
+1856,5657 Saddleback Road,Garland,75043,205000,,3.0,2.0
+1857,381 Myrtle Beach,Garland,75040,556735,,4.0,3.0
+1858,1417 Danbury DR,Garland,75040,240000,,3.0,2.0
+1859,1302 Peaceway Drive,Garland,75043,271900,,3.0,2.0
+1860,4729 Forrest Springs Cove,Garland,75043,315000,,3.0,3.0
+1861,5506 Juniper Drive,Garland,75043,360543,,3.0,2.0
+1862,4436 Wind River Lane,Garland,75042,120000,,2.0,2.0
+1863,2601 Lakewood Drive,Garland,75042,195000,,3.0,1.0
+1864,1633 Dewberry Lane,Garland,75042,303493,,2.0,2.0
+1865,1633 Dewberry LN,Garland,75042,303493,,2.0,2.0
+1866,413 Peaceful Drive,Garland,75043,214900,,3.0,2.0
+1867,4902 Rollingwood Court,Garland,75043,189800,,3.0,3.0
+1868,11 Winding Creek Trail,Garland,75043,375000,,3.0,3.0
+1869,134 E Kingsley Road,Garland,75041,180000,,3.0,2.0
+1870,1637 Dewberry LN,Garland,75042,303521,,2.0,2.0
+1871,1642 Greatfield DR,Garland,75042,326690,,2.0,2.0
+1872,1000 Cuero Drive,Garland,75040,279000,,4.0,3.0
+1873,3313 Enclave Court,Garland,75040,349900,,4.0,3.0
+1874,2609 Rockport Circle,Garland,75044,374900,,3.0,3.0
+1875,1857 Mcclary Street,Garland,75040,510000,,4.0,4.0
+1876,2101 Gemini Drive,Garland,75040,189900,,3.0,2.0
+1877,1637 Dewberry Lane,Garland,75042,303521,,2.0,2.0
+1878,1114 Intervale,Garland,75043,240000,,3.0,2.0
+1879,1418 Glenshire Drive,Garland,75043,354000,,4.0,3.0
+1880,425 Brookfield DR,Garland,75040,295000,,3.0,2.0
+1881,2817 Country Valley Road,Garland,75043,975000,,7.0,8.0
+1882,4041 Salem Drive,Garland,75043,240000,,3.0,2.0
+1883,4101 Hillsdale Lane,Garland,75042,250000,,3.0,2.0
+1884,1030 Delores Drive,Garland,75040,240000,,3.0,2.0
+1885,2226 Villawood Lane,Garland,75040,293000,,3.0,2.0
+1886,1714 Indian School Road,Garland,75044,215000,,3.0,2.0
+1887,3558 Zion Road,Garland,75043,120000,,3.0,2.0
+1888,822 Bandera Lane,Garland,75040,195000,,3.0,2.0
+1889,1012 Sylvan Drive,Garland,75040,285114,,4.0,4.0
+1890,2818 Woods Lane,Garland,75044,650000,,5.0,5.0
+1891,4217 Princeton Drive,Garland,75042,209900,,3.0,2.0
+1892,4917 Meadow Vista Place,Garland,75043,394900,,4.0,3.0
+1893,4430 Stirling Drive,Garland,75043,345000,,5.0,4.0
+1894,5906 Marina Drive,Garland,75043,130000,,2.0,2.0
+1895,604 Eastern Star Drive,Garland,75040,145000,,3.0,2.0
+1896,1649 Goodfield Lane,Garland,75042,458155,,3.0,3.0
+1897,417 Perdido Drive,Garland,75043,270000,,3.0,2.0
+1898,1630 Dewberry Lane,Garland,75042,301025,,2.0,2.0
+1899,1630 Dewberry LN,Garland,75042,301025,,2.0,2.0
+1900,1634 Goodfield Lane,Garland,75042,308274,,2.0,2.0
+1901,1634 Goodfield LN,Garland,75042,308274,,2.0,2.0
+1902,2001 Westshore Drive,Garland,75043,349000,,4.0,3.0
+1903,5825 Marvin Loving,Garland,75043,92000,,1.0,1.0
+1904,1450 Prestonwood,Garland,75040,470709,,3.0,3.0
+1905,5701 Excalibur Drive,Garland,75044,259900,,3.0,2.0
+1906,1302 INCLINE Circle,Garland,75040,334990,,4.0,3.0
+1907,2909 Club Meadow Drive,Garland,75043,375000,,4.0,4.0
+1908,5115 Whitehaven Drive,Garland,75043,240000,,3.0,3.0
+1909,218 Barger Street,Garland,75040,189000,,2.0,1.0
+1910,1622 Everett Drive,Garland,75044,447360,,4.0,3.0
+1911,4818 Redwood Drive,Garland,75043,159000,,2.0,2.0
+1912,5506 Blue Pointe Lane,Garland,75043,386148,,4.0,4.0
+1913,5505 Blue Pointe Lane,Garland,75043,328226,,3.0,2.0
+1914,5501 Blue Pointe Lane,Garland,75043,367587,,3.0,3.0
+1915,3121 Ridge Oak Drive,Garland,75044,339900,,3.0,2.0
+1916,3144 Pebblebrook Court,Garland,75044,185000,,3.0,3.0
+1917,910 Dairy Road,Garland,75040,267500,,4.0,2.0
+1918,5526 Blue Point Lane,Garland,75043,385900,,3.0,2.0
+1919,5530 Blue Point Lane,Garland,75043,402900,,3.0,3.0
+1920,1030 Holland Drive,Garland,75040,230000,,3.0,2.0
+1921,1434 Prestonwood,Garland,75040,457940,,3.0,3.0
+1922,2909 Oak Springs Drive,Garland,75044,437500,,4.0,3.0
+1923,2701 High Cotton Lane,Garland,75042,474990,,4.0,3.0
+1924,1314 INCLINE Circle,Garland,75040,379990,,4.0,3.0
+1925,5805 Lake Hubbard Parkway,Garland,75043,89000,,1.0,1.0
+1926,5801 Lake Hubbard Parkway,Garland,75043,89500,,1.0,1.0
+1927,925 E Daugherty Drive,Garland,75041,125000,,3.0,2.0
+1928,318 W Daugherty Drive,Garland,75041,185000,,4.0,2.0
+1929,3517 Edgewood Drive,Garland,75042,199900,,3.0,2.0
+1930,101 S Purdue Drive,Garland,75042,204000,,3.0,2.0
+1931,922 Bard Drive,Garland,75040,226900,,4.0,3.0
+1932,1301 INCLINE Circle,Garland,75040,324990,,4.0,3.0
+1933,2506 High Cotton Lane,Garland,75042,325990,,2.0,3.0
+1934,4405 Avocet Circle,Garland,75043,414703,,3.0,2.0
+1935,2409 Hickey Drive,Garland,75043,481445,,4.0,3.0
+1936,4509 Gannet Lane,Garland,75043,499639,,4.0,4.0
+1937,1718 Cherokee Rose Trail,Garland,75042,499990,,4.0,4.0
+1938,4305 Gulls Landing Circle,Garland,75043,566649,,5.0,5.0
+1939,5609 Lyons Road,Garland,75043,2490000,,4.0,4.0
+1940,739 Valiant CIR,Garland,75043,151900,,3.0,2.0
+1941,3001 Ridgedale DR,Garland,75041,260000,,4.0,2.0
+1942,7314 Woodsprings DR,Garland,75044,399991,,4.0,3.0
+1943,1117 Saturn Springs DR,Garland,75041,205000,,3.0,2.0
+1944,1030 Delores Drive,Garland,75040,240000,,3.0,2.0
+1945,1821 E Grauwyler Road,Irving,75061,112500,,2.0,2.0
+1946,2321 Meadow Lark Lane,Irving,75060,219000,,3.0,2.0
+1947,2402 Pistachio Drive,Irving,75063,630000,,5.0,4.0
+1948,1944 N Ruby Road,Irving,75060,195000,,3.0,2.0
+1949,2320 Northlake Court,Irving,75038,207000,,2.0,3.0
+1950,3221 Parker Street,Irving,75062,229500,,4.0,3.0
+1951,3810 Bremerton,Irving,75062,230000,,3.0,2.0
+1952,2302 Anderson Street,Irving,75062,234900,,3.0,2.0
+1953,3612 Vienna Street,Irving,75038,245000,,3.0,3.0
+1954,111 Seva Court,Irving,75061,249999,,3.0,3.0
+1955,4125 Astoria Street,Irving,75062,275000,,3.0,2.0
+1956,1422 Addington Street,Irving,75062,284950,,4.0,2.0
+1957,700 Irongate Circle,Irving,75060,299000,,3.0,3.0
+1958,1319 Glenbrook Drive,Irving,75061,325000,,4.0,3.0
+1959,3829 Twin Falls Street,Irving,75062,325000,,4.0,2.0
+1960,311 Red River Trail,Irving,75063,338777,,3.0,3.0
+1961,8616 Augustine Road,Irving,75063,339900,,2.0,3.0
+1962,330 Las Colinas Boulevard E,Irving,75039,375000,,2.0,2.0
+1963,8904 Crescent Court,Irving,75063,379999,,3.0,2.0
+1964,3706 Devonshire Court E,Irving,75062,399900,,4.0,3.0
+1965,700 Cedar Elm Court,Irving,75063,465000,,5.0,4.0
+1966,2126 Aquilla Court,Irving,75062,475000,,4.0,4.0
+1967,1904 Remington Drive,Irving,75063,550000,,3.0,3.0
+1968,232 Skystone Drive,Irving,75038,550000,,3.0,3.0
+1969,4426 Saint Andrews Boulevard,Irving,75038,569000,,4.0,4.0
+1970,400 Sewell Court,Irving,75038,799000,,4.0,4.0
+1971,1814 Bradford Street,Irving,75061,205000,,3.0,1.0
+1972,2508 W Rochelle Drive,Irving,75062,217000,,3.0,2.0
+1973,1612 Rusdell Drive,Irving,75060,255000,,3.0,2.0
+1974,1726 Cypress Drive,Irving,75061,269999,,3.0,2.0
+1975,559 W Royal Lane,Irving,75039,344000,,2.0,3.0
+1976,6843 Deseo,Irving,75039,344900,,3.0,3.0
+1977,1026 Pedernales Trail,Irving,75063,349900,,3.0,2.0
+1978,309 Sheridan Trail,Irving,75063,349990,,3.0,3.0
+1979,5203 Montego Bay Drive,Irving,75038,440000,,4.0,4.0
+1980,1621 Shadow LN,Irving,75060,464900,,4.0,4.0
+1981,1621 Shadow Lane,Irving,75060,464900,,4.0,4.0
+1982,5215 Montego Bay Drive,Irving,75038,470000,,4.0,3.0
+1983,8710 Broken Point Drive,Irving,75063,480000,,3.0,4.0
+1984,6527 Barcelona,Irving,75039,699000,,4.0,4.0
+1985,4557 N O Connor Road,Irving,75062,169900,,2.0,2.0
+1986,2621 Marta Drive,Irving,75060,215000,,3.0,2.0
+1987,2009 Wilshire Drive,Irving,75061,225000,,2.0,3.0
+1988,1576 Angie Lane,Irving,75060,309900,,3.0,2.0
+1989,3657 Vienna Street,Irving,75038,309990,,3.0,4.0
+1990,545 Via Amalfi,Irving,75039,315000,,2.0,3.0
+1991,8124 Crabapple Lane,Irving,75063,399900,,3.0,3.0
+1992,3206 Salinas Court,Irving,75062,449900,,5.0,3.0
+1993,625 Dalton Lane,Irving,75039,504900,,3.0,4.0
+1994,717 Goodyear Street,Irving,75062,244900,,3.0,2.0
+1995,1543 Camino Lago,Irving,75039,315999,,2.0,3.0
+1996,1209 Saint Monet Drive,Irving,75038,364990,,3.0,3.0
+1997,658 Arbol,Irving,75039,379990,,3.0,4.0
+1998,3576 Hathaway Court,Irving,75062,475000,,4.0,4.0
+1999,212 Frio Drive,Irving,75039,526500,,3.0,3.0
+2000,4413 Caesar Lane,Irving,75038,549000,,4.0,3.0
+2001,2119 N Hill Drive,Irving,75038,575000,,4.0,3.0
+2002,500 Evergreen Oak Circle,Irving,75063,575000,,5.0,5.0
+2003,2201 Pistachio Drive,Irving,75063,575000,,5.0,4.0
+2004,1549 John Smith Drive,Irving,75061,208000,,3.0,1.0
+2005,2500 William Brewster Drive,Irving,75062,209900,,3.0,2.0
+2006,4001 Yellowstone Street,Irving,75062,230000,,5.0,2.0
+2007,3113 Lark Lane,Irving,75062,260000,,3.0,2.0
+2008,1840 Pilgrim Drive,Irving,75061,287500,,3.0,2.0
+2009,3031 Stallion Crossing,Irving,75060,299900,,3.0,2.0
+2010,2420 Briarcliff Drive,Irving,75062,319900,,3.0,2.0
+2011,452 Renaissance Lane,Irving,75060,343000,,3.0,3.0
+2012,200 Irongate Circle,Irving,75060,350000,,4.0,3.0
+2013,561 W Royal Lane,Irving,75039,375000,,3.0,4.0
+2014,9919 Hennings Street,Irving,75063,415000,,3.0,3.0
+2015,215 Harper Street,Irving,75063,477000,,4.0,3.0
+2016,7047 Nueces Drive,Irving,75039,479000,,3.0,3.0
+2017,4878 Cloudcroft Lane,Irving,75038,539000,,3.0,3.0
+2018,1910 Etain Road,Irving,75060,225000,,3.0,2.0
+2019,330 Las Colinas Boulevard E,Irving,75039,236000,,1.0,1.0
+2020,300 Hawn Court,Irving,75038,599999,,3.0,3.0
+2021,4427 Westminster Drive,Irving,75038,175000,,3.0,2.0
+2022,1811 Dennis,Irving,75062,249000,,4.0,2.0
+2023,4115 Napoli Way,Irving,75038,412990,,4.0,3.0
+2024,737 Sid Rich Drive,Irving,75039,524900,,3.0,4.0
+2025,3819 Cabeza De Vaca Circle,Irving,75062,600000,,3.0,3.0
+2026,3824 Roosevelt Drive,Irving,75063,789000,,5.0,5.0
+2027,1114 Carrington Court,Irving,75060,205000,,3.0,3.0
+2028,3217 Konet Street,Irving,75060,245000,,3.0,2.0
+2029,564 Ballustrade Drive,Irving,75039,375000,,2.0,3.0
+2030,507 Cox Drive,Irving,75062,385000,,3.0,2.0
+2031,4306 Saint Andrews Boulevard,Irving,75038,950734,,4.0,4.0
+2032,1101 Patricia Street,Irving,75060,215000,,3.0,2.0
+2033,2211 Dewitt Street,Irving,75062,215000,,4.0,2.0
+2034,1513 Belmead Lane,Irving,75061,218000,,3.0,1.0
+2035,1817 Puritan Drive,Irving,75061,224900,,3.0,2.0
+2036,1433 Meadowbrook Lane,Irving,75061,229000,,3.0,1.0
+2037,2517 Corbeau Drive,Irving,75038,264000,,2.0,3.0
+2038,400 Holly Tree Court,Irving,75063,309900,,3.0,2.0
+2039,691 Senda,Irving,75039,324900,,2.0,3.0
+2040,121 W 11th Street,Irving,75060,330000,,4.0,3.0
+2041,725 Ridgecrest Drive,Irving,75060,350000,,3.0,3.0
+2042,6461 Naples Drive,Irving,75039,360000,,2.0,4.0
+2043,1227 Saint Monet Drive,Irving,75038,365000,,3.0,3.0
+2044,627 Via Ravello,Irving,75039,389900,,3.0,4.0
+2045,1401 N. Britain Road,Irving,75061,424990,,4.0,3.0
+2046,722 Will Rice Avenue,Irving,75039,524900,,3.0,4.0
+2047,3354 Ricci Lane,Irving,75062,525000,,4.0,4.0
+2048,3354 Ricci LN,Irving,75062,525000,,4.0,4.0
+2049,1420 Abbott Drive,Irving,75060,149000,,3.0,2.0
+2050,2406 Morgan Street,Irving,75062,199000,,3.0,2.0
+2051,4013 Rainier Street,Irving,75062,205000,,3.0,1.0
+2052,100 Kimili Court,Irving,75060,249999,,3.0,2.0
+2053,6631 Via Positano,Irving,75039,289999,,2.0,3.0
+2054,725 Ridgecrest DR,Irving,75060,350000,,3.0,3.0
+2055,300 Casa Grande Court,Irving,75061,384000,,4.0,3.0
+2056,732 Cimarron Trail,Irving,75063,385000,,4.0,2.0
+2057,9725 Cliffside Drive,Irving,75063,450000,,4.0,3.0
+2058,1912 Cottonwood Valley Circle S,Irving,75038,1180000,,5.0,6.0
+2059,683 Cimarron Trail,Irving,75063,174900,,1.0,2.0
+2060,1624 W 6th Street,Irving,75060,220000,,3.0,2.0
+2061,1514 W Grauwyler Road,Irving,75061,279000,,4.0,2.0
+2062,4439 Samarth Street,Irving,75061,319990,,3.0,3.0
+2063,500 Bordeaux Square,Irving,75038,375000,,3.0,3.0
+2064,3108 Wingren Road,Irving,75062,430000,,4.0,3.0
+2065,101 Decker Court,Irving,75062,619900,,3.0,4.0
+2066,1201 Fairdale Street,Irving,75062,195000,,3.0,2.0
+2067,301 W 15th Street,Irving,75060,242000,,4.0,2.0
+2068,3645 Vienna Street,Irving,75038,284000,,3.0,3.0
+2069,8508 Mill Creek Road,Irving,75063,395000,,3.0,2.0
+2070,1516 Camino Lago,Irving,75039,498000,,4.0,4.0
+2071,4714 Alcazar Court,Irving,75062,655000,,5.0,4.0
+2072,1813 E Grauwyler RD 143,Irving,75061,118000,,2.0,2.0
+2073,1955 Lantana Lane,Irving,75063,320000,,2.0,3.0
+2074,1215 Harbor Dune Court,Irving,75063,550000,,4.0,3.0
+2075,9611 Wolf Creek Drive,Irving,75063,575000,,5.0,3.0
+2076,4765 Cloudcroft Lane,Irving,75038,1095000,,3.0,4.0
+2077,3013 W Rochelle Road,Irving,75062,235000,,3.0,2.0
+2078,2026 Woodoak Drive,Irving,75060,299000,,4.0,3.0
+2079,9611 Cliffside Drive,Irving,75063,387000,,3.0,2.0
+2080,6204 Saddlebrook Way,Irving,75039,625000,,4.0,4.0
+2081,4553 Byron Circle,Irving,75038,1495000,,4.0,6.0
+2082,932 Turtle Cove,Irving,75060,120000,,2.0,2.0
+2083,2408 Mcclure Street,Irving,75062,237000,,3.0,2.0
+2084,3025 Steven Street,Irving,75062,249500,,3.0,2.0
+2085,600 Rockingham Drive,Irving,75063,430000,,3.0,3.0
+2086,1000 Brushwood Drive,Irving,75063,479900,,5.0,4.0
+2087,2300 Creekside Circle N,Irving,75063,550000,,3.0,4.0
+2088,2429 W 6th Street,Irving,75060,164900,,3.0,1.0
+2089,3315 Hillside Lane,Irving,75062,245000,,3.0,2.0
+2090,936 Old Mill Circle,Irving,75061,357000,,3.0,2.0
+2091,616 Crest Ridge Drive,Irving,75061,400000,,3.0,4.0
+2092,3433 Begonia Lane,Irving,75038,469000,,3.0,2.0
+2093,7200 Comal Drive,Irving,75039,649000,,5.0,4.0
+2094,1506 Ronne Drive,Irving,75060,195000,,3.0,2.0
+2095,418 Santa Fe Trail,Irving,75063,197500,,2.0,3.0
+2096,6442 Love Drive,Irving,75039,300000,,3.0,3.0
+2097,506 Bellah Drive,Irving,75062,499900,,4.0,4.0
+2098,3645 W Northgate Drive,Irving,75062,129000,,2.0,2.0
+2099,313 Santa Clara Street,Irving,75062,409000,,4.0,3.0
+2100,6321 Saddlebrook Way,Irving,75039,500000,,4.0,3.0
+2101,330 Las Colinas Boulevard E,Irving,75039,205000,,1.0,1.0
+2102,1926 Loma Alta Drive,Irving,75063,295999,,2.0,3.0
+2103,601 Poplar Lane,Irving,75063,370000,,4.0,4.0
+2104,6824 Verandah Way,Irving,75039,542263,,3.0,4.0
+2105,4447 Lena Lane,Irving,75038,1075000,,4.0,4.0
+2106,4266 Madera Road,Irving,75038,160000,,2.0,2.0
+2107,2539 Champagne Drive,Irving,75038,275000,,2.0,3.0
+2108,7405 Bradford Pear Drive,Irving,75063,565000,,5.0,4.0
+2109,6411 Las Colinas Boulevard,Irving,75039,385000,,3.0,4.0
+2110,613 Campana Court,Irving,75061,199000,,3.0,2.0
+2111,813 E 6th Street,Irving,75060,289900,,6.0,4.0
+2112,817 E 6th Street,Irving,75060,289900,,6.0,4.0
+2113,3552 Manesh Drive,Irving,75062,355000,,5.0,4.0
+2114,4704 Almeria Court,Irving,75062,729000,,5.0,5.0
+2115,614 Lake Point Drive,Irving,75039,995000,,5.0,7.0
+2116,4340 Castle Rock Court,Irving,75038,425000,,2.0,3.0
+2117,2743 Cartwright Street,Irving,75062,268900,,3.0,2.0
+2118,905 Turtle Cove,Irving,75060,139500,,2.0,2.0
+2119,9818 Romo Street,Irving,75063,379655,,3.0,3.0
+2120,330 Las Colinas Boulevard Unit# 822,Irving,75039,389000,,2.0,2.0
+2121,330 Las Colinas Boulevard E,Irving,75039,389000,,2.0,2.0
+2122,234 Woodson Street,Irving,75063,395005,,3.0,3.0
+2123,9807 Romo Street,Irving,75063,415395,,4.0,3.0
+2124,9806 Romo Street,Irving,75063,418600,,3.0,3.0
+2125,242 Woodson Street,Irving,75603,425990,,4.0,3.0
+2126,250 Woodson Street,Irving,75063,433990,,4.0,3.0
+2127,259 Woodson Street,Irving,75063,437740,,4.0,3.0
+2128,246 Woodson Street,Irving,75063,440855,,4.0,3.0
+2129,209 Woodson Street,Irving,75063,454990,,4.0,3.0
+2130,222 Woodson Street,Irving,75063,471990,,4.0,4.0
+2131,9819 Romo Street,Irving,75063,472090,,4.0,4.0
+2132,228 Harper Street,Irving,75063,480520,,4.0,4.0
+2133,5425 Patterson Street,Irving,75039,496900,,3.0,4.0
+2134,617 Dalton Lane,Irving,75039,514900,,3.0,4.0
+2135,633 Dalton Lane,Irving,75039,519900,,3.0,4.0
+2136,5437 Patterson Street,Irving,75039,549900,,3.0,4.0
+2137,2525 Morgan Street,Irving,75062,224900,,3.0,2.0
+2138,4012 Tacoma Street,Irving,75062,279000,,3.0,3.0
+2139,609 Via Ravello,Irving,75039,424000,,3.0,4.0
+2140,545 Via Amalfi  #311,Irving,75039,345000,,2.0,3.0
+2141,207 Cimarron Trail,Irving,75063,219000,,2.0,2.0
+2142,101 Decker Court,Irving,75062,550000,,3.0,4.0
+2143,905 Bower Drive,Irving,75061,275000,,5.0,4.0
+2144,659 Brookstone Drive,Irving,75039,816000,,4.0,6.0
+2145,1819 E Grauwyler Road,Irving,75061,115000,,2.0,2.0
+2146,8660 Drayton Drive,Irving,75063,499900,,5.0,5.0
+2147,3037 Mccarthy Street,Irving,75062,199900,,3.0,2.0
+2148,904 Canal Street,Irving,75063,229900,,2.0,2.0
+2149,2205 Aristocrat Drive,Irving,75063,625000,,6.0,5.0
+2150,2630 Dames Lane,Irving,75063,849500,,4.0,5.0
+2151,1200 Woodleigh Drive,Irving,75061,315000,,3.0,3.0
+2152,2201 Rose Court,Irving,75060,270000,,4.0,2.0
+2153,652 Dalton Lane,Irving,75039,374900,,2.0,3.0
+2154,901 Bowman Street,Irving,75060,249000,,3.0,2.0
+2155,4132 William Dehaes Drive,Irving,75038,290000,,2.0,3.0
+2156,653 Clearwater Drive,Irving,75039,849500,,4.0,5.0
+2157,653 Clearwater DR,Irving,75039,849500,,4.0,5.0
+2158,2122 Scarlet Oaks Drive,Irving,75060,190000,,3.0,2.0
+2159,414 Santa Fe Trail,Irving,75063,195000,,2.0,3.0
+2160,1524 John Smith Drive,Irving,75061,284900,,4.0,2.0
+2161,435 O Connor Ridge Boulevard,Irving,75038,1595000,,5.0,8.0
+2162,629 Dalton Lane,Irving,75039,484900,,3.0,4.0
+2163,5421 Patterson Street,Irving,75039,489900,,3.0,4.0
+2164,642 Dalton Lane,Irving,75039,374900,,2.0,3.0
+2165,1919 Brenton Street,Irving,75062,299500,,4.0,2.0
+2166,4731 AMAL SALEH Street,Irving,75061,295000,,4.0,3.0
+2167,700 Canal Street,Irving,75063,525000,,4.0,3.0
+2168,6769 Verandah Way,Irving,75039,530238,,3.0,3.0
+2169,7931 Banyan Way,Irving,75063,791060,,4.0,4.0
+2170,662 Arbol,Irving,75039,395000,,3.0,4.0
+2171,662 Arbol Unit# 19,Irving,75039,395000,,3.0,4.0
+2172,219 Cimarron Trail,Irving,75063,224900,,2.0,3.0
+2173,683 Cimarron TRL,Irving,75063,174900,,1.0,2.0
+2174,9947 Michael Irvin Street,Irving,75063,412000,,3.0,3.0
+2175,9943 Michael Irvin Street,Irving,75063,414000,,3.0,3.0
+2176,7618 Lakecrest Circle,Irving,75063,449000,,3.0,3.0
+2177,227 Harper Street,Irving,75063,473000,,3.0,3.0
+2178,330 Las Colinas Boulevard E,Irving,75039,359000,,2.0,2.0
+2179,6859 Verandah Way,Irving,75039,635000,,3.0,4.0
+2180,7904 Swenson Drive,Irving,75063,610000,,5.0,6.0
+2181,656 Dalton Lane,Irving,75039,475900,,3.0,4.0
+2182,1819 Grauwyler Road E 178,Irving,75061,115000,,2.0,1.0
+2183,4303 Spyglass Hill Lane,Irving,75038,445000,,3.0,3.0
+2184,3404 Begonia Lane,Irving,75038,493996,,3.0,2.0
+2185,648 Dalton Lane,Irving,75039,374900,,2.0,3.0
+2186,634 Dalton Lane,Irving,75039,475900,,3.0,4.0
+2187,4405 Windsor Ridge Drive,Irving,75038,3795000,,6.0,9.0
+2188,6631 Via Positano,Irving,75039,289000,,2.0,3.0
+2189,621 Dalton Lane,Irving,75039,484900,,3.0,4.0
+2190,1204 Milner Road,Irving,75061,219900,,3.0,2.0
+2191,8652 Wellington Point Drive,Irving,75063,250000,,3.0,2.0
+2192,8304 Richmond Court,Irving,75063,364950,,3.0,3.0
+2193,638 Dalton Lane,Irving,75039,374900,,2.0,3.0
+2194,612 S Delaware Street,Irving,75060,399990,,7.0,4.0
+2195,101 Decker Drive,Irving,75062,453900,,2.0,3.0
+2196,629 Courtyard Lane,Irving,75039,526851,,4.0,4.0
+2197,6776 Verandah Way,Irving,75039,528327,,4.0,4.0
+2198,1712 W 7th Street,Irving,75060,610000,,3.0,2.0
+2199,4759 Byron Circle,Irving,75038,965000,,4.0,6.0
+2200,300 Golf Club Drive,Irving,75038,1112000,,2.0,3.0
+2201,4401 Windsor Ridge Drive,Irving,75038,2300000,,5.0,10.0
+2202,1816 Peabody Avenue,Dallas,75215,175000,,3.0,2.0
+2203,2000 Park Avenue,Dallas,75215,1825000,,7.0,12.0
+2204,2805 South Boulevard,Dallas,75215,185000,,3.0,2.0
+2205,1823 S Ervay Street,Dallas,75215,347500,,2.0,2.0
+2206,3526 Parnell Street,Dallas,75215,189900,,4.0,2.0
+2207,3508 Booker Street,Dallas,75215,175000,,3.0,2.0
+2208,2309 Jordan Street,Dallas,75215,100000,,4.0,2.0
+2209,1529 Cosette Drive,Dallas,75215,499900,,2.0,3.0
+2210,1537 Cosette Drive,Dallas,75215,509900,,2.0,3.0
+2211,3820 Colonial Avenue,Dallas,75215,183990,,3.0,2.0
+2212,3037 Warren Avenue,Dallas,75215,225000,,3.0,2.0
+2213,1728 Stoneman Street,Dallas,75215,300000,,3.0,3.0
+2214,4423 Colonial Avenue,Dallas,75215,165000,,3.0,2.0
+2215,3204 Tuskegee Street,Dallas,75215,146990,,3.0,2.0
+2216,4107 East Side Avenue,Dallas,75226,199900,,2.0,2.0
+2217,1476 Hollow Ridge Drive,Carrollton,75007,412000,,4.0,3.0
+2218,3550 Country Square Drive,Carrollton,75006,190000,,2.0,3.0
+2219,1605 Baxley Street,Carrollton,75006,220000,,2.0,1.0
+2220,2165 Villa Place,Carrollton,75006,229900,,3.0,2.0
+2221,2102 Willowgate Lane,Carrollton,75006,230400,,2.0,2.0
+2222,2205 Cedarcrest Drive,Carrollton,75007,240000,,2.0,2.0
+2223,2615 Medina Drive,Carrollton,75007,240000,,3.0,2.0
+2224,2109 Via Estrada,Carrollton,75006,270000,,3.0,3.0
+2225,3005 Hyde Court,Carrollton,75007,275000,,3.0,2.0
+2226,1514 Cecil Drive,Carrollton,75006,303000,,3.0,2.0
+2227,1305 Dallshan Drive,Carrollton,75007,317550,,3.0,3.0
+2228,2749 Carmel Drive,Carrollton,75006,340000,,3.0,3.0
+2229,4670 Rhett Lane,Carrollton,75010,349900,,3.0,3.0
+2230,3817 Harrison Drive,Carrollton,75010,425000,,4.0,2.0
+2231,7 Country Lake Drive,Carrollton,75006,459900,,3.0,3.0
+2232,2640 Via La Paloma,Carrollton,75006,179900,,2.0,2.0
+2233,2106 Holly Hill Lane,Carrollton,75007,237300,,2.0,2.0
+2234,2105 Yewpon Court,Carrollton,75007,255000,,3.0,2.0
+2235,2105 Yewpon CT,Carrollton,75007,255000,,3.0,2.0
+2236,2225 Chapman Drive,Carrollton,75010,290000,,3.0,3.0
+2237,1901 Primrose Lane,Carrollton,75007,315000,,3.0,2.0
+2238,2022 Wedgewood Lane,Carrollton,75006,325000,,4.0,2.0
+2239,1352 Marken Court,Carrollton,75007,340000,,4.0,3.0
+2240,1932 Chesham Drive,Carrollton,75007,345000,,4.0,3.0
+2241,1533 Joy Drive,Carrollton,75007,359900,,3.0,3.0
+2242,2303 Castle Rock Road,Carrollton,75007,409900,,3.0,3.0
+2243,2152 Spencer Lane,Carrollton,75010,429000,,3.0,2.0
+2244,4678 Dozier Road,Carrollton,75010,429900,,3.0,3.0
+2245,1528 Olive Street,Carrollton,75006,437102,,3.0,3.0
+2246,4872 Haven Ridge Road,Carrollton,75010,440000,,3.0,2.0
+2247,1545 Kessler Drive,Carrollton,75006,479225,,3.0,3.0
+2248,1508 Jackson Street,Carrollton,75006,532018,,3.0,3.0
+2249,4720 Alexander Drive,Carrollton,75010,544900,,4.0,4.0
+2250,4461 Young Drive,Carrollton,75010,649900,,5.0,4.0
+2251,1508 Prairie Drive,Carrollton,75007,650000,,5.0,4.0
+2252,2412 Cardinal BLVD,Carrollton,75010,819999,,4.0,5.0
+2253,2412 Cardinal Boulevard,Carrollton,75010,819999,,4.0,5.0
+2254,2035 Clubridge Drive,Carrollton,75006,210000,,3.0,2.0
+2255,1603 Baxley Street,Carrollton,75006,240000,,2.0,2.0
+2256,2119 Via Estrada,Carrollton,75006,245000,,3.0,3.0
+2257,2702 Creek Wood Court,Carrollton,75006,250000,,3.0,2.0
+2258,1909 Rambling Ridge Lane,Carrollton,75007,289900,,3.0,2.0
+2259,2127 Mcparland Court,Carrollton,75006,292500,,2.0,3.0
+2260,3100 Delaford Drive,Carrollton,75007,345000,,3.0,2.0
+2261,1100 Yorkshire Drive,Carrollton,75007,399999,,4.0,2.0
+2262,2260 Red Mule Lane,Carrollton,75010,470000,,4.0,3.0
+2263,2412 Via Bonita,Carrollton,75006,319997,,3.0,3.0
+2264,2861 Edinburgh Drive,Carrollton,75006,350000,,3.0,3.0
+2265,2239 Woodcreek,Carrollton,75006,380000,,4.0,3.0
+2266,1222 Sycamore Drive,Carrollton,75007,384900,,4.0,3.0
+2267,1220 W Trinity Mills Road,Carrollton,75006,199000,,1.0,2.0
+2268,1220 W Trinity Mills Road,Carrollton,75006,259000,,2.0,3.0
+2269,1220 W Trinity Mills Road,Carrollton,75006,299000,,3.0,3.0
+2270,2623 W Wentwood Drive,Carrollton,75007,299000,,4.0,2.0
+2271,1504 Caldwell Circle,Carrollton,75010,329900,,3.0,2.0
+2272,3627 Field Stone Drive,Carrollton,75007,500000,,5.0,4.0
+2273,1013 E Alan Avenue,Carrollton,75006,234000,,3.0,1.0
+2274,2249 Heartside Place,Carrollton,75006,250000,,3.0,2.0
+2275,2008 Toulon Lane,Carrollton,75007,285000,,3.0,2.0
+2276,4213 Harvest Hill Road,Carrollton,75010,340000,,3.0,3.0
+2277,1111 Pawnee Trail,Carrollton,75007,359900,,4.0,3.0
+2278,2635 Via Valencia,Carrollton,75006,219500,,3.0,2.0
+2279,3123 Oak Hill Road,Carrollton,75007,280000,,3.0,2.0
+2280,4121 Indian Run Drive,Carrollton,75010,310000,,2.0,3.0
+2281,1717 Brookview Drive,Carrollton,75007,319000,,3.0,3.0
+2282,2204 Ridgewood,Carrollton,75006,339000,,3.0,2.0
+2283,1002 Ridgeview,Carrollton,75007,365000,,3.0,2.0
+2284,2240 Longwood Drive,Carrollton,75010,429900,,3.0,3.0
+2285,2409 Mare Road,Carrollton,75010,535000,,3.0,2.0
+2286,3609 Cimarron Drive,Carrollton,75007,544900,,4.0,4.0
+2287,2205 Montclair Drive,Carrollton,75007,215000,,3.0,3.0
+2288,3141 Riverside Drive,Carrollton,75007,335000,,3.0,3.0
+2289,2785 Troutt Drive,Carrollton,75010,341900,,3.0,4.0
+2290,1336 Riley Drive,Carrollton,75007,355000,,3.0,3.0
+2291,4365 Onyx Drive,Carrollton,75010,363000,,4.0,3.0
+2292,2265 Jackson Circle,Carrollton,75006,250000,,3.0,3.0
+2293,2910 Menlo Park Lane,Carrollton,75007,299000,,3.0,2.0
+2294,2401D Cort Drive,Carrollton,75010,359000,,3.0,3.0
+2295,1024 Caprock Lane,Carrollton,75010,550000,,4.0,3.0
+2296,5132 Steinbeck Street,Carrollton,75010,1100000,,4.0,6.0
+2297,1600 Baxley Street,Carrollton,75006,220000,,2.0,1.0
+2298,2660 Via La Paloma,Carrollton,75006,225000,,3.0,2.0
+2299,2986 Buttonwood Drive,Carrollton,75006,278000,,3.0,3.0
+2300,2904 Sierra Drive,Carrollton,75007,305000,,4.0,2.0
+2301,2511 Sunridge Road,Carrollton,75006,370000,,3.0,2.0
+2302,1024 Nottingham Drive,Carrollton,75007,375000,,3.0,3.0
+2303,2321 Highland Heights Lane,Carrollton,75007,420000,,4.0,3.0
+2304,4549 Tall Knight Lane,Carrollton,75010,718000,,5.0,4.0
+2305,2121 Travis Drive,Carrollton,75006,190000,,3.0,2.0
+2306,1831 BRIARCREST Cove,Carrollton,75006,229900,,3.0,2.0
+2307,2309 Smoky Hill Road,Carrollton,75006,230000,,3.0,2.0
+2308,1724 Alpine Drive,Carrollton,75007,300000,,3.0,3.0
+2309,4540 Sir Craig Drive,Carrollton,75010,539900,,4.0,3.0
+2310,3936 Freshwater Drive,Carrollton,75007,620000,,4.0,4.0
+2311,1901 Greenbrook Drive,Carrollton,75006,354900,,3.0,3.0
+2312,2437 Mare Road,Carrollton,75010,625000,,4.0,3.0
+2313,1845 Burning Tree Lane,Carrollton,75006,265000,,4.0,2.0
+2314,2313 Bella Court,Carrollton,75010,445000,,3.0,3.0
+2315,2331 Aberdeen Place,Carrollton,75007,565000,,4.0,4.0
+2316,2540 Green Oak Drive,Carrollton,75010,624999,,4.0,4.0
+2317,3112 Mayfair Drive,Carrollton,75007,280000,,3.0,2.0
+2318,4505 Tall Knight Lane,Carrollton,75010,545000,,4.0,3.0
+2319,5008 Sage Hill Drive,Carrollton,75010,700000,,4.0,4.0
+2320,4200 Mann CT,Carrollton,75010,790000,,4.0,5.0
+2321,3833 Harrison Drive,Carrollton,75010,315000,,3.0,2.0
+2322,1835 S Perry Road,Carrollton,75006,365000,,4.0,3.0
+2323,5017 Sage Hill Drive,Carrollton,75010,610000,,3.0,3.0
+2324,2312 Placid Drive,Carrollton,75007,255000,,3.0,2.0
+2325,1838 Castille Drive,Carrollton,75007,319500,,3.0,2.0
+2326,2124 Larkspur Drive,Carrollton,75010,365000,,3.0,3.0
+2327,2503 Nature Bend Lane,Carrollton,75006,369000,,3.0,2.0
+2328,3203 Hillpark Lane,Carrollton,75007,389000,,4.0,3.0
+2329,1742 Auburn Drive,Carrollton,75007,490000,,4.0,4.0
+2330,3636 Canyon Oaks Drive,Carrollton,75007,515000,,5.0,4.0
+2331,4044 Windy Crest Circle,Carrollton,75007,400000,,4.0,3.0
+2332,2316 Greenhill Drive,Carrollton,75006,309500,,4.0,2.0
+2333,1802 Dew Valley Drive,Carrollton,75010,425000,,5.0,3.0
+2334,2919 Rayswood Drive,Carrollton,75007,274900,,3.0,2.0
+2335,2111 Daniel Way,Carrollton,75006,310000,,4.0,3.0
+2336,3920 Luke Lane,Carrollton,75007,375000,,3.0,3.0
+2337,4909 Sage Hill Drive,Carrollton,75010,429900,,3.0,3.0
+2338,2723 Creek Wood Court,Carrollton,75006,149000,,4.0,2.0
+2339,2810 Cliffbrook Drive,Carrollton,75007,285000,,3.0,2.0
+2340,1921 Meadowview Court,Carrollton,75010,290000,,3.0,3.0
+2341,1533 Kessler Drive,Carrollton,75006,479412,,3.0,3.0
+2342,4216 Colton Drive,Carrollton,75010,499999,,3.0,3.0
+2343,4649 Stone Oak Drive,Carrollton,75010,654900,,4.0,4.0
+2344,2517 Rosebud Circle,Carrollton,75006,350000,,4.0,3.0
+2345,1607 E Peters Colony Road,Carrollton,75007,287000,,4.0,2.0
+2346,2263 Jackson Circle,Carrollton,75006,200000,,2.0,2.0
+2347,2824 Kings Gate Drive,Carrollton,75006,280000,,4.0,2.0
+2348,2212 Colonial Place,Carrollton,75007,243000,,3.0,2.0
+2349,2107 Albert Road,Carrollton,75007,285000,,3.0,2.0
+2350,2200 San Simeon Place,Carrollton,75006,325000,,3.0,2.0
+2351,1814 Tree Line Drive,Carrollton,75007,336900,,4.0,2.0
+2352,1422 Mapleview Drive,Carrollton,75007,340000,,3.0,2.0
+2353,1511 Estates Way,Carrollton,75006,495000,,5.0,4.0
+2354,2743 Timberleaf,Carrollton,75006,325000,,4.0,2.0
+2355,2144 Bailey Street,Carrollton,75010,525000,,4.0,4.0
+2356,1307 E Branch Hollow DR,Carrollton,75007,329900,,4.0,2.0
+2357,2003 Meadfoot Road,Carrollton,75007,230000,,3.0,2.0
+2358,4237 Colton Drive,Carrollton,75010,529900,,3.0,3.0
+2359,1100 W Trinity Mills Road,Carrollton,75006,235000,,2.0,2.0
+2360,1220 Trinity Mills Road,Carrollton,75006,299900,,2.0,3.0
+2361,1724 Lomar Drive,Carrollton,75007,560000,,5.0,5.0
+2362,2808 Prescott Drive,Carrollton,75006,286900,,3.0,2.0
+2363,1045 Rodin Lane,Carrollton,75006,335000,,4.0,4.0
+2364,4424 Benton Lane,Carrollton,75010,386778,,3.0,3.0
+2365,4420 Benton Lane,Carrollton,75010,390607,,3.0,3.0
+2366,4408 Benton Lane,Carrollton,75010,392910,,3.0,3.0
+2367,4404 Benton Lane,Carrollton,75010,401540,,3.0,3.0
+2368,4428 Benton Lane,Carrollton,75010,405684,,3.0,3.0
+2369,4416 Benton Lane,Carrollton,75010,408728,,3.0,3.0
+2370,4412 Benton Lane,Carrollton,75010,411752,,3.0,3.0
+2371,1123 Holly Drive,Carrollton,75010,309900,,3.0,2.0
+2372,1012 Thomas Place,Carrollton,75006,352000,,3.0,3.0
+2373,1061 Thomas Place,Carrollton,75006,352000,,3.0,3.0
+2374,1028 Thomas Place,Carrollton,75006,393000,,3.0,2.0
+2375,1603 Marsh Lane #305,Carrollton,75006,168900,,2.0,2.0
+2376,5009 Steinbeck Street,Carrollton,75010,875000,,4.0,7.0
+2377,4321 Saginaw Lane,Carrollton,75010,580000,,5.0,5.0
+2378,3736 Muirfield Drive,Carrollton,75007,479900,,4.0,4.0
+2379,2210 Meadowstone Drive,Carrollton,75006,325000,,3.0,3.0
+2380,1053 Thomas Place,Carrollton,75006,380000,,3.0,3.0
+2381,1802 Willow Road,Carrollton,75006,248000,,4.0,2.0
+2382,1065 Thomas Place,Carrollton,75006,362000,,3.0,3.0
+2383,2211 San Simeon,Carrollton,75006,340000,,4.0,2.0
+2384,2932 Woodcroft CIR,Carrollton,75006,265000,,3.0,3.0
+2385,2003 Greenstone Trail,Carrollton,75010,270000,,3.0,2.0
+2386,2837 Troutt Drive,Carrollton,75010,382647,,2.0,3.0
+2387,2833 Troutt Drive,Carrollton,75010,392990,,3.0,3.0
+2388,2849 Troutt Drive,Carrollton,75010,399990,,3.0,3.0
+2389,1544 Jackson Street,Carrollton,75006,460673,,3.0,3.0
+2390,1524 Jackson Street,Carrollton,75006,446395,,3.0,3.0
+2391,1515 Jackson Street,Carrollton,75006,374771,,3.0,3.0
+2392,1509 Jackson Street,Carrollton,75006,355859,,3.0,3.0
+2393,1513 Jackson Street,Carrollton,75006,356203,,3.0,3.0
+2394,2841 Troutt Drive,Carrollton,75010,398990,,3.0,3.0
+2395,2845 Troutt Drive,Carrollton,75010,439431,,3.0,3.0
+2396,2424 Guerrero Drive,Carrollton,75006,495000,,6.0,4.0
+2397,3550 Country Square,Carrollton,75006,124900,,2.0,1.0
+2398,1601 Marsh Lane,Carrollton,75006,129900,,1.0,1.0
+2399,2007 Cedarwood Drive,Carrollton,75007,255000,,3.0,2.0
+2400,2102 Victoria,Carrollton,75007,270000,,4.0,2.0
+2401,2304 McCoy Court,Carrollton,75006,330000,,3.0,3.0
+2402,3636 Fuchsia Drive,Carrollton,75007,330500,,3.0,3.0
+2403,4690 Dozier Road,Carrollton,75010,333900,,3.0,3.0
+2404,2700 OLD DENTON Road,Carrollton,75007,338625,,2.0,2.0
+2405,1009 Thomas Place,Carrollton,75006,341000,,3.0,3.0
+2406,2100 Greenstone Trail,Carrollton,75010,349000,,4.0,3.0
+2407,4405 Benton Lane,Carrollton,75010,369990,,2.0,3.0
+2408,4401 Benton Lane,Carrollton,75010,381990,,3.0,3.0
+2409,4425 Benton Lane,Carrollton,75010,389990,,3.0,3.0
+2410,4216 Eastwood Drive,Carrollton,75010,399900,,4.0,3.0
+2411,2829 Troutt Drive,Carrollton,75010,402990,,3.0,3.0
+2412,1520 Jackson Street,Carrollton,75006,453369,,3.0,3.0
+2413,1514 Cecil Drive,Carrollton,75006,303000,,3.0,2.0
+2414,1603 Baxley Street,Carrollton,75006,240000,,2.0,2.0
+2415,1605 Baxley Street,Carrollton,75006,220000,,2.0,1.0
+2416,1831 BRIARCREST Cove,Carrollton,75006,229900,,3.0,2.0
+2417,1600 Baxley Street,Carrollton,75006,220000,,2.0,1.0
+2418,1545 Kessler Drive,Carrollton,75006,479225,,3.0,3.0
+2419,1544 Jackson Street,Carrollton,75006,460673,,3.0,3.0
+2420,1533 Kessler Drive,Carrollton,75006,479412,,3.0,3.0
+2421,1524 Jackson Street,Carrollton,75006,446395,,3.0,3.0
+2422,1520 Jackson Street,Carrollton,75006,453369,,3.0,3.0
+2423,1508 Jackson Street,Carrollton,75006,532018,,3.0,3.0
+2424,3777 Lakeway Court,Addison,75001,450000,,3.0,2.0
+2425,3756 Woodshadow Lane,Addison,75001,469900,,4.0,3.0
+2426,5029 Calloway Drive,Addison,75001,500000,,3.0,4.0
+2427,4004 Morman Lane,Addison,75001,339500,,3.0,2.0
+2428,14730 Celestial Place,Addison,75254,975000,,3.0,4.0
+2429,5017 Morris Avenue,Addison,75001,429000,,3.0,3.0
+2430,4067 Beltway Drive,Addison,75001,212000,,2.0,3.0
+2431,5505 Celestial Road,Addison,75254,2795000,,5.0,8.0
+2432,3820 Waterford Drive,Addison,75001,429900,,3.0,2.0
+2433,14597 Waterview Circle,Addison,75001,448000,,3.0,2.0
+2434,4132 Runyon Road,Addison,75001,613000,,3.0,4.0
+2435,16301 Ledgemont Lane,Addison,75001,194900,,2.0,2.0
+2436,14955 Oak Road,Addison,75001,385000,,2.0,3.0
+2437,3920 Amberwood Drive,Addison,75001,395000,,3.0,4.0
+2438,16301 Ledgemont Lane,Addison,75001,160000,,2.0,2.0
+2439,16301 Ledgemont Lane,Addison,75001,129900,,1.0,1.0
+2440,4106 Runyon Road,Addison,75001,331900,,1.0,3.0
+2441,14815 Surveyor Boulevard,Addison,75001,369000,,2.0,3.0
+2442,3916 Amberwood Drive,Addison,75001,399900,,3.0,4.0
+2443,3834 Canot Lane,Addison,75001,495000,,3.0,3.0
+2444,14588 Poe Court,Addison,75001,449900,,3.0,3.0
+2445,4130 Proton Drive,Addison,75001,195000,,1.0,2.0
+2446,15875 Spectrum Drive,Addison,75001,439000,,3.0,3.0
+2447,5055 Addison Circle,Addison,75001,385000,,2.0,3.0
+2448,5055 Addison Circle,Addison,75001,255000,,1.0,1.0
+2449,4102 Oberlin Way,Addison,75001,349000,,3.0,3.0
+2450,5055 Addison Circle,Addison,75001,384900,,2.0,2.0
+2451,15875 Spectrum Drive,Addison,75001,404000,,2.0,2.0
+2452,14975 Oak Street,Addison,75001,591000,,3.0,4.0
+2453,15875 Spectrum Drive,Addison,75001,445000,,3.0,3.0
+2454,14965 Oak Street,Addison,75001,590000,,3.0,4.0
+2455,14947 Oak Street,Addison,75001,485000,,3.0,4.0
+2456,14949 Oak Street,Addison,75001,475000,,3.0,4.0
+2457,14961 Oak Street,Addison,75001,599000,,3.0,4.0
+2458,15875 Spectrum Drive,Addison,75001,395000,,2.0,2.0
+2459,14816 Bellbrook Drive,Addison,75254,1877000,,3.0,7.0
+2460,5055 Addison Circle,Addison,75001,395000,,2.0,3.0
+2461,5055 Addison Circle,Addison,75001,347500,,3.0,2.0
+2462,14977 Oak Street,Addison,75001,594000,,3.0,4.0
+2463,15762 Seabolt,Addison,75001,449900,,3.0,4.0
+2464,15875 Spectrum Drive,Addison,75001,375000,,2.0,2.0
+2465,3940 Asbury Lane,Addison,75001,385000,,4.0,4.0
+2466,15875 Spectrum Drive,Addison,75001,385000,,2.0,2.0
+2467,15875 Spectrum Drive,Addison,75001,425000,,3.0,3.0
+2468,15875 Spectrum Drive,Addison,75001,435000,,3.0,3.0
+2469,15875 Spectrum Drive,Addison,75001,449000,,3.0,3.0
+2470,15875 Spectrum Drive,Addison,75001,454380,,3.0,3.0
+2471,15875 Spectrum Drive,Addison,75001,454949,,3.0,3.0
+2472,15875 Spectrum Drive,Addison,75001,455000,,3.0,3.0
+2473,15875 Spectrum Drive,Addison,75001,459000,,3.0,3.0
+2474,15875 Spectrum Drive,Addison,75001,465000,,3.0,3.0
+2475,15875 Spectrum Drive,Addison,75001,469000,,3.0,3.0
+2476,14981 Oak Street,Addison,75001,495900,,3.0,4.0
+2477,14929 Havenshire Place,Addison,75254,2195000,,4.0,6.0
+2478,25 Glen Abbey Drive,Dallas,75248,5895000,,4.0,8.0
+2479,5508 Bent Trail,Dallas,75248,825000,,4.0,4.0
+2480,5007 Briar Tree Drive,Dallas,75248,569000,,4.0,4.0
+2481,5017 Briar Tree Drive,Dallas,75248,520000,,3.0,4.0
+2482,17201 Meadow Tree Circle,Dallas,75248,509900,,3.0,4.0
+2483,8 Green Park,Dallas,75248,2795000,,5.0,7.0
+2484,14929 Havenshire Place,Addison,75254,2195000,,4.0,6.0
+2485,39 Braewood Place,Dallas,75248,3795000,,5.0,7.0
+2486,23 Ash Bluff Lane,Dallas,75248,7500000,,7.0,9.0
+2487,14 Abbey Creek Way,Dallas,75248,1249000,,3.0,3.0
+2488,31 Abbey Creek Way,Dallas,75248,1650000,,3.0,4.0
+2489,1609 Promontory Drive,Cedar Hill,75104,1225000,,5.0,7.0
+2490,807 Clover Hill Lane,Cedar Hill,75104,239900,,3.0,2.0
+2491,716 High Drive,Cedar Hill,75104,280000,,3.0,2.0
+2492,1129 Wishing Well Court,Cedar Hill,75104,454000,,5.0,3.0
+2493,732 W Parkerville Road,Cedar Hill,75104,199000,,3.0,1.0
+2494,1084 Magnolia Lane,Cedar Hill,75104,259900,,4.0,2.0
+2495,422 Hageman Lane,Cedar Hill,75104,430000,,5.0,5.0
+2496,2303 Autumn Run Court,Cedar Hill,75104,615000,,4.0,4.0
+2497,500 Grand Teton Street,Cedar Hill,75104,179997,,3.0,2.0
+2498,438 Tranquility Lane,Cedar Hill,75104,260000,,3.0,2.0
+2499,722 Cindy Drive,Cedar Hill,75104,274900,,3.0,3.0
+2500,821 Witherspoon Court,Cedar Hill,75104,200000,,3.0,4.0
+2501,122 Cooper Street,Cedar Hill,75104,225000,,3.0,2.0
+2502,407 Mckinley Street,Cedar Hill,75104,275000,,5.0,3.0
+2503,519 Antoine Street,Cedar Hill,75104,158000,,3.0,1.0
+2504,1306 Flagstone,Cedar Hill,75104,276000,,3.0,2.0
+2505,1019 Essex Drive,Cedar Hill,75104,246000,,3.0,2.0
+2506,426 Hageman,Cedar Hill,75104,360000,,4.0,3.0
+2507,929 Vedral Place #929,Cedar Hill,75104,134500,,3.0,3.0
+2508,731 Hawthorn Drive,Cedar Hill,75104,245900,,4.0,2.0
+2509,301 Oak Lane,Cedar Hill,75104,268000,,5.0,3.0
+2510,729 Gibson Street,Cedar Hill,75104,285000,,4.0,3.0
+2511,1507 Baker Drive,Cedar Hill,75104,249900,,3.0,2.0
+2512,1422 Baker Drive,Cedar Hill,75104,260000,,3.0,2.0
+2513,765 Lowe Drive,Cedar Hill,75104,258990,,4.0,3.0
+2514,1320 N Cedar Hill Road,Cedar Hill,75104,1299000,,5.0,9.0
+2515,324 Wentwood Drive,Cedar Hill,75104,250000,,3.0,2.0
+2516,2812 Sonterra Drive,Cedar Hill,75104,665000,,4.0,6.0
+2517,324 Texas Street,Cedar Hill,75104,145000,,1.0,1.0
+2518,2829 Eden Drive,Cedar Hill,75104,570000,,4.0,5.0
+2519,2813 Sonterra Drive,Cedar Hill,75104,749500,,4.0,4.0
+2520,1402 Samuel Street,Cedar Hill,75104,268000,,4.0,3.0
+2521,456 Dollins Street,Cedar Hill,75104,150000,,2.0,2.0
+2522,312 Birchwood Lane,Cedar Hill,75104,269900,,4.0,3.0
+2523,105 Sagittarius Drive,Cedar Hill,75104,190000,,3.0,2.0
+2524,1027 Aries Street,Cedar Hill,75104,226000,,4.0,2.0
+2525,700 Meandering Drive,Cedar Hill,75104,275000,,5.0,3.0
+2526,1027 E Wintergreen Road,Cedar Hill,75104,249999,,2.0,2.0
+2527,1110 Heather Circle,Cedar Hill,75104,490000,,5.0,4.0
+2528,507 Evergreen Trail,Cedar Hill,75104,295000,,3.0,2.0
+2529,2706 Fountain View Boulevard,Cedar Hill,75104,320000,,2.0,3.0
+2530,332 Windy Meadow Drive,Cedar Hill,75104,439900,,4.0,3.0
+2531,1027 E Wintergreen RD,Cedar Hill,75104,249999,,2.0,2.0
+2532,2613 Whispering Oaks Cove,Cedar Hill,75104,539900,,6.0,5.0
+2533,1020 Hampshire Lane,Cedar Hill,75104,345000,,5.0,3.0
+2534,1737 Valley View Drive,Cedar Hill,75104,1700000,,4.0,4.0
+2535,1420 Middleton Drive,Cedar Hill,75104,239990,,3.0,3.0
+2536,1449 Kingswood Drive,Cedar Hill,75104,292449,,3.0,2.0
+2537,806 Sleepy Hollow Drive,Cedar Hill,75104,355000,,5.0,4.0
+2538,1422 Peak Street,Cedar Hill,75104,850000,,5.0,6.0
+2539,914 Cresthaven Drive,Cedar Hill,75104,176645,,2.0,2.0
+2540,407 Mckinley Street,Cedar Hill,75104,285000,,5.0,3.0
+2541,1523 Spring Hill Drive,Cedar Hill,75104,414766,,4.0,4.0
+2542,810 Belclaire Circle,Cedar Hill,75104,579500,,5.0,5.0
+2543,1546 Regal Bluff Drive,Cedar Hill,75104,423488,,3.0,3.0
+2544,318 La Reata Court,Cedar Hill,75104,524900,,3.0,5.0
+2545,1089 Cove Hollow Drive,Cedar Hill,75104,265000,,4.0,3.0
+2546,416 Everest Court,Cedar Hill,75104,249000,,4.0,2.0
+2547,415 Meadow Ridge Drive,Cedar Hill,75104,242500,,3.0,2.0
+2548,324 Shady Brook Lane,Cedar Hill,75104,455000,,4.0,3.0
+2549,2449 Briarwood Cove,Cedar Hill,75104,530000,,4.0,4.0
+2550,807 Laurel Hills,Cedar Hill,75104,480000,,4.0,3.0
+2551,2422 Creekwood Drive,Cedar Hill,75104,1800000,,7.0,9.0
+2552,1516 Curtis Lane,Cedar Hill,75104,160000,,3.0,2.0
+2553,822 Clover Hill Lane,Cedar Hill,75104,330000,,4.0,3.0
+2554,1523 Legacy Drive,Cedar Hill,75104,386282,,3.0,2.0
+2555,1507 Legacy Dr. Drive,Cedar Hill,75104,419001,,4.0,3.0
+2556,2449 Mountain View Court,Cedar Hill,75104,9950000,,8.0,10.0
+2557,732 W Parkerville Road,Cedar Hill,75104,199000,,3.0,1.0
+2558,731 Hawthorn Drive,Cedar Hill,75104,245900,,4.0,2.0
+2559,1449 Kingswood Drive,Cedar Hill,75104,292449,,3.0,2.0
+2560,1110 Heather Circle,Cedar Hill,75104,490000,,5.0,4.0
+2561,324 Texas Street,Cedar Hill,75104,145000,,1.0,1.0
+2562,438 Tranquility Lane,Cedar Hill,75104,260000,,3.0,2.0
+2563,729 Gibson Street,Cedar Hill,75104,285000,,4.0,3.0
+2564,415 Meadow Ridge Drive,Cedar Hill,75104,242500,,3.0,2.0
+2565,1412 Ravenwood DR,Arlington,76013,199000,,3.0,2.0
+2566,1908 Cloisters Drive,Arlington,76011,143000,,2.0,1.0
+2567,1815 E Timberview Lane,Arlington,76014,185000,,3.0,2.0
+2568,4810 Ashworth Court,Arlington,76017,220000,,3.0,2.0
+2569,966 Grasswood Court,Arlington,76017,245000,,3.0,2.0
+2570,6522 Tempest Drive,Arlington,76001,249900,,3.0,2.0
+2571,3702 Fort Hunt Drive,Arlington,76016,269990,,3.0,2.0
+2572,1917 Creek Wood Drive,Arlington,76006,299500,,4.0,3.0
+2573,2003 Reverchon Drive,Arlington,76017,325000,,4.0,3.0
+2574,3608 Antares Way,Arlington,76016,399000,,4.0,4.0
+2575,3103 Alps Court,Arlington,76012,495000,,4.0,3.0
+2576,5405 Rome Court,Arlington,76017,579000,,4.0,4.0
+2577,7371 June Evening Drive,Arlington,76001,90000,,3.0,2.0
+2578,1617 Carswell Terrace,Arlington,76010,140000,,3.0,1.0
+2579,2010 Brookshire Street,Arlington,76010,149000,,3.0,1.0
+2580,1916 Melissa Street,Arlington,76010,155000,,2.0,1.0
+2581,109 Pine Street,Arlington,76011,163900,,3.0,1.0
+2582,331 Valley Spring Drive,Arlington,76018,199000,,3.0,2.0
+2583,1811 W Tucker Boulevard,Arlington,76013,209900,,3.0,2.0
+2584,1004 Hensley Street,Arlington,76010,210000,,4.0,2.0
+2585,404 Waterford Circle,Arlington,76014,218000,,3.0,2.0
+2586,1511 Glenwillow Drive,Arlington,76018,220000,,3.0,2.0
+2587,2405 Skylark Drive,Arlington,76010,224900,,4.0,2.0
+2588,4004 Cypress Springs Drive,Arlington,76001,225000,,3.0,2.0
+2589,3500 Hastings Drive,Arlington,76013,229000,,3.0,2.0
+2590,1004 W Lovers Lane,Arlington,76013,229995,,3.0,2.0
+2591,2802 Dover Gardens Drive,Arlington,76017,245000,,3.0,3.0
+2592,8421 Cotton Valley Lane,Arlington,76002,259900,,3.0,2.0
+2593,5731 Autumn Wheat Trail,Arlington,76017,265000,,4.0,3.0
+2594,3012 David Lane,Arlington,76013,275000,,4.0,3.0
+2595,1306 W Lavender Lane,Arlington,76013,279900,,4.0,3.0
+2596,3947 Cascade Sky Drive,Arlington,76005,282000,,2.0,3.0
+2597,2901 Pitkin Drive,Arlington,76006,285000,,3.0,3.0
+2598,3904 Castlehill Court,Arlington,76016,289900,,4.0,3.0
+2599,1615 Barclay Drive,Arlington,76018,290000,,4.0,2.0
+2600,908 Bert Drive,Arlington,76012,314900,,3.0,2.0
+2601,4615 Hillside Drive,Arlington,76013,315000,,4.0,3.0
+2602,2105 Oak Bluff Drive,Arlington,76006,315000,,4.0,3.0
+2603,514 Gunnison Drive,Arlington,76006,320000,,4.0,2.0
+2604,1513 Freeman Court,Arlington,76013,320000,,4.0,3.0
+2605,2201 Vail Court,Arlington,76012,325000,,3.0,3.0
+2606,6702 Saddle Ridge Road,Arlington,76016,349900,,3.0,2.0
+2607,673 Farmstead Drive,Arlington,76002,355000,,4.0,3.0
+2608,4301 Churchwood Drive,Arlington,76016,375000,,4.0,3.0
+2609,4804 Pier Nine Drive,Arlington,76016,382000,,4.0,3.0
+2610,2301 Point Star Drive,Arlington,76001,400000,,4.0,4.0
+2611,2605 Cypress Hills Court,Arlington,76006,485000,,4.0,3.0
+2612,2404 River Rock Circle,Arlington,76006,670000,,4.0,4.0
+2613,4328 Cobalt Bloom Court,Arlington,76005,869900,,4.0,4.0
+2614,1409 Sylvan Drive,Arlington,76012,180000,,3.0,2.0
+2615,921 Mckinney Street,Arlington,76012,200000,,3.0,2.0
+2616,6103 Tidewater Drive,Arlington,76018,219900,,3.0,2.0
+2617,1109 Paula Drive,Arlington,76012,222000,,3.0,2.0
+2618,317 Iberis Drive,Arlington,76018,228000,,3.0,3.0
+2619,301 Cecile Court,Arlington,76013,229900,,3.0,2.0
+2620,5918 Wind Drift Trail,Arlington,76017,230000,,3.0,2.0
+2621,4710 Andalusia Trail,Arlington,76017,240000,,3.0,2.0
+2622,2205 Polo Club Court,Arlington,76017,250000,,3.0,2.0
+2623,1811 Swaim Court,Arlington,76001,255000,,3.0,2.0
+2624,6015 Maple Leaf Drive,Arlington,76017,259999,,4.0,2.0
+2625,2014 Chantilly Court,Arlington,76015,274900,,3.0,2.0
+2626,7502 Marsland Lane,Arlington,76001,279990,,3.0,3.0
+2627,3108 Stornoway Trail,Arlington,76012,280000,,3.0,2.0
+2628,2514 Mustang Drive,Arlington,76001,289900,,4.0,2.0
+2629,1615 Barclay DR,Arlington,76018,290000,,4.0,2.0
+2630,9115 Acre Meadows Lane,Arlington,76002,300000,,3.0,2.0
+2631,1918 Rockbrook Drive,Arlington,76006,300000,,4.0,3.0
+2632,1209 Redbud Drive,Arlington,76012,310000,,4.0,3.0
+2633,6333 Weaver Drive,Arlington,76001,316000,,3.0,2.0
+2634,823 Ogden Drive,Arlington,76001,339900,,5.0,3.0
+2635,4505 Evening Elm Court,Arlington,76005,346439,,2.0,2.0
+2636,1917 Parktree Drive,Arlington,76001,349900,,4.0,3.0
+2637,1804 Oak Grove Drive,Arlington,76013,350000,,4.0,3.0
+2638,4511 Evening Elm Court,Arlington,76005,350477,,2.0,2.0
+2639,2207 New Mill Lane,Arlington,76012,375000,,4.0,3.0
+2640,8218 Holly Hock Drive,Arlington,76001,378900,,4.0,3.0
+2641,3704 Vista Chase Court,Arlington,76001,385000,,5.0,3.0
+2642,8231 Tombstone Drive,Arlington,76001,424900,,6.0,4.0
+2643,2700 Stonebriar Court,Arlington,76001,425000,,4.0,3.0
+2644,2320 Chimney Hill Drive,Arlington,76012,436000,,4.0,3.0
+2645,3502 Yachtclub Court,Arlington,76016,579000,,5.0,4.0
+2646,1328 Viridian Park Lane,Arlington,76005,579500,,4.0,4.0
+2647,4023 Jasmine Fox Lane,Arlington,76005,599999,,4.0,4.0
+2648,5524 Hunterwood Lane,Arlington,76017,615000,,4.0,4.0
+2649,6301 Walnut Springs Drive,Arlington,76001,139900,,3.0,2.0
+2650,2606 Brentwood Circle,Arlington,76013,160000,,3.0,2.0
+2651,827 Magnolia Street,Arlington,76012,169900,,2.0,1.0
+2652,709 Connally Terrace,Arlington,76010,175000,,3.0,2.0
+2653,808 Biggs Terrace,Arlington,76010,175500,,3.0,1.0
+2654,520 W Inwood Drive,Arlington,76010,196000,,4.0,1.0
+2655,1533 Connally Terrace,Arlington,76010,205000,,3.0,2.0
+2656,1409 Roanoke Street,Arlington,76014,219900,,4.0,2.0
+2657,6610 Saddle Ridge Road,Arlington,76016,243700,,3.0,2.0
+2658,903 Dunkirk Lane,Arlington,76017,245500,,3.0,2.0
+2659,5305 Hillcroft Avenue,Arlington,76018,249900,,3.0,2.0
+2660,1001 Gaye Lane,Arlington,76012,250000,,3.0,1.0
+2661,2012 Ravinia Circle,Arlington,76012,250000,,3.0,2.0
+2662,2303 Villanova Street,Arlington,76018,270000,,4.0,2.0
+2663,5108 Cory Court,Arlington,76017,289900,,3.0,2.0
+2664,1009 Briarcliff Drive,Arlington,76012,299000,,3.0,2.0
+2665,709 Castle Oak Court,Arlington,76012,309990,,3.0,3.0
+2666,6302 Weaver Drive,Arlington,76001,325000,,4.0,2.0
+2667,9214 Squirrel Run Court,Arlington,76002,334900,,4.0,2.0
+2668,2901 Redstone Drive,Arlington,76001,350000,,4.0,3.0
+2669,3412 Woodford Drive,Arlington,76013,420000,,3.0,3.0
+2670,2007 Thames Drive,Arlington,76017,465000,,5.0,3.0
+2671,418 Joyce Street,Arlington,76010,139900,,3.0,1.0
+2672,419 Darlene Lane,Arlington,76010,155000,,3.0,2.0
+2673,1118 Bell Street,Arlington,76001,179900,,3.0,2.0
+2674,925 Cedarland Boulevard,Arlington,76011,199000,,2.0,2.0
+2675,3004 Sunnybrook Lane,Arlington,76014,220000,,3.0,2.0
+2676,5518 Silver Maple Drive,Arlington,76018,220000,,3.0,2.0
+2677,1004 Hunter Ridge Drive,Arlington,76013,235000,,3.0,2.0
+2678,1040 Mazourka Drive,Arlington,76001,235000,,3.0,2.0
+2679,4417 Kelly Elliott Road,Arlington,76017,255000,,3.0,2.0
+2680,4117 CYPRESS SPRINGS Road,Arlington,76001,260000,,3.0,2.0
+2681,1912 Woods Drive,Arlington,76010,295000,,4.0,3.0
+2682,3823 Rochelle Drive,Arlington,76016,320000,,3.0,2.0
+2683,3406 Lynnwood Court,Arlington,76013,320000,,4.0,3.0
+2684,6302 Weaver DR,Arlington,76001,325000,,4.0,2.0
+2685,6905 Thornbird Lane,Arlington,76001,339900,,4.0,3.0
+2686,1108 River Park Drive,Arlington,76006,400000,,5.0,3.0
+2687,2219 Ridgeway Street,Arlington,76010,97000,,2.0,1.0
+2688,5617 Mansfield Road,Arlington,76017,119000,,2.0,2.0
+2689,1608 Pecan Chase Circle,Arlington,76012,125000,,2.0,2.0
+2690,1717 Jocyle Street,Arlington,76010,175000,,4.0,2.0
+2691,819 W Lonesome Dove Trail,Arlington,76001,209900,,3.0,2.0
+2692,2420 Jewell Drive,Arlington,76016,228000,,4.0,2.0
+2693,3708 French Wood Drive,Arlington,76016,229500,,3.0,2.0
+2694,3514 Elgenwood Trail,Arlington,76015,220000,,3.0,2.0
+2695,2309 Pheasant Trail,Arlington,76016,225000,,2.0,2.0
+2696,306 Lone Wolf Court,Arlington,76002,265000,,4.0,2.0
+2697,7405 Dodd Court,Arlington,76016,300000,,4.0,3.0
+2698,954 White Dove Drive,Arlington,76017,330000,,5.0,3.0
+2699,606 Eldoro Drive,Arlington,76006,340000,,4.0,3.0
+2700,5924 Walden Trail,Arlington,76016,349900,,4.0,2.0
+2701,4411 Three Oaks Drive,Arlington,76016,365000,,5.0,3.0
+2702,2702 Monarch Drive,Arlington,76006,435000,,4.0,4.0
+2703,2906 Shadow Drive W,Arlington,76006,2500000,,4.0,7.0
+2704,1712 Baird Farm Circle,Arlington,76006,89900,,1.0,1.0
+2705,1519 Camellia Drive,Arlington,76013,179900,,4.0,2.0
+2706,2505 Elm Forest Circle,Arlington,76006,198999,,2.0,4.0
+2707,2329 Lucas Drive,Arlington,76015,200000,,3.0,2.0
+2708,5825 Clarion Trail,Arlington,76017,215000,,3.0,2.0
+2709,5100 Hawkins Cemetery Road,Arlington,76017,229000,,3.0,2.0
+2710,915 Baldwin Drive,Arlington,76012,289900,,3.0,2.0
+2711,2312 Wakeforest Court,Arlington,76012,440000,,5.0,5.0
+2712,1002 Crowley Road,Arlington,76012,474900,,5.0,4.0
+2713,2324 Panorama Court,Arlington,76016,2700000,,7.0,13.0
+2714,1100 Harwell Drive,Arlington,76011,155000,,2.0,2.0
+2715,1803 Oak Tree Lane,Arlington,76013,175000,,3.0,1.0
+2716,2028 Menefee Street,Arlington,76010,185000,,3.0,1.0
+2717,296 Westview Terrace,Arlington,76013,200000,,3.0,3.0
+2718,201 Volunteer Drive,Arlington,76014,245000,,3.0,2.0
+2719,3610 Montridge Court,Arlington,76016,255000,,3.0,2.0
+2720,4306 Montpelier Court,Arlington,76017,260000,,3.0,2.0
+2721,1600 Shelmar Court,Arlington,76014,269500,,5.0,3.0
+2722,2423 S Pleasant Circle,Arlington,76015,285000,,4.0,2.0
+2723,907 Carthage Way,Arlington,76017,285000,,3.0,2.0
+2724,4341 Vine Ridge Court,Arlington,76017,299900,,4.0,3.0
+2725,9328 Moon River Drive,Arlington,76002,325000,,4.0,3.0
+2726,704 W Main Street,Arlington,76010,393470,,2.0,3.0
+2727,2201 Emerald Oaks Court,Arlington,76017,449000,,5.0,5.0
+2728,2611 Oates Lane,Arlington,76006,499000,,4.0,5.0
+2729,4734 Cherry Bark Trail,Arlington,76005,720000,,3.0,3.0
+2730,2300 Bamboo Drive,Arlington,76006,115000,,2.0,1.0
+2731,219 Overhill Drive,Arlington,76010,155000,,3.0,2.0
+2732,2014 Menefee Street,Arlington,76010,175000,,3.0,2.0
+2733,2606 Sherry Street,Arlington,76014,190000,,3.0,2.0
+2734,1706 Manchester Drive,Arlington,76012,215000,,3.0,2.0
+2735,5719 Myers Road,Arlington,76017,219900,,3.0,2.0
+2736,1707 E Park Row Drive,Arlington,76010,219999,,3.0,1.0
+2737,7125 GREENSPOINT Drive,Arlington,76001,220000,,3.0,2.0
+2738,5006 Bayberry Drive,Arlington,76017,225000,,3.0,2.0
+2739,901 Mulder Drive,Arlington,76001,230000,,3.0,2.0
+2740,5217 Vista Verde Drive,Arlington,76017,240000,,4.0,2.0
+2741,4924 Stage Line Drive,Arlington,76017,255000,,4.0,2.0
+2742,3902 Shady Valley Drive,Arlington,76013,275000,,4.0,3.0
+2743,811 Dunkirk Lane,Arlington,76017,275000,,4.0,2.0
+2744,4416 Terraview Drive,Arlington,76001,309990,,3.0,3.0
+2745,4139 Snow Goose Trail,Arlington,76005,315000,,3.0,3.0
+2746,4503 Long Island Lane,Arlington,76017,329900,,5.0,3.0
+2747,5505 Cavalry Post Drive,Arlington,76017,359900,,5.0,4.0
+2748,8204 SILVERTON Drive,Arlington,76001,370000,,4.0,3.0
+2749,706 N Center Street,Arlington,76011,374990,,3.0,3.0
+2750,2305 Bear Run Road,Arlington,76001,375000,,4.0,4.0
+2751,521 E Lynn Creek Drive,Arlington,76002,375000,,4.0,3.0
+2752,700 N Center Street,Arlington,76011,414990,,3.0,3.0
+2753,2200 NW Green Oaks Boulevard,Arlington,76012,3450000,,6.0,9.0
+2754,507 Valley Spring Drive,Arlington,76018,210000,,3.0,2.0
+2755,611 E Lynn Creek Drive,Arlington,76002,254900,,4.0,2.0
+2756,5614 Sarasota Drive,Arlington,76017,270000,,4.0,3.0
+2757,8314 Wesson Road,Arlington,76002,280000,,3.0,2.0
+2758,4702 Aramis Drive,Arlington,76016,319900,,4.0,3.0
+2759,7305 Bay Chase Drive,Arlington,76016,338000,,5.0,3.0
+2760,1531 Connally Terrace,Arlington,76010,194900,,3.0,2.0
+2761,1611 E Lovers Lane,Arlington,76010,215000,,3.0,2.0
+2762,407 E Lavender Lane E,Arlington,76010,218000,,3.0,2.0
+2763,4910 Green Hollow Drive,Arlington,76017,223700,,3.0,2.0
+2764,1415 Carswell Terrace,Arlington,76010,224900,,4.0,2.0
+2765,1718 Briar Meadow Drive,Arlington,76014,240000,,3.0,2.0
+2766,5909 Mission Ridge Drive,Arlington,76016,250000,,3.0,2.0
+2767,1510 Tatum Drive,Arlington,76012,275000,,3.0,3.0
+2768,3212 W Sublett Road,Arlington,76017,335000,,3.0,2.0
+2769,3115 Woodford Drive,Arlington,76013,339000,,5.0,3.0
+2770,4321 Garnet Jade Drive,Arlington,76005,389000,,4.0,3.0
+2771,3403 Cambridge Drive,Arlington,76013,405000,,4.0,3.0
+2772,1301 Saint Michaels Drive,Arlington,76011,140000,,1.0,1.0
+2773,2132 Hedgerow Street,Arlington,76010,157800,,3.0,1.0
+2774,4937 Highbank,Arlington,76018,210000,,3.0,2.0
+2775,6207 Minuteman Lane,Arlington,76002,224900,,3.0,3.0
+2776,3704 Ravenhill Lane,Arlington,76016,232500,,3.0,2.0
+2777,6108 Summerfield Drive,Arlington,76018,245000,,4.0,2.0
+2778,6500 Greenspring Drive,Arlington,76016,260000,,3.0,2.0
+2779,4702 Island Bay Drive,Arlington,76016,275000,,4.0,3.0
+2780,4304 Meadow Hawk Drive,Arlington,76005,415000,,3.0,3.0
+2781,4401 Murwick Drive,Arlington,76016,524900,,5.0,4.0
+2782,2612 Roberts Circle,Arlington,76010,179900,,3.0,2.0
+2783,1819 Will Scarlet Road,Arlington,76013,185000,,3.0,1.0
+2784,5404 Grissom Drive,Arlington,76016,224900,,3.0,2.0
+2785,6203 Vista Wood Drive,Arlington,76017,318000,,3.0,3.0
+2786,3903 Silkwood Trail,Arlington,76016,379000,,4.0,3.0
+2787,2404 Vintage Drive,Arlington,76001,389000,,4.0,3.0
+2788,1408 Helen Circle,Arlington,76011,199000,,3.0,2.0
+2789,1907 River Bend Road,Arlington,76014,215000,,4.0,2.0
+2790,722 Sendero Drive,Arlington,76002,265000,,3.0,2.0
+2791,2207 Franklin Drive,Arlington,76011,285000,,3.0,2.0
+2792,2401 St Gregory Street,Arlington,76013,297000,,3.0,3.0
+2793,1305 Autumn Mist Way,Arlington,76005,449900,,4.0,3.0
+2794,1208 Horizon Trail,Arlington,76011,125000,,2.0,1.0
+2795,2010 Cloisters Drive,Arlington,76011,165000,,2.0,2.0
+2796,1507 Hillcrest Drive,Arlington,76010,175000,,3.0,2.0
+2797,2507 Pinegrove Circle,Arlington,76006,200000,,3.0,3.0
+2798,903 Moorhead Court,Arlington,76014,249900,,3.0,2.0
+2799,123 Volunteer Drive,Arlington,76014,249900,,3.0,2.0
+2800,116 W Lavender Lane,Arlington,76010,265000,,3.0,2.0
+2801,1608 Northridge Drive,Arlington,76012,269900,,3.0,3.0
+2802,1928 Salt Flats Trail,Arlington,76002,284900,,4.0,3.0
+2803,706 N Emma Drive,Arlington,76002,292000,,3.0,2.0
+2804,5304 BRADLEY Lane,Arlington,76017,299999,,4.0,3.0
+2805,3608 Tristan Court,Arlington,76016,399700,,4.0,7.0
+2806,6504 Saddle Ridge,Arlington,76016,435000,,4.0,3.0
+2807,1820 Spotted Fawn Drive,Arlington,76005,481787,,2.0,2.0
+2808,1401 Cardinal Street,Arlington,76010,99500,,3.0,1.0
+2809,1608 Pecan Chase Circle 41,Arlington,76012,125000,,2.0,2.0
+2810,1815 Edna Street,Arlington,76010,165000,,2.0,1.0
+2811,510 Salem Drive,Arlington,76014,199500,,4.0,2.0
+2812,2006 Bay Oaks Drive,Arlington,76012,255000,,3.0,2.0
+2813,704 Underhill Drive,Arlington,76002,290000,,3.0,2.0
+2814,3600 Lake Champlain Drive,Arlington,76016,325000,,4.0,3.0
+2815,3623 Lake Pontchartrain Drive,Arlington,76016,335000,,4.0,3.0
+2816,2430 Cloverdale Street,Arlington,76010,199900,,4.0,2.0
+2817,5403 Creek Valley Drive,Arlington,76018,219900,,2.0,1.0
+2818,6600 W Lynn Creek Drive,Arlington,76001,220000,,3.0,2.0
+2819,1706 Rockdale Drive,Arlington,76018,244900,,4.0,2.0
+2820,2409 Windy Pine Lane,Arlington,76015,245000,,4.0,4.0
+2821,7116 Greenspring Drive,Arlington,76016,265000,,4.0,3.0
+2822,1901 Los Cabos Lane,Arlington,76012,369900,,3.0,2.0
+2823,2701 W Green Oaks Boulevard,Arlington,76016,385000,,4.0,2.0
+2824,3818 Plum Vista Place,Arlington,76005,700000,,4.0,4.0
+2825,2112 Amesbury Drive,Arlington,76011,149900,,2.0,1.0
+2826,1744 Sharon Street,Arlington,76010,164900,,3.0,1.0
+2827,456 Westview Terrace,Arlington,76013,194900,,3.0,3.0
+2828,203 Ray Street,Arlington,76010,199000,,3.0,1.0
+2829,2114 Reflection Bay Drive,Arlington,76013,215000,,2.0,2.0
+2830,2309 Norwich Court,Arlington,76015,235000,,3.0,2.0
+2831,1402 Rockdale DR,Arlington,76018,250000,,3.0,2.0
+2832,1507 Tulip Drive,Arlington,76013,299900,,4.0,2.0
+2833,1815 Elmhurst Drive,Arlington,76012,300000,,4.0,3.0
+2834,7509 Lake Park Court,Arlington,76016,300000,,3.0,3.0
+2835,7706 White Fawn Road,Arlington,76002,324990,,4.0,2.0
+2836,1925 Rockbrook Drive,Arlington,76006,339000,,5.0,3.0
+2837,2730 Antero Drive,Arlington,76006,389900,,4.0,3.0
+2838,4411 Enchanted Oaks Drive,Arlington,76016,430000,,4.0,5.0
+2839,6607 Nantucket Lane,Arlington,76001,432000,,4.0,3.0
+2840,1209 White Squall,Arlington,76005,606955,,4.0,4.0
+2841,6120 Ivy Glen Drive,Arlington,76017,200000,,3.0,2.0
+2842,5210 Tuscola Drive,Arlington,76018,210000,,3.0,2.0
+2843,6805 Valley Branch Drive,Arlington,76001,247000,,3.0,2.0
+2844,4914 Millsprings Court,Arlington,76017,249900,,3.0,2.0
+2845,1317 Brookmeadow Court,Arlington,76018,270000,,4.0,3.0
+2846,1715 Northwood Court,Arlington,76012,305000,,3.0,2.0
+2847,924 Dunkirk Lane,Arlington,76017,315000,,5.0,4.0
+2848,3920 Canton Jade Way,Arlington,76005,329999,,3.0,3.0
+2849,1205 Beaconsfield Lane,Arlington,76011,380000,,3.0,3.0
+2850,1005 Findlay Drive,Arlington,76012,415000,,4.0,3.0
+2851,6712 Meadowcrest Drive,Arlington,76002,275000,,3.0,2.0
+2852,2319 Everton DR,Arlington,76001,325000,,4.0,3.0
+2853,7322 Roaring Springs,Arlington,76002,381466,,3.0,2.0
+2854,2505 Highgate Drive,Arlington,76016,264900,,3.0,2.0
+2855,1861 Larkspur Drive,Arlington,76013,315000,,3.0,2.0
+2856,2300 Newbury Drive,Arlington,76014,175000,,3.0,1.0
+2857,510 Orange Street,Arlington,76012,275000,,4.0,2.0
+2858,202 Fort Edward Drive,Arlington,76002,299900,,4.0,3.0
+2859,5104 Antony Court,Arlington,76017,330000,,3.0,3.0
+2860,2105 Stonehill Court,Arlington,76012,349900,,4.0,3.0
+2861,4209 Aspen Grove Court,Arlington,76005,499000,,3.0,4.0
+2862,2104 Friendly Drive,Arlington,76011,159900,,2.0,2.0
+2863,929 CEDARLAND Boulevard,Arlington,76011,183000,,2.0,1.0
+2864,1500 Legget Street,Arlington,76018,196000,,3.0,2.0
+2865,811 Engleside Drive,Arlington,76018,240000,,3.0,2.0
+2866,400 Colgate Court,Arlington,76014,245000,,4.0,2.0
+2867,2007 Ford Street,Arlington,76013,248950,,3.0,2.0
+2868,5511 Grissom Drive,Arlington,76016,257900,,3.0,2.0
+2869,5101 Prestwick DR,Arlington,76001,285000,,3.0,2.0
+2870,4104 Swinley Forest Drive,Arlington,76017,372990,,3.0,2.0
+2871,1411 English Blue Lane,Arlington,76005,425000,,4.0,4.0
+2872,4709 Westhaven Road,Arlington,76017,442800,,4.0,5.0
+2873,2411 Copper Ridge Road,Arlington,76006,543900,,4.0,3.0
+2874,4320 Cobalt Bloom Court,Arlington,76005,749000,,4.0,4.0
+2875,305 Ditto Avenue,Arlington,76010,185000,,2.0,2.0
+2876,1900 Windsor Drive,Arlington,76012,220000,,3.0,2.0
+2877,505 Darlene Lane,Arlington,76010,230000,,4.0,2.0
+2878,1601 University Drive,Arlington,76013,265000,,3.0,2.0
+2879,8204 La Frontera Trail,Arlington,76002,305000,,4.0,2.0
+2880,1511 N Fielder Road,Arlington,76012,488000,,3.0,3.0
+2881,1506 Grace Street,Arlington,76010,129000,,2.0,1.0
+2882,1901 Cloisters Drive,Arlington,76011,140000,,2.0,1.0
+2883,5512 Atlantis Terrace,Arlington,76016,200000,,3.0,2.0
+2884,1618 Grandview Drive,Arlington,76012,225000,,3.0,2.0
+2885,708 N Cooper Street,Arlington,76011,232000,,2.0,2.0
+2886,405 Jennifer Lane,Arlington,76002,258000,,3.0,2.0
+2887,713 Sanford Court,Arlington,76012,276900,,3.0,3.0
+2888,7124 Layla Road,Arlington,76016,319900,,4.0,3.0
+2889,2106 Rocky Branch Court,Arlington,76013,420000,,5.0,3.0
+2890,927 W Embercrest Drive,Arlington,76017,219990,,3.0,2.0
+2891,2200 Stonegate Street,Arlington,76010,220000,,4.0,2.0
+2892,4809 Beaver Creek Drive,Arlington,76005,404950,,2.0,2.0
+2893,7501 Mcmillian Court,Arlington,76016,459000,,3.0,3.0
+2894,6307 W Poly Webb Road,Arlington,76016,515000,,3.0,3.0
+2895,1712 Baird Farm Circle,Arlington,76006,100000,,1.0,1.0
+2896,4727 Abbott Avenue,Arlington,76018,200000,,3.0,2.0
+2897,6705 Crestfield Drive,Arlington,76016,225000,,3.0,2.0
+2898,2316 Stonegate Street,Arlington,76010,252900,,4.0,3.0
+2899,930 Bridges Drive,Arlington,76012,255000,,2.0,2.0
+2900,708 W Main Street,Arlington,76010,407000,,2.0,3.0
+2901,5610 Lordsburg Trail,Arlington,76017,199900,,2.0,2.0
+2902,3606 Tristan Court,Arlington,76016,376000,,3.0,3.0
+2903,3607 Tristan Court,Arlington,76016,399700,,4.0,3.0
+2904,3605 Tristan Court,Arlington,76016,407700,,3.0,3.0
+2905,6803 Keeler Drive,Arlington,76001,260000,,3.0,2.0
+2906,2501 Smouldering Wood Drive,Arlington,76016,265000,,3.0,2.0
+2907,1127 Deer Valley Lane,Arlington,76001,280000,,4.0,2.0
+2908,3600 Tristan Court,Arlington,76016,407700,,3.0,3.0
+2909,1209 Calico Lane,Arlington,76011,110000,,1.0,1.0
+2910,2116 Greenway Street,Arlington,76010,210000,,4.0,2.0
+2911,205 Spanish Moss Drive,Arlington,76018,240000,,3.0,3.0
+2912,5216 Stagetrail Drive,Arlington,76017,244999,,3.0,2.0
+2913,2011 N Meadow Way Circle,Arlington,76015,325000,,3.0,3.0
+2914,5021 Audie Court,Arlington,76001,336000,,3.0,2.0
+2915,7919 Mosstree Drive,Arlington,76001,350000,,4.0,3.0
+2916,1612 Rose Willow Way,Arlington,76005,522694,,3.0,4.0
+2917,4627 Copper Mountain Trail,Arlington,76005,552008,,4.0,4.0
+2918,1120 Deer Valley Lane,Arlington,76001,264000,,4.0,2.0
+2919,1605 Barclay Drive,Arlington,76018,290000,,5.0,4.0
+2920,4822 Beaver Creek Drive,Arlington,76005,466589,,2.0,3.0
+2921,1720 Bradford Drive,Arlington,76010,200000,,3.0,2.0
+2922,5311 Sherburne Drive,Arlington,76018,210000,,3.0,2.0
+2923,6115 Copperfield Drive,Arlington,76001,275000,,3.0,3.0
+2924,1827 Wynn Terrace,Arlington,76010,229900,,4.0,2.0
+2925,1200 Brittany Lane,Arlington,76013,230000,,3.0,2.0
+2926,7409 Dodd Court,Arlington,76016,275000,,3.0,3.0
+2927,1301 Memory LN 4924,Arlington,76011,160000,,2.0,2.0
+2928,710 Gentry Drive,Arlington,76018,240000,,3.0,2.0
+2929,915 Pinehurst Drive,Arlington,76012,330000,,4.0,3.0
+2930,103 Kalmia Court,Arlington,76018,185000,,3.0,2.0
+2931,3912 Country Club Road,Arlington,76013,395000,,6.0,4.0
+2932,1605 Gentle Wind Drive,Arlington,76018,165500,,2.0,1.0
+2933,7205 Port Phillip Drive,Arlington,76002,320000,,4.0,3.0
+2934,7014 Greenspring Drive,Arlington,76016,224900,,3.0,3.0
+2935,5805 Sterling Green Trail,Arlington,76017,239900,,3.0,2.0
+2936,2123 Post Wood Lane,Arlington,76018,249900,,4.0,3.0
+2937,702 W Main Street,Arlington,76010,427000,,2.0,3.0
+2938,1207 White Squall Trail,Arlington,76005,499716,,3.0,3.0
+2939,1716 Granite Range Lane,Arlington,76005,729900,,4.0,4.0
+2940,3627 Alexandria Drive,Arlington,76015,199900,,3.0,2.0
+2941,2906 Leigh Ann Lane,Arlington,76010,210000,,3.0,2.0
+2942,4705 Woodview Street,Arlington,76013,415000,,4.0,3.0
+2943,1501 Rose Willow Way,Arlington,76005,420787,,3.0,3.0
+2944,1508 Rose Willow Way,Arlington,76005,436922,,3.0,3.0
+2945,1812 Spotted Fawn Drive,Arlington,76005,437377,,2.0,2.0
+2946,2327 Wilmette Drive,Arlington,76018,449955,,6.0,4.0
+2947,1505 E Timberview Lane,Arlington,76014,209900,,4.0,2.0
+2948,2019 Norwood Lane,Arlington,76013,275000,,3.0,2.0
+2949,4011 Lemon Grass Way,Arlington,76005,469900,,3.0,2.0
+2950,1719 Westview Terrace,Arlington,76013,135900,,3.0,2.0
+2951,1405 Mount Evans Trail,Arlington,76005,365000,,3.0,2.0
+2952,809 Mckenzie Place,Arlington,76018,265000,,4.0,2.0
+2953,5115 Eagle Nest Drive,Arlington,76017,250000,,4.0,2.0
+2954,2827 Curvilinear Ct,Dallas,,245000,2200,4.0,2.0
+2955,7036 Winchester St,Dallas,,475000,2089,3.0,2.0
+2956,132 W Woodin Blvd,Dallas,,275000,1800,4.0,2.0
+2957,7311 Hardwood Trl,Dallas,,209900,1902,3.0,2.0
+2958,2720 E Atoll Dr,Dallas,,225000,2500,5.0,2.0
+2959,1337 Kingsley Dr,Dallas,,181900,1262,3.0,2.0
+2960,10548 Wyatt St,Dallas,,499999,2522,4.0,3.0
+2961,9835 Whistler Dr,Dallas,,275000,2482,4.0,3.0
+2962,9747 E Lake Highlands Dr,Dallas,,395000,1500,3.0,2.0
+2963,6009 Black Berry Ln,Dallas,,435000,2366,4.0,3.0
+2964,3531 Burlingdell Ave,Dallas,,319000,1720,4.0,2.0
+2965,6882 Avalon Ave,Dallas,,829500,1804,3.0,2.0
+2966,12618 Trenton Dr,Dallas,,375000,2463,4.0,3.0
+2967,2683 Peavy Rd,Dallas,,344900,2141,4.0,4.0
+2968,3739 Vinecrest Dr,Dallas,,899000,4132,5.0,5.0
+2969,1627 Wilbur St,Dallas,,325000,1820,3.0,2.0
+2970,13536 Vida Ln,Dallas,,210000,1441,3.0,2.0
+2971,1402 Seevers Ave,Dallas,,389000,2101,3.0,2.0
+2972,4444 Valley Ridge Rd,Dallas,,24000000,20000,9.0,19.0
+2973,10211 Carry Back Cir,Dallas,,485000,2042,3.0,3.0
+2974,11232 Lanewood Cir,Dallas,,435000,1653,3.0,2.0
+2975,10619 Lakemere Dr,Dallas,,499900,1647,3.0,2.0
+2976,10525 Channel Dr,Dallas,,299000,2151,4.0,2.0
+2977,5505 Ellsworth Ave,Dallas,,729000,2811,4.0,5.0
+2978,1530 S Montreal Ave,Dallas,,327900,1122,2.0,2.0
+2979,6015 Sunny Crest Ln,Dallas,,180000,1578,4.0,3.0
+2980,1920 Oak Hill Cir,Dallas,,178374,1302,4.0,2.0
+2981,8648 Forest Hills Blvd,Dallas,,650000,1712,3.0,3.0
+2982,202 S Edgefield Ave,Dallas,,519900,2384,4.0,3.0
+2983,11060 Wallbrook Dr,Dallas,,415000,2391,4.0,2.0
+2984,12004 Rushing Creek Dr,,,445900,2860,4.0,4.0
+2985,7297 Chinquapin Dr,,,325000,1995,4.0,2.0
+2986,10313 Burgundy Dr,,,295000,1847,3.0,3.0
+2987,11708 Blackhawk Dr,,,475000,2860,4.0,3.0
+2988,12858 Palo Duro Dr,,,749000,4710,5.0,6.0
+2989,1924 Dexter Ln,,,423550,1970,3.0,2.0
+2990,11017 Aurora Ln,,,405000,2166,3.0,3.0
+2991,3 Southern Hills Ct,,,725000,3193,4.0,4.0
+2992,10229 Fire Ridge Dr,,,725000,5212,5.0,5.0
+2993,2910 Reynolds Ln,,,389900,2236,3.0,2.0
+2994,5904 Louisville Dr,,,375000,2027,4.0,2.0
+2995,11566 Caladium Ln,,,465000,3178,4.0,4.0
+2996,11025 Villita St,,,475000,2665,4.0,3.0
+2997,11715 Eden Ln,,,439900,2837,4.0,3.0
+2998,12684 Riverhill Rd,,,1299000,4854,5.0,7.0
+2999,2450 Thorntree Dr,,,369000,2207,4.0,3.0
+3000,8212 Pacific St,,,350000,2589,4.0,3.0
+3001,6341 Lorwood Dr,,,579000,4885,5.0,5.0
+3002,1090 Frisco Ranch Rd,,,489900,2845,4.0,4.0
+3003,13942 Badger Creek Dr,,,549900,3556,5.0,4.0
+3004,1692 Dowelling Ct,,,379900,2172,4.0,2.0
+3005,2649 Marshall Dr,,,437500,2927,4.0,4.0
+3006,1745 Evening Star Rd,,,625000,3412,4.0,5.0
+3007,9805 Concord Dr,,,295000,1396,3.0,3.0
+3008,7 Harbour Town Ct,,,1200000,4256,4.0,4.0
+3009,5498 Balmoral Dr,,,530000,3027,4.0,4.0
+3010,12571 Peace River Dr,,,520000,3691,5.0,4.0
+3011,4900 Wisteria Dr,,,388900,2315,4.0,2.0
+3012,5951 Beacon Hill Dr,,,775000,5544,5.0,5.0
+3013,15246 Crystal Beach Ln,,,1150000,4813,6.0,6.0
+3014,2224 Dampton Dr,,,479100,3380,4.0,4.0
+3015,7801 Slater Trl,,,350000,1969,3.0,2.0
+3016,3700 Straw Harvest Dr,,,399900,2404,3.0,3.0
+3017,3705 Longbow Ln,,,424900,2303,3.0,2.0
+3018,2917 Falling Brook Dr,,,495000,3323,6.0,4.0
+3019,3236 Caravan Dr,,,535000,3512,4.0,4.0
+3020,3300 Edwards Dr,,,489000,3664,4.0,4.0
+3021,3932 Carrizo Dr,,,386900,2367,4.0,3.0
+3022,3609 Banks Cir,,,445000,2442,4.0,3.0
+3023,7616 Capella Ct,,,340000,1733,3.0,2.0
+3024,2300 Belmont Pl,,,475000,2797,4.0,3.0
+3025,3704 Aransas Dr,,,415000,2988,4.0,3.0
+3026,6017 Pinto Ct,Plano,,250000,1923,3.0,2.0
+3027,3629 Big Horn Trl,,,400000,2659,4.0,3.0
+3028,6203 Rainier Rd,,,325000,1930,3.0,2.0
+3029,1128 Gannon Dr,Plano,,290000,1820,3.0,2.0
+3030,6509 Hillswick Dr,,,665000,3690,4.0,4.0
+3031,3621 Worthington Way,,,330000,1784,3.0,2.0
+3032,5816 Johns Wood Dr,,,650000,3614,4.0,5.0
+3033,4441 Bentley Dr,,,450000,2370,3.0,3.0
+3034,3313 Estacado Ln,,,385000,2434,4.0,2.0
+3035,1605 Tampico Dr,,,219900,2169,3.0,2.0
+3036,4204 Warminster Dr,,,530000,3616,5.0,4.0
+3037,2905 Newport Cir,,,319900,2464,3.0,3.0
+3038,7536 Crested Butte Dr,,,375000,2460,4.0,3.0
+3039,3501 Deep Valley Trl,,,370000,2208,3.0,3.0
+3040,1400 Kittery Dr,,,399999,1628,3.0,2.0
+3041,1809 Triple Crown Ln,,,700000,2871,4.0,3.0
+3042,1505 Baffin Bay Dr,,,364900,2276,3.0,3.0
+3043,6841 Flicker Ln,,,489900,3466,4.0,4.0
+3044,13644 Cherokee Ranch Rd,Roanoke,,287900,2736,4.0,3.0
+3045,5204 Ruston Ave,,,178000,1439,3.0,2.0
+3046,1804 Glenmore Ave,Fort Worth,,244900,1896,4.0,3.0
+3047,7105 Lindentree Ln,Fort Worth,,225000,1639,3.0,2.0
+3048,5263 Meadowbrook Dr,Fort Worth,,229900,1710,4.0,3.0
+3049,1035 E Harvey Ave,Fort Worth,,189900,1344,3.0,3.0
+3050,7955 Mellie Ct,Fort Worth,,349900,4519,6.0,4.0
+3051,4925 Cedar Brush Dr,,,315000,3697,5.0,4.0
+3052,10137 Lone Eagle Dr,Fort Worth,,175000,1070,3.0,2.0
+3053,313 Rock Prairie Ln,Fort Worth,,219900,2363,4.0,3.0
+3054,10469 Evening View Dr,,,310000,3291,4.0,3.0
+3055,8013 Summer Sun Dr,Fort Worth,,220000,1450,3.0,2.0
+3056,7600 Kell Dr,Fort Worth,,199900,1626,4.0,2.0
+3057,1729 Cedar Tree Dr,,,209900,1420,3.0,2.0
+3058,1508 Meadow Lane Ter,Fort Worth,,199000,2008,3.0,2.0
+3059,1328 Nicole Way,Burleson,,235000,1925,4.0,3.0
+3060,2613 Twinflower Dr,Fort Worth,,349900,2621,4.0,3.0
+3061,3417 Glenmont Dr,Fort Worth,,190000,1533,3.0,2.0
+3062,5128 Cliff Oaks Dr,,,215000,1557,3.0,2.0
+3063,9104 Tyne Trl,Fort Worth,,300000,1854,3.0,2.0
+3064,2700 W Fuller Ave,Fort Worth,,209000,1205,3.0,2.0
+3065,3114 Rosen Ave,Fort Worth,,275000,2838,4.0,4.0
+3066,3817 White Settlement Rd,Fort Worth,,520000,2089,2.0,2.0
+3067,10445 Evening View Dr,,,279000,2700,4.0,3.0
+3068,7245 Laguna Del Campo Trl,,,340000,2216,4.0,3.0
+3069,9633 Ben Hogan Ln,Fort Worth,,550000,3072,5.0,3.0
+3070,10920 Deauville Cir N,,,238500,1809,4.0,2.0
+3071,2616 Countryside Ln,,,199900,1320,3.0,2.0
+3072,9132 Quarry Ridge Trl,,,250000,1926,3.0,3.0
+3073,14109 Rabbit Brush Ln,Haslet,,275000,2470,4.0,3.0
+3074,1609 Axe Dr,Garland,,185500,1440,3.0,2.0
+3075,2722 Princewood Dr,Garland,,295900,1969,4.0,2.0
+3076,822 Westbrook Dr,,,225000,1482,4.0,2.0
+3077,801 Royal Birkdale Dr,,,479900,3056,4.0,4.0
+3078,4806 Snowdrop Dr,,,259000,1904,3.0,3.0
+3079,2906 Branch Oaks Dr,Garland,,255000,2068,4.0,2.0
+3080,2406 Mira Dr,Garland,,225000,1840,3.0,3.0
+3081,4726 Maritime Cv,,,320000,2358,3.0,3.0
+3082,4006 Bucknell Dr,,,240000,1567,3.0,2.0
+3083,6310 Green Valley Dr,Garland,,206900,1695,3.0,2.0
+3084,1513 Surrey Ct,,,399000,4143,5.0,4.0
+3085,2005 High Summit Dr,,,234900,1350,3.0,2.0
+3086,3229 Old Orchard Rd,,,199900,1277,3.0,2.0
+3087,3142 Lariat Ln,,,270000,1480,3.0,2.0
+3088,1504 Lakewood Dr,,,159950,914,3.0,1.0
+3089,1314 Deville Cir,,,239000,1763,3.0,3.0
+3090,5018 Hidden Creek Rd,,,360000,3233,4.0,3.0
+3091,2826 Geneva Dr,Garland,,260000,1350,3.0,2.0
+3092,2224 Limestone Ln,Garland,,179900,1348,2.0,2.0
+3093,4506 Cornell Dr,,,279000,1571,3.0,2.0
+3094,2806 Knightsbridge Ln,Garland,,399997,3425,4.0,4.0
+3095,1822 McClary St,,,379900,2810,3.0,3.0
+3096,4333 Hanover Dr,,,230000,1219,3.0,2.0
+3097,1125 Gardengate Cir,,,304900,2088,4.0,2.0
+3098,2817 Royalty Dr,Garland,,245000,1469,3.0,2.0
+3099,3238 Knights Haven Ln,Garland,,238900,1898,3.0,2.0
+3100,2817 Country Valley Rd,,,975000,8897,7.0,8.0
+3101,418 Rosewood Hills Dr,,,219900,1238,4.0,2.0
+3102,2209 Villawood Ln,,,319000,2432,4.0,3.0
+3103,2909 Club Meadow Dr,,,375000,3391,4.0,4.0
+3104,1026 Pedernales Trl,Irving,,349900,1897,3.0,2.0
+3105,1726 Cypress Dr,Irving,,269999,2014,3.0,2.0
+3106,1840 Pilgrim Dr,Irving,,287500,1713,3.0,2.0
+3107,3221 Parker St,Irving,,229500,1971,4.0,3.0
+3108,1422 Addington St,Irving,,284950,1689,4.0,2.0
+3109,3829 Twin Falls St,Irving,,325000,1958,4.0,2.0
+3110,8710 Broken Point Dr,Irving,,480000,2463,3.0,4.0
+3111,309 Sheridan Trl,Irving,,349990,2046,3.0,3.0
+3112,700 Irongate Cir,Irving,,299000,2210,3.0,3.0
+3113,305 Steeplechase Dr,Irving,,1500000,8418,4.0,7.0
+3114,1011 Belew St,Irving,,250000,1431,4.0,2.0
+3115,1319 Glenbrook Dr,Irving,,325000,2874,4.0,3.0
+3116,2621 Marta Dr,Irving,,215000,1164,3.0,2.0
+3117,452 Richmond St,Irving,,365000,2220,3.0,3.0
+3118,2508 W Rochelle Rd,Irving,,217000,1125,3.0,2.0
+3119,905 Bower Dr,Irving,,275000,2279,5.0,4.0
+3120,700 Cedar Elm Ct,Irving,,465000,3144,5.0,4.0
+3121,4125 Astoria St,Irving,,275000,1552,3.0,2.0
+3122,3206 Salinas Ct,Irving,,449900,3589,5.0,3.0
+3123,3108 Wingren Rd,Irving,,430000,3765,4.0,3.0
+3124,1621 Shadow Ln,Irving,,464900,2998,4.0,4.0
+3125,2201 Pistachio Dr,Irving,,575000,4426,5.0,4.0
+3126,111 Seva Ct,Irving,,249999,1364,3.0,3.0
+3127,1821 E Grauwyler Rd #181,Irving,,112500,1084,2.0,2.0
+3128,1811 Dennis St,Irving,,249000,1335,4.0,2.0
+3129,400 Sewell Ct,Irving,,799000,4824,4.0,4.0
+3130,5215 Montego Bay Dr,Irving,,470000,2667,4.0,3.0
+3131,219 Cimarron Trl #3,Irving,,224900,1279,2.0,3.0
+3132,2906 Pacific Ct,Irving,,365000,2684,4.0,3.0
+3133,1401 N Britain Rd,Irving,,424990,3300,4.0,3.0
+3134,1918 Rockbrook Dr,Arlington,,300000,2045,4.0,3.0
+3135,3502 Yachtclub Ct,Arlington,,579000,3209,5.0,4.0
+3136,331 Valley Spring Dr,Arlington,,199000,1136,3.0,2.0
+3137,6103 Tidewater Dr,Arlington,,219900,1575,3.0,2.0
+3138,6301 Walnut Springs Dr,Arlington,,139900,2374,3.0,2.0
+3139,317 Iberis Dr,Arlington,,228000,1428,3.0,3.0
+3140,3108 Stornoway Trl,Arlington,,280000,2119,3.0,2.0
+3141,1409 Roanoke St,Arlington,,219900,1279,4.0,2.0
+3142,2205 Polo Club Ct,Arlington,,250000,1661,3.0,2.0
+3143,2207 New Mill Ln,Arlington,,375000,2497,4.0,3.0
+3144,1108 Rocky Canyon Rd,Arlington,,305000,1870,3.0,2.0
+3145,3608 Antares Way,Arlington,,399000,3708,4.0,4.0
+3146,5405 Rome Ct,Arlington,,579000,3393,4.0,4.0
+3147,1803 Tennyson Dr,Arlington,,395000,2601,4.0,3.0
+3148,2405 Skylark Dr,Arlington,,224900,1924,4.0,2.0
+3149,9115 Acre Meadows Ln,Arlington,,300000,1589,3.0,2.0
+3150,3904 Castlehill Ct,Arlington,,289900,2327,4.0,3.0
+3151,1511 Glenwillow Dr,Arlington,,220000,1481,3.0,2.0
+3152,514 Gunnison Dr,Arlington,,320000,2134,4.0,2.0
+3153,1615 Barclay Dr,Arlington,,290000,2527,4.0,2.0
+3154,4710 Andalusia Trl,Arlington,,240000,1592,3.0,2.0
+3155,823 Ogden Dr,Arlington,,339900,2936,5.0,3.0
+3156,3704 Vista Chase Ct,Arlington,,385000,2723,5.0,3.0
+3157,4004 Cypress Springs Dr,Arlington,,225000,1550,3.0,2.0
+3158,2105 Oak Bluff Dr,Arlington,,315000,2366,4.0,3.0
+3159,6702 Saddle Ridge Rd,Arlington,,349900,2201,3.0,2.0
+3160,2802 Dover Gardens Dr,Arlington,,245000,1502,3.0,3.0
+3161,7502 Marsland Ln,Arlington,,279990,2206,3.0,3.0
+3162,9214 Squirrel Run Ct,Arlington,,334900,2231,4.0,2.0
+3163,5305 Hillcroft Ave,Arlington,,249900,1750,3.0,2.0
+3164,1909 Rambling Ridge Ln,Carrollton,,289900,1878,3.0,2.0
+3165,2109 Via Estrada,,,270000,1720,3.0,3.0
+3166,3005 Hyde Ct,,,275000,1444,3.0,2.0
+3167,2035 Clubridge Dr,,,210000,1728,3.0,2.0
+3168,2640 Via La Paloma,,,179900,1093,2.0,2.0
+3169,1533 Joy Dr,,,359900,1828,3.0,3.0
+3170,1352 Marken Ct,,,340000,1843,4.0,3.0
+3171,4720 Alexander Dr,,,544900,3072,4.0,4.0
+3172,2105 Yewpon Ct,,,255000,1676,3.0,2.0
+3173,1513 Bellflower Dr,,,349900,1929,3.0,2.0
+3174,1704 Mayflower Dr,,,275000,1764,3.0,2.0
+3175,2119 Via Estrada,,,245000,2146,3.0,3.0
+3176,1002 Ridgeview Dr,Carrollton,,365000,2580,3.0,2.0
+3177,1305 Dallshan Dr,,,317550,1492,3.0,3.0
+3178,2152 Spencer Ln,,,429000,2069,3.0,2.0
+3179,4670 Rhett Ln #I,,,349900,1972,3.0,3.0
+3180,1514 Cecil Dr,,,303000,1744,3.0,2.0
+3181,6756 Stallion Ranch Rd,,,970000,4786,5.0,6.0
+3182,2908 Maple Ct,Carrollton,,409900,2431,3.0,3.0
+3183,2927 Winterberry Dr,,,259900,1930,3.0,2.0
+3184,2635 Via Valencia,,,219500,1472,3.0,2.0
+3185,3725 Canon Gate Cir,Carrollton,,399000,2853,3.0,3.0
+3186,1508 Prairie Dr,,,650000,4502,5.0,4.0
+3187,2127 McParland Ct,,,292500,1803,2.0,3.0
+3188,1901 Greenbrook Dr,Carrollton,,354900,2167,3.0,3.0
+3189,3817 Harrison Dr,Carrollton,,425000,2666,4.0,2.0
+3190,2517 Rosebud Cir,Carrollton,,350000,2368,4.0,3.0
+3191,4216 Eastwood Dr,Carrollton,,399900,2723,4.0,3.0
+3192,1514 Northland St,Carrollton,,398750,2347,4.0,3.0
+3193,4121 Indian Run Dr,Carrollton,,310000,1940,2.0,3.0
+3194,7200 Neches Pine Dr,Frisco,75036,564900,2997,3.0,2.5
+3195,10045 Bell Rock Rd,Frisco,75035,365000,2169,3.0,2.0
+3196,11017 Aurora Ln,Frisco,75035,405000,2166,3.0,2.5
+3197,9991 Slick Rock Trl,Frisco,75033,449900,2574,4.0,2.5
+3198,8326 Sitka St,Frisco,75035,515000,2962,4.0,2.5
+3199,2079 Alcove Dr,Frisco,75034,640000,2695,4.0,2.5
+3200,2910 Reynolds Ln,Frisco,75033,389900,2236,3.0,2.0
+3201,13714 French Creek Ln,Frisco,75035,475000,2373,3.0,2.5
+3202,4520 Florence Dr,Frisco,75034,930000,4228,3.0,3.5
+3203,7601 Blossom Ln,Frisco,75034,439900,2383,3.0,2.5
+3204,9805 Concord Dr,Frisco,75035,295000,1396,3.0,2.5
+3205,6198 Rachel Dr,Frisco,75034,900000,4967,4.0,4.0
+3206,12018 Chattanooga Dr,Frisco,75035,339999,1417,3.0,2.0
+3207,12571 Peace River Dr,Frisco,75035,520000,3691,5.0,4.0
+3208,9569 Lance Dr,Frisco,75035,460000,3069,4.0,2.5
+3209,7297 Chinquapin Dr,Frisco,75033,325000,1995,4.0,2.0
+3210,7152 Maumee Valley Ct,Frisco,75036,500000,2246,3.0,2.0
+3211,13160 Guerin Dr,Frisco,75035,325000,2073,4.0,2.0
+3212,6848 Regello Dr,Frisco,75034,340000,1818,2.0,2.5
+3213,9758 Golden Fountain Dr,Frisco,75033,350000,2096,4.0,2.0
+3214,11908 Clearpoint Ct,Frisco,75036,325400,1852,4.0,2.0
+3215,12004 Rushing Creek Dr,Frisco,75035,445900,2860,4.0,3.5
+3216,5904 Louisville Dr,Frisco,75035,375000,2027,4.0,2.0
+3217,1567 San Andres Dr,Frisco,75033,675000,4668,5.0,3.5
+3218,2649 Marshall Dr,Frisco,75033,437500,2927,4.0,3.5
+3219,11708 Blackhawk Dr,Frisco,75033,475000,2860,4.0,2.5
+3220,1545 Morris Ln,Frisco,75034,679545,3623,4.0,3.0
+3221,12923 Yale Ct,Frisco,75035,499900,1882,3.0,3.0
+3222,16372 Lorna Doone Ln,Frisco,75033,774900,4147,5.0,4.5
+3223,12858 Palo Duro Dr,Frisco,75033,749000,4710,5.0,5.5
+3224,2450 Thorntree Dr,Frisco,75033,369000,2207,4.0,3.0
+3225,7927 Canal St,Frisco,75034,425000,1706,2.0,2.5
+3226,15246 Crystal Beach Ln,Frisco,75035,1150000,4813,6.0,5.0
+3227,2481 Haft River Rd,Frisco,75034,1152990,4002,5.0,4.0
+3228,8260 Fairview Dr,Frisco,75033,540000,2128,3.0,3.5
+3229,6006 Connely Dr,Frisco,75034,1200000,5253,5.0,4.5
+3230,5111 Stillwater Trl,Frisco,75034,925000,4061,4.0,4.5
+3231,1403 Crockett Dr,Frisco,75033,625000,3757,4.0,3.5
+3232,12144 Cardinal Creek Dr,Frisco,75033,329000,1805,3.0,2.0
+3233,949 Imperial Valley Ln,Frisco,75036,430000,1786,2.0,2.0
+3234,2260 Lariat Trl,Frisco,75036,350000,1841,3.0,2.0

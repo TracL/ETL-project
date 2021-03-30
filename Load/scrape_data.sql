@@ -10,7 +10,7 @@ create table scraped_data (
 );
 
 copy scraped_data
-from 'C:/Users/freak/OneDrive/Documents/GitHub/Repos/ETL-project/Final_DataFrame.csv'
+from 'C:/Users/freak/OneDrive/Documents/GitHub/Repos/ETL-project/csvs/Final_DataFrame.csv'
 delimiter ','
 csv header;
 

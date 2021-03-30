@@ -1,0 +1,2835 @@
+,Price,# of Beds,# of Baths,Address,City,Zip Code
+0,"$124,900",2 Bd,2 bath,12484 Abrams Road,"Dallas, TX",75243
+1,"$149,000",1 Bd,2 bath,5200 Martel Avenue,"Dallas, TX",75206
+2,"$159,999",1 Bd,2 bath,5100 Verde Valley Lane,"Dallas, TX",75254
+3,"$160,000",2 Bd,1 bath,2514 Glenfield Avenue,"Dallas, TX",75233
+4,"$170,000",2 Bd,3 bath,10566 High Hollows Drive,"Dallas, TX",75230
+5,"$173,000",2 Bd,1 bath,3615 Dutton Drive,"Dallas, TX",75211
+6,"$183,900",3 Bd,2 bath,914 Highfall Drive,"Dallas, TX",75232
+7,"$183,999",1 Bd,1 bath,3102 Kings Road,"Dallas, TX",75219
+8,"$185,000",4 Bd,2 bath,6332 Fenway Street,"Dallas, TX",75217
+9,"$187,999",4 Bd,2 bath,6324 Cinnamon Oaks Drive,"Dallas, TX",75241
+10,"$190,000",2 Bd,2 bath,4039 Cole Avenue,"Dallas, TX",75204
+11,"$199,900",2 Bd,1 bath,6326 Bordeaux Avenue,"Dallas, TX",75209
+12,"$208,000",1 Bd,1 bath,2502 Live Oak Street,"Dallas, TX",75204
+13,"$224,900",3 Bd,2 bath,2325 Bluffton Drive,"Dallas, TX",75228
+14,"$229,900",2 Bd,2 bath,6411 Ridgemont Drive,"Dallas, TX",75214
+15,"$240,000",2 Bd,2 bath,206 N Patton Avenue,"Dallas, TX",75203
+16,"$259,000",4 Bd,3 bath,2418 Kahn Street,"Dallas, TX",75241
+17,"$259,545",3 Bd,2 bath,718 PENGUIN Drive,"Dallas, TX",75241
+18,"$259,900",1 Bd,1 bath,4303 Buena Vista Street,"Dallas, TX",75205
+19,"$274,999",3 Bd,1 bath,925 S Brighton Avenue,"Dallas, TX",75208
+20,"$275,000",3 Bd,3 bath,3314 Pueblo Street,"Dallas, TX",75212
+21,"$287,550",2 Bd,2 bath,4405 Bowser Avenue,"Dallas, TX",75219
+22,"$289,000",3 Bd,1 bath,4711 Cowan Avenue,"Dallas, TX",75209
+23,"$290,000",3 Bd,2 bath,8771 Halstead Court,"Dallas, TX",75243
+24,"$317,900",3 Bd,"2 bath
+    | 1,428",7947 Claremont DR,"Dallas, TX",75228
+25,"$319,800",0 Bd,0 bath,TBD N Morris Street,"Dallas, TX",75212
+26,"$329,000",1 Bd,2 bath,3110 Thomas Avenue,"Dallas, TX",75204
+27,"$334,900",3 Bd,2 bath,7030 Thornwood Drive,"Dallas, TX",75227
+28,"$349,900",2 Bd,2 bath,509 Elm Street,"Dallas, TX",75202
+29,"$374,900",3 Bd,1 bath,6147 Ravendale Lane,"Dallas, TX",75214
+30,"$379,900",3 Bd,2 bath,429 Lake Cliff Drive,"Dallas, TX",75203
+31,"$412,500",3 Bd,2 bath,8474 Swift Avenue,"Dallas, TX",75228
+32,"$425,000",3 Bd,2 bath,6403 Missy Drive,"Dallas, TX",75252
+33,"$459,000",2 Bd,1 bath,6135 Velasco Avenue,"Dallas, TX",75214
+34,"$460,000",2 Bd,2 bath,2521 Madera Street,"Dallas, TX",75206
+35,"$479,000",3 Bd,"3 bath
+    | 2,393",5835 Chapelwood Way,"Dallas, TX",75228
+36,"$484,900",4 Bd,3 bath,6650 Lovington Drive,"Dallas, TX",75252
+37,"$490,000",4 Bd,3 bath,3317 Whirlaway Road,"Dallas, TX",75229
+38,"$499,000",3 Bd,2 bath,8814 San Leandro Drive,"Dallas, TX",75218
+39,"$499,999",4 Bd,3 bath,13636 Far Hills Lane,"Dallas, TX",75240
+40,"$525,000",4 Bd,4 bath,18808 Fortson Avenue,"Dallas, TX",75252
+41,"$547,500",3 Bd,4 bath,8031 Copper Way,"Dallas, TX",75252
+42,"$575,000",2 Bd,2 bath,915 Stewart Drive,"Dallas, TX",75208
+43,"$629,900",4 Bd,3 bath,9515 Viewside Drive,"Dallas, TX",75231
+44,"$650,000",2 Bd,3 bath,2601 Colby Street,"Dallas, TX",75204
+45,"$750,000",3 Bd,3 bath,5507 Mercedes Avenue,"Dallas, TX",75206
+46,"$899,999",3 Bd,3 bath,5522 Walnut Hill Lane,"Dallas, TX",75229
+47,"$2,435,000",4 Bd,"5 bath
+    | 5,592",4626 Lindhurst Avenue,"Dallas, TX",75229
+48,"$40,000",0 Bd,0 bath,1006 Edgemont Avenue,"Dallas, TX",75216
+49,"$45,000",0 Bd,0 bath,2623 Pennsylvania Avenue,"Dallas, TX",75215
+50,"$50,000",1 Bd,1 bath,9833 Walnut Street,"Dallas, TX",75243
+51,"$50,000",1 Bd,1 bath,9825 Walnut Street,"Dallas, TX",75243
+52,"$50,000",1 Bd,1 bath,9809 Walnut Street,"Dallas, TX",75243
+53,"$51,000",1 Bd,1 bath,9805 Walnut Street,"Dallas, TX",75243
+54,"$51,000",1 Bd,1 bath,9815 Walnut Street,"Dallas, TX",75243
+55,"$59,000",0 Bd,0 bath,1016 Claude Street,"Dallas, TX",75203
+56,"$64,900",0 Bd,0 bath,2404 Alabama Avenue,"Dallas, TX",75216
+57,"$70,000",1 Bd,2 bath,9833 Walnut Street,"Dallas, TX",75243
+58,"$144,000",2 Bd,1 bath,8600 Coppertowne Lane,"Dallas, TX",75243
+59,"$160,000",2 Bd,1 bath,1446 Laura Lane,"Dallas, TX",75241
+60,"$160,000",4 Bd,2 bath,6215 Teague Drive,"Dallas, TX",75241
+61,"$164,000",3 Bd,1 bath,2824 Belknap Avenue,"Dallas, TX",75216
+62,"$180,000",4 Bd,3 bath,6015 Sunny Crest Lane,"Dallas, TX",75241
+63,"$200,000",1 Bd,1 bath,1200 Main Street,"Dallas, TX",75202
+64,"$206,000",1 Bd,1 bath,1122 Jackson Street,"Dallas, TX",75202
+65,"$210,000",2 Bd,2 bath,6102 Summer Creek Circle,"Dallas, TX",75231
+66,"$210,000",3 Bd,2 bath,13536 Vida Lane,"Dallas, TX",75253
+67,"$219,900",3 Bd,2 bath,12146 Willowdell Drive,"Dallas, TX",75243
+68,"$229,000",2 Bd,2 bath,5100 Verde Valley Lane,"Dallas, TX",75254
+69,"$235,000",2 Bd,2 bath,4242 N Capistrano Drive,"Dallas, TX",75287
+70,"$235,000",3 Bd,2 bath,2962 Housley Drive,"Dallas, TX",75228
+71,"$235,000",3 Bd,"2 bath
+    | 1,960",2962 Housley DR,"Dallas, TX",75228
+72,"$240,000",3 Bd,2 bath,2919 Gus Thomasson Road,"Dallas, TX",75228
+73,"$249,900",3 Bd,2 bath,3035 Newcastle Drive,"Dallas, TX",75220
+74,"$259,000",4 Bd,3 bath,2507 S Vernon Avenue,"Dallas, TX",75224
+75,"$275,000",4 Bd,3 bath,9835 Whistler Drive,"Dallas, TX",75217
+76,"$279,000",2 Bd,3 bath,5200 Martel Avenue,"Dallas, TX",75206
+77,"$300,000",2 Bd,2 bath,2150 Lovedale Avenue,"Dallas, TX",75235
+78,"$320,000",3 Bd,3 bath,4834 Fallon Place,"Dallas, TX",75227
+79,"$325,000",2 Bd,2 bath,1407 Glenfield Avenue,"Dallas, TX",75224
+80,"$325,000",3 Bd,2 bath,1627 Wilbur Street,"Dallas, TX",75224
+81,"$340,000",2 Bd,2 bath,13911 Preston Valley Place,"Dallas, TX",75240
+82,"$379,900",3 Bd,3 bath,9752 Burney Drive,"Dallas, TX",75243
+83,"$435,000",3 Bd,2 bath,11232 Lanewood Circle,"Dallas, TX",75218
+84,"$449,900",3 Bd,3 bath,2217 Kirby Street,"Dallas, TX",75204
+85,"$459,990",2 Bd,3 bath,5015 Manett Street,"Dallas, TX",75206
+86,"$470,000",2 Bd,3 bath,4611 Travis Street,"Dallas, TX",75205
+87,"$475,000",3 Bd,3 bath,9703 Robin Hill Circle,"Dallas, TX",75238
+88,"$475,000",4 Bd,2 bath,9723 Lanward Circle,"Dallas, TX",75238
+89,"$485,000",3 Bd,3 bath,1632 Vaughan Court,"Dallas, TX",75208
+90,"$509,900",3 Bd,4 bath,17201 Meadow Tree Circle,"Dallas, TX",75248
+91,"$519,900",4 Bd,3 bath,202 S Edgefield Avenue,"Dallas, TX",75208
+92,"$539,000",3 Bd,3 bath,180 S Cisco Street,"Dallas, TX",75226
+93,"$599,000",3 Bd,3 bath,7001 Vivian Avenue,"Dallas, TX",75223
+94,"$725,000",5 Bd,4 bath,10849 Scotspring Lane,"Dallas, TX",75218
+95,"$725,000",4 Bd,4 bath,7704 Queens Garden Drive,"Dallas, TX",75248
+96,"$759,000",5 Bd,4 bath,9591 Highedge Drive,"Dallas, TX",75238
+97,"$799,000",3 Bd,3 bath,9118 Rock Daisy Court,"Dallas, TX",75231
+98,"$850,000",5 Bd,6 bath,6858 Meadowcreek Drive,"Dallas, TX",75254
+99,"$899,000",4 Bd,5 bath,9515 Moss Haven Drive,"Dallas, TX",75231
+100,"$1,400,000",3 Bd,3 bath,6230 Joyce Way,"Dallas, TX",75225
+101,"$1,595,000",5 Bd,5 bath,5331 Emerson Avenue,"Dallas, TX",75209
+102,"$2,250,000",5 Bd,5 bath,5122 Horseshoe Trail,"Dallas, TX",75209
+103,"$3,400",1 Bd,2 bath,2900 Mckinnon Street,"Dallas, TX",75201
+104,"$30,000",0 Bd,0 bath,3139 Mcdermott Avenue,"Dallas, TX",75215
+105,"$82,500",1 Bd,1 bath,5001 Bowser Avenue,"Dallas, TX",75209
+106,"$89,900",1 Bd,1 bath,8601 Park Lane,"Dallas, TX",75231
+107,"$125,375",3 Bd,1 bath,2121 Lolita Drive,"Dallas, TX",75227
+108,"$128,500",1 Bd,1 bath,2627 Douglas Avenue,"Dallas, TX",75219
+109,"$129,900",2 Bd,1 bath,8550 Fair Oaks Crossing,"Dallas, TX",75243
+110,"$129,900",3 Bd,2 bath,3700 Hancock Street,"Dallas, TX",75210
+111,"$130,000",2 Bd,1 bath,10121 Stebbins Street,"Dallas, TX",75217
+112,"$130,000",1 Bd,1 bath,5550 Spring Valley Road,"Dallas, TX",75254
+113,"$135,000",2 Bd,2 bath,9801 Royal Lane,"Dallas, TX",75231
+114,"$139,000",2 Bd,2 bath,12888 Montfort Drive,"Dallas, TX",75230
+115,"$144,000",2 Bd,"1 bath
+    | 868",8600 Coppertowne Lane #1705,"Dallas, TX",75243
+116,"$145,000",2 Bd,1 bath,4117 Pampas Street,"Dallas, TX",75211
+117,"$145,000",1 Bd,1 bath,5335 Bent Tree Forest Drive,"Dallas, TX",75248
+118,"$146,750",3 Bd,1 bath,8615 Files Street,"Dallas, TX",75217
+119,"$154,900",3 Bd,2 bath,511 Glencairn Drive,"Dallas, TX",75232
+120,"$155,000",3 Bd,1 bath,3038 Marjorie Avenue,"Dallas, TX",75216
+121,"$169,000",4 Bd,2 bath,4410 Cinda Ree Lane,"Dallas, TX",75216
+122,"$174,900",2 Bd,2 bath,7706 Meadow Road,"Dallas, TX",75230
+123,"$175,000",3 Bd,2 bath,1816 Peabody Avenue,"Dallas, TX",75215
+124,"$177,000",2 Bd,2 bath,5051 N Hall Street,"Dallas, TX",75235
+125,"$178,374",4 Bd,2 bath,1920 Oak Hill Circle,"Dallas, TX",75217
+126,"$180,000",0 Bd,0 bath,12002 Garden Grove Drive,"Dallas, TX",75253
+127,"$180,000",1 Bd,2 bath,5100 Verde Valley Lane,"Dallas, TX",75254
+128,"$184,000",2 Bd,2 bath,5881 Preston View Boulevard,"Dallas, TX",75240
+129,"$184,000",1 Bd,2 bath,7640 W Greenway Boulevard,"Dallas, TX",75209
+130,"$189,000",3 Bd,2 bath,1619 Mcadams Avenue,"Dallas, TX",75224
+131,"$190,000",3 Bd,2 bath,2314 Toulon Lane,"Dallas, TX",75227
+132,"$195,000",4 Bd,2 bath,4105 Hamilton Avenue,"Dallas, TX",75210
+133,"$215,995",3 Bd,2 bath,1811 Goldwood Drive,"Dallas, TX",75232
+134,"$217,000",3 Bd,3 bath,5808 Sandhurst Lane,"Dallas, TX",75206
+135,"$225,000",5 Bd,2 bath,2720 E Atoll Drive,"Dallas, TX",75216
+136,"$225,000",1 Bd,1 bath,1200 Main Street,"Dallas, TX",75202
+137,"$225,000",3 Bd,3 bath,9826 Amberton Parkway,"Dallas, TX",75243
+138,"$229,900",4 Bd,3 bath,406 Penguin Drive,"Dallas, TX",75241
+139,"$235,000",4 Bd,3 bath,3919 Kenilworth Street,"Dallas, TX",75210
+140,"$235,000",2 Bd,2 bath,6234 Bandera Avenue,"Dallas, TX",75225
+141,"$239,900",2 Bd,3 bath,17820 Windflower Way,"Dallas, TX",75252
+142,"$240,000",3 Bd,2 bath,1926 Berwick Avenue,"Dallas, TX",75203
+143,"$240,000",1 Bd,2 bath,4102 Buena Vista Street,"Dallas, TX",75204
+144,"$240,000",3 Bd,1 bath,11364 Lanewood Circle,"Dallas, TX",75218
+145,"$240,000",3 Bd,2 bath,9307 Sandyhook Circle,"Dallas, TX",75227
+146,"$245,000",3 Bd,2 bath,2210 Tosca Lane,"Dallas, TX",75224
+147,"$249,000",3 Bd,2 bath,804 Cameron Avenue,"Dallas, TX",75223
+148,"$250,000",4 Bd,2 bath,2639 Crest Ridge Drive,"Dallas, TX",75228
+149,"$259,000",2 Bd,2 bath,2727 Reagan Street,"Dallas, TX",75219
+150,"$259,900",4 Bd,2 bath,4144 Pluto Street,"Dallas, TX",75212
+151,"$269,900",3 Bd,2 bath,100 N Hampton Road,"Dallas, TX",75208
+152,"$299,000",3 Bd,2 bath,2119 Highwood Drive,"Dallas, TX",75228
+153,"$317,900",0 Bd,0 bath,621 W 9th Street,"Dallas, TX",75208
+154,"$319,000",4 Bd,2 bath,3531 Burlingdell Avenue,"Dallas, TX",75211
+155,"$327,900",2 Bd,2 bath,1530 S Montreal Avenue,"Dallas, TX",75208
+156,"$329,500",2 Bd,2 bath,4319 Bowser Avenue,"Dallas, TX",75219
+157,"$329,900",3 Bd,2 bath,6932 Allview Lane,"Dallas, TX",75227
+158,"$340,000",3 Bd,2 bath,2340 Peavy Place,"Dallas, TX",75228
+159,"$349,900",3 Bd,2 bath,5200 Keller Springs Road,"Dallas, TX",75248
+160,"$349,900",3 Bd,2 bath,2435 Hillsboro Avenue,"Dallas, TX",75228
+161,"$359,000",4 Bd,2 bath,17928 Brent Drive,"Dallas, TX",75287
+162,"$369,000",2 Bd,2 bath,2121 Kessler Court,"Dallas, TX",75208
+163,"$374,900",3 Bd,2 bath,8949 Boundbrook Avenue,"Dallas, TX",75243
+164,"$375,000",4 Bd,3 bath,12618 Trenton Drive,"Dallas, TX",75243
+165,"$385,000",3 Bd,3 bath,2504 Kingsridge Drive,"Dallas, TX",75287
+166,"$389,000",3 Bd,3 bath,2360 Peavy Place,"Dallas, TX",75228
+167,"$390,000",3 Bd,2 bath,10660 Longmeadow Drive,"Dallas, TX",75238
+168,"$390,000",2 Bd,2 bath,8634 Lockhaven Drive,"Dallas, TX",75238
+169,"$390,000",3 Bd,3 bath,8783 Oak Stream,"Dallas, TX",75243
+170,"$395,000",3 Bd,2 bath,9747 E Lake Highlands Drive,"Dallas, TX",75218
+171,"$407,800",3 Bd,"3 bath
+    | 2,636",6226 La Cosa DR,"Dallas, TX",75248
+172,"$415,000",4 Bd,2 bath,11060 Wallbrook Drive,"Dallas, TX",75238
+173,"$425,000",3 Bd,2 bath,10912 Beauty Lane,"Dallas, TX",75229
+174,"$425,000",4 Bd,2 bath,3928 Walden Way,"Dallas, TX",75287
+175,"$425,900",4 Bd,3 bath,6720 Natures Way,"Dallas, TX",75236
+176,"$439,000",3 Bd,3 bath,4103 Country Brook Drive,"Dallas, TX",75287
+177,"$440,000",4 Bd,3 bath,3139 Whirlaway Road,"Dallas, TX",75229
+178,"$450,000",0 Bd,0 bath,1416 N Carroll Avenue,"Dallas, TX",75204
+179,"$450,000",3 Bd,2 bath,8105 Claremont Drive,"Dallas, TX",75228
+180,"$454,900",2 Bd,3 bath,3501 Dickason Avenue,"Dallas, TX",75219
+181,"$459,000",3 Bd,2 bath,10315 Cromwell Drive,"Dallas, TX",75229
+182,"$465,000",3 Bd,3 bath,9102 Summer Glen,"Dallas, TX",75243
+183,"$475,000",4 Bd,3 bath,3228 Altman Drive,"Dallas, TX",75229
+184,"$479,000",0 Bd,1 bath,6246 Lakeshore Drive,"Dallas, TX",75214
+185,"$485,000",3 Bd,3 bath,10211 Carry Back Circle,"Dallas, TX",75229
+186,"$487,500",3 Bd,1 bath,917 N Beckley Avenue,"Dallas, TX",75203
+187,"$487,500",2 Bd,1 bath,915 N Beckley Avenue,"Dallas, TX",75203
+188,"$487,500",4 Bd,2 bath,909 N Beckley Avenue,"Dallas, TX",75203
+189,"$487,500",2 Bd,2 bath,112 W 5 th Street,"Dallas, TX",75208
+190,"$495,000",2 Bd,3 bath,4962 Fuqua Street,"Dallas, TX",75206
+191,"$499,000",2 Bd,2 bath,6218 Reiger Avenue,"Dallas, TX",75214
+192,"$499,900",3 Bd,2 bath,10619 Lakemere Drive,"Dallas, TX",75238
+193,"$499,999",4 Bd,3 bath,10548 Wyatt Street,"Dallas, TX",75218
+194,"$500,000",3 Bd,3 bath,3836 Antigua Drive,"Dallas, TX",75244
+195,"$519,000",2 Bd,3 bath,1771 McCoy Street,"Dallas, TX",75204
+196,"$525,000",3 Bd,3 bath,4060 Travis Street,"Dallas, TX",75204
+197,"$525,000",2 Bd,3 bath,4931 Jack Court,"Dallas, TX",75206
+198,"$525,000",4 Bd,3 bath,4319 Firebrick Lane,"Dallas, TX",75287
+199,"$535,000",3 Bd,2 bath,1520 San Saba Drive,"Dallas, TX",75218
+200,"$535,000",2 Bd,2 bath,4118 Park Lane,"Dallas, TX",75220
+201,"$545,000",4 Bd,2 bath,6424 E Lovers Lane,"Dallas, TX",75214
+202,"$549,000",4 Bd,3 bath,7138 Tabor Drive,"Dallas, TX",75231
+203,"$549,900",2 Bd,2 bath,6926 Vivian Avenue,"Dallas, TX",75223
+204,"$550,000",5 Bd,4 bath,7606 Kevin Drive,"Dallas, TX",75248
+205,"$579,900",4 Bd,4 bath,2055 Angelina Drive,"Dallas, TX",75212
+206,"$585,000",3 Bd,4 bath,4029 Bowser Avenue,"Dallas, TX",75219
+207,"$589,900",4 Bd,4 bath,7610 Dunoon Avenue,"Dallas, TX",75248
+208,"$599,750",3 Bd,2 bath,5227 Homer Street,"Dallas, TX",75206
+209,"$649,900",3 Bd,2 bath,7845 Blackbird Lane,"Dallas, TX",75238
+210,"$650,000",3 Bd,2 bath,818 Cordova Street,"Dallas, TX",75223
+211,"$659,500",4 Bd,3 bath,6406 La Manga Drive,"Dallas, TX",75248
+212,"$669,000",3 Bd,4 bath,2813 State Street,"Dallas, TX",75204
+213,"$674,900",4 Bd,5 bath,5616 Willow Wood Lane,"Dallas, TX",75252
+214,"$675,000",3 Bd,2 bath,8914 Santa Clara Drive,"Dallas, TX",75218
+215,"$688,800",0 Bd,0 bath,4006 Wycliff Avenue,"Dallas, TX",75219
+216,"$699,000",3 Bd,3 bath,10746 Royal Springs Drive,"Dallas, TX",75229
+217,"$725,000",3 Bd,2 bath,5432 Druid Lane,"Dallas, TX",75209
+218,"$729,000",4 Bd,5 bath,5505 Ellsworth Avenue,"Dallas, TX",75206
+219,"$749,900",4 Bd,3 bath,8110 San Cristobal Drive,"Dallas, TX",75218
+220,"$765,000",4 Bd,3 bath,5827 Morningside Avenue,"Dallas, TX",75206
+221,"$775,000",4 Bd,4 bath,5806 Royal Crest Drive,"Dallas, TX",75230
+222,"$785,000",3 Bd,2 bath,5935 Royal Crest Drive,"Dallas, TX",75230
+223,"$799,000",4 Bd,3 bath,6122 Richmond Avenue,"Dallas, TX",75214
+224,"$799,000",3 Bd,4 bath,6243 Monticello Avenue,"Dallas, TX",75214
+225,"$799,000",3 Bd,5 bath,1 Royal Way,"Dallas, TX",75229
+226,"$815,000",4 Bd,4 bath,4228 Glenaire Drive,"Dallas, TX",75229
+227,"$825,000",3 Bd,3 bath,4612 Live Oak Street,"Dallas, TX",75204
+228,"$825,000",0 Bd,0 bath,4618 Live Oak Street,"Dallas, TX",75204
+229,"$840,000",4 Bd,3 bath,5334 Morningside Avenue,"Dallas, TX",75206
+230,"$869,900",4 Bd,3 bath,5301 Merrimac Avenue,"Dallas, TX",75206
+231,"$895,000",4 Bd,3 bath,6664 Yosemite Lane,"Dallas, TX",75214
+232,"$895,000",4 Bd,3 bath,9231 Moss Haven Drive,"Dallas, TX",75231
+233,"$899,000",5 Bd,5 bath,3739 Vinecrest Drive,"Dallas, TX",75229
+234,"$940,000",4 Bd,4 bath,4748 Hallmark Drive,"Dallas, TX",75229
+235,"$974,900",2 Bd,2 bath,8510 Catawba Road,"Dallas, TX",75209
+236,"$979,100",4 Bd,4 bath,6716 Azalea Lane,"Dallas, TX",75230
+237,"$1,095,000",5 Bd,"4 bath
+    | 3,657",7602 Roper Street,"Dallas, TX",75209
+238,"$1,100,000",3 Bd,2 bath,7007 Inwood Road,"Dallas, TX",75209
+239,"$1,119,000",5 Bd,4 bath,16118 Ranchita Drive,"Dallas, TX",75248
+240,"$1,124,000",4 Bd,5 bath,3911 Park Lane,"Dallas, TX",75220
+241,"$1,150,000",5 Bd,7 bath,16208 Ranchita Drive,"Dallas, TX",75248
+242,"$1,195,000",4 Bd,6 bath,14140 Valley Creek Drive,"Dallas, TX",75254
+243,"$1,320,000",5 Bd,6 bath,2119 Madera Street,"Dallas, TX",75206
+244,"$1,350,000",5 Bd,6 bath,4037 Lively Lane,"Dallas, TX",75220
+245,"$1,399,000",3 Bd,3 bath,22 Vanguard Way,"Dallas, TX",75243
+246,"$1,425,000",5 Bd,6 bath,6506 Barnsbury Court,"Dallas, TX",75248
+247,"$1,695,000",3 Bd,5 bath,7021 Stone Meadow Drive,"Dallas, TX",75230
+248,"$1,850,000",5 Bd,4 bath,6711 Aberdeen Avenue,"Dallas, TX",75230
+249,"$1,950,000",5 Bd,3 bath,917 N Beckley Avenue,"Dallas, TX",75203
+250,"$1,950,000",3 Bd,2 bath,915 N Beckley Avenue,"Dallas, TX",75203
+251,"$1,950,000",4 Bd,2 bath,909 N Beckley Avenue,"Dallas, TX",75203
+252,"$1,950,000",2 Bd,2 bath,112 W 5th Street,"Dallas, TX",75208
+253,"$2,150,000",5 Bd,7 bath,6630 Northport Drive,"Dallas, TX",75230
+254,"$2,200,000",5 Bd,5 bath,7219 Marquette Street,"Dallas, TX",75225
+255,"$2,990,000",5 Bd,6 bath,6823 Northport Drive,"Dallas, TX",75230
+256,"$3,195,000",4 Bd,5 bath,4110 Cochran Chapel,"Dallas, TX",75209
+257,"$3,950,000",2 Bd,3 bath,1747 Leonard Street,"Dallas, TX",75201
+258,"$54,999",0 Bd,0 bath,2000 Dowdy Ferry Road,"Dallas, TX",75217
+259,"$97,000",3 Bd,1 bath,2060 Echo Lake Drive,"Dallas, TX",75253
+260,"$99,900",1 Bd,1 bath,6646 E Lovers Lane,"Dallas, TX",75214
+261,"$99,900",1 Bd,"1 bath
+    | 687",6646 E Lovers LN 1501,"Dallas, TX",75214
+262,"$119,000",1 Bd,1 bath,5325 Bent Tree Forest Drive,"Dallas, TX",75248
+263,"$119,900",1 Bd,1 bath,5335 Bent Tree Forest Drive,"Dallas, TX",75248
+264,"$121,000",3 Bd,2 bath,414 W Montana Avenue,"Dallas, TX",75224
+265,"$125,000",1 Bd,2 bath,8404 Forest Lane,"Dallas, TX",75243
+266,"$150,000",2 Bd,1 bath,8555 Fair Oaks Crossing,"Dallas, TX",75243
+267,"$154,500",3 Bd,1 bath,10427 Benbrook Drive,"Dallas, TX",75228
+268,"$155,000",3 Bd,2 bath,13753 Biggs Street,"Dallas, TX",75253
+269,"$160,000",1 Bd,2 bath,4777 Cedar Springs Road,"Dallas, TX",75219
+270,"$160,000",1 Bd,2 bath,5300 Keller Springs Road,"Dallas, TX",75248
+271,"$164,900",2 Bd,2 bath,1945 New Haven Drive,"Dallas, TX",75217
+272,"$175,000",1 Bd,2 bath,5100 E Verde Valley Lane,"Dallas, TX",75254
+273,"$179,900",2 Bd,3 bath,9222 Church Road,"Dallas, TX",75231
+274,"$180,000",4 Bd,2 bath,150 Buttercup Lane,"Dallas, TX",75217
+275,"$180,000",3 Bd,2 bath,11302 Castolon Drive,"Dallas, TX",75228
+276,"$181,900",3 Bd,2 bath,1337 Kingsley Drive,"Dallas, TX",75216
+277,"$182,500",2 Bd,2 bath,9910 Royal Lane,"Dallas, TX",75231
+278,"$185,000",2 Bd,2 bath,14277 Preston Road,"Dallas, TX",75254
+279,"$194,000",2 Bd,3 bath,9910 Royal Lane,"Dallas, TX",75231
+280,"$195,000",1 Bd,1 bath,3883 Turtle Creek Boulevard,"Dallas, TX",75219
+281,"$195,000",2 Bd,2 bath,5757 E University Boulevard,"Dallas, TX",75206
+282,"$199,500",2 Bd,2 bath,5200 Martel Avenue,"Dallas, TX",75206
+283,"$205,000",1 Bd,1 bath,4605 Cedar Springs Road,"Dallas, TX",75219
+284,"$205,000",2 Bd,2 bath,9202 Firelog Lane,"Dallas, TX",75243
+285,"$209,000",3 Bd,2 bath,7616 Texridge Drive,"Dallas, TX",75232
+286,"$211,000",1 Bd,1 bath,1122 Jackson Street,"Dallas, TX",75202
+287,"$215,000",3 Bd,2 bath,11812 Flamingo Lane,"Dallas, TX",75218
+288,"$220,000",2 Bd,2 bath,9721 Smokefeather Lane,"Dallas, TX",75243
+289,"$232,500",1 Bd,1 bath,4031 Holland Avenue,"Dallas, TX",75219
+290,"$234,900",4 Bd,3 bath,7702 Ike Avenue,"Dallas, TX",75241
+291,"$239,000",3 Bd,2 bath,13119 Southview Lane,"Dallas, TX",75240
+292,"$239,900",2 Bd,"3 bath
+    | 1,297",17820 Windflower WAY # 1404,"Dallas, TX",75252
+293,"$239,900",4 Bd,2 bath,2436 Oak Dale Road,"Dallas, TX",75241
+294,"$239,999",1 Bd,1 bath,1200 Main Street,"Dallas, TX",75202
+295,"$240,000",1 Bd,2 bath,4242 Buena Vista Street,"Dallas, TX",75205
+296,"$245,000",3 Bd,2 bath,6903 Sammy Circle,"Dallas, TX",75237
+297,"$249,900",3 Bd,1 bath,6131 Lewisburg Lane,"Dallas, TX",75237
+298,"$250,000",3 Bd,2 bath,9963 Constance Street,"Dallas, TX",75220
+299,"$250,000",3 Bd,2 bath,9209 Sweetwater Drive,"Dallas, TX",75228
+300,"$250,000",0 Bd,0 bath,12100 Garden Grove Drive,"Dallas, TX",75253
+301,"$259,900",4 Bd,3 bath,3139 Dusty Oak Drive,"Dallas, TX",75227
+302,"$259,900",1 Bd,2 bath,4242 Buena Vista Street,"Dallas, TX",75205
+303,"$260,000",4 Bd,3 bath,9246 Emberglow Lane,"Dallas, TX",75243
+304,"$269,700",3 Bd,2 bath,4920 Hollow Ridge Road,"Dallas, TX",75227
+305,"$299,900",3 Bd,2 bath,9408 Thornberry Lane,"Dallas, TX",75220
+306,"$300,000",3 Bd,2 bath,1511 Matagorda Drive,"Dallas, TX",75232
+307,"$310,000",2 Bd,3 bath,1323 Saint Joseph Street,"Dallas, TX",75204
+308,"$315,000",2 Bd,2 bath,6314C Bandera Avenue,"Dallas, TX",75225
+309,"$317,000",2 Bd,2 bath,6211 W Northwest Highway,"Dallas, TX",75225
+310,"$319,000",2 Bd,2 bath,4107 Bowser Avenue,"Dallas, TX",75219
+311,"$319,000",4 Bd,2 bath,6830 Prairie Flower Trail,"Dallas, TX",75227
+312,"$325,000",4 Bd,3 bath,3190 Lockmoor Lane,"Dallas, TX",75220
+313,"$329,500",2 Bd,2 bath,2427 Catherine Street,"Dallas, TX",75211
+314,"$329,900",2 Bd,3 bath,4325 Bowser Avenue,"Dallas, TX",75219
+315,"$349,900",3 Bd,3 bath,4127 Joshua Lane,"Dallas, TX",75287
+316,"$350,000",2 Bd,1 bath,2710 Kimsey Drive,"Dallas, TX",75235
+317,"$374,900",3 Bd,2 bath,7603 Kenwell Street,"Dallas, TX",75209
+318,"$374,900",2 Bd,3 bath,1725 Bennett Avenue,"Dallas, TX",75206
+319,"$375,000",3 Bd,1 bath,2812 Alden Avenue,"Dallas, TX",75211
+320,"$379,900",2 Bd,3 bath,1529 Seegar Street,"Dallas, TX",75215
+321,"$389,000",3 Bd,2 bath,9612 Ferndale Road,"Dallas, TX",75238
+322,"$389,000",3 Bd,3 bath,3847 Stockton Lane,"Dallas, TX",75287
+323,"$390,000",3 Bd,3 bath,1500 Pecos Street,"Dallas, TX",75204
+324,"$395,000",2 Bd,3 bath,5411 Maple Springs Boulevard,"Dallas, TX",75235
+325,"$400,000",3 Bd,2 bath,2638 Alco Avenue,"Dallas, TX",75211
+326,"$407,800",3 Bd,3 bath,6226 La Cosa Drive,"Dallas, TX",75248
+327,"$414,900",2 Bd,3 bath,1725 Bennett Avenue,"Dallas, TX",75206
+328,"$415,000",3 Bd,2 bath,3227 Citation Drive,"Dallas, TX",75229
+329,"$415,000",3 Bd,2 bath,3715 Valley Ridge Road,"Dallas, TX",75220
+330,"$415,000",5 Bd,4 bath,7049 Belteau Lane,"Dallas, TX",75227
+331,"$425,000",1 Bd,2 bath,2323 N Houston Street,"Dallas, TX",75219
+332,"$430,000",3 Bd,2 bath,409 S Rosemont Avenue,"Dallas, TX",75208
+333,"$448,000",2 Bd,3 bath,1914 Euclid Avenue,"Dallas, TX",75206
+334,"$450,000",4 Bd,"3 bath
+    | 1,681",1823 Naylor Street,"Dallas, TX",75228
+335,"$450,000",2 Bd,2 bath,6341 E Lovers Lane,"Dallas, TX",75214
+336,"$450,000",3 Bd,3 bath,2015 Kidwell Street,"Dallas, TX",75214
+337,"$451,000",2 Bd,3 bath,3024 Zenia Drive,"Dallas, TX",75204
+338,"$454,900",2 Bd,"3 bath
+    | 2,400",3501 Dickason Avenue Unit# B,"Dallas, TX",75219
+339,"$455,000",3 Bd,2 bath,10426 Royalwood Drive,"Dallas, TX",75238
+340,"$469,900",1 Bd,2 bath,2828 Hood Street,"Dallas, TX",75219
+341,"$475,000",4 Bd,"3 bath
+    | 2,820",3924 Belton Drive,"Dallas, TX",75287
+342,"$475,000",3 Bd,2 bath,7036 Winchester Street,"Dallas, TX",75231
+343,"$475,000",4 Bd,3 bath,6907 Middle Cove Drive,"Dallas, TX",75248
+344,"$479,900",2 Bd,2 bath,6035 Ellsworth Avenue,"Dallas, TX",75206
+345,"$495,000",2 Bd,2 bath,6054 Winton Street,"Dallas, TX",75206
+346,"$499,000",3 Bd,3 bath,7952 Minglewood Lane,"Dallas, TX",75231
+347,"$500,000",3 Bd,3 bath,6558 Laurel Valley Road,"Dallas, TX",75248
+348,"$507,000",2 Bd,3 bath,2411 N Hall Street,"Dallas, TX",75204
+349,"$515,000",3 Bd,4 bath,2417 Thatcher Drive,"Dallas, TX",75206
+350,"$525,000",4 Bd,3 bath,3390 Northaven Road,"Dallas, TX",75229
+351,"$535,000",2 Bd,3 bath,2217 Annex Avenue,"Dallas, TX",75204
+352,"$539,000",0 Bd,0 bath,1869 Summit Avenue,"Dallas, TX",75206
+353,"$545,000",3 Bd,"4 bath
+    | 2,438",4212 Bowser Avenue #C,"Dallas, TX",75219
+354,"$550,000",2 Bd,3 bath,4030 Travis Street,"Dallas, TX",75204
+355,"$560,000",3 Bd,4 bath,2411 Hall Street,"Dallas, TX",75204
+356,"$589,900",5 Bd,3 bath,10006 Milltrail Drive,"Dallas, TX",75238
+357,"$595,000",3 Bd,4 bath,4211 Rawlins Street,"Dallas, TX",75219
+358,"$599,000",3 Bd,2 bath,9634 Shoreview Road,"Dallas, TX",75238
+359,"$614,700",4 Bd,3 bath,5120 Vandelia Street,"Dallas, TX",75235
+360,"$615,950",4 Bd,3 bath,6726 Crestland Avenue,"Dallas, TX",75252
+361,"$649,900",4 Bd,3 bath,7103 Nicki Court,"Dallas, TX",75252
+362,"$649,950",4 Bd,3 bath,6811 Ledyard Drive,"Dallas, TX",75248
+363,"$674,900",4 Bd,4 bath,7331 Roundrock Road,"Dallas, TX",75248
+364,"$689,000",3 Bd,3 bath,4914 Reiger Avenue,"Dallas, TX",75214
+365,"$699,000",3 Bd,3 bath,4222 Meadowdale Lane,"Dallas, TX",75229
+366,"$699,000",3 Bd,3 bath,11727 Welch Road,"Dallas, TX",75229
+367,"$714,900",3 Bd,2 bath,5522 W Amherst Avenue,"Dallas, TX",75209
+368,"$724,900",5 Bd,4 bath,4408 Mill Run Road,"Dallas, TX",75244
+369,"$784,900",3 Bd,2 bath,3911 Gilbert Avenue,"Dallas, TX",75219
+370,"$815,000",4 Bd,4 bath,6538 Trammel Drive,"Dallas, TX",75214
+371,"$825,000",3 Bd,3 bath,7306 Azalea Lane,"Dallas, TX",75230
+372,"$840,000",4 Bd,4 bath,7121 Lakehurst Avenue,"Dallas, TX",75230
+373,"$859,000",4 Bd,4 bath,4324 Twin Post Road,"Dallas, TX",75244
+374,"$899,000",4 Bd,3 bath,6159 Ellsworth Avenue,"Dallas, TX",75214
+375,"$899,900",5 Bd,4 bath,9610 Lanshire Drive,"Dallas, TX",75238
+376,"$925,000",5 Bd,5 bath,5926 Flintshire Lane,"Dallas, TX",75252
+377,"$925,000",5 Bd,"5 bath
+    | 4,596",5926 Flintshire LN,"Dallas, TX",75252
+378,"$975,000",4 Bd,3 bath,12526 Sunlight Drive,"Dallas, TX",75230
+379,"$995,000",4 Bd,4 bath,7127 Casa Loma Avenue,"Dallas, TX",75214
+380,"$999,999",2 Bd,3 bath,3401 Lee Parkway,"Dallas, TX",75219
+381,"$1,050,000",3 Bd,3 bath,2700 Thomas Avenue,"Dallas, TX",75204
+382,"$1,050,000",5 Bd,4 bath,9535 Fieldcrest Drive,"Dallas, TX",75238
+383,"$1,175,000",4 Bd,4 bath,7139 Midcrest Drive,"Dallas, TX",75254
+384,"$1,265,900",4 Bd,3 bath,5327 Vanderbilt Avenue,"Dallas, TX",75206
+385,"$1,275,000",4 Bd,4 bath,11316 Valleydale Drive,"Dallas, TX",75230
+386,"$1,295,000",2 Bd,4 bath,13 Lakeside Park,"Dallas, TX",75225
+387,"$1,395,000",0 Bd,0 bath,5105 Vandelia Street,"Dallas, TX",75235
+388,"$1,400,000",4 Bd,8 bath,4719 Junius Street,"Dallas, TX",75246
+389,"$1,495,000",5 Bd,6 bath,6323 Royalton,"Dallas, TX",75230
+390,"$1,525,000",5 Bd,6 bath,5922 Joyce Way,"Dallas, TX",75225
+391,"$1,700,000",4 Bd,6 bath,13731 Hughes Lane,"Dallas, TX",75240
+392,"$1,850,000",2 Bd,"2 bath
+    | 1,612",1747 Leonard Street #801,"Dallas, TX",75201
+393,"$1,875,000",3 Bd,"4 bath
+    | 3,221",4129-4133 Herschel Avenue,"Dallas, TX",75219
+394,"$1,875,000",3 Bd,4 bath,4129-33 Herschel Avenue,"Dallas, TX",75219
+395,"$2,049,000",5 Bd,6 bath,5510 Lindenshire Lane,"Dallas, TX",75230
+396,"$2,100,000",3 Bd,4 bath,2430 Victory Park Lane,"Dallas, TX",75219
+397,"$2,175,000",5 Bd,7 bath,6815 Tulip Lane,"Dallas, TX",75230
+398,"$2,199,000",5 Bd,6 bath,4420 Ridge Road,"Dallas, TX",75229
+399,"$2,799,000",5 Bd,6 bath,6229 Tulip Lane,"Dallas, TX",75230
+400,"$3,950,000",2 Bd,"3 bath
+    | 3,241",1747 Leonard Street #402,"Dallas, TX",75201
+401,"$95,000",1 Bd,1 bath,1810 N Garrett Avenue,"Dallas, TX",75206
+402,"$99,000",2 Bd,2 bath,4228 Copeland Street,"Dallas, TX",75210
+403,"$110,000",1 Bd,2 bath,11655 Audelia Road,"Dallas, TX",75243
+404,"$112,000",1 Bd,1 bath,5550 Spring Valley,"Dallas, TX",75254
+405,"$118,000",3 Bd,2 bath,2918 Reed Lane,"Dallas, TX",75215
+406,"$124,900",1 Bd,1 bath,4859 Cedar Springs Road,"Dallas, TX",75219
+407,"$134,900",2 Bd,2 bath,6646 E Lovers Lane,"Dallas, TX",75214
+408,"$140,500",3 Bd,1 bath,2915 Marburg Street,"Dallas, TX",75215
+409,"$149,990",2 Bd,2 bath,4748 Old Bent Tree Lane,"Dallas, TX",75287
+410,"$155,000",2 Bd,2 bath,15221 Berry Trail,"Dallas, TX",75248
+411,"$155,000",1 Bd,1 bath,15909 Stillwood Drive,"Dallas, TX",75248
+412,"$165,000",2 Bd,2 bath,11348 Park Central Place,"Dallas, TX",75230
+413,"$173,900",3 Bd,2 bath,2245 E Overton Road,"Dallas, TX",75216
+414,"$175,000",3 Bd,2 bath,3130 Utah Avenue,"Dallas, TX",75216
+415,"$199,000",3 Bd,2 bath,1310 Mentor Avenue,"Dallas, TX",75216
+416,"$204,900",3 Bd,1 bath,2529 Fenwick Drive,"Dallas, TX",75228
+417,"$209,900",3 Bd,2 bath,7311 Hardwood Trail,"Dallas, TX",75249
+418,"$210,000",4 Bd,"2 bath
+    | 1,712",9419 Eddy Sass Court,"Dallas, TX",75227
+419,"$217,000",2 Bd,1 bath,4414 Cedar Springs Road,"Dallas, TX",75219
+420,"$225,000",4 Bd,2 bath,4000 Hamilton Avenue,"Dallas, TX",75210
+421,"$229,000",3 Bd,2 bath,9129 Laneyvale Avenue,"Dallas, TX",75217
+422,"$229,000",3 Bd,1 bath,2668 Healey Drive,"Dallas, TX",75228
+423,"$260,000",2 Bd,2 bath,3883 Turtle Creek Boulevard,"Dallas, TX",75219
+424,"$279,000",3 Bd,3 bath,2730 Emmett Street,"Dallas, TX",75211
+425,"$280,000",3 Bd,2 bath,11333 Dumbarton Drive,"Dallas, TX",75228
+426,"$289,900",3 Bd,2 bath,13216 Meandering Way,"Dallas, TX",75240
+427,"$295,000",2 Bd,3 bath,5132 Westgrove,"Dallas, TX",75248
+428,"$298,000",3 Bd,2 bath,7130 Rolling Fork Drive,"Dallas, TX",75227
+429,"$299,000",4 Bd,2 bath,2970 Sundial Drive,"Dallas, TX",75229
+430,"$300,000",0 Bd,0 bath,6610 Frankford Road,"Dallas, TX",75252
+431,"$310,000",0 Bd,0 bath,4714 Cowan Avenue,"Dallas, TX",75209
+432,"$315,000",3 Bd,1 bath,130 Appian Way,"Dallas, TX",75216
+433,"$324,900",4 Bd,4 bath,2512 Springhill Drive,"Dallas, TX",75228
+434,"$325,000",3 Bd,3 bath,12323 High Meadow Drive,"Dallas, TX",75234
+435,"$325,000",3 Bd,2 bath,1318 Melbourne Avenue,"Dallas, TX",75224
+436,"$335,000",3 Bd,"2 bath
+    | 2,302",2941 Vacherie Lane,"Dallas, TX",75227
+437,"$335,000",2 Bd,2 bath,4310 Rosser Square,"Dallas, TX",75244
+438,"$335,000",2 Bd,3 bath,2415 Stutz Drive,"Dallas, TX",75235
+439,"$335,987",3 Bd,2 bath,2030 Trinidad Drive,"Dallas, TX",75232
+440,"$349,900",3 Bd,2 bath,3753 Colonnade Grove Drive,"Frisco, TX",75033
+441,"$380,000",4 Bd,3 bath,5113 Treehouse Drive,"Frisco, TX",75036
+442,"$428,000",0 Bd,0 bath,9688 Windy Ridge Road,"Frisco, TX",75033
+443,"$525,000",5 Bd,4 bath,11775 Barrymore Drive,"Frisco, TX",75035
+444,"$629,500",4 Bd,4 bath,1726 Coralbead Road,"Frisco, TX",75033
+445,"$305,000",2 Bd,2 bath,8016 Cool River Drive,"Frisco, TX",75036
+446,"$350,000",3 Bd,2 bath,10005 Ashmont Drive,"Frisco, TX",75035
+447,"$430,000",2 Bd,2 bath,949 Imperial Valley Lane,"Frisco, TX",75036
+448,"$500,000",5 Bd,4 bath,12350 Flowering Drive,"Frisco, TX",75035
+449,"$640,000",4 Bd,"3 bath
+    | 2,695",2079 Alcove Drive,"Frisco, TX",75034
+450,"$725,000",4 Bd,4 bath,3 Southern Hills Court,"Frisco, TX",75034
+451,"$725,000",5 Bd,4 bath,16492 Creek Plum Road,"Frisco, TX",75033
+452,"$769,900",4 Bd,4 bath,11707 Coronado Trail,"Frisco, TX",75033
+453,"$1,050,000",5 Bd,6 bath,4151 Castle Bank Lane,"Frisco, TX",75033
+454,"$274,900",3 Bd,2 bath,6959 Maple Street,"Frisco, TX",75033
+455,"$295,000",3 Bd,3 bath,10313 BURGUNDY Drive,"Frisco, TX",75035
+456,"$345,000",3 Bd,2 bath,9152 Apollo Court,"Frisco, TX",75033
+457,"$369,900",3 Bd,2 bath,9581 Magnolia Road,"Frisco, TX",75033
+458,"$379,900",4 Bd,2 bath,1692 Dowelling Court,"Frisco, TX",75036
+459,"$395,000",4 Bd,3 bath,15833 Rockingham Street,"Frisco, TX",75036
+460,"$423,550",3 Bd,2 bath,1924 Dexter Lane,"Frisco, TX",75036
+461,"$465,000",4 Bd,4 bath,11566 Caladium Lane,"Frisco, TX",75035
+462,"$479,000",4 Bd,4 bath,9629 Planters Row Drive,"Frisco, TX",75033
+463,"$505,000",4 Bd,4 bath,10196 Ferry Farm Lane,"Frisco, TX",75035
+464,"$520,000",5 Bd,4 bath,1946 Countryside Drive,"Frisco, TX",75036
+465,"$530,000",4 Bd,4 bath,5498 Balmoral Drive,"Frisco, TX",75034
+466,"$547,000",5 Bd,5 bath,13761 Stallion Heights Lane,"Frisco, TX",75035
+467,"$549,900",5 Bd,4 bath,13942 Badger Creek Drive,"Frisco, TX",75033
+468,"$570,000",4 Bd,4 bath,698 Caveson Drive,"Frisco, TX",75036
+469,"$595,900",4 Bd,4 bath,15199 Mountain Creek Trail,"Frisco, TX",75035
+470,"$599,900",4 Bd,3 bath,11761 Orange Court,"Frisco, TX",75035
+471,"$625,000",4 Bd,4 bath,3331 Cedar Creek Trail,"Frisco, TX",75034
+472,"$625,000",4 Bd,5 bath,1745 Evening Star Road,"Frisco, TX",75033
+473,"$639,500",3 Bd,4 bath,11248 Tavern Creek Court,"Frisco, TX",75035
+474,"$725,000",5 Bd,5 bath,10229 Fire Ridge Drive,"Frisco, TX",75033
+475,"$749,000",5 Bd,6 bath,12858 Palo Duro Drive,"Frisco, TX",75033
+476,"$774,900",5 Bd,5 bath,16372 Lorna Doone Lane,"Frisco, TX",75033
+477,"$775,000",5 Bd,5 bath,5951 Beacon Hill Drive,"Frisco, TX",75036
+478,"$785,000",5 Bd,4 bath,13272 Ignatius Drive,"Frisco, TX",75035
+479,"$869,900",3 Bd,4 bath,12977 Railhead Court,"Frisco, TX",75033
+480,"$909,000",5 Bd,6 bath,4171 Mission Avenue,"Frisco, TX",75034
+481,"$925,000",4 Bd,5 bath,5111 Stillwater Trail,"Frisco, TX",75034
+482,"$1,099,000",5 Bd,5 bath,5125 Normandy Drive,"Frisco, TX",75034
+483,"$1,100,000",5 Bd,5 bath,12262 Genova Court,"Frisco, TX",75035
+484,"$1,195,000",4 Bd,5 bath,5774 Park Lane,"Frisco, TX",75034
+485,"$1,200,000",5 Bd,5 bath,6006 Connely Drive,"Frisco, TX",75034
+486,"$1,200,000",4 Bd,4 bath,7 Harbour Town Court,"Frisco, TX",75034
+487,"$1,299,000",5 Bd,7 bath,12684 Riverhill Road,"Frisco, TX",75033
+488,"$1,895,000",5 Bd,7 bath,6203 Sweeney Trail,"Frisco, TX",75034
+489,"$295,000",3 Bd,3 bath,9805 Concord Drive,"Frisco, TX",75035
+490,"$324,900",3 Bd,2 bath,2249 Lariat Trail,"Frisco, TX",75036
+491,"$325,000",4 Bd,2 bath,13160 Guerin Drive,"Frisco, TX",75035
+492,"$325,000",4 Bd,2 bath,7297 Chinquapin Drive,"Frisco, TX",75033
+493,"$325,400",4 Bd,2 bath,11908 Clearpoint Ct,"Frisco, TX",75036
+494,"$340,000",2 Bd,3 bath,6848 Regello Drive,"Frisco, TX",75034
+495,"$350,000",4 Bd,2 bath,9758 Golden Fountain Drive,"Frisco, TX",75033
+496,"$369,000",4 Bd,3 bath,2450 Thorntree Drive,"Frisco, TX",75033
+497,"$369,900",4 Bd,3 bath,12506 Melrose Lane,"Frisco, TX",75035
+498,"$375,000",4 Bd,2 bath,5904 Louisville Drive,"Frisco, TX",75035
+499,"$389,000",3 Bd,2 bath,12732 Hollister Drive,"Frisco, TX",75033
+500,"$389,900",3 Bd,2 bath,2910 Reynolds Lane,"Frisco, TX",75033
+501,"$400,000",3 Bd,"2 bath
+    | 2,341",9812 Adolphus DR,"Frisco, TX",75035
+502,"$439,900",3 Bd,3 bath,7601 Blossom Lane,"Frisco, TX",75034
+503,"$445,900",4 Bd,4 bath,12004 Rushing Creek Drive,"Frisco, TX",75035
+504,"$449,900",4 Bd,3 bath,9991 Slick Rock Trail,"Frisco, TX",75033
+505,"$459,900",4 Bd,4 bath,10156 Burnt Mill Lane,"Frisco, TX",75035
+506,"$460,000",4 Bd,3 bath,9569 Lance Drive,"Frisco, TX",75035
+507,"$460,000",4 Bd,"3 bath
+    | 3,069",9569 Lance DR,"Frisco, TX",75035
+508,"$465,000",4 Bd,3 bath,12299 Antler Drive,"Frisco, TX",75035
+509,"$489,900",4 Bd,4 bath,1090 Frisco Ranch Road,"Frisco, TX",75033
+510,"$499,000",3 Bd,2 bath,1690 Foard Drive,"Frisco, TX",75034
+511,"$500,000",3 Bd,2 bath,7152 Maumee Valley Court,"Frisco, TX",75036
+512,"$500,000",3 Bd,"2 bath
+    | 2,246",7152 Maumee Valley CT,"Frisco, TX",75036
+513,"$509,900",4 Bd,3 bath,2397 Mackinac Drive,"Frisco, TX",75033
+514,"$579,000",5 Bd,5 bath,6341 Lorwood Drive,"Frisco, TX",75035
+515,"$599,900",6 Bd,6 bath,9547 Amberwoods Lane,"Frisco, TX",75035
+516,"$625,000",4 Bd,4 bath,1403 Crockett Drive,"Frisco, TX",75033
+517,"$675,000",5 Bd,4 bath,15692 Atkins Lane,"Frisco, TX",75035
+518,"$889,000",5 Bd,4 bath,5358 Moss Glen Drive,"Frisco, TX",75034
+519,"$900,000",4 Bd,4 bath,6198 Rachel Drive,"Frisco, TX",75034
+520,"$939,900",4 Bd,5 bath,3499 Cedar Cottage Circle,"Frisco, TX",75034
+521,"$968,000",5 Bd,5 bath,7380 Calla Lilly Lane,"Frisco, TX",75034
+522,"$970,000",5 Bd,6 bath,6756 Stallion Ranch Road,"Frisco, TX",75036
+523,"$1,100,000",4 Bd,5 bath,6281 Memorial Drive,"Frisco, TX",75034
+524,"$290,000",3 Bd,2 bath,8400 Hickory Street,"Frisco, TX",75034
+525,"$330,000",3 Bd,2 bath,13959 Stevens Point Drive,"Frisco, TX",75033
+526,"$375,000",3 Bd,2 bath,11708 Beach Street,"Frisco, TX",75036
+527,"$395,000",4 Bd,2 bath,9413 Prestmont Place,"Frisco, TX",75035
+528,"$397,000",3 Bd,3 bath,4042 Guadalupe Lane,"Frisco, TX",75034
+529,"$425,000",2 Bd,3 bath,7927 Canal Street,"Frisco, TX",75034
+530,"$437,500",4 Bd,4 bath,2649 Marshall Drive,"Frisco, TX",75033
+531,"$459,900",4 Bd,3 bath,11564 Santa Maria Road,"Frisco, TX",75035
+532,"$475,000",3 Bd,3 bath,13714 French Creek Lane,"Frisco, TX",75035
+533,"$510,000",4 Bd,4 bath,13767 Monstrell Road,"Frisco, TX",75035
+534,"$515,000",4 Bd,3 bath,8326 Sitka Street,"Frisco, TX",75035
+535,"$529,900",4 Bd,4 bath,14014 Susana Lane,"Frisco, TX",75035
+536,"$548,000",4 Bd,"4 bath
+    | 4,207",11777 Estacado Drive,"Frisco, TX",75033
+537,"$550,000",4 Bd,4 bath,2771 Barnhill Lane,"Frisco, TX",75034
+538,"$550,000",5 Bd,5 bath,14694 Mediterranean Drive,"Frisco, TX",75035
+539,"$599,000",5 Bd,"6 bath
+    | 4,651",10923 Chilmark Court,"Frisco, TX",75035
+540,"$625,000",5 Bd,4 bath,5611 Lightfoot Lane,"Frisco, TX",75036
+541,"$759,000",4 Bd,3 bath,14121 Berryfield Lane,"Frisco, TX",75035
+542,"$799,900",5 Bd,5 bath,13162 Ignatius Drive,"Frisco, TX",75035
+543,"$800,000",5 Bd,5 bath,984 Havenbrook Lane,"Frisco, TX",75036
+544,"$899,900",5 Bd,5 bath,4849 Northshore Drive,"Frisco, TX",75034
+545,"$930,000",3 Bd,4 bath,4520 Florence Drive,"Frisco, TX",75034
+546,"$1,200,000",3 Bd,4 bath,5733 Travis Drive,"Frisco, TX",75034
+547,"$1,299,000",5 Bd,5 bath,3050 Briarwood Lane,"Frisco, TX",75034
+548,"$1,495,000",0 Bd,0 bath,3876 Balfour Court,"Frisco, TX",75034
+549,"$1,699,000",5 Bd,7 bath,6440 Memorial Drive,"Frisco, TX",75034
+550,"$1,775,000",4 Bd,"4 bath
+    | 6,468",5094 Oak Knoll Lane,"Frisco, TX",75034
+551,"$319,999",3 Bd,2 bath,5205 Mosscreek Lane,"Frisco, TX",75035
+552,"$339,999",3 Bd,2 bath,12018 Chattanooga Drive,"Frisco, TX",75035
+553,"$359,900",3 Bd,2 bath,638 Enfield Drive,"Frisco, TX",75036
+554,"$365,000",3 Bd,2 bath,10045 Bell Rock Road,"Frisco, TX",75035
+555,"$397,000",4 Bd,3 bath,9706 Prestmont Place,"Frisco, TX",75035
+556,"$405,000",4 Bd,3 bath,7617 Quiet Meadow Lane,"Frisco, TX",75033
+557,"$435,000",4 Bd,3 bath,5871 Rivendell Drive,"Frisco, TX",75035
+558,"$631,300",4 Bd,3 bath,15688 Renner Lane,"Frisco, TX",75068
+559,"$700,958",4 Bd,5 bath,758 Pleasant Point Lane,"Frisco, TX",75068
+560,"$702,045",5 Bd,4 bath,561 Meandering Lane,"Frisco, TX",75068
+561,"$763,875",4 Bd,4 bath,589 Pentonville Lane,"Frisco, TX",75068
+562,"$775,000",5 Bd,5 bath,12886 Five Bar Drive,"Frisco, TX",75035
+563,"$816,576",5 Bd,6 bath,781 Pentonville Lane,"Frisco, TX",75068
+564,"$962,309",5 Bd,5 bath,3749 Marble Hill Road,"Frisco, TX",75034
+565,"$989,000",5 Bd,6 bath,6259 Loxton Boulevard,"Frisco, TX",75034
+566,"$1,100,000",4 Bd,5 bath,5964 Burkett Drive,"Frisco, TX",75034
+567,"$314,900",3 Bd,2 bath,11821 Summer Springs Drive,"Frisco, TX",75036
+568,"$315,000",3 Bd,2 bath,12502 Melrose Lane,"Frisco, TX",75035
+569,"$329,000",3 Bd,2 bath,12144 Cardinal Creek Drive,"Frisco, TX",75033
+570,"$339,990",3 Bd,2 bath,11911 Chattanooga Drive,"Frisco, TX",75035
+571,"$389,900",3 Bd,2 bath,11006 Shadow Brook Lane,"Frisco, TX",75035
+572,"$400,000",5 Bd,3 bath,8500 Beartooth Drive,"Frisco, TX",75036
+573,"$410,000",3 Bd,3 bath,8212 Wharf Street,"Frisco, TX",75035
+574,"$425,000",4 Bd,3 bath,2138 Mustang Trail,"Frisco, TX",75033
+575,"$425,000",4 Bd,3 bath,14157 Salmon Drive,"Frisco, TX",75035
+576,"$430,000",6 Bd,4 bath,8550 Holly Street,"Frisco, TX",75034
+577,"$535,000",5 Bd,5 bath,9617 Robinwoods Drive,"Frisco, TX",75035
+578,"$555,000",5 Bd,4 bath,10204 Fire Ridge Drive,"Frisco, TX",75033
+579,"$724,900",4 Bd,4 bath,6389 Culverdale Lane,"Frisco, TX",75034
+580,"$750,000",5 Bd,4 bath,8312 Kara Creek Road,"Frisco, TX",75036
+581,"$1,097,394",5 Bd,4 bath,2387 Alcove Drive,"Frisco, TX",75034
+582,"$1,099,900",4 Bd,5 bath,9651 Vita Dolce Drive,"Frisco, TX",75035
+583,"$350,000",4 Bd,4 bath,2766 Sparks Drive,"Frisco, TX",75036
+584,"$375,000",0 Bd,0 bath,1449 Kingfisher Lane,"Frisco, TX",75033
+585,"$399,999",3 Bd,2 bath,4408 Ripplewood Road,"Frisco, TX",75035
+586,"$429,000",4 Bd,3 bath,9704 Legend Trail,"Frisco, TX",75035
+587,"$669,000",4 Bd,4 bath,16405 Prairie Oak Road,"Frisco, TX",75033
+588,"$728,900",4 Bd,4 bath,12709 Grand Valley Drive,"Frisco, TX",75033
+589,"$2,099,000",6 Bd,7 bath,6797 Reims Court,"Frisco, TX",75034
+590,"$305,000",3 Bd,2 bath,11800 Kurth Drive,"Frisco, TX",75036
+591,"$576,918",5 Bd,5 bath,10100 Oxbow Avenue,"Frisco, TX",75035
+592,"$599,900",5 Bd,4 bath,774 Caveson Drive,"Frisco, TX",75036
+593,"$604,924",5 Bd,5 bath,10744 Manuel Street,"Frisco, TX",75035
+594,"$325,000",4 Bd,3 bath,11371 Pear Ridge Drive,"Frisco, TX",75035
+595,"$360,000",4 Bd,3 bath,15812 Langsdale Street,"Frisco, TX",75036
+596,"$439,000",3 Bd,2 bath,9657 Stratton Drive,"Frisco, TX",75035
+597,"$565,000",5 Bd,3 bath,6468 Stallion Ranch Road,"Frisco, TX",75036
+598,"$565,000",4 Bd,4 bath,14040 Raspberry Lane,"Frisco, TX",75035
+599,"$750,000",2 Bd,3 bath,5270 Town and Country Boulevard,"Frisco, TX",75034
+600,"$815,000",3 Bd,4 bath,13327 Terlingua Creek Drive,"Frisco, TX",75033
+601,"$1,150,000",4 Bd,5 bath,4800 Star Ridge Lane,"Frisco, TX",75034
+602,"$1,150,000",5 Bd,6 bath,7134 Calypso Lane,"Frisco, TX",75036
+603,"$1,150,000",6 Bd,6 bath,15246 Crystal Beach Lane,"Frisco, TX",75035
+604,"$1,198,000",5 Bd,6 bath,13980 Nash Lane,"Frisco, TX",75035
+605,"$1,495,000",5 Bd,7 bath,1635 Torrey Pines Lane,"Frisco, TX",75034
+606,"$275,000",3 Bd,2 bath,9040 3rd Street,"Frisco, TX",75033
+607,"$290,000",0 Bd,0 bath,8746 Happy Hollow Drive,"Frisco, TX",75034
+608,"$339,000",2 Bd,3 bath,8256 Short Street,"Frisco, TX",75034
+609,"$339,900",2 Bd,2 bath,2396 Beachfront Drive,"Frisco, TX",75036
+610,"$368,900",3 Bd,2 bath,4920 Baton Rouge Boulevard,"Frisco, TX",75035
+611,"$390,000",3 Bd,2 bath,11498 La Grange Drive,"Frisco, TX",75035
+612,"$474,900",4 Bd,3 bath,11302 Tenison Lane,"Frisco, TX",75033
+613,"$475,000",5 Bd,5 bath,12513 Flowering Drive,"Frisco, TX",75035
+614,"$479,900",4 Bd,4 bath,1317 Alamo Court,"Frisco, TX",75033
+615,"$489,900",5 Bd,4 bath,13378 Chittamwood Lane,"Frisco, TX",75035
+616,"$499,900",3 Bd,3 bath,12923 Yale Court,"Frisco, TX",75035
+617,"$524,900",4 Bd,3 bath,15867 Christopher Lane,"Frisco, TX",75035
+618,"$550,000",5 Bd,5 bath,1057 Gentle Wind Lane,"Frisco, TX",75036
+619,"$557,997",3 Bd,3 bath,9823 Gristmill Lane,"Frisco, TX",75035
+620,"$688,000",4 Bd,4 bath,8443 Wild Rye Road,"Frisco, TX",75035
+621,"$849,900",4 Bd,4 bath,5459 Widgeon Way,"Frisco, TX",75034
+622,"$1,275,000",5 Bd,5 bath,4734 Heritage Oaks Drive,"Frisco, TX",75034
+623,"$1,300,000",5 Bd,6 bath,5855 Arminta Avenue,"Frisco, TX",75034
+624,"$3,845,000",6 Bd,9 bath,15 Riva Ridge,"Frisco, TX",75034
+625,"$320,000",3 Bd,2 bath,11995 Westlawn Lane,"Frisco, TX",75033
+626,"$350,000",3 Bd,"2 bath
+    | 1,841",2260 Lariat TRL,"Frisco, TX",75036
+627,"$412,000",4 Bd,3 bath,6508 Liberty Court,"Frisco, TX",75035
+628,"$415,000",4 Bd,"4 bath
+    | 2,780",8234 Robertson DR,"Frisco, TX",75036
+629,"$475,000",4 Bd,4 bath,8514 Brown Stone Lane,"Frisco, TX",75033
+630,"$475,000",4 Bd,"3 bath
+    | 3,472",4184 Republic DR,"Frisco, TX",75034
+631,"$525,000",5 Bd,4 bath,11322 Raveneaux Drive,"Frisco, TX",75033
+632,"$550,000",5 Bd,4 bath,3768 Caruth Lane,"Frisco, TX",75034
+633,"$559,900",4 Bd,5 bath,1298 Bowie Lane,"Frisco, TX",75033
+634,"$725,000",4 Bd,4 bath,1275 Bowie Lane,"Frisco, TX",75033
+635,"$749,900",4 Bd,5 bath,5356 Highflyer Hills Trail,"Frisco, TX",75036
+636,"$1,999,999",5 Bd,6 bath,3823 Broadmoor Way,"Frisco, TX",75033
+637,"$340,000",3 Bd,2 bath,15608 Cornwallis Street,"Frisco, TX",75036
+638,"$350,000",3 Bd,2 bath,2260 Lariat Trail,"Frisco, TX",75036
+639,"$499,000",4 Bd,3 bath,9500 Crossvine Lane,"Frisco, TX",75035
+640,"$2,499,000",5 Bd,7 bath,1515 Courtland Drive,"Frisco, TX",75034
+641,"$280,000",3 Bd,2 bath,5001 Hidden Pond Drive,"Frisco, TX",75036
+642,"$329,995",3 Bd,2 bath,6512 Clydesdale Court,"Frisco, TX",75034
+643,"$340,000",3 Bd,2 bath,3805 Moorcroft Road,"Frisco, TX",75036
+644,"$345,000",2 Bd,2 bath,1070 Imperial Valley Lane,"Frisco, TX",75036
+645,"$350,000",4 Bd,3 bath,10108 Preston Vineyard Drive,"Frisco, TX",75035
+646,"$365,000",4 Bd,3 bath,1416 Pelican Drive,"Frisco, TX",75033
+647,"$376,000",3 Bd,3 bath,6262 Rainbow Valley Place,"Frisco, TX",75035
+648,"$395,000",4 Bd,2 bath,10908 Spring Lake Road,"Frisco, TX",75035
+649,"$489,900",2 Bd,2 bath,1191 Pasatiempo Drive,"Frisco, TX",75036
+650,"$600,000",4 Bd,5 bath,554 Quarter Horse Lane,"Frisco, TX",75036
+651,"$630,000",5 Bd,4 bath,7025 Pecan Chase Lane,"Frisco, TX",75034
+652,"$650,000",5 Bd,4 bath,6974 Irongate Place,"Frisco, TX",75036
+653,"$825,000",3 Bd,4 bath,3918 Fairbanks Drive,"Frisco, TX",75033
+654,"$975,000",2 Bd,2 bath,1 Pasture Place,"Frisco, TX",75033
+655,"$1,050,000",4 Bd,6 bath,5413 Braemar Drive,"Frisco, TX",75034
+656,"$375,000",4 Bd,3 bath,1747 Garrison Drive,"Frisco, TX",75033
+657,"$379,900",3 Bd,2 bath,1112 Resaca Drive,"Frisco, TX",75033
+658,"$419,900",4 Bd,4 bath,5210 Golfside Drive,"Frisco, TX",75035
+659,"$509,900",4 Bd,"3 bath
+    | 3,484",2397 Mackinac DR,"Frisco, TX",75033
+660,"$949,000",3 Bd,2 bath,10627 Buccaneer Point,"Frisco, TX",75036
+661,"$298,000",3 Bd,2 bath,8201 Bells Street,"Frisco, TX",75035
+662,"$500,000",3 Bd,3 bath,5434 Travis Drive,"Frisco, TX",75034
+663,"$592,000",5 Bd,5 bath,11292 Berkeley Hall Lane,"Frisco, TX",75033
+664,"$775,000",5 Bd,4 bath,3304 Hartford Lane,"Frisco, TX",75033
+665,"$895,000",4 Bd,5 bath,7684 Traveller Street,"Frisco, TX",75034
+666,"$3,499,000",6 Bd,11 bath,7 Riva Ridge,"Frisco, TX",75034
+667,"$219,000",1 Bd,2 bath,8400 Hickory Street,"Frisco, TX",75034
+668,"$220,000",0 Bd,0 bath,6042 Norwood Drive,"Frisco, TX",75034
+669,"$224,000",0 Bd,0 bath,6031 Westchester Lane,"Frisco, TX",75034
+670,"$289,000",3 Bd,2 bath,13033 Galaxy Drive,"Frisco, TX",75035
+671,"$320,000",3 Bd,2 bath,4220 Armistice Drive,"Frisco, TX",75034
+672,"$340,000",2 Bd,"3 bath
+    | 1,840",7326 Sprangletop ST,"Frisco, TX",75033
+673,"$354,900",3 Bd,2 bath,16008 Royston Street,"Frisco, TX",75036
+674,"$380,000",4 Bd,3 bath,3713 Wrexham Street,"Frisco, TX",75036
+675,"$449,900",3 Bd,2 bath,7692 Fossil Ridge Drive,"Frisco, TX",75034
+676,"$915,000",5 Bd,5 bath,11394 Lenox Lane,"Frisco, TX",75033
+677,"$250,000",0 Bd,0 bath,14182 Speargrass Drive,"Frisco, TX",75068
+678,"$475,000",5 Bd,4 bath,15618 Brookwood Drive,"Frisco, TX",75035
+679,"$515,000",5 Bd,4 bath,4138 Honor Drive,"Frisco, TX",75034
+680,"$320,000",3 Bd,2 bath,8300 Christie Drive,"Frisco, TX",75033
+681,"$378,000",3 Bd,2 bath,2503 Windgate Lane,"Frisco, TX",75033
+682,"$450,000",4 Bd,4 bath,15115 Blakehill Drive,"Frisco, TX",75035
+683,"$545,686",5 Bd,4 bath,9661 Needles,"Frisco, TX",75035
+684,"$910,000",5 Bd,6 bath,11341 Lenox Lane,"Frisco, TX",75033
+685,"$1,000,000",4 Bd,5 bath,2171 Prospect Drive,"Frisco, TX",75036
+686,"$179,000",2 Bd,1 bath,8502 Holly Street,"Frisco, TX",75034
+687,"$269,900",3 Bd,2 bath,12700 Skeeter Drive,"Frisco, TX",75036
+688,"$359,900",3 Bd,3 bath,12525 Fair Lane,"Frisco, TX",75036
+689,"$448,000",3 Bd,"2 bath
+    | 2,181",8272 Haltered Horse LN,"Frisco, TX",75036
+690,"$468,500",4 Bd,3 bath,863 Gladewater Drive,"Frisco, TX",75033
+691,"$525,000",4 Bd,3 bath,2865 Reynolds Lane,"Frisco, TX",75033
+692,"$530,000",5 Bd,4 bath,1066 Bayfield Drive,"Frisco, TX",75033
+693,"$720,000",5 Bd,5 bath,10985 Pike Lake Drive,"Frisco, TX",75035
+694,"$784,400",5 Bd,5 bath,2226 Bristlegrass Road,"Frisco, TX",75033
+695,"$792,900",5 Bd,4 bath,15699 Thorn Apple Road,"Frisco, TX",75033
+696,"$880,000",5 Bd,5 bath,13334 Ignatius Drive,"Frisco, TX",75035
+697,"$365,000",2 Bd,2 bath,7472 Sage Valley Lane,"Frisco, TX",75036
+698,"$520,000",3 Bd,2 bath,14205 Red Wood Circle N,"Frisco, TX",75071
+699,"$570,000",4 Bd,4 bath,4398 Verde Lane,"Frisco, TX",75034
+700,"$679,545",4 Bd,3 bath,1545 Morris Lane,"Frisco, TX",75034
+701,"$849,000",5 Bd,4 bath,14191 Berryfield Lane,"Frisco, TX",75035
+702,"$1,590,000",0 Bd,0 bath,6 Riva Ridge,"Frisco, TX",75034
+703,"$289,995",2 Bd,3 bath,6728 Firenze Lane,"Frisco, TX",75034
+704,"$369,950",3 Bd,2 bath,8833 Beartooth Drive,"Frisco, TX",75036
+705,"$382,500",2 Bd,2 bath,7357 Rustling Oaks Road,"Frisco, TX",75036
+706,"$525,000",4 Bd,4 bath,3568 Baldcypress Drive,"Frisco, TX",75033
+707,"$545,000",5 Bd,5 bath,10894 Panorama Drive,"Frisco, TX",75035
+708,"$589,000",5 Bd,4 bath,6570 Stallion Ranch Road,"Frisco, TX",75036
+709,"$761,061",5 Bd,6 bath,15643 Cherry Blossom,"Frisco, TX",75033
+710,"$999,000",5 Bd,6 bath,15375 Viburnum Road,"Frisco, TX",75035
+711,"$1,190,000",5 Bd,5 bath,5085 Normandy Drive,"Frisco, TX",75034
+712,"$375,000",3 Bd,3 bath,662 Pendle Forest Drive,"Frisco, TX",75036
+713,"$435,000",5 Bd,4 bath,9993 Wyndbrook Drive,"Frisco, TX",75035
+714,"$468,720",4 Bd,3 bath,8125 Sedum Carpet,"Frisco, TX",75035
+715,"$510,073",4 Bd,4 bath,15753 Shasta Daisy Road,"Frisco, TX",75035
+716,"$565,000",4 Bd,4 bath,1217 Roma Drive,"Frisco, TX",75036
+717,"$1,375,000",5 Bd,6 bath,5029 Brandywine Lane,"Frisco, TX",75034
+718,"$299,000",3 Bd,2 bath,8070 Rock Brook Street,"Frisco, TX",75034
+719,"$600,000",5 Bd,4 bath,4339 Bal Harbour Lane,"Frisco, TX",75033
+720,"$315,000",2 Bd,2 bath,3148 Fish Hook Lane,"Frisco, TX",75036
+721,"$630,000",4 Bd,5 bath,8747 Anacua Road,"Frisco, TX",75035
+722,"$630,000",4 Bd,"5 bath
+    | 3,466",8747 Anacua RD,"Frisco, TX",75035
+723,"$1,199,900",5 Bd,6 bath,13258 Secretariat Boulevard,"Frisco, TX",75035
+724,"$449,000",4 Bd,4 bath,13335 Chittamwood Lane,"Frisco, TX",75035
+725,"$1,449,900",4 Bd,5 bath,4975 Oak Knoll Lane,"Frisco, TX",75034
+726,"$2,595,000",5 Bd,7 bath,1549 Courtland Drive,"Frisco, TX",75034
+727,"$469,900",5 Bd,4 bath,2208 Sturgis Drive,"Frisco, TX",75033
+728,"$474,750",4 Bd,3 bath,9610 Beckett Drive,"Frisco, TX",75035
+729,"$489,000",4 Bd,4 bath,5410 Keswick Drive,"Frisco, TX",75034
+730,"$515,500",4 Bd,3 bath,9790 Staffordshire Road,"Frisco, TX",75035
+731,"$330,000",3 Bd,2 bath,11550 Henderson Drive,"Frisco, TX",75035
+732,"$639,000",3 Bd,3 bath,7039 Maumee Valley Court,"Frisco, TX",75036
+733,"$1,150,000",5 Bd,6 bath,4154 Forest Park Lane,"Frisco, TX",75033
+734,"$429,900",4 Bd,3 bath,6027 Rivendell Drive,"Frisco, TX",75035
+735,"$849,900",4 Bd,6 bath,2114 Lariat Trail,"Frisco, TX",75036
+736,"$730,000",5 Bd,5 bath,14981 Foxbriar Lane,"Frisco, TX",75035
+737,"$740,000",5 Bd,6 bath,2578 Berry Brook Lane,"Frisco, TX",75034
+738,"$365,000",4 Bd,4 bath,11412 Sadie Street,"Frisco, TX",75036
+739,"$449,900",4 Bd,3 bath,1170 Shortgrass Lane,"Frisco, TX",75033
+740,"$775,000",4 Bd,4 bath,5074 Statesman Lane,"Frisco, TX",75036
+741,"$475,000",4 Bd,"4 bath
+    | 3,605",6249 Aylworth DR,"Frisco, TX",75035
+742,"$384,990",2 Bd,3 bath,7312 Panicum Drive,"Frisco, TX",75033
+743,"$510,500",4 Bd,4 bath,15643 Carnoustie Lane,"Frisco, TX",75035
+744,"$911,640",4 Bd,6 bath,8024 Splitbeard Road,"Frisco, TX",75035
+745,"$315,000",2 Bd,"2 bath
+    | 1,563",3148 Fish Hook LN,"Frisco, TX",75036
+746,"$575,000",4 Bd,3 bath,16619 Nightshade Road,"Frisco, TX",75033
+747,"$564,900",3 Bd,3 bath,7200 Neches Pine Drive,"Frisco, TX",75036
+748,"$850,000",0 Bd,0 bath,LOT 12 Normandy Drive,"Frisco, TX",75034
+749,"$476,619",3 Bd,3 bath,14813 Speargrass Drive,"Frisco, TX",75033
+750,"$569,400",4 Bd,4 bath,7832 Buffaloberry Road,"Frisco, TX",75035
+751,"$589,900",4 Bd,4 bath,7824 Buffaloberry Road,"Frisco, TX",75035
+752,"$2,350,000",5 Bd,7 bath,2933 Shenandoah Drive,"Frisco, TX",75034
+753,"$650,000",3 Bd,4 bath,8711 6th Street,"Frisco, TX",75034
+754,"$700,000",4 Bd,5 bath,1224 Crockett Drive,"Frisco, TX",75033
+755,"$639,900",4 Bd,4 bath,15752 Foliage Road,"Frisco, TX",75035
+756,"$810,000",5 Bd,5 bath,7606 Traveller Street,"Frisco, TX",75034
+757,"$335,000",4 Bd,3 bath,12408 Fair Lane,"Frisco, TX",75036
+758,"$899,990",4 Bd,6 bath,4189 Hazelwood Avenue,"Frisco, TX",75034
+759,"$415,000",0 Bd,0 bath,1754 Torrey Pines Lane,"Frisco, TX",75034
+760,"$375,000",5 Bd,4 bath,12605 Waterslide Way,"Frisco, TX",75036
+761,"$384,800",4 Bd,3 bath,1181 Ducks Landing,"Frisco, TX",75033
+762,"$415,000",3 Bd,3 bath,4400 Ballymena Drive,"Frisco, TX",75034
+763,"$515,500",4 Bd,4 bath,15696 Carnoustie Lane,"Frisco, TX",75035
+764,"$745,400",5 Bd,4 bath,2544 Horsetail,"Frisco, TX",75033
+765,"$1,156,500",4 Bd,5 bath,15680 Custer Trail,"Frisco, TX",75035
+766,"$1,399,999",3 Bd,4 bath,2887 Montreaux Drive,"Frisco, TX",75034
+767,"$757,000",4 Bd,5 bath,13230 Sellaronda Way,"Frisco, TX",75035
+768,"$349,900",3 Bd,2 bath,9188 Williams Place,"Frisco, TX",75033
+769,"$454,000",4 Bd,3 bath,9723 Stratton Drive,"Frisco, TX",75035
+770,"$595,000",5 Bd,6 bath,11392 Lamar Lane,"Frisco, TX",75033
+771,"$922,000",4 Bd,4 bath,3975 Marble Hill Road,"Frisco, TX",75034
+772,"$995,000",2 Bd,3 bath,5270 Town and Country Boulevard,"Frisco, TX",75034
+773,"$369,900",4 Bd,"2 bath
+    | 2,152",5209 Madison Drive,"Frisco, TX",75035
+774,"$999,900",5 Bd,6 bath,13274 Parnell Place,"Frisco, TX",75035
+775,"$1,725,000",5 Bd,6 bath,4901 Buena Vista Drive,"Frisco, TX",75034
+776,"$649,000",4 Bd,5 bath,10710 Manuel Street,"Frisco, TX",75035
+777,"$384,900",4 Bd,3 bath,11092 Snyder Drive,"Frisco, TX",75035
+778,"$659,900",4 Bd,5 bath,2452 Horsetail,"Frisco, TX",75033
+779,"$662,900",5 Bd,4 bath,15831 Terenwood Street,"Frisco, TX",75035
+780,"$664,900",5 Bd,4 bath,7527 Perennial Street,"Frisco, TX",75035
+781,"$761,900",4 Bd,4 bath,2408 Horsetail Road,"Frisco, TX",75033
+782,"$2,629,000",5 Bd,7 bath,5502 Monterey Drive,"Frisco, TX",75034
+783,"$986,019",4 Bd,5 bath,3766 Ladera Heights Boulevard,"Frisco, TX",75034
+784,"$1,072,882",5 Bd,4 bath,3794 Marble Hill Road,"Frisco, TX",75034
+785,"$1,192,851",5 Bd,7 bath,6199 Stockwell Drive,"Frisco, TX",75034
+786,"$1,603,552",5 Bd,7 bath,5663 Edmonton Avenue,"Frisco, TX",75034
+787,"$2,999,999",6 Bd,8 bath,2396 Courtland Drive,"Frisco, TX",75034
+788,"$450,000",3 Bd,2 bath,6329 Paragon Drive,"Frisco, TX",75036
+789,"$518,000",4 Bd,4 bath,16468 Barton Creek Lane,"Frisco, TX",75068
+790,"$1,898,000",5 Bd,6 bath,12025 Blake Place,"Frisco, TX",75036
+791,"$1,948,000",5 Bd,6 bath,12045 Blake Place,"Frisco, TX",75036
+792,"$504,060",3 Bd,3 bath,286 Timber Creek Lane,"Frisco, TX",75068
+793,"$425,900",4 Bd,3 bath,5979 Rivendell Drive,"Frisco, TX",75035
+794,"$499,990",4 Bd,4 bath,8598 Kincaid Lane,"Frisco, TX",75036
+795,"$2,899,000",6 Bd,7 bath,3569 Midwick Drive,"Frisco, TX",75034
+796,"$1,152,990",5 Bd,4 bath,2481 Haft River Road,"Frisco, TX",75034
+797,"$218,000",0 Bd,0 bath,6024 Norwood Drive,"Frisco, TX",75034
+798,"$2,505,000",5 Bd,7 bath,12310 Harvest Meadow Drive,"Frisco, TX",75033
+799,"$518,281",5 Bd,4 bath,1434 Gray Fox Lane,"Frisco, TX",75033
+800,"$419,000",3 Bd,4 bath,6179 Blythe Drive,"Frisco, TX",75035
+801,"$795,000",2 Bd,3 bath,5270 Town and Country Boulevard,"Frisco, TX",75034
+802,"$435,000",0 Bd,0 bath,1498 Hilton Head Lane,"Frisco, TX",75034
+803,"$895,000",2 Bd,3 bath,5270 Town and Country Boulevard,"Frisco, TX",75034
+804,"$2,100,000",4 Bd,"6 bath
+    | 8,098",5243 Spicewood Lane,"Frisco, TX",75034
+805,"$479,475",5 Bd,4 bath,11205 Knoxville Lane,"Frisco, TX",75035
+806,"$1,700,000",0 Bd,0 bath,26 Stonebriar Way,"Frisco, TX",75034
+807,"$325,000",3 Bd,2 bath,7700 Jennifer,"Frisco, TX",75034
+808,"$382,000",6 Bd,4 bath,12556 Littlefield Drive,"Frisco, TX",75035
+809,"$779,344",5 Bd,5 bath,7340 Goose Creek Drive,"Frisco, TX",75036
+810,"$780,000",5 Bd,6 bath,5395 Statesman Lane,"Frisco, TX",75036
+811,"$783,424",5 Bd,5 bath,2250 Lead Plumb Drive,"Frisco, TX",75036
+812,"$895,000",0 Bd,0 bath,5309 Buena Vista Drive,"Frisco, TX",75034
+813,"$835,098",5 Bd,4 bath,13734 Gabriel,"Frisco, TX",75035
+814,"$3,200,000",7 Bd,8 bath,6275 Chamberlyne Drive,"Frisco, TX",75034
+815,"$399,900",4 Bd,3 bath,5931 Rivendell Drive,"Frisco, TX",75035
+816,"$675,000",4 Bd,3 bath,4250 Pebble Creek Court,"Frisco, TX",75033
+817,"$450,000",3 Bd,2 bath,7211 Walnut Street,"Frisco, TX",75033
+818,"$463,501",4 Bd,3 bath,14756 Speargrass Drive,"Frisco, TX",75033
+819,"$898,900",5 Bd,6 bath,15196 Spider Lily Road,"Frisco, TX",75035
+820,"$1,651,990",5 Bd,7 bath,3772 Hamilton Heights Avenue,"Frisco, TX",75034
+821,"$3,300,000",5 Bd,7 bath,2227 Lilac Lane,"Frisco, TX",75034
+822,"$1,602,369",4 Bd,7 bath,5687 Edmonton Avenue,"Frisco, TX",75034
+823,"$325,000",4 Bd,3 bath,12616 Joplin Drive,"Frisco, TX",75036
+824,"$437,500",3 Bd,2 bath,9754 Staffordshire Road,"Frisco, TX",75035
+825,"$499,000",4 Bd,4 bath,15127 Springwood Drive,"Frisco, TX",75035
+826,"$699,000",5 Bd,6 bath,12509 Burnt Prairie Lane,"Frisco, TX",75035
+827,"$344,900",4 Bd,3 bath,11808 Kurth Drive,"Frisco, TX",75036
+828,"$2,750,000",5 Bd,8 bath,1573 Prince William Lane,"Frisco, TX",75034
+829,"$275,000",0 Bd,0 bath,8653 1st Street,"Frisco, TX",75034
+830,"$414,000",3 Bd,4 bath,6225 Blythe Drive,"Frisco, TX",75035
+831,"$285,600",0 Bd,0 bath,1602 Chambord Avenue,"Frisco, TX",75034
+832,"$360,000",0 Bd,0 bath,3229 Tuscan Oaks Drive,"Frisco, TX",75034
+833,"$375,000",0 Bd,0 bath,3650 Balfour Court,"Frisco, TX",75034
+834,"$3,899,900",5 Bd,8 bath,3735 Starling Drive,"Frisco, TX",75034
+835,"$252,000",3 Bd,2 bath,7881 Kings Ridge Road,"Frisco, TX",75035
+836,"$295,000",3 Bd,2 bath,6205 Montgomery Drive,"Frisco, TX",75035
+837,"$350,000",3 Bd,2 bath,8528 6th Street,"Frisco, TX",75034
+838,"$369,000",3 Bd,4 bath,4115 Kearsage Drive,"Frisco, TX",75034
+839,"$382,900",3 Bd,2 bath,7236 Joshua Road,"Frisco, TX",75033
+840,"$397,900",4 Bd,3 bath,5847 Rivendell Drive,"Frisco, TX",75035
+841,"$399,900",4 Bd,3 bath,5963 Rivendell Drive,"Frisco, TX",75035
+842,"$414,000",3 Bd,4 bath,6253 Blythe Drive,"Frisco, TX",75035
+843,"$424,900",3 Bd,3 bath,7295 Zachery Drive,"Frisco, TX",75033
+844,"$428,900",3 Bd,4 bath,7269 Zachery Drive,"Frisco, TX",75033
+845,"$434,900",3 Bd,2 bath,7208 Joshua Road,"Frisco, TX",75033
+846,"$450,000",4 Bd,2 bath,7242 Pecan Street,"Frisco, TX",75034
+847,"$455,000",4 Bd,3 bath,15601 Carnoustie Lane,"Frisco, TX",75035
+848,"$479,900",3 Bd,3 bath,7300 Joshua Road,"Frisco, TX",75033
+849,"$494,999",4 Bd,5 bath,2877 Nightwind Court,"Frisco, TX",75034
+850,"$499,000",5 Bd,4 bath,11947 Cape Royal Lane,"Frisco, TX",75033
+851,"$537,000",6 Bd,5 bath,628 Sahallee Drive,"Frisco, TX",75033
+852,"$583,900",5 Bd,4 bath,7411 Joshua Road,"Frisco, TX",75033
+853,"$743,900",4 Bd,4 bath,8462 Gerbera Daisy Road,"Frisco, TX",75035
+854,"$744,268",5 Bd,4 bath,2268 Lead Plumb Drive,"Frisco, TX",75036
+855,"$766,848",5 Bd,5 bath,2148 Lead Plumb Drive,"Frisco, TX",75036
+856,"$775,900",4 Bd,5 bath,8478 Gerbera Daisy Road,"Frisco, TX",75035
+857,"$797,804",5 Bd,5 bath,7073 Goose Creek Road,"Frisco, TX",75036
+858,"$1,141,900",4 Bd,5 bath,7160 Tailwater Trail,"Frisco, TX",75035
+859,"$1,174,900",3 Bd,5 bath,6008 Briarwood Lane,"Frisco, TX",75034
+860,"$1,224,990",4 Bd,6 bath,13129 Secretariat Blvd,"Frisco, TX",75035
+861,"$1,799,000",5 Bd,6 bath,1167 Echols Drive,"Frisco, TX",75036
+862,"$1,898,000",5 Bd,6 bath,12035 Blake Place,"Frisco, TX",75036
+863,"$1,925,000",3 Bd,2 bath,8100 Main Street,"Frisco, TX",75033
+864,"$1,950,000",5 Bd,7 bath,1640 Chambord Avenue,"Frisco, TX",75034
+865,"$2,475,000",5 Bd,7 bath,1700 Hidalgo Lane,"Frisco, TX",75034
+866,"$2,515,000",5 Bd,7 bath,3232 Tuscan Oaks,"Frisco, TX",75034
+867,"$2,549,000",5 Bd,7 bath,12438 Harvest Meadow Drive,"Frisco, TX",75033
+868,"$2,559,000",5 Bd,7 bath,12349 Farmstead Drive,"Frisco, TX",75033
+869,"$2,579,000",5 Bd,7 bath,3336 Tuscan Oaks Drive,"Frisco, TX",75034
+870,"$2,609,858",5 Bd,7 bath,3328 Santa Bella,"Frisco, TX",75034
+871,"$3,225,000",5 Bd,7 bath,3315 Midwick Drive,"Frisco, TX",75034
+872,"$3,375,000",5 Bd,7 bath,6616 Bluffview Drive,"Frisco, TX",75034
+873,"$4,100,000",5 Bd,7 bath,2311 Lilac,"Frisco, TX",75034
+874,"$4,480,000",6 Bd,9 bath,5345 Monterey Drive,"Frisco, TX",75034
+875,"$5,495,000",6 Bd,10 bath,5 Stonebriar Way,"Frisco, TX",75034
+876,"$6,525,269",3 Bd,3 bath,16020 Preston Road,"Frisco, TX",75033
+877,"$250,000",3 Bd,2 bath,22031 Flanagan Circle,"Frisco, TX",75036
+878,"$220,000",0 Bd,0 bath,6621 Saxony Court,"Frisco, TX",75034
+879,"$222,000",0 Bd,0 bath,6087 Norwood Drive,"Frisco, TX",75034
+880,"$330,000",3 Bd,"2 bath
+    | 1,784",3621 Worthington WAY,"Plano, TX",75023
+881,"$365,000",3 Bd,2 bath,1809 Lafayette Drive,"Plano, TX",75075
+882,"$399,900",4 Bd,"2 bath
+    | 2,078",4713 Portrait Lane,"Plano, TX",75024
+883,"$425,000",5 Bd,3 bath,9505 Southern Hills Drive,"Plano, TX",75025
+884,"$450,000",4 Bd,3 bath,6824 Nottoway Lane,"Plano, TX",75074
+885,"$469,000",3 Bd,3 bath,1612 Amazon Drive,"Plano, TX",75075
+886,"$479,000",4 Bd,3 bath,2717 Royal Troon Drive,"Plano, TX",75025
+887,"$549,000",4 Bd,4 bath,3301 Rampart Drive,"Plano, TX",75074
+888,"$800,000",5 Bd,5 bath,2317 Brisbane Lane,"Plano, TX",75075
+889,"$212,000",3 Bd,2 bath,3709 Mckinley Drive,"Plano, TX",75023
+890,"$250,000",3 Bd,2 bath,6017 Pinto Court,"Plano, TX",75023
+891,"$315,000",3 Bd,3 bath,4672 Perthshire Court,"Plano, TX",75024
+892,"$338,000",4 Bd,2 bath,934 Windy Meadow Drive,"Plano, TX",75023
+893,"$365,000",3 Bd,3 bath,6512 Texana Way,"Plano, TX",75074
+894,"$399,000",3 Bd,2 bath,3425 Brunchberry Lane,"Plano, TX",75023
+895,"$399,999",3 Bd,2 bath,1400 Kittery Drive,"Plano, TX",75093
+896,"$424,900",3 Bd,2 bath,3705 Longbow Lane,"Plano, TX",75023
+897,"$479,100",4 Bd,4 bath,2224 Dampton Drive,"Plano, TX",75025
+898,"$537,000",4 Bd,4 bath,1809 Sandpiper Lane,"Plano, TX",75075
+899,"$1,150,000",5 Bd,5 bath,5032 Silver Lake Drive,"Plano, TX",75093
+900,"$2,999,900",5 Bd,7 bath,6817 Amaretto Court,"Plano, TX",75024
+901,"$4,800,000",7 Bd,14 bath,2104 Willow Bend Drive,"Plano, TX",75093
+902,"$219,900",3 Bd,2 bath,1605 Tampico Drive,"Plano, TX",75075
+903,"$287,999",3 Bd,2 bath,5 Eastvale Place,"Plano, TX",75074
+904,"$290,000",3 Bd,2 bath,1128 Gannon Drive,"Plano, TX",75025
+905,"$295,000",2 Bd,2 bath,3025 Bonsai Drive,"Plano, TX",75093
+906,"$335,000",4 Bd,2 bath,1133 Nickerson Lane,"Plano, TX",75094
+907,"$340,000",3 Bd,2 bath,7616 Capella Court,"Plano, TX",75025
+908,"$350,000",4 Bd,2 bath,4121 Midnight Drive,"Plano, TX",75093
+909,"$350,000",3 Bd,2 bath,7801 Slater Trail,"Plano, TX",75025
+910,"$355,000",3 Bd,3 bath,3809 Solarium Place,"Plano, TX",75075
+911,"$370,000",3 Bd,3 bath,3408 Porter Creek Drive,"Plano, TX",75025
+912,"$390,000",4 Bd,3 bath,3817 Graphic Place,"Plano, TX",75075
+913,"$394,995",3 Bd,2 bath,1804 Tampico Drive,"Plano, TX",75075
+914,"$395,000",3 Bd,3 bath,6420 Hermosa Drive,"Plano, TX",75024
+915,"$400,000",4 Bd,3 bath,1800 Switzerland Avenue,"Plano, TX",75025
+916,"$400,000",3 Bd,3 bath,5781 Lois Lane,"Plano, TX",75024
+917,"$415,000",4 Bd,3 bath,3704 Aransas Drive,"Plano, TX",75025
+918,"$415,000",3 Bd,3 bath,1417 Callaway Drive,"Plano, TX",75075
+919,"$419,900",4 Bd,3 bath,2808 Mollimar Drive,"Plano, TX",75075
+920,"$424,900",4 Bd,3 bath,3552 Bender Trail,"Plano, TX",75075
+921,"$435,000",4 Bd,3 bath,1705 Tawakoni Lane,"Plano, TX",75075
+922,"$441,000",5 Bd,3 bath,2320 Cimmaron Drive,"Plano, TX",75025
+923,"$449,000",5 Bd,4 bath,9705 Royal Lytham Drive,"Plano, TX",75025
+924,"$450,000",3 Bd,3 bath,4441 Bentley Drive,"Plano, TX",75093
+925,"$454,900",4 Bd,4 bath,3613 Slickrock Drive,"Plano, TX",75074
+926,"$475,000",4 Bd,4 bath,1908 Uplands Drive,"Plano, TX",75025
+927,"$495,000",6 Bd,4 bath,2917 Falling Brook Drive,"Plano, TX",75023
+928,"$525,000",4 Bd,3 bath,6404 Dunmoor Drive,"Plano, TX",75093
+929,"$535,000",5 Bd,4 bath,3608 Danbury Lane,"Plano, TX",75074
+930,"$599,900",4 Bd,4 bath,1412 Alberti Avenue,"Plano, TX",75075
+931,"$700,000",4 Bd,3 bath,1809 Triple Crown Lane,"Plano, TX",75093
+932,"$799,500",4 Bd,3 bath,3053 Greenhill Drive,"Plano, TX",75093
+933,"$949,000",5 Bd,5 bath,5909 Fairchild Court,"Plano, TX",75093
+934,"$999,000",4 Bd,5 bath,1709 ANGLEBLUFF Lane,"Plano, TX",75093
+935,"$1,449,900",5 Bd,5 bath,5321 Inverrary Drive,"Plano, TX",75093
+936,"$140,000",1 Bd,1 bath,1700 Amelia Court,"Plano, TX",75075
+937,"$250,000",3 Bd,"2 bath
+    | 1,752",2005 Meadowcreek DR,"Plano, TX",75074
+938,"$279,900",3 Bd,2 bath,4024 Angelina Drive,"Plano, TX",75074
+939,"$300,000",2 Bd,2 bath,2601 Marsh Lane,"Plano, TX",75093
+940,"$305,000",3 Bd,2 bath,820 Simon Drive,"Plano, TX",75025
+941,"$332,000",3 Bd,3 bath,4025 Mesa Drive,"Plano, TX",75074
+942,"$340,000",2 Bd,2 bath,2601 Marsh Lane,"Plano, TX",75093
+943,"$350,000",3 Bd,"2 bath
+    | 1,786",6716 Darton Drive,"Plano, TX",75023
+944,"$350,000",4 Bd,2 bath,8304 Tavaros Drive,"Plano, TX",75024
+945,"$364,900",3 Bd,3 bath,1505 Baffin Bay Drive,"Plano, TX",75075
+946,"$365,000",4 Bd,2 bath,6821 Thorncliff Trail,"Plano, TX",75023
+947,"$365,000",4 Bd,2 bath,4324 Palmdale Drive,"Plano, TX",75024
+948,"$369,000",3 Bd,3 bath,1508 Croston Drive,"Plano, TX",75075
+949,"$375,000",3 Bd,3 bath,1601 Glenwick Drive,"Plano, TX",75075
+950,"$375,000",3 Bd,2 bath,3536 Stroll Road,"Plano, TX",75025
+951,"$386,900",4 Bd,3 bath,3932 Carrizo Drive,"Plano, TX",75074
+952,"$395,000",4 Bd,4 bath,2305 Newcastle Circle,"Plano, TX",75075
+953,"$400,000",4 Bd,3 bath,3629 Big Horn Trail,"Plano, TX",75075
+954,"$400,000",3 Bd,"3 bath
+    | 1,610",5781 Lois LN,"Plano, TX",75024
+955,"$430,000",4 Bd,3 bath,9213 Fairwood Court,"Plano, TX",75025
+956,"$445,000",4 Bd,3 bath,3609 Banks Circle,"Plano, TX",75025
+957,"$450,000",3 Bd,2 bath,2437 Fieldlark Drive,"Plano, TX",75074
+958,"$450,000",3 Bd,3 bath,4705 Bayview Drive,"Plano, TX",75093
+959,"$462,000",4 Bd,4 bath,4201 Tidworth Drive,"Plano, TX",75093
+960,"$475,000",4 Bd,3 bath,2300 Belmont Place,"Plano, TX",75023
+961,"$489,000",4 Bd,4 bath,3300 Edwards Drive,"Plano, TX",75025
+962,"$489,900",4 Bd,4 bath,6841 Flicker Lane,"Plano, TX",75074
+963,"$495,000",4 Bd,4 bath,6817 Oak Park Lane,"Plano, TX",75023
+964,"$519,000",3 Bd,3 bath,6328 Park Meadow Lane,"Plano, TX",75093
+965,"$530,000",5 Bd,4 bath,4204 Warminster Drive,"Plano, TX",75093
+966,"$535,000",4 Bd,4 bath,3236 Caravan Drive,"Plano, TX",75025
+967,"$571,000",4 Bd,3 bath,1505 Parliament Lane,"Plano, TX",75093
+968,"$675,000",5 Bd,4 bath,5908 Sandhills Circle,"Plano, TX",75093
+969,"$759,900",5 Bd,4 bath,5600 Saint Peter Drive,"Plano, TX",75093
+970,"$799,900",4 Bd,5 bath,5505 Grasmere Drive,"Plano, TX",75093
+971,"$839,000",3 Bd,4 bath,7808 Merit Lane,"Plano, TX",75024
+972,"$1,175,000",5 Bd,6 bath,5809 ROSWELL Drive,"Plano, TX",75093
+973,"$197,000",4 Bd,3 bath,2912 meadows Drive,"Plano, TX",75074
+974,"$245,000",4 Bd,2 bath,12 Eastcreek Place,"Plano, TX",75074
+975,"$299,000",3 Bd,2 bath,3928 Villa Downs Drive,"Plano, TX",75023
+976,"$329,000",3 Bd,3 bath,7133 Goldenrod Drive,"Plano, TX",75025
+977,"$335,000",3 Bd,2 bath,7112 Van Gogh Drive,"Plano, TX",75093
+978,"$339,000",3 Bd,2 bath,7916 Country Ridge Lane,"Plano, TX",75024
+979,"$349,500",4 Bd,2 bath,4000 Bandera Drive,"Plano, TX",75074
+980,"$349,900",4 Bd,2 bath,2800 Winterplace Circle,"Plano, TX",75075
+981,"$429,900",4 Bd,3 bath,7317 Ryan Drive,"Plano, TX",75025
+982,"$430,000",3 Bd,3 bath,3721 Atrium Drive,"Plano, TX",75075
+983,"$439,995",5 Bd,3 bath,6008 Sargent Drive,"Plano, TX",75094
+984,"$470,000",4 Bd,4 bath,3001 Charring Cross,"Plano, TX",75025
+985,"$490,000",4 Bd,3 bath,6728 Alcove Lane,"Plano, TX",75024
+986,"$650,000",3 Bd,3 bath,5057 TRAIL LAKE Drive,"Plano, TX",75093
+987,"$700,000",5 Bd,4 bath,5613 Risborough Drive,"Plano, TX",75093
+988,"$999,500",3 Bd,4 bath,7812 Secluded Avenue,"Plano, TX",75024
+989,"$1,200,000",5 Bd,6 bath,5008 Bellaire Drive,"Plano, TX",75093
+990,"$1,225,000",7 Bd,"7 bath
+    | 6,088",3817 Ranch Estates Drive,"Plano, TX",75074
+991,"$1,695,000",6 Bd,"5 bath
+    | 5,856",5625 Kelly Lane,"Plano, TX",75093
+992,"$235,000",3 Bd,1 bath,1627 Hawthorne Lane,"Plano, TX",75074
+993,"$285,000",3 Bd,3 bath,791 Antoine Drive,"Plano, TX",75023
+994,"$399,950",3 Bd,2 bath,4432 Bentley Drive,"Plano, TX",75093
+995,"$425,000",4 Bd,3 bath,3836 Santiago Drive,"Plano, TX",75023
+996,"$460,000",4 Bd,4 bath,3300 Canoncita Lane,"Plano, TX",75023
+997,"$560,000",4 Bd,4 bath,5837 Pathfinder Trail,"Plano, TX",75093
+998,"$667,500",4 Bd,4 bath,3312 Emily Drive,"Plano, TX",75093
+999,"$809,000",5 Bd,6 bath,1620 Farmstead Street,"Plano, TX",75075
+1000,"$1,150,000",5 Bd,6 bath,6609 Indian Trail,"Plano, TX",75024
+1001,"$210,000",3 Bd,2 bath,933 Shenandoah Drive,"Plano, TX",75023
+1002,"$259,900",3 Bd,2 bath,736 Warwick Drive,"Plano, TX",75023
+1003,"$265,000",3 Bd,3 bath,3407 San Mateo Drive,"Plano, TX",75023
+1004,"$279,995",2 Bd,2 bath,9909 Monastery Drive,"Plano, TX",75025
+1005,"$280,000",4 Bd,2 bath,2816 Laurel Lane,"Plano, TX",75074
+1006,"$299,000",3 Bd,3 bath,4024 Hedgerow Drive,"Plano, TX",75024
+1007,"$349,000",4 Bd,2 bath,7104 Dalewood Drive,"Plano, TX",75074
+1008,"$350,000",4 Bd,2 bath,3416 Brunchberry Lane,"Plano, TX",75023
+1009,"$350,000",3 Bd,4 bath,3412 Flat Creek Drive,"Plano, TX",75025
+1010,"$385,000",4 Bd,3 bath,4649 Home Place,"Plano, TX",75024
+1011,"$394,500",3 Bd,3 bath,2600 Chamberlain Drive,"Plano, TX",75023
+1012,"$400,000",3 Bd,3 bath,9840 De Loach Drive,"Plano, TX",75025
+1013,"$489,000",4 Bd,4 bath,7400 Hamner Lane,"Plano, TX",75024
+1014,"$520,000",5 Bd,3 bath,1920 Jubilee Road,"Plano, TX",75093
+1015,"$725,000",4 Bd,4 bath,6612 Shady Point Drive,"Plano, TX",75024
+1016,"$205,000",2 Bd,2 bath,2621 Boedeker Drive,"Plano, TX",75074
+1017,"$285,000",3 Bd,2 bath,6721 Norway Court,"Plano, TX",75023
+1018,"$335,000",3 Bd,2 bath,1526 W Spring Creek Parkway,"Plano, TX",75023
+1019,"$374,900",4 Bd,3 bath,2008 Midcrest Drive,"Plano, TX",75075
+1020,"$445,000",4 Bd,3 bath,1708 Lake Shore Lane,"Plano, TX",75023
+1021,"$525,000",4 Bd,3 bath,4200 Warminster Drive,"Plano, TX",75093
+1022,"$240,000",3 Bd,"2 bath
+    | 1,422",3709 Randa DR,"Plano, TX",75074
+1023,"$255,000",3 Bd,2 bath,3803 Silverstone Drive,"Plano, TX",75023
+1024,"$255,000",3 Bd,"2 bath
+    | 1,747",,"Plano, TX",75023
+1025,"$300,000",2 Bd,3 bath,7216 Mediterranean Drive,"Plano, TX",75093
+1026,"$340,000",3 Bd,2 bath,7901 Mulchin S Way,"Plano, TX",75024
+1027,"$540,000",3 Bd,3 bath,2701 Prestonwood Drive,"Plano, TX",75093
+1028,"$540,000",4 Bd,"4 bath
+    | 3,331",3425 Melanie Ln,"Plano, TX",75023
+1029,"$1,548,500",6 Bd,8 bath,3401 Twin Lakes Way,"Plano, TX",75093
+1030,"$215,000",2 Bd,2 bath,2625 Ezekial Way,"Plano, TX",75074
+1031,"$249,000",3 Bd,2 bath,2108 Overglen Drive,"Plano, TX",75074
+1032,"$299,000",3 Bd,2 bath,1313 Berkeley Court,"Plano, TX",75023
+1033,"$307,000",3 Bd,2 bath,1302 Nest Place,"Plano, TX",75093
+1034,"$339,500",3 Bd,3 bath,6500 Wickliff Trail,"Plano, TX",75023
+1035,"$339,900",3 Bd,3 bath,4140 Aldenham Drive,"Plano, TX",75024
+1036,"$340,000",4 Bd,3 bath,6713 Osage Trail,"Plano, TX",75023
+1037,"$349,900",4 Bd,3 bath,3933 Carrizo Drive,"Plano, TX",75074
+1038,"$399,900",4 Bd,3 bath,4416 Boston Drive,"Plano, TX",75093
+1039,"$410,000",4 Bd,3 bath,3104 Charring Cross,"Plano, TX",75025
+1040,"$434,500",4 Bd,3 bath,4617 Portrait Lane,"Plano, TX",75024
+1041,"$444,900",4 Bd,3 bath,3701 TrilogyDrive,"Plano, TX",75075
+1042,"$599,000",4 Bd,4 bath,4716 Rabbit Trail,"Plano, TX",75074
+1043,"$5,100,000",4 Bd,5 bath,7901 Windrose Avenue,"Plano, TX",75024
+1044,"$245,000",3 Bd,3 bath,2613 Tilden Drive,"Plano, TX",75074
+1045,"$250,000",3 Bd,2 bath,1447 Vanderbilt Drive,"Plano, TX",75023
+1046,"$255,000",3 Bd,2 bath,908 Harvest Glen Drive,"Plano, TX",75023
+1047,"$255,000",3 Bd,2 bath,2424 Majestic Drive,"Plano, TX",75074
+1048,"$294,000",3 Bd,2 bath,6532 Ute Court,"Plano, TX",75023
+1049,"$325,000",3 Bd,2 bath,9004 Azinger Drive,"Plano, TX",75025
+1050,"$330,000",3 Bd,3 bath,6800 Hickory Creek,"Plano, TX",75023
+1051,"$335,000",3 Bd,3 bath,3932 Capricorn Court,"Plano, TX",75023
+1052,"$343,900",3 Bd,3 bath,3924 Windford Drive,"Plano, TX",75025
+1053,"$389,900",4 Bd,3 bath,2408 Windsor Place,"Plano, TX",75075
+1054,"$400,000",4 Bd,2 bath,4616 Ringgold Lane,"Plano, TX",75093
+1055,"$419,888",3 Bd,3 bath,3117 Aurora Drive,"Plano, TX",75093
+1056,"$430,000",3 Bd,3 bath,4733 Durham Drive,"Plano, TX",75093
+1057,"$475,000",4 Bd,4 bath,3581 Stroll Road,"Plano, TX",75025
+1058,"$1,275,000",5 Bd,6 bath,5000 Castle Creek Court,"Plano, TX",75093
+1059,"$1,295,000",5 Bd,5 bath,2916 BEAUCHAMP Drive,"Plano, TX",75093
+1060,"$2,465,000",6 Bd,7 bath,3509 Twin Lakes Way,"Plano, TX",75093
+1061,"$2,525,000",0 Bd,0 bath,0 Old Gate Road,"Plano, TX",75024
+1062,"$3,500,000",6 Bd,9 bath,5600 Cradlerock Circle,"Plano, TX",75093
+1063,"$162,500",2 Bd,2 bath,3801 14th Street,"Plano, TX",75074
+1064,"$220,000",2 Bd,3 bath,2204 W Park Boulevard,"Plano, TX",75075
+1065,"$255,000",3 Bd,2 bath,3344 Tarkio Road,"Plano, TX",75074
+1066,"$265,000",3 Bd,2 bath,1741 Blossom Trail,"Plano, TX",75074
+1067,"$269,000",4 Bd,2 bath,6409 Fort Scott Court,"Plano, TX",75023
+1068,"$370,000",3 Bd,3 bath,3501 Deep Valley Trail,"Plano, TX",75023
+1069,"$389,000",3 Bd,3 bath,8633 Pauline Street,"Plano, TX",75024
+1070,"$424,905",4 Bd,3 bath,3209 Sailmaker Lane,"Plano, TX",75023
+1071,"$450,000",4 Bd,3 bath,4108 Aldenham Drive,"Plano, TX",75024
+1072,"$485,000",4 Bd,3 bath,4504 Crown Ridge Drive,"Plano, TX",75024
+1073,"$687,000",5 Bd,4 bath,5985 Tipperary Drive,"Plano, TX",75093
+1074,"$299,900",3 Bd,2 bath,3308 Castle Drive,"Plano, TX",75074
+1075,"$325,000",4 Bd,3 bath,2425 Fairview Drive,"Plano, TX",75075
+1076,"$339,900",3 Bd,2 bath,8429 Pipe Stone Drive,"Plano, TX",75025
+1077,"$349,000",4 Bd,2 bath,4421 Early Morn Drive,"Plano, TX",75093
+1078,"$400,000",3 Bd,3 bath,2708 Cotton Court,"Plano, TX",75093
+1079,"$419,000",4 Bd,3 bath,2541 Indian Paint Drive,"Plano, TX",75025
+1080,"$599,999",3 Bd,4 bath,548 Shoreline Street,"Plano, TX",75075
+1081,"$689,900",5 Bd,4 bath,5621 Snowberry Drive,"Plano, TX",75094
+1082,"$1,255,000",3 Bd,3 bath,6604 Josephine Street,"Plano, TX",75024
+1083,"$290,000",3 Bd,2 bath,1607 California Trail,"Plano, TX",75023
+1084,"$354,900",4 Bd,2 bath,3916 Rolling Hills Drive,"Plano, TX",75025
+1085,"$370,000",4 Bd,2 bath,7220 Netherlands Lane,"Plano, TX",75025
+1086,"$380,000",3 Bd,3 bath,2305 Treehouse Lane,"Plano, TX",75023
+1087,"$380,000",3 Bd,2 bath,3109 Hilltop Lane,"Plano, TX",75075
+1088,"$409,000",4 Bd,2 bath,2225 Delmar Drive,"Plano, TX",75075
+1089,"$430,500",4 Bd,"3 bath
+    | 2,774",4077 Olympic Court,"Plano, TX",75093
+1090,"$465,000",4 Bd,4 bath,2709 Oakland Hills Drive,"Plano, TX",75025
+1091,"$485,000",3 Bd,3 bath,7020 Coverdale Drive,"Plano, TX",75024
+1092,"$499,000",3 Bd,4 bath,7016 Redstone Lane,"Plano, TX",75024
+1093,"$1,050,000",5 Bd,5 bath,5121 Seascape Lane,"Plano, TX",75093
+1094,"$1,250,000",5 Bd,5 bath,5000 Kirkland Court,"Plano, TX",75093
+1095,"$4,700,000",5 Bd,8 bath,5504 Cavendish Court,"Plano, TX",75093
+1096,"$315,000",3 Bd,4 bath,2117 Winslow Drive,"Plano, TX",75023
+1097,"$319,900",4 Bd,3 bath,2708 Royal Oaks Drive,"Plano, TX",75074
+1098,"$395,000",4 Bd,"4 bath
+    | 2,758",2305 Newcastle CIR,"Plano, TX",75075
+1099,"$449,900",5 Bd,3 bath,9600 Gold Hills Drive,"Plano, TX",75025
+1100,"$495,000",4 Bd,4 bath,4421 Risinghill Drive,"Plano, TX",75024
+1101,"$540,000",5 Bd,4 bath,3624 Oakcrest Drive,"Plano, TX",75025
+1102,"$549,900",5 Bd,5 bath,4612 Vista Grande,"Plano, TX",75024
+1103,"$615,000",4 Bd,4 bath,5144 Arrowhead Lane,"Plano, TX",75093
+1104,"$399,900",3 Bd,2 bath,1627 Amherst Drive,"Plano, TX",75075
+1105,"$409,000",4 Bd,3 bath,2332 San Gabriel Drive,"Plano, TX",75074
+1106,"$455,000",4 Bd,3 bath,1724 Westlake Drive,"Plano, TX",75075
+1107,"$459,900",5 Bd,4 bath,6013 Hagerman Drive,"Plano, TX",75094
+1108,"$315,000",4 Bd,3 bath,4313 Phyllis Lane,"Plano, TX",75074
+1109,"$360,000",4 Bd,3 bath,2505 Horseman Drive,"Plano, TX",75025
+1110,"$409,000",4 Bd,2 bath,3633 Legendary Lane,"Plano, TX",75023
+1111,"$439,000",4 Bd,3 bath,3304 Runabout Court,"Plano, TX",75023
+1112,"$470,000",0 Bd,0 bath,6441 Montmartre Way,"Plano, TX",75024
+1113,"$470,000",0 Bd,0 bath,6401 Montmartre Way,"Plano, TX",75024
+1114,"$474,900",4 Bd,3 bath,4533 Arlen Drive,"Plano, TX",75093
+1115,"$484,900",4 Bd,3 bath,3625 Leathertop Drive,"Plano, TX",75075
+1116,"$225,000",2 Bd,2 bath,2200 W Park Boulevard,"Plano, TX",75075
+1117,"$315,000",3 Bd,2 bath,1928 Hawken Drive,"Plano, TX",75023
+1118,"$330,000",4 Bd,2 bath,2613 Ridgewood Drive,"Plano, TX",75074
+1119,"$405,000",4 Bd,4 bath,2033 Brabant Drive,"Plano, TX",75025
+1120,"$449,900",4 Bd,3 bath,1616 Amber Lane,"Plano, TX",75075
+1121,"$559,000",3 Bd,3 bath,6529 Sleepy Spring Drive,"Plano, TX",75024
+1122,"$200,000",1 Bd,1 bath,2601 Preston Road,"Plano, TX",75093
+1123,"$350,000",4 Bd,2 bath,7036 Jasper Drive,"Plano, TX",75074
+1124,"$424,900",4 Bd,3 bath,2308 Regal Road,"Plano, TX",75075
+1125,"$499,000",4 Bd,3 bath,7301 Hollingsworth Drive,"Plano, TX",75025
+1126,"$529,900",5 Bd,3 bath,4112 Westmoreland Drive,"Plano, TX",75093
+1127,"$658,000",4 Bd,4 bath,5920 Royal Palm Drive,"Plano, TX",75093
+1128,"$850,000",5 Bd,5 bath,2205 Bradbury Court,"Plano, TX",75093
+1129,"$2,465,000",5 Bd,7 bath,3513 Twin Lakes Way,"Plano, TX",75093
+1130,"$315,000",2 Bd,2 bath,2601 Marsh Lane,"Plano, TX",75093
+1131,"$449,900",3 Bd,2 bath,4821 Mulholland Drive,"Plano, TX",75074
+1132,"$596,000",4 Bd,3 bath,5829 Bridle Bend Trail,"Plano, TX",75093
+1133,"$599,000",5 Bd,4 bath,3813 Hibbs Street,"Plano, TX",75025
+1134,"$336,000",4 Bd,2 bath,4520 Hartford Drive,"Plano, TX",75093
+1135,"$340,000",4 Bd,4 bath,901 Brookville Court,"Plano, TX",75074
+1136,"$343,000",3 Bd,3 bath,2313 Brennan Drive,"Plano, TX",75075
+1137,"$365,000",3 Bd,2 bath,1908 Sandpiper Lane,"Plano, TX",75075
+1138,"$395,000",4 Bd,3 bath,3617 Candelaria Drive,"Plano, TX",75023
+1139,"$410,000",4 Bd,3 bath,4205 Ambrosia Lane,"Plano, TX",75093
+1140,"$420,335",2 Bd,3 bath,621 Arapaho Drive,"Plano, TX",75075
+1141,"$675,000",5 Bd,4 bath,4573 Lancelot Drive,"Plano, TX",75024
+1142,"$1,150,000",4 Bd,4 bath,5121 MEADOWSIDE Lane,"Plano, TX",75093
+1143,"$179,900",0 Bd,0 bath,3509 Calaveras Way,"Plano, TX",75074
+1144,"$339,900",4 Bd,"2 bath
+    | 2,316",4116 Mesa DR,"Plano, TX",75074
+1145,"$420,000",2 Bd,4 bath,5760 Baltic Boulevard,"Plano, TX",75024
+1146,"$449,999",4 Bd,3 bath,2824 Kyle Drive,"Plano, TX",75075
+1147,"$475,000",4 Bd,3 bath,2600 Royal Birkdale Drive,"Plano, TX",75025
+1148,"$1,095,000",4 Bd,5 bath,3204 Sleepy Hollow Drive,"Plano, TX",75093
+1149,"$1,149,900",3 Bd,3 bath,6620 Josephine Street,"Plano, TX",75024
+1150,"$176,900",1 Bd,1 bath,1805 W Spring Creek Parkway,"Plano, TX",75023
+1151,"$239,000",3 Bd,2 bath,2800 Poplar Court,"Plano, TX",75074
+1152,"$325,000",4 Bd,2 bath,2033 Hawken Drive,"Plano, TX",75023
+1153,"$330,000",3 Bd,2 bath,2409 Trailwest Lane,"Plano, TX",75025
+1154,"$445,000",4 Bd,4 bath,3417 Burnet Drive,"Plano, TX",75025
+1155,"$667,000",4 Bd,3 bath,3021 Deansbrook Drive,"Plano, TX",75093
+1156,"$179,900",3 Bd,1 bath,1109 F Avenue,"Plano, TX",75074
+1157,"$230,000",3 Bd,"2 bath
+    | 1,255",2800 Poplar,"Plano, TX",75074
+1158,"$288,500",3 Bd,2 bath,1714 Cherokee Trail,"Plano, TX",75023
+1159,"$289,900",4 Bd,2 bath,1620 Lorraine Drive,"Plano, TX",75074
+1160,"$300,000",2 Bd,3 bath,3248 Parma Lane,"Plano, TX",75093
+1161,"$355,000",3 Bd,"3 bath
+    | 1,998",3809 Solarium PL,"Plano, TX",75075
+1162,"$382,000",4 Bd,3 bath,2708 Summit View Drive,"Plano, TX",75025
+1163,"$410,000",4 Bd,3 bath,3929 Carrizo Drive,"Plano, TX",75074
+1164,"$579,000",3 Bd,3 bath,8016 Cornelius Drive,"Plano, TX",75024
+1165,"$615,000",4 Bd,"4 bath
+    | 2,978",5144 Arrowhead LN,"Plano, TX",75093
+1166,"$328,500",3 Bd,2 bath,2739 N Colfax Circle,"Plano, TX",75075
+1167,"$4,490,000",7 Bd,11 bath,2000 Willow Bend Drive,"Plano, TX",75093
+1168,"$175,000",3 Bd,2 bath,1520 Fairfield Drive,"Plano, TX",75074
+1169,"$280,000",3 Bd,2 bath,6401 Meridian Court,"Plano, TX",75023
+1170,"$369,000",3 Bd,"3 bath
+    | 2,324",1508 Croston DR,"Plano, TX",75075
+1171,"$551,000",4 Bd,3 bath,4549 Wilbarger Street,"Plano, TX",75024
+1172,"$621,300",4 Bd,3 bath,9112 Guadalupe Street,"Plano, TX",75024
+1173,"$335,000",4 Bd,2 bath,6925 Marigold Court,"Plano, TX",75074
+1174,"$550,000",4 Bd,4 bath,4661 HERSHEY Lane,"Plano, TX",75024
+1175,"$580,900",3 Bd,3 bath,7624 Highcroft Way,"Plano, TX",75024
+1176,"$630,900",3 Bd,4 bath,6112 Echelon Way,"Plano, TX",75024
+1177,"$719,900",4 Bd,4 bath,5949 Newgate Lane,"Plano, TX",75093
+1178,"$340,000",3 Bd,3 bath,4700 Bear Run Drive,"Plano, TX",75093
+1179,"$325,000",4 Bd,3 bath,2605 Laurel Lane,"Plano, TX",75074
+1180,"$355,000",3 Bd,"3 bath
+    | 2,308",2033 Ruger Drive,"Plano, TX",75023
+1181,"$500,000",6 Bd,"4 bath
+    | 3,905",7048 Pensacola DR,"Plano, TX",75074
+1182,"$4,926,600",0 Bd,0 bath,2601 E Parker Road,"Plano, TX",75074
+1183,"$165,000",2 Bd,2 bath,1805 W Spring Creek Parkway,"Plano, TX",75023
+1184,"$350,000",4 Bd,2 bath,2537 Bunker Hill Circle,"Plano, TX",75075
+1185,"$1,563,900",4 Bd,6 bath,6208 Preserve Drive,"Plano, TX",75024
+1186,"$439,000",4 Bd,3 bath,3208 Brookshire Drive,"Plano, TX",75075
+1187,"$4,485,000",6 Bd,10 bath,2204 Plantation Lane,"Plano, TX",75093
+1188,"$3,300,000",6 Bd,7 bath,5508 Seapines Drive,"Plano, TX",75093
+1189,"$129,000",1 Bd,1 bath,2400 Jupiter Road,"Plano, TX",75074
+1190,"$399,000",4 Bd,3 bath,2633 Regal Road,"Plano, TX",75075
+1191,"$1,999,000",5 Bd,7 bath,1808 Watermill Court,"Plano, TX",75093
+1192,"$410,230",3 Bd,3 bath,1767 Montgomery Drive,"Plano, TX",75075
+1193,"$1,179,000",3 Bd,3 bath,6824 Bonaparte Court,"Plano, TX",75024
+1194,"$1,398,000",2 Bd,"3 bath
+    | 1,834",7901 Windrose Avenue Unit# 1403,"Plano, TX",75024
+1195,"$1,398,000",2 Bd,3 bath,7901 Windrose Avenue,"Plano, TX",75024
+1196,"$215,000",2 Bd,2 bath,3101 Townbluff Drive,"Plano, TX",75075
+1197,"$415,000",4 Bd,4 bath,6713 Mossberg Drive,"Plano, TX",75023
+1198,"$515,000",4 Bd,4 bath,3005 Chippenham Drive,"Plano, TX",75093
+1199,"$314,000",4 Bd,3 bath,1412 Linden Drive,"Plano, TX",75075
+1200,"$225,000",2 Bd,2 bath,2601 Preston Road,"Plano, TX",75093
+1201,"$571,300",3 Bd,3 bath,9108 Guadalupe Street,"Plano, TX",75024
+1202,"$280,000",3 Bd,2 bath,1332 Exeter Drive,"Plano, TX",75093
+1203,"$219,000",3 Bd,2 bath,1913 Briarwood Drive,"Plano, TX",75074
+1204,"$280,000",4 Bd,2 bath,1801 Hawthorne Lane,"Plano, TX",75074
+1205,"$480,000",4 Bd,4 bath,4305 Waterford Drive,"Plano, TX",75024
+1206,"$369,900",3 Bd,2 bath,1905 Pleasant Valley Drive,"Plano, TX",75023
+1207,"$1,152,000",3 Bd,3 bath,6600 Josephine Street,"Plano, TX",75024
+1208,"$1,449,000",5 Bd,5 bath,5341 Tate Avenue,"Plano, TX",75093
+1209,"$470,900",3 Bd,3 bath,8045 Cornelius Drive,"Plano, TX",75024
+1210,"$528,375",3 Bd,4 bath,5765 Lois Lane,"Plano, TX",75024
+1211,"$755,000",5 Bd,4 bath,5912 Lindfield Court,"Plano, TX",75093
+1212,"$2,332,000",3 Bd,4 bath,7901 Windrose Avenue,"Plano, TX",75024
+1213,"$616,300",4 Bd,4 bath,4520 Refugio Drive,"Plano, TX",75024
+1214,"$535,000",4 Bd,4 bath,5804 Milano Drive,"Plano, TX",75093
+1215,"$450,000",5 Bd,4 bath,3412 Matagorda Springs Drive,"Plano, TX",75025
+1216,"$349,000",4 Bd,3 bath,2408 Huntington Drive,"Plano, TX",75075
+1217,"$407,000",4 Bd,3 bath,6904 Laramie Drive,"Plano, TX",75023
+1218,"$587,300",5 Bd,4 bath,4413 Oak Knoll Drive,"Plano, TX",75093
+1219,"$594,049",4 Bd,5 bath,6721 Denali Drive,"Plano, TX",75023
+1220,"$644,864",5 Bd,4 bath,6725 Denali Lane,"Plano, TX",75023
+1221,"$1,299,000",2 Bd,3 bath,7901 Windrose Avenue,"Plano, TX",75024
+1222,"$2,200,000",0 Bd,0 bath,3500 Ranchero,"Plano, TX",75093
+1223,"$489,000",4 Bd,4 bath,3508 Curbstone Way,"Plano, TX",75074
+1224,"$594,900",3 Bd,3 bath,6128 Preserve Drive,"Plano, TX",75024
+1225,"$677,900",3 Bd,3 bath,6117 Echelon Way,"Plano, TX",75024
+1226,"$330,000",3 Bd,2 bath,7805 Steppington Drive,"Plano, TX",75025
+1227,"$1,145,000",2 Bd,3 bath,7901 Windrose Avenue,"Plano, TX",75024
+1228,"$499,000",3 Bd,2 bath,4536 Wilbarger Street,"Plano, TX",75024
+1229,"$285,000",3 Bd,2 bath,1921 Tampico Drive,"Plano, TX",75075
+1230,"$545,900",3 Bd,3 bath,8028 Zeppos Drive,"Plano, TX",75024
+1231,"$319,000",4 Bd,3 bath,768 Pierre Lane,"Plano, TX",75023
+1232,"$516,000",4 Bd,3 bath,4524 Refugio Drive,"Plano, TX",75024
+1233,"$531,000",4 Bd,3 bath,4532 Wilbarger Street,"Plano, TX",75024
+1234,"$575,000",0 Bd,0 bath,6445 Montmartre Way,"Plano, TX",75024
+1235,"$1,035,00",0 Bd,"0 bath
+    | 32,450",3242 Preston Rd Suite 205,"Plano, TX",75093
+1236,"$665,240",3 Bd,4 bath,4808 Sunnybrook Drive,"Plano, TX",75093
+1237,"$2,687,000",3 Bd,4 bath,7901 Windrose Avenue,"Plano, TX",75024
+1238,"$437,900",3 Bd,3 bath,8024 Zeppos Drive,"Plano, TX",75024
+1239,"$454,500",4 Bd,3 bath,2120 Cliffside Drive,"Plano, TX",75023
+1240,"$325,000",3 Bd,3 bath,9821 Lightcatcher Drive,"Plano, TX",75025
+1241,"$200,000",3 Bd,2 bath,2005 Briarwood Drive,"Plano, TX",75074
+1242,"$280,000",3 Bd,2 bath,1604 Kesser Drive,"Plano, TX",75025
+1243,"$359,900",4 Bd,3 bath,1905 Eden Valley Lane,"Plano, TX",75093
+1244,"$459,900",4 Bd,4 bath,1701 G Avenue,"Plano, TX",75074
+1245,"$495,900",3 Bd,3 bath,8020 Zeppos Drive,"Plano, TX",75024
+1246,"$657,500",3 Bd,3 bath,2701 Deansbrook Drive,"Plano, TX",75093
+1247,"$673,600",4 Bd,3 bath,4732 Sunnybrook Drive,"Plano, TX",75093
+1248,"$754,900",4 Bd,3 bath,5413 Glenscape,"Plano, TX",75094
+1249,"$850,000",1 Bd,1 bath,7901 Windrose Avenue,"Plano, TX",75024
+1250,"$2,050,000",2 Bd,3 bath,7901 Windrose Avenue,"Plano, TX",75024
+1251,"$2,200,000",4 Bd,6 bath,3500 Ranchero Road,"Plano, TX",75093
+1252,"$3,250,000",5 Bd,8 bath,5049 Royal Creek Lane,"Plano, TX",75093
+1253,"$3,775,000",3 Bd,4 bath,7901 Windrose Avenue,"Plano, TX",75024
+1254,"$465,000",0 Bd,0 bath,6421 Montmartre Way,"Plano, TX",75024
+1255,"$2,750,000",0 Bd,0 bath,2800 E Parker Road,"Plano, TX",75074
+1256,"$288,500",3 Bd,2 bath,1714 Cherokee Trail,"Plano, TX",75023
+1257,"$369,900",3 Bd,2 bath,1905 Pleasant Valley Drive,"Plano, TX",75023
+1258,"$454,500",4 Bd,3 bath,2120 Cliffside Drive,"Plano, TX",75023
+1259,"$339,500",3 Bd,3 bath,6500 Wickliff Trail,"Plano, TX",75023
+1260,"$290,000",3 Bd,2 bath,1607 California Trail,"Plano, TX",75023
+1261,"$355,000",3 Bd,"3 bath
+    | 2,308",2033 Ruger Drive,"Plano, TX",75023
+1262,"$335,000",3 Bd,2 bath,1526 W Spring Creek Parkway,"Plano, TX",75023
+1263,"$475,000",4 Bd,3 bath,2300 Belmont Place,"Plano, TX",75023
+1264,"$445,000",4 Bd,3 bath,1708 Lake Shore Lane,"Plano, TX",75023
+1265,"$340,000",4 Bd,3 bath,6713 Osage Trail,"Plano, TX",75023
+1266,"$250,000",3 Bd,2 bath,1447 Vanderbilt Drive,"Plano, TX",75023
+1267,"$315,000",3 Bd,2 bath,1928 Hawken Drive,"Plano, TX",75023
+1268,"$269,000",4 Bd,2 bath,6409 Fort Scott Court,"Plano, TX",75023
+1269,"$415,000",4 Bd,4 bath,6713 Mossberg Drive,"Plano, TX",75023
+1270,"$325,000",4 Bd,2 bath,2033 Hawken Drive,"Plano, TX",75023
+1271,"$350,000",3 Bd,"2 bath
+    | 1,786",6716 Darton Drive,"Plano, TX",75023
+1272,"$294,000",3 Bd,2 bath,6532 Ute Court,"Plano, TX",75023
+1273,"$394,500",3 Bd,3 bath,2600 Chamberlain Drive,"Plano, TX",75023
+1274,"$380,000",3 Bd,3 bath,2305 Treehouse Lane,"Plano, TX",75023
+1275,"$315,000",3 Bd,4 bath,2117 Winslow Drive,"Plano, TX",75023
+1276,"$130,000",2 Bd,1 bath,1126 E Morningside Drive,"Fort Worth, TX",76104
+1277,"$139,000",3 Bd,2 bath,4408 Bonnie Drive,"Fort Worth, TX",76116
+1278,"$169,000",3 Bd,1 bath,2403 Warwick Avenue,"Fort Worth, TX",76106
+1279,"$175,000",3 Bd,2 bath,921 E Fuller Avenue,"Fort Worth, TX",76115
+1280,"$175,000",3 Bd,3 bath,7521 Kings Trail,"Fort Worth, TX",76133
+1281,"$209,000",3 Bd,1 bath,5125 Norma Street,"Fort Worth, TX",76112
+1282,"$215,000",3 Bd,2 bath,6417 Rainwater Way,"Fort Worth, TX",76179
+1283,"$220,000",3 Bd,2 bath,3554 Creston Court,"Fort Worth, TX",76133
+1284,"$225,000",3 Bd,2 bath,5805 Waltham Avenue,"Fort Worth, TX",76133
+1285,"$245,000",4 Bd,"2 bath
+    | 1,874",4605 Applewood RD,"Fort Worth, TX",76133
+1286,"$254,900",3 Bd,2 bath,4516 Pine Bluff Court,"Fort Worth, TX",76123
+1287,"$255,000",3 Bd,2 bath,5601 Lubbock Avenue,"Fort Worth, TX",76133
+1288,"$260,000",3 Bd,2 bath,4716 Misty Ridge Drive,"Fort Worth, TX",76137
+1289,"$273,000",4 Bd,2 bath,6313 Seagull Lane,"Fort Worth, TX",76179
+1290,"$274,900",4 Bd,3 bath,821 E Powell Avenue,"Fort Worth, TX",76104
+1291,"$275,000",3 Bd,2 bath,2220 Juarez Drive,"Fort Worth, TX",76177
+1292,"$275,000",4 Bd,2 bath,532 Pollyann Trail,"Fort Worth, TX",76052
+1293,"$275,000",5 Bd,3 bath,7805 Laver Court,"Fort Worth, TX",76112
+1294,"$276,000",4 Bd,3 bath,3504 Lasso Road,"Fort Worth, TX",76262
+1295,"$279,000",3 Bd,2 bath,7441 Durness Drive,"Fort Worth, TX",76179
+1296,"$298,835",3 Bd,3 bath,7521 Gangway Drive,"Fort Worth, TX",76179
+1297,"$300,000",3 Bd,2 bath,7004 Water Meadows Drive,"Fort Worth, TX",76123
+1298,"$305,000",4 Bd,3 bath,4429 Quail Hollow Road,"Fort Worth, TX",76133
+1299,"$305,000",3 Bd,"2 bath
+    | 2,388",6076 Wrigley Way,"Fort Worth, TX",76133
+1300,"$310,000",4 Bd,3 bath,4208 Sweet Clover Lane,"Fort Worth, TX",76036
+1301,"$314,900",3 Bd,"2 bath
+    | 1,200",6330 Renwood Drive,"Fort Worth, TX",76140
+1302,"$319,000",4 Bd,3 bath,824 Firewheel Trail,"Fort Worth, TX",76112
+1303,"$324,000",5 Bd,4 bath,4145 Sweet Clover Lane,"Fort Worth, TX",76036
+1304,"$340,000",4 Bd,3 bath,416 Havenwood Lane N,"Fort Worth, TX",76112
+1305,"$356,000",4 Bd,2 bath,452 Saguaro Drive,"Fort Worth, TX",76052
+1306,"$429,900",5 Bd,4 bath,10244 Fox Springs Drive,"Fort Worth, TX",76131
+1307,"$459,900",4 Bd,3 bath,7004 Tumbling Trail,"Fort Worth, TX",76116
+1308,"$569,900",3 Bd,4 bath,4205 Westmont Court,"Fort Worth, TX",76109
+1309,"$94,900",2 Bd,1 bath,4700 Strong Avenue,"Fort Worth, TX",76105
+1310,"$132,500",2 Bd,2 bath,2303 Ridgmar Plaza,"Fort Worth, TX",76116
+1311,"$150,000",0 Bd,0 bath,1104 Greer Street,"Fort Worth, TX",76102
+1312,"$154,900",2 Bd,1 bath,3817 E 1st Street,"Fort Worth, TX",76111
+1313,"$164,900",2 Bd,1 bath,4605 Norris Valley Drive,"Fort Worth, TX",76135
+1314,"$169,900",2 Bd,2 bath,6715 Old Stone Drive,"Fort Worth, TX",76137
+1315,"$172,000",3 Bd,1 bath,2504 Capri Drive,"Fort Worth, TX",76114
+1316,"$190,000",3 Bd,2 bath,3417 Glenmont Drive,"Fort Worth, TX",76133
+1317,"$193,000",3 Bd,2 bath,10132 Stoney Bridge Road,"Fort Worth, TX",76108
+1318,"$199,900",3 Bd,2 bath,2616 Countryside Lane,"Fort Worth, TX",76133
+1319,"$209,990",3 Bd,2 bath,2908 Carolina Drive,"Fort Worth, TX",76123
+1320,"$210,000",3 Bd,2 bath,7616 Acapulco Road,"Fort Worth, TX",76112
+1321,"$215,000",4 Bd,2 bath,405 Flowering Plum Lane,"Fort Worth, TX",76140
+1322,"$218,000",3 Bd,2 bath,8116 Autumn Creek Trail,"Fort Worth, TX",76134
+1323,"$220,000",3 Bd,2 bath,3512 Burton Avenue,"Fort Worth, TX",76105
+1324,"$235,000",3 Bd,2 bath,5901 Saddle Flap Drive,"Fort Worth, TX",76179
+1325,"$235,000",3 Bd,2 bath,1327 E Morphy Street,"Fort Worth, TX",76104
+1326,"$240,000",3 Bd,2 bath,5729 Mountain Bluff Drive,"Fort Worth, TX",76179
+1327,"$249,000",3 Bd,2 bath,2810 20th Street NW,"Fort Worth, TX",76106
+1328,"$250,000",4 Bd,3 bath,8104 Southern Pine Way,"Fort Worth, TX",76123
+1329,"$250,000",3 Bd,2 bath,1305 W Shaw Street,"Fort Worth, TX",76110
+1330,"$255,000",4 Bd,3 bath,5825 Blue Ribbon Road,"Fort Worth, TX",76179
+1331,"$262,900",3 Bd,2 bath,800 Salida Road,"Fort Worth, TX",76052
+1332,"$269,900",4 Bd,2 bath,2200 Denmark Lane,"Fort Worth, TX",76108
+1333,"$275,000",4 Bd,4 bath,3114 Rosen Avenue,"Fort Worth, TX",76106
+1334,"$299,000",3 Bd,2 bath,10804 Ersebrook Court,"Fort Worth, TX",76052
+1335,"$300,000",3 Bd,2 bath,2801 Maple Creek Drive,"Fort Worth, TX",76177
+1336,"$310,000",4 Bd,3 bath,10469 Evening View Drive,"Fort Worth, TX",76131
+1337,"$318,000",5 Bd,4 bath,7784 Beaver Head Road,"Fort Worth, TX",76137
+1338,"$329,000",3 Bd,3 bath,2501 Breccia Drive,"Fort Worth, TX",76108
+1339,"$332,000",4 Bd,2 bath,220 Lemley Drive,"Fort Worth, TX",76131
+1340,"$350,000",3 Bd,2 bath,5108 Azul Lane,"Fort Worth, TX",76036
+1341,"$355,000",3 Bd,2 bath,5660 Banks Road,"Fort Worth, TX",76140
+1342,"$369,937",2 Bd,2 bath,6005 Carmona Trail,"Fort Worth, TX",76132
+1343,"$381,114",3 Bd,2 bath,6641 Lake Overlook,"Fort Worth, TX",76135
+1344,"$400,000",3 Bd,2 bath,4900 Birchman Avenue,"Fort Worth, TX",76107
+1345,"$410,000",4 Bd,4 bath,432 Palmito Ranch Road,"Fort Worth, TX",76131
+1346,"$425,000",4 Bd,4 bath,15740 Carlton Oaks Drive,"Fort Worth, TX",76177
+1347,"$462,500",5 Bd,4 bath,9909 Crawford Farms Drive,"Fort Worth, TX",76244
+1348,"$467,000",3 Bd,3 bath,3901 Piedmont Road,"Fort Worth, TX",76116
+1349,"$674,900",3 Bd,3 bath,2131 Warner Road,"Fort Worth, TX",76110
+1350,"$960,000",4 Bd,4 bath,6705 Olympia Hills Road,"Fort Worth, TX",76132
+1351,"$975,000",3 Bd,3 bath,2439 Wabash Avenue,"Fort Worth, TX",76109
+1352,"$1,250,000",0 Bd,0 bath,6900 Westcreek Circle,"Fort Worth, TX",76133
+1353,"$1,258,000",5 Bd,5 bath,700 Grove Street,"Fort Worth, TX",76102
+1354,"$65,000",0 Bd,0 bath,600 NE 30th Street,"Fort Worth, TX",76106
+1355,"$65,00",0 Bd,0 bath,600 30th Street NE,"Fort Worth, TX",76106
+1356,"$103,000",1 Bd,2 bath,1418 Meadowood Village Drive,"Fort Worth, TX",76120
+1357,"$125,000",3 Bd,1 bath,3614 N Harding Street,"Fort Worth, TX",76106
+1358,"$125,000",3 Bd,1 bath,3620 Pate Dr Drive,"Fort Worth, TX",76119
+1359,"$145,000",3 Bd,2 bath,700 S Hughes Avenue,"Fort Worth, TX",76103
+1360,"$150,000",2 Bd,1 bath,4512 Martha Lane,"Fort Worth, TX",76103
+1361,"$153,900",3 Bd,2 bath,9925 Plainfield Drive,"Fort Worth, TX",76108
+1362,"$171,000",3 Bd,2 bath,6705 Monterrey Drive,"Fort Worth, TX",76112
+1363,"$185,000",3 Bd,2 bath,4620 Houghton Avenue,"Fort Worth, TX",76107
+1364,"$189,000",3 Bd,2 bath,6900 Van Natta Lane,"Fort Worth, TX",76112
+1365,"$189,900",5 Bd,2 bath,1207 S Chicago Avenue,"Fort Worth, TX",76105
+1366,"$198,000",3 Bd,2 bath,8724 Polo Drive,"Fort Worth, TX",76123
+1367,"$199,000",3 Bd,2 bath,2900 Elsinor Drive,"Fort Worth, TX",76116
+1368,"$199,000",3 Bd,2 bath,6912 Legato Lane,"Fort Worth, TX",76134
+1369,"$199,900",4 Bd,2 bath,7600 Kell Drive,"Fort Worth, TX",76112
+1370,"$200,000",3 Bd,2 bath,3012 Creekwood Lane,"Fort Worth, TX",76123
+1371,"$204,900",2 Bd,2 bath,2305 Whispering Court,"Fort Worth, TX",76133
+1372,"$215,000",3 Bd,2 bath,933 Stone Chapel Way,"Fort Worth, TX",76179
+1373,"$215,000",3 Bd,2 bath,8617 Guadalupe Road,"Fort Worth, TX",76116
+1374,"$219,000",3 Bd,2 bath,4620 Mustang Drive,"Fort Worth, TX",76137
+1375,"$224,900",3 Bd,2 bath,3008 Vicksburg Lane,"Fort Worth, TX",76123
+1376,"$225,000",3 Bd,2 bath,5016 River Rock Boulevard,"Fort Worth, TX",76179
+1377,"$229,000",2 Bd,3 bath,734 Heights Drive,"Fort Worth, TX",76112
+1378,"$229,900",4 Bd,3 bath,5263 Meadowbrook Drive,"Fort Worth, TX",76112
+1379,"$230,000",3 Bd,2 bath,11720 Latania Lane,"Fort Worth, TX",76244
+1380,"$230,000",3 Bd,2 bath,713 Key Deer Drive,"Fort Worth, TX",76028
+1381,"$235,000",4 Bd,3 bath,1328 Nicole Way,"Fort Worth, TX",76028
+1382,"$238,500",4 Bd,2 bath,10920 Deauville Circle N,"Fort Worth, TX",76108
+1383,"$240,000",3 Bd,2 bath,2208 Wakecrest Drive,"Fort Worth, TX",76108
+1384,"$240,000",4 Bd,2 bath,4556 Grainland Court,"Fort Worth, TX",76179
+1385,"$240,000",4 Bd,3 bath,1720 Danciger Drive,"Fort Worth, TX",76112
+1386,"$244,900",4 Bd,3 bath,7573 Vanessa Drive,"Fort Worth, TX",76112
+1387,"$245,000",3 Bd,"2 bath
+    | 1,288",2745 Cochran Way,"Fort Worth, TX",76108
+1388,"$249,500",3 Bd,2 bath,7429 Laurie Drive,"Fort Worth, TX",76112
+1389,"$250,000",4 Bd,2 bath,7216 Briarwyck Court,"Fort Worth, TX",76137
+1390,"$255,000",3 Bd,2 bath,5820 Ridgerock Court,"Fort Worth, TX",76132
+1391,"$259,000",3 Bd,2 bath,8424 Steel Dust Drive,"Fort Worth, TX",76179
+1392,"$259,900",3 Bd,2 bath,8368 Pipestone Drive,"Fort Worth, TX",76137
+1393,"$260,000",3 Bd,2 bath,4101 Piedmont Road,"Fort Worth, TX",76116
+1394,"$260,000",4 Bd,3 bath,8612 Star Thistle Drive,"Fort Worth, TX",76179
+1395,"$262,000",4 Bd,3 bath,2209 Sims Drive,"Fort Worth, TX",76119
+1396,"$264,900",4 Bd,2 bath,1700 Kings Glen Lane,"Fort Worth, TX",76140
+1397,"$266,000",3 Bd,2 bath,8209 Water Buck Run,"Fort Worth, TX",76179
+1398,"$269,000",3 Bd,3 bath,4732 Great Divide Drive,"Fort Worth, TX",76137
+1399,"$275,000",3 Bd,2 bath,621 Bent Oak Drive,"Fort Worth, TX",76131
+1400,"$275,000",3 Bd,2 bath,12913 Parkersburg Drive,"Fort Worth, TX",76244
+1401,"$275,000",3 Bd,2 bath,9244 Bronze Meadow Drive,"Fort Worth, TX",76131
+1402,"$279,000",4 Bd,3 bath,10445 Evening View Drive,"Fort Worth, TX",76131
+1403,"$279,900",3 Bd,2 bath,9105 Settlers Peak Road,"Fort Worth, TX",76179
+1404,"$285,000",3 Bd,2 bath,3905 Clayton Road E,"Fort Worth, TX",76116
+1405,"$285,000",5 Bd,3 bath,7333 Mesa Verde Trail,"Fort Worth, TX",76137
+1406,"$290,000",4 Bd,2 bath,4540 Indian Rock Drive,"Fort Worth, TX",76244
+1407,"$294,990",4 Bd,2 bath,11805 Dixon Drive,"Fort Worth, TX",76108
+1408,"$296,900",3 Bd,2 bath,220 Ridgeland Oak Drive,"Fort Worth, TX",76120
+1409,"$300,000",3 Bd,2 bath,9104 Tyne Trail,"Fort Worth, TX",76118
+1410,"$300,000",3 Bd,2 bath,2408 Flowing Springs Drive,"Fort Worth, TX",76177
+1411,"$300,000",3 Bd,3 bath,7413 Buckskin Court,"Fort Worth, TX",76137
+1412,"$309,900",4 Bd,3 bath,7525 Pleasant Oaks Street,"Fort Worth, TX",76120
+1413,"$315,000",3 Bd,2 bath,7633 Quail Ridge,"Fort Worth, TX",76179
+1414,"$315,000",5 Bd,4 bath,4925 Cedar Brush Drive,"Fort Worth, TX",76123
+1415,"$315,000",4 Bd,4 bath,1005 Terrace View Drive,"Fort Worth, TX",76108
+1416,"$315,000",4 Bd,3 bath,3737 Redwood Creek Lane,"Fort Worth, TX",76137
+1417,"$315,000",4 Bd,3 bath,7801 Lake Meredith Way,"Fort Worth, TX",76137
+1418,"$320,000",3 Bd,2 bath,2909 Marys Lane,"Fort Worth, TX",76116
+1419,"$320,000",3 Bd,2 bath,8184 Black Ash Drive,"Fort Worth, TX",76131
+1420,"$320,500",3 Bd,2 bath,3329 Park Ridge Boulevard,"Fort Worth, TX",76109
+1421,"$322,274",3 Bd,2 bath,232 Wild Onion Lane,"Fort Worth, TX",76131
+1422,"$325,000",5 Bd,3 bath,13784 Trail Break Drive,"Fort Worth, TX",76052
+1423,"$325,000",4 Bd,2 bath,1128 Twin Brooks Lane,"Fort Worth, TX",76177
+1424,"$328,000",3 Bd,2 bath,1813 Sevilla Road,"Fort Worth, TX",76116
+1425,"$334,900",4 Bd,3 bath,216 Bearman Drive,"Fort Worth, TX",76120
+1426,"$340,000",4 Bd,3 bath,7245 Laguna Del Campo Trail,"Fort Worth, TX",76131
+1427,"$345,000",4 Bd,3 bath,8628 Funtier Court,"Fort Worth, TX",76179
+1428,"$349,900",4 Bd,3 bath,1632 Barrel Oak Drive,"Fort Worth, TX",76028
+1429,"$350,000",5 Bd,4 bath,5358 Desert Falls Drive,"Fort Worth, TX",76137
+1430,"$354,990",4 Bd,3 bath,144 Plumed Thistle Drive,"Fort Worth, TX",76131
+1431,"$369,500",4 Bd,4 bath,10428 Misty Redwood Trail,"Fort Worth, TX",76177
+1432,"$375,000",4 Bd,4 bath,3541 Gallant Trail,"Fort Worth, TX",76244
+1433,"$395,000",3 Bd,3 bath,6516 Genoa Road,"Fort Worth, TX",76116
+1434,"$399,900",2 Bd,2 bath,2306 Park Place Avenue,"Fort Worth, TX",76110
+1435,"$399,990",4 Bd,2 bath,4324 Rosebriar Way,"Fort Worth, TX",76244
+1436,"$410,000",5 Bd,4 bath,10428 Devin Lane,"Fort Worth, TX",76053
+1437,"$424,900",2 Bd,4 bath,6769 Lost Star Lane,"Fort Worth, TX",76132
+1438,"$425,000",4 Bd,4 bath,9837 Crawford Farms Drive,"Fort Worth, TX",76244
+1439,"$434,900",4 Bd,3 bath,12532 Treyburn Drive,"Fort Worth, TX",76244
+1440,"$435,000",4 Bd,3 bath,6928 Talon Drive,"Fort Worth, TX",76179
+1441,"$440,000",3 Bd,4 bath,2611 McCart Avenue,"Fort Worth, TX",76110
+1442,"$470,000",4 Bd,3 bath,6905 Camino Court,"Fort Worth, TX",76126
+1443,"$499,900",5 Bd,4 bath,4317 Old Grove Way,"Fort Worth, TX",76244
+1444,"$550,000",5 Bd,3 bath,9633 Ben Hogan Lane,"Fort Worth, TX",76244
+1445,"$599,000",4 Bd,3 bath,12549 Bella Amore Drive,"Fort Worth, TX",76126
+1446,"$850,000",4 Bd,3 bath,4500 Ranch View Road,"Fort Worth, TX",76109
+1447,"$45,000",0 Bd,0 bath,4001 Fairlane Avenue,"Fort Worth, TX",76119
+1448,"$139,900",2 Bd,1 bath,3213 Crenshaw Avenue,"Fort Worth, TX",76105
+1449,"$144,900",2 Bd,1 bath,508 E Pafford Street,"Fort Worth, TX",76110
+1450,"$150,000",2 Bd,2 bath,2401 Ben Avenue,"Fort Worth, TX",76103
+1451,"$150,000",2 Bd,1 bath,6817 Greenlee Street,"Fort Worth, TX",76112
+1452,"$159,900",2 Bd,1 bath,5025 Royal Drive,"Fort Worth, TX",76116
+1453,"$178,000",3 Bd,2 bath,5204 Ruston Avenue,"Fort Worth, TX",76133
+1454,"$179,900",3 Bd,2 bath,6916 Sandybrook Drive,"Fort Worth, TX",76120
+1455,"$198,000",3 Bd,2 bath,10808 Hornby Street,"Fort Worth, TX",76108
+1456,"$199,000",3 Bd,2 bath,3724 Cork Place,"Fort Worth, TX",76116
+1457,"$199,306",3 Bd,2 bath,3217 Hanger Avenue,"Fort Worth, TX",76105
+1458,"$200,000",3 Bd,2 bath,5801 Mirror Ridge Drive,"Fort Worth, TX",76179
+1459,"$209,900",3 Bd,3 bath,2315 Market Avenue,"Fort Worth, TX",76164
+1460,"$209,900",3 Bd,2 bath,1729 Cedar Tree,"Fort Worth, TX",76131
+1461,"$210,000",3 Bd,2 bath,8340 Tucson Trail,"Fort Worth, TX",76116
+1462,"$214,900",3 Bd,2 bath,713 Sunrise Court,"Fort Worth, TX",76120
+1463,"$215,000",2 Bd,2 bath,201 W Lancaster Avenue,"Fort Worth, TX",76102
+1464,"$215,000",3 Bd,2 bath,7829 Waxwing Circle W,"Fort Worth, TX",76137
+1465,"$220,000",3 Bd,2 bath,10221 Westward Drive,"Fort Worth, TX",76108
+1466,"$220,000",3 Bd,2 bath,8013 Summer Sun Drive,"Fort Worth, TX",76137
+1467,"$225,000",3 Bd,"2 bath
+    | 1,639",7105 Lindentree LN,"Fort Worth, TX",76137
+1468,"$229,000",3 Bd,2 bath,9944 Plainfield Drive,"Fort Worth, TX",76108
+1469,"$234,000",4 Bd,2 bath,2312 Williston Court,"Fort Worth, TX",76108
+1470,"$234,900",3 Bd,"2 bath
+    | 1,509",4808 Fishhook CT,"Fort Worth, TX",76179
+1471,"$234,900",3 Bd,2 bath,5000 Cockrell Avenue,"Fort Worth, TX",76133
+1472,"$235,000",3 Bd,2 bath,2305 Charisma Drive,"Fort Worth, TX",76131
+1473,"$239,000",4 Bd,2 bath,324 Center Lane,"Fort Worth, TX",76140
+1474,"$239,900",3 Bd,2 bath,4403 Bellaire Drive S,"Fort Worth, TX",76109
+1475,"$244,251",4 Bd,"2 bath
+    | 1,820",3409 WINOAK DR,"Fort Worth, TX",76123
+1476,"$244,251",4 Bd,2 bath,3409 WINOAK Drive,"Fort Worth, TX",76123
+1477,"$245,000",3 Bd,2 bath,9612 Linton Drive,"Fort Worth, TX",76108
+1478,"$245,900",4 Bd,2 bath,6313 Eagle Pier Way,"Fort Worth, TX",76179
+1479,"$248,000",4 Bd,2 bath,708 Kelley Court,"Fort Worth, TX",76120
+1480,"$249,500",3 Bd,2 bath,1908 Watson Street,"Fort Worth, TX",76103
+1481,"$249,900",3 Bd,2 bath,2117 Swenson Ranch Trail,"Fort Worth, TX",76134
+1482,"$250,000",3 Bd,2 bath,8401 Greylock Court,"Fort Worth, TX",76137
+1483,"$255,000",4 Bd,2 bath,4640 Parkmount Drive,"Fort Worth, TX",76137
+1484,"$255,000",3 Bd,2 bath,8420 Ram Ridge Road,"Fort Worth, TX",76137
+1485,"$259,000",4 Bd,2 bath,11812 Castleford Way,"Fort Worth, TX",76036
+1486,"$262,500",4 Bd,2 bath,9524 Chiefton Way,"Fort Worth, TX",76244
+1487,"$265,000",4 Bd,2 bath,11636 Netleaf Lane,"Fort Worth, TX",76244
+1488,"$265,000",3 Bd,3 bath,7733 Blossom Drive,"Fort Worth, TX",76133
+1489,"$265,000",3 Bd,2 bath,8069 Whitney Lane,"Fort Worth, TX",76120
+1490,"$268,000",4 Bd,3 bath,4266 Balboa Drive,"Fort Worth, TX",76133
+1491,"$269,000",2 Bd,2 bath,6466 Lindell Avenue,"Fort Worth, TX",76116
+1492,"$270,000",3 Bd,2 bath,3909 Confidence Drive,"Fort Worth, TX",76244
+1493,"$275,000",3 Bd,"2 bath
+    | 1,706",9244 Bronze Meadow DR,"Fort Worth, TX",76131
+1494,"$275,000",2 Bd,2 bath,2725 Ryan Avenue,"Fort Worth, TX",76110
+1495,"$275,000",4 Bd,2 bath,7913 Songbird Lane,"Fort Worth, TX",76123
+1496,"$275,000",4 Bd,2 bath,4920 Spur Ridge Court,"Fort Worth, TX",76244
+1497,"$279,000",4 Bd,2 bath,1963 Lanewood Drive,"Fort Worth, TX",76112
+1498,"$285,000",3 Bd,2 bath,5924 Paddlefish Drive,"Fort Worth, TX",76179
+1499,"$289,900",4 Bd,0 bath,445 Marble Creek Drive,"Fort Worth, TX",76131
+1500,"$289,900",4 Bd,3 bath,528 Winbridge Lane,"Fort Worth, TX",76052
+1501,"$290,000",2 Bd,2 bath,6132 Malvey Avenue,"Fort Worth, TX",76116
+1502,"$299,900",3 Bd,2 bath,9617 Lea Shore Street,"Fort Worth, TX",76179
+1503,"$300,000",3 Bd,2 bath,2625 Sandcherry Drive,"Fort Worth, TX",76244
+1504,"$300,000",3 Bd,2 bath,1329 Ocotillo Lane,"Fort Worth, TX",76177
+1505,"$300,000",4 Bd,3 bath,1817 Capulin Road,"Fort Worth, TX",76131
+1506,"$304,900",4 Bd,"2 bath
+    | 2,249",9104 Flying Eagle LN,"Fort Worth, TX",76131
+1507,"$304,900",4 Bd,2 bath,9104 Flying Eagle Lane,"Fort Worth, TX",76131
+1508,"$307,000",0 Bd,0 bath,304 Wimberly Street,"Fort Worth, TX",76107
+1509,"$307,000",3 Bd,2 bath,9300 Herringbone Drive,"Fort Worth, TX",76131
+1510,"$310,500",3 Bd,3 bath,3477 Vista Highlands,"Fort Worth, TX",76135
+1511,"$312,000",3 Bd,2 bath,2507 Lipscomb Street,"Fort Worth, TX",76110
+1512,"$312,000",3 Bd,"2 bath
+    | 1,716",2507 Lipscomb ST,"Fort Worth, TX",76110
+1513,"$315,000",4 Bd,3 bath,14360 Mariposa Lily Lane,"Fort Worth, TX",76052
+1514,"$315,000",4 Bd,3 bath,2906 8th Avenue,"Fort Worth, TX",76110
+1515,"$315,000",3 Bd,2 bath,245 Black Alder Drive,"Fort Worth, TX",76131
+1516,"$319,000",4 Bd,2 bath,6024 Dunnlevy Drive,"Fort Worth, TX",76179
+1517,"$319,000",3 Bd,2 bath,6424 Darwood Avenue,"Fort Worth, TX",76116
+1518,"$319,900",3 Bd,1 bath,2321 Primrose Avenue,"Fort Worth, TX",76111
+1519,"$320,000",4 Bd,3 bath,2604 Avenel Court,"Fort Worth, TX",76177
+1520,"$325,000",4 Bd,"3 bath
+    | 2,841",6024 Welch Avenue,"Fort Worth, TX",76133
+1521,"$325,000",4 Bd,3 bath,2441 Whispering Pines Drive,"Fort Worth, TX",76177
+1522,"$335,000",4 Bd,2 bath,5339 Tobey Court,"Fort Worth, TX",76126
+1523,"$335,000",4 Bd,2 bath,500 White Bud Lane,"Fort Worth, TX",76131
+1524,"$335,000",3 Bd,3 bath,7700 Boat Wind Road,"Fort Worth, TX",76179
+1525,"$339,900",3 Bd,3 bath,4632 Norwich Drive,"Fort Worth, TX",76109
+1526,"$340,000",4 Bd,"4 bath
+    | 3,655",5221 Cedar Brush DR,"Fort Worth, TX",76123
+1527,"$340,000",4 Bd,4 bath,5221 Cedar Brush Drive,"Fort Worth, TX",76123
+1528,"$349,000",3 Bd,3 bath,8013 Mount Shasta Circle,"Fort Worth, TX",76137
+1529,"$349,900",2 Bd,1 bath,2217 Irwin Street,"Fort Worth, TX",76110
+1530,"$349,900",6 Bd,4 bath,7955 Mellie Court,"Fort Worth, TX",76123
+1531,"$349,900",4 Bd,3 bath,2613 Twinflower Drive,"Fort Worth, TX",76244
+1532,"$349,900",3 Bd,2 bath,3600 Rogers Avenue,"Fort Worth, TX",76109
+1533,"$350,000",1 Bd,2 bath,4408 Camp Bowie Boulevard,"Fort Worth, TX",76107
+1534,"$369,500",3 Bd,2 bath,4813 Hildring Drive E,"Fort Worth, TX",76109
+1535,"$370,000",4 Bd,3 bath,2808 Stable Door Lane,"Fort Worth, TX",76244
+1536,"$379,196",3 Bd,3 bath,6649 Texas Cowboy Dr,"Fort Worth, TX",76123
+1537,"$389,900",5 Bd,3 bath,4220 Doe Creek Trail,"Fort Worth, TX",76244
+1538,"$395,000",5 Bd,4 bath,404 High Desert Drive,"Fort Worth, TX",76131
+1539,"$399,000",3 Bd,2 bath,6424 Locke Avenue,"Fort Worth, TX",76116
+1540,"$399,900",4 Bd,4 bath,11741 Tuscarora Drive,"Fort Worth, TX",76108
+1541,"$399,900",4 Bd,4 bath,12369 Maken Trail,"Fort Worth, TX",76052
+1542,"$405,000",2 Bd,2 bath,5136 Collinwood Avenue,"Fort Worth, TX",76107
+1543,"$424,825",4 Bd,4 bath,14413 Walsh Avenue,"Fort Worth, TX",76008
+1544,"$435,000",3 Bd,"2 bath
+    | 2,093",,"Fort Worth, TX",76109
+1545,"$435,000",3 Bd,2 bath,2716 Sandage Avenue,"Fort Worth, TX",76109
+1546,"$447,000",0 Bd,"3 bath
+    | 3,204",7525 John T White Road,"Fort Worth, TX",76120
+1547,"$491,164",4 Bd,5 bath,2229 Dunstan Drive,"Fort Worth, TX",76008
+1548,"$499,000",3 Bd,3 bath,6417 Chauncery Place,"Fort Worth, TX",76116
+1549,"$525,000",4 Bd,4 bath,1012 Merion Drive,"Fort Worth, TX",76028
+1550,"$539,000",3 Bd,2 bath,2320 Edwin Street,"Fort Worth, TX",76110
+1551,"$549,000",3 Bd,2 bath,3759 W 4th Street,"Fort Worth, TX",76107
+1552,"$584,900",2 Bd,3 bath,411 W 7th Street,"Fort Worth, TX",76102
+1553,"$585,000",4 Bd,2 bath,2216 Park Place Avenue,"Fort Worth, TX",76110
+1554,"$624,900",3 Bd,3 bath,411 W 7th Street,"Fort Worth, TX",76102
+1555,"$769,000",4 Bd,3 bath,6356 Davis Road,"Fort Worth, TX",76140
+1556,"$35,000",0 Bd,0 bath,2803 Gould AVE,"Fort Worth, TX",76106
+1557,"$65,000",0 Bd,0 bath,2333 Dalford Street,"Fort Worth, TX",76111
+1558,"$65,000",0 Bd,0 bath,2329 Dalford Street,"Fort Worth, TX",76111
+1559,"$85,000",0 Bd,0 bath,3230 Vine Street,"Fort Worth, TX",76040
+1560,"$105,000",3 Bd,1 bath,2305 Flemming Drive,"Fort Worth, TX",76112
+1561,"$109,900",3 Bd,1 bath,1100 California Parkway N,"Fort Worth, TX",76115
+1562,"$112,000",3 Bd,2 bath,1346 E Richmond Avenue,"Fort Worth, TX",76104
+1563,"$178,700",2 Bd,1 bath,3808 6th Avenue,"Fort Worth, TX",76110
+1564,"$182,900",3 Bd,2 bath,3563 Frazier Avenue,"Fort Worth, TX",76110
+1565,"$185,000",3 Bd,"2 bath
+    | 1,143",1340 Steinburg,"Fort Worth, TX",76134
+1566,"$198,900",4 Bd,2 bath,1909 Milam Street,"Fort Worth, TX",76112
+1567,"$199,000",3 Bd,2 bath,3916 Wrenwood Drive,"Fort Worth, TX",76137
+1568,"$199,900",3 Bd,2 bath,324 Afton Road,"Fort Worth, TX",76134
+1569,"$210,000",3 Bd,2 bath,5907 Diaz Avenue,"Fort Worth, TX",76107
+1570,"$218,900",3 Bd,2 bath,5812 Wake Robin Drive,"Fort Worth, TX",76123
+1571,"$219,500",3 Bd,2 bath,2524 Concina Way,"Fort Worth, TX",76108
+1572,"$220,000",3 Bd,2 bath,1617 E Tucker Street,"Fort Worth, TX",76104
+1573,"$225,000",3 Bd,2 bath,10261 Sunset View Drive,"Fort Worth, TX",76108
+1574,"$232,900",4 Bd,2 bath,8232 Ranch Hand Trail,"Fort Worth, TX",76131
+1575,"$233,000",3 Bd,3 bath,9744 Francesca Drive,"Fort Worth, TX",76108
+1576,"$235,000",3 Bd,3 bath,3913 Oceanside Drive,"Fort Worth, TX",76040
+1577,"$240,000",4 Bd,2 bath,6320 Provinces Street,"Fort Worth, TX",76179
+1578,"$245,000",3 Bd,2 bath,5908 Helmick Avenue,"Fort Worth, TX",76107
+1579,"$249,900",4 Bd,2 bath,8009 Boat Wind Road,"Fort Worth, TX",76179
+1580,"$249,900",3 Bd,2 bath,7116 Culver Avenue,"Fort Worth, TX",76116
+1581,"$255,000",3 Bd,2 bath,633 Goldstone Lane,"Fort Worth, TX",76131
+1582,"$257,000",4 Bd,2 bath,2355 Laurelhill Lane,"Fort Worth, TX",76133
+1583,"$258,000",3 Bd,2 bath,5624 Donnelly Avenue,"Fort Worth, TX",76107
+1584,"$265,000",3 Bd,3 bath,7228 Wavecrest Way,"Fort Worth, TX",76179
+1585,"$275,000",5 Bd,3 bath,1548 Milmo Drive,"Fort Worth, TX",76134
+1586,"$275,000",3 Bd,2 bath,8513 Viridian Lane,"Fort Worth, TX",76123
+1587,"$275,000",3 Bd,1 bath,3620 W Seminary Drive,"Fort Worth, TX",76109
+1588,"$280,000",4 Bd,2 bath,2524 Flowing Springs Drive,"Fort Worth, TX",76177
+1589,"$290,000",4 Bd,2 bath,5621 Dennis Avenue,"Fort Worth, TX",76114
+1590,"$300,000",4 Bd,2 bath,5209 Threshing Drive,"Fort Worth, TX",76179
+1591,"$305,000",3 Bd,2 bath,1541 Fallingwater Trail,"Fort Worth, TX",76052
+1592,"$309,500",3 Bd,2 bath,6552 Longhorn Herd Lane,"Fort Worth, TX",76123
+1593,"$310,000",3 Bd,2 bath,7616 Truchard Drive,"Fort Worth, TX",76179
+1594,"$310,000",5 Bd,4 bath,2625 Swift Creek Drive,"Fort Worth, TX",76123
+1595,"$312,500",4 Bd,3 bath,5329 Corn Field Drive,"Fort Worth, TX",76179
+1596,"$315,000",3 Bd,2 bath,2536 Grey Kingbird Trail,"Fort Worth, TX",76244
+1597,"$315,000",2 Bd,1 bath,3336 Park Ridge Boulevard,"Fort Worth, TX",76109
+1598,"$315,000",3 Bd,2 bath,3968 Tule Ranch Road,"Fort Worth, TX",76262
+1599,"$319,900",4 Bd,3 bath,14300 Mariposa Lily Lane,"Fort Worth, TX",76052
+1600,"$319,900",3 Bd,2 bath,2744 Albatross Lane,"Fort Worth, TX",76177
+1601,"$320,000",3 Bd,3 bath,4351 Salix Court,"Fort Worth, TX",76109
+1602,"$325,000",4 Bd,3 bath,8709 Glenburne Drive,"Fort Worth, TX",76131
+1603,"$341,000",3 Bd,2 bath,6024 Blanchard Court,"Fort Worth, TX",76126
+1604,"$345,000",3 Bd,2 bath,3309 Park Ridge Boulevard,"Fort Worth, TX",76109
+1605,"$365,000",4 Bd,3 bath,9700 Gessner Drive,"Fort Worth, TX",76244
+1606,"$369,000",2 Bd,2 bath,3905 Pershing Avenue,"Fort Worth, TX",76107
+1607,"$369,900",4 Bd,3 bath,9024 Silsby Drive,"Fort Worth, TX",76244
+1608,"$369,900",2 Bd,2 bath,3320 Rosemeade Drive,"Fort Worth, TX",76116
+1609,"$374,900",2 Bd,2 bath,1924 Forest Park Boulevard,"Fort Worth, TX",76110
+1610,"$374,900",5 Bd,3 bath,308 Darlington Trail,"Fort Worth, TX",76131
+1611,"$379,900",4 Bd,3 bath,10032 Tule Lake Road,"Fort Worth, TX",76177
+1612,"$385,000",4 Bd,4 bath,2505 Trailhead Drive,"Fort Worth, TX",76177
+1613,"$400,000",4 Bd,4 bath,15640 Fire Creek Lane,"Fort Worth, TX",76177
+1614,"$404,900",3 Bd,2 bath,10516 Oates Branch Lane,"Fort Worth, TX",76126
+1615,"$410,000",5 Bd,3 bath,5860 Brightfield Road,"Fort Worth, TX",76137
+1616,"$424,900",4 Bd,4 bath,5448 Tuxbury Pond Drive,"Fort Worth, TX",76179
+1617,"$475,000",3 Bd,4 bath,644 E Bluff Street,"Fort Worth, TX",76102
+1618,"$499,000",5 Bd,4 bath,7117 Meadowside Road S,"Fort Worth, TX",76132
+1619,"$517,900",4 Bd,4 bath,5725 Violet Crown Place,"Fort Worth, TX",76126
+1620,"$532,900",4 Bd,4 bath,5724 Violet Crown Place,"Fort Worth, TX",76126
+1621,"$539,900",6 Bd,4 bath,9717 Bison Court,"Fort Worth, TX",76244
+1622,"$550,000",3 Bd,2 bath,2472 Indian Cove Street,"Fort Worth, TX",76108
+1623,"$559,900",4 Bd,4 bath,5708 Violet Crown Place,"Fort Worth, TX",76126
+1624,"$609,000",3 Bd,3 bath,1222 Virginia Place,"Fort Worth, TX",76107
+1625,"$725,000",4 Bd,"4 bath
+    | 3,018",4628 Dexter Avenue,"Fort Worth, TX",76107
+1626,"$749,000",2 Bd,3 bath,1822 Westover Square,"Fort Worth, TX",76107
+1627,"$1,249,000",5 Bd,5 bath,3513 Arborlawn Drive,"Fort Worth, TX",76109
+1628,"$1,290,000",4 Bd,4 bath,8416 Ashbriar Lane,"Fort Worth, TX",76126
+1629,"$1,895,000",4 Bd,"5 bath
+    | 5,280",2528 Highview Terrace,"Fort Worth, TX",76109
+1630,"$25,000",0 Bd,0 bath,5404 Beach Drive,"Fort Worth, TX",76179
+1631,"$50,000",0 Bd,0 bath,1516 E Rosedale Street,"Fort Worth, TX",76104
+1632,"$59,000",0 Bd,0 bath,4136 Avenue M,"Fort Worth, TX",76105
+1633,"$139,999",3 Bd,2 bath,4532 Pine Tree Circle E,"Fort Worth, TX",76244
+1634,"$145,000",3 Bd,1 bath,3137 Major Street,"Fort Worth, TX",76112
+1635,"$159,900",2 Bd,1 bath,2569 High Crest Avenue,"Fort Worth, TX",76111
+1636,"$170,000",3 Bd,"1 bath
+    | 1,432",3440 Baylor ST,"Fort Worth, TX",76119
+1637,"$170,000",3 Bd,2 bath,2500 Wallace Street,"Fort Worth, TX",76105
+1638,"$175,000",3 Bd,2 bath,7628 Dahlen Street,"Fort Worth, TX",76116
+1639,"$185,000",3 Bd,2 bath,1809 Bolingbroke Place,"Fort Worth, TX",76140
+1640,"$199,900",3 Bd,2 bath,5513 Wheaton Drive,"Fort Worth, TX",76133
+1641,"$209,900",2 Bd,1 bath,4137 Lisbon Street,"Fort Worth, TX",76107
+1642,"$210,000",3 Bd,2 bath,1344 E Fogg Street,"Fort Worth, TX",76115
+1643,"$215,000",3 Bd,2 bath,6708 Dandelion Drive,"Fort Worth, TX",76137
+1644,"$235,000",3 Bd,2 bath,2016 Graham Ranch Road,"Fort Worth, TX",76134
+1645,"$239,999",3 Bd,2 bath,7436 Creekfall Drive,"Fort Worth, TX",76137
+1646,"$250,000",4 Bd,4 bath,2932 Wispy Trail,"Fort Worth, TX",76108
+1647,"$250,000",3 Bd,2 bath,8017 Jolie Drive,"Fort Worth, TX",76137
+1648,"$255,000",3 Bd,2 bath,5712 Minnow Drive,"Fort Worth, TX",76179
+1649,"$256,000",3 Bd,2 bath,901 Newberry Trail,"Fort Worth, TX",76120
+1650,"$259,000",2 Bd,3 bath,2619 Mccart Avenue,"Fort Worth, TX",76110
+1651,"$260,000",3 Bd,2 bath,4621 Bonnell Avenue,"Fort Worth, TX",76107
+1652,"$264,500",4 Bd,3 bath,10505 Turning Leaf Trail,"Fort Worth, TX",76131
+1653,"$265,000",3 Bd,3 bath,844 Cats Eye Drive,"Fort Worth, TX",76179
+1654,"$269,900",3 Bd,2 bath,2313 Senepol Way,"Fort Worth, TX",76131
+1655,"$272,000",4 Bd,3 bath,4160 Fossile Butte Drive,"Fort Worth, TX",76244
+1656,"$279,900",4 Bd,3 bath,825 E Powell Avenue,"Fort Worth, TX",76104
+1657,"$285,000",4 Bd,3 bath,6636 Friendsway Drive,"Fort Worth, TX",76137
+1658,"$285,000",3 Bd,2 bath,10433 Merced Lake Road,"Fort Worth, TX",76177
+1659,"$285,000",3 Bd,2 bath,6025 Wester Avenue,"Fort Worth, TX",76133
+1660,"$295,000",4 Bd,"3 bath
+    | 2,429",9132 Landmark,"Fort Worth, TX",76244
+1661,"$295,000",4 Bd,2 bath,7401 Innisbrook Lane,"Fort Worth, TX",76179
+1662,"$299,900",3 Bd,3 bath,10817 Abbeyglen Court,"Fort Worth, TX",76052
+1663,"$299,900",3 Bd,2 bath,3217 Gidran Drive,"Fort Worth, TX",76244
+1664,"$310,000",3 Bd,2 bath,1700 Aden Road,"Fort Worth, TX",76116
+1665,"$315,000",3 Bd,3 bath,7513 Gairlock Drive,"Fort Worth, TX",76179
+1666,"$315,000",4 Bd,3 bath,2813 Fossil Run Boulevard,"Fort Worth, TX",76131
+1667,"$325,000",4 Bd,3 bath,529 Linacre Drive,"Fort Worth, TX",76036
+1668,"$335,000",4 Bd,3 bath,15737 Buffalo Nickel Drive,"Fort Worth, TX",76177
+1669,"$336,250",3 Bd,2 bath,4513 Foxfire Way,"Fort Worth, TX",76133
+1670,"$358,900",3 Bd,2 bath,4945 Monte Verde Drive,"Fort Worth, TX",76244
+1671,"$374,000",4 Bd,3 bath,6025 Foxwheel Place,"Fort Worth, TX",76123
+1672,"$410,000",4 Bd,4 bath,6133 Plum Orchard Trail,"Fort Worth, TX",76179
+1673,"$419,432",3 Bd,2 bath,2344 Offerande Drive,"Fort Worth, TX",76008
+1674,"$435,000",3 Bd,4 bath,3527 Westcliff Road S,"Fort Worth, TX",76109
+1675,"$439,900",5 Bd,3 bath,9505 Cholla Cactus Trail,"Fort Worth, TX",76177
+1676,"$450,000",4 Bd,4 bath,5125 Azul Lane,"Fort Worth, TX",76036
+1677,"$484,990",5 Bd,4 bath,11804 Balta Drive,"Fort Worth, TX",76244
+1678,"$493,072",4 Bd,3 bath,7413 Foxgrass Place,"Fort Worth, TX",76123
+1679,"$529,000",4 Bd,2 bath,2204 Edwin Street,"Fort Worth, TX",76110
+1680,"$621,000",4 Bd,4 bath,3809 Winslow Drive,"Fort Worth, TX",76109
+1681,"$663,000",4 Bd,4 bath,2217 Stanley Avenue,"Fort Worth, TX",76110
+1682,"$685,000",4 Bd,5 bath,5617 Byers Avenue,"Fort Worth, TX",76107
+1683,"$1,690,000",5 Bd,6 bath,6613 York Street,"Fort Worth, TX",76132
+1684,"$45,000",0 Bd,0 bath,5725 Wellesley Avenue,"Fort Worth, TX",76107
+1685,"$149,900",3 Bd,1 bath,4605 Quails Lane,"Fort Worth, TX",76119
+1686,"$172,000",3 Bd,2 bath,5937 Diaz Avenue,"Fort Worth, TX",76107
+1687,"$175,000",3 Bd,1 bath,1505 Selene Street,"Fort Worth, TX",76106
+1688,"$179,000",2 Bd,2 bath,3257 Donnelly Circle,"Fort Worth, TX",76107
+1689,"$189,900",3 Bd,2 bath,636 Upton Avenue,"Fort Worth, TX",76103
+1690,"$189,990",3 Bd,2 bath,8028 Arbor Ave,"Fort Worth, TX",76116
+1691,"$194,900",3 Bd,2 bath,512 Flint Street,"Fort Worth, TX",76115
+1692,"$194,999",4 Bd,3 bath,3608 Avenue J,"Fort Worth, TX",76105
+1693,"$199,000",3 Bd,2 bath,245 Chalk Mountain Drive,"Fort Worth, TX",76140
+1694,"$199,900",2 Bd,1 bath,5009 Locke Avenue,"Fort Worth, TX",76107
+1695,"$199,900",3 Bd,2 bath,220 Chalk Mountain Drive,"Fort Worth, TX",76140
+1696,"$199,900",3 Bd,2 bath,4021 Engleman Street,"Fort Worth, TX",76137
+1697,"$199,900",3 Bd,2 bath,2817 S Meadow Drive,"Fort Worth, TX",76133
+1698,"$200,000",2 Bd,1 bath,1908 N Riverside Drive,"Fort Worth, TX",76111
+1699,"$204,800",3 Bd,2 bath,5505 Wales Avenue,"Fort Worth, TX",76133
+1700,"$210,000",3 Bd,"2 bath
+    | 1,455",9525 Navarro Street,"Fort Worth, TX",76036
+1701,"$219,000",4 Bd,2 bath,3008 San Marcos Drive,"Fort Worth, TX",76116
+1702,"$220,000",3 Bd,2 bath,1105 Eagle Claw Drive,"Fort Worth, TX",76052
+1703,"$220,000",3 Bd,2 bath,5729 Stone Meadow Lane,"Fort Worth, TX",76179
+1704,"$220,000",3 Bd,2 bath,7412 Beckwood Drive,"Fort Worth, TX",76112
+1705,"$223,209",3 Bd,2 bath,4901 Whistler Drive,"Fort Worth, TX",76133
+1706,"$229,700",3 Bd,2 bath,1900 Willow Vale Drive,"Fort Worth, TX",76134
+1707,"$235,000",1 Bd,1 bath,3320 Camp Bowie Boulevard,"Fort Worth, TX",76107
+1708,"$235,000",3 Bd,2 bath,4928 Chapman Street,"Fort Worth, TX",76105
+1709,"$235,200",3 Bd,2 bath,4820 Willow Branch Court,"Fort Worth, TX",76036
+1710,"$239,000",3 Bd,2 bath,1805 Junius Street,"Fort Worth, TX",76103
+1711,"$239,500",4 Bd,2 bath,4048 Winfield Avenue,"Fort Worth, TX",76109
+1712,"$245,300",3 Bd,2 bath,8513 Cactus Flower Drive,"Fort Worth, TX",76131
+1713,"$249,000",3 Bd,3 bath,1812 Diamond Lake Trail,"Fort Worth, TX",76247
+1714,"$250,000",3 Bd,2 bath,829 San Miguel Trail,"Fort Worth, TX",76052
+1715,"$255,000",4 Bd,2 bath,324 Memory Drive,"Fort Worth, TX",76108
+1716,"$212,000",3 Bd,2 bath,1501 HOME STEAD Place,"Garland, TX",75044
+1717,"$215,000",3 Bd,2 bath,1618 Randolph Drive,"Garland, TX",75041
+1718,"$225,000",4 Bd,2 bath,4913 Cliffwood Drive,"Garland, TX",75043
+1719,"$239,900",3 Bd,"2 bath
+    | 1,941",438 Thistle Drive,"Garland, TX",75043
+1720,"$249,900",3 Bd,2 bath,2925 Esquire Lane,"Garland, TX",75044
+1721,"$249,900",3 Bd,2 bath,4106 Wiltshire Drive,"Garland, TX",75043
+1722,"$250,000",4 Bd,3 bath,2506 S Glenbrook Drive,"Garland, TX",75041
+1723,"$265,000",3 Bd,2 bath,2906 Teakwood Drive,"Garland, TX",75044
+1724,"$395,000",4 Bd,3 bath,2202 Club Creek Circle,"Garland, TX",75043
+1725,"$179,900",2 Bd,2 bath,2224 Limestone Lane,"Garland, TX",75040
+1726,"$206,900",3 Bd,2 bath,6310 Green Valley Drive,"Garland, TX",75043
+1727,"$234,900",3 Bd,2 bath,2005 High Summit Drive,"Garland, TX",75041
+1728,"$238,000",3 Bd,2 bath,3701 Tulane Circle,"Garland, TX",75043
+1729,"$240,000",3 Bd,2 bath,450 Thistle Drive,"Garland, TX",75043
+1730,"$259,000",3 Bd,3 bath,4806 Snowdrop Drive,"Garland, TX",75043
+1731,"$270,000",3 Bd,2 bath,3142 Lariat,"Garland, TX",75042
+1732,"$309,700",4 Bd,3 bath,1625 Nicole Lane,"Garland, TX",75040
+1733,"$399,997",4 Bd,"4 bath
+    | 3,425",2806 Knightsbridge LN,"Garland, TX",75043
+1734,"$159,950",3 Bd,1 bath,1504 Lakewood Drive,"Garland, TX",75042
+1735,"$199,900",3 Bd,2 bath,3229 Old Orchard Road,"Garland, TX",75041
+1736,"$209,000",2 Bd,1 bath,1504 Hilltop Drive,"Garland, TX",75042
+1737,"$220,000",3 Bd,2 bath,538 Grinnell Drive,"Garland, TX",75043
+1738,"$222,800",3 Bd,2 bath,1401 Inwood Boulevard,"Garland, TX",75042
+1739,"$225,000",3 Bd,2 bath,2204 Sharon Drive,"Garland, TX",75041
+1740,"$259,000",5 Bd,3 bath,5437 La Jolla Drive,"Garland, TX",75043
+1741,"$260,000",3 Bd,2 bath,1817 Bardfield Avenue,"Garland, TX",75041
+1742,"$300,000",4 Bd,3 bath,1905 Hilltop Drive,"Garland, TX",75042
+1743,"$320,000",3 Bd,3 bath,4726 Maritime Cove,"Garland, TX",75043
+1744,"$325,000",2 Bd,3 bath,6603 Wildlife Trail,"Garland, TX",75044
+1745,"$435,000",4 Bd,4 bath,4414 Willett Lane,"Garland, TX",75043
+1746,"$479,900",4 Bd,4 bath,801 Royal Birkdale Drive,"Garland, TX",75044
+1747,"$179,000",3 Bd,2 bath,1820 Place One Lane,"Garland, TX",75042
+1748,"$185,500",3 Bd,2 bath,1609 Axe Drive,"Garland, TX",75041
+1749,"$225,000",4 Bd,2 bath,822 Westbrook Drive,"Garland, TX",75043
+1750,"$240,000",3 Bd,2 bath,4006 Bucknell Drive,"Garland, TX",75042
+1751,"$255,000",4 Bd,2 bath,2906 Branch Oaks Drive,"Garland, TX",75043
+1752,"$279,000",3 Bd,2 bath,4506 Cornell Drive,"Garland, TX",75042
+1753,"$289,900",4 Bd,3 bath,1517 Danbury Drive,"Garland, TX",75040
+1754,"$295,900",4 Bd,2 bath,2722 Princewood Drive,"Garland, TX",75040
+1755,"$319,000",4 Bd,3 bath,2209 Villawood Lane,"Garland, TX",75040
+1756,"$345,588",3 Bd,2 bath,5518 Juniper Drive,"Garland, TX",75043
+1757,"$360,000",4 Bd,3 bath,5018 Hidden Creek Road,"Garland, TX",75043
+1758,"$379,900",3 Bd,3 bath,1822 Mcclary Street,"Garland, TX",75040
+1759,"$439,000",4 Bd,3 bath,2725 Winding Oak Trail,"Garland, TX",75044
+1760,"$629,900",5 Bd,4 bath,1514 Summit Ridge Drive,"Garland, TX",75043
+1761,"$79,900",2 Bd,2 bath,5714 Marina Drive,"Garland, TX",75043
+1762,"$209,900",3 Bd,1 bath,904 Sycamore Drive,"Garland, TX",75041
+1763,"$230,000",3 Bd,2 bath,4333 Hanover Drive,"Garland, TX",75042
+1764,"$235,000",3 Bd,2 bath,4134 Greenway Drive,"Garland, TX",75041
+1765,"$249,000",3 Bd,3 bath,2617 Brookcrest Drive,"Garland, TX",75040
+1766,"$269,995",4 Bd,2 bath,2006 Mill Creek Road,"Garland, TX",75044
+1767,"$270,000",4 Bd,3 bath,2226 Country Valley Road,"Garland, TX",75041
+1768,"$375,000",4 Bd,2 bath,2514 Ivanridge Circle,"Garland, TX",75044
+1769,"$399,000",5 Bd,4 bath,1513 Surrey Court,"Garland, TX",75043
+1770,"$399,997",4 Bd,4 bath,2806 Knightsbridge Lane,"Garland, TX",75043
+1771,"$428,000",4 Bd,3 bath,2013 Lake Front Trail,"Garland, TX",75043
+1772,"$490,000",4 Bd,3 bath,1818 Country Club Circle,"Garland, TX",75043
+1773,"$695,000",5 Bd,5 bath,1320 Stonecreek Court,"Garland, TX",75043
+1774,"$140,000",3 Bd,1 bath,315 Glenfield Drive,"Garland, TX",75040
+1775,"$149,000",2 Bd,2 bath,633 Carriagehouse Lane,"Garland, TX",75040
+1776,"$215,000",2 Bd,2 bath,1029 Wakefield Drive,"Garland, TX",75040
+1777,"$225,000",4 Bd,2 bath,1113 Larchfield Drive,"Garland, TX",75042
+1778,"$250,000",4 Bd,2 bath,3833 Commonwealth Drive,"Garland, TX",75043
+1779,"$347,900",3 Bd,2 bath,117 Camelia Street,"Garland, TX",75043
+1780,"$49,900",0 Bd,0 bath,514 W Avenue F,"Garland, TX",75040
+1781,"$169,000",3 Bd,2 bath,1714 Lynn Drive,"Garland, TX",75040
+1782,"$194,900",4 Bd,1 bath,506 Henderson Circle,"Garland, TX",75040
+1783,"$219,900",3 Bd,2 bath,117 Sunflower Drive,"Garland, TX",75041
+1784,"$229,900",3 Bd,2 bath,1605 Dent Street,"Garland, TX",75042
+1785,"$229,900",4 Bd,2 bath,713 Worcester Lane,"Garland, TX",75040
+1786,"$245,000",4 Bd,3 bath,3034 Hillsdale Lane,"Garland, TX",75042
+1787,"$260,000",3 Bd,3 bath,3614 BOXWOOD Drive,"Garland, TX",75040
+1788,"$260,000",3 Bd,2 bath,3234 Embercrest Lane,"Garland, TX",75044
+1789,"$318,000",3 Bd,2 bath,6301 Galaxie Road,"Garland, TX",75044
+1790,"$336,000",4 Bd,2 bath,106 Lake Forest Court,"Garland, TX",75044
+1791,"$345,000",4 Bd,3 bath,4406 Carlton Drive,"Garland, TX",75043
+1792,"$349,900",3 Bd,2 bath,3146 Grand Bay Drive,"Garland, TX",75040
+1793,"$389,000",5 Bd,4 bath,1916 Lake Front Trail,"Garland, TX",75043
+1794,"$429,000",5 Bd,4 bath,4309 Exeter Drive,"Garland, TX",75043
+1795,"$175,000",3 Bd,"1 bath
+    | 1,062",133 W Avenue G,"Garland, TX",75040
+1796,"$225,000",3 Bd,2 bath,2618 Western Drive,"Garland, TX",75042
+1797,"$239,000",3 Bd,3 bath,1314 Deville Circle,"Garland, TX",75043
+1798,"$249,990",3 Bd,2 bath,2713 Esquire Lane,"Garland, TX",75044
+1799,"$274,900",4 Bd,2 bath,2325 Glenbrook Meadows Drive,"Garland, TX",75040
+1800,"$114,900",2 Bd,2 bath,741 Baruna Circle,"Garland, TX",75043
+1801,"$160,000",3 Bd,2 bath,1330 Colony Drive,"Garland, TX",75040
+1802,"$235,000",3 Bd,2 bath,1114 Foxe Basin Drive,"Garland, TX",75040
+1803,"$250,000",3 Bd,2 bath,2914 Shenandoah Drive,"Garland, TX",75042
+1804,"$265,000",4 Bd,3 bath,3921 Douglas Drive,"Garland, TX",75041
+1805,"$215,000",3 Bd,2 bath,1705 Meridian Way,"Garland, TX",75040
+1806,"$228,900",3 Bd,2 bath,422 Ivy Way,"Garland, TX",75043
+1807,"$250,000",3 Bd,2 bath,1221 Phoebe Lane,"Garland, TX",75042
+1808,"$289,999",3 Bd,2 bath,1421 Meandering Way,"Garland, TX",75040
+1809,"$305,000",4 Bd,3 bath,3421 Crossbow Lane,"Garland, TX",75044
+1810,"$347,000",3 Bd,2 bath,3462 Forest Hills Circle,"Garland, TX",75044
+1811,"$425,000",4 Bd,4 bath,2106 Shari Lane,"Garland, TX",75043
+1812,"$135,000",2 Bd,1 bath,624 Chandler Drive,"Garland, TX",75040
+1813,"$159,900",2 Bd,1 bath,1233 Dent Street,"Garland, TX",75040
+1814,"$170,000",3 Bd,2 bath,710 Carpenter Drive,"Garland, TX",75040
+1815,"$175,000",3 Bd,1 bath,117 E Vista Drive,"Garland, TX",75041
+1816,"$199,990",3 Bd,2 bath,2104 Prairie Creek Trail,"Garland, TX",75040
+1817,"$233,000",4 Bd,2 bath,3904 Ashville Drive,"Garland, TX",75041
+1818,"$249,900",3 Bd,2 bath,1713 Timbercreek Drive,"Garland, TX",75042
+1819,"$259,000",3 Bd,2 bath,1013 Greenbriar Drive,"Garland, TX",75043
+1820,"$260,000",3 Bd,2 bath,2326 LANCECREST Drive,"Garland, TX",75044
+1821,"$419,500",5 Bd,4 bath,5709 Indian Hills Drive,"Garland, TX",75044
+1822,"$1,200,000",0 Bd,0 bath,1938 Wynn Joyce Road,"Garland, TX",75043
+1823,"$178,000",3 Bd,1 bath,4606 Lawler Road,"Garland, TX",75042
+1824,"$210,000",3 Bd,2 bath,2409 Highmont Drive,"Garland, TX",75041
+1825,"$220,000",2 Bd,2 bath,3130 Willowbrook Court,"Garland, TX",75044
+1826,"$230,000",4 Bd,2 bath,3102 O Henry Drive,"Garland, TX",75042
+1827,"$234,999",3 Bd,"2 bath
+    | 1,639",617 Prescott DR,"Garland, TX",75041
+1828,"$235,000",4 Bd,2 bath,805 Hillcrest Drive,"Garland, TX",75040
+1829,"$344,999",3 Bd,3 bath,708 Cedar Cove Drive,"Garland, TX",75040
+1830,"$389,000",5 Bd,4 bath,2105 River Canyon Lane,"Garland, TX",75041
+1831,"$123,000",2 Bd,2 bath,3931 N Garland Avenue,"Garland, TX",75040
+1832,"$165,000",3 Bd,2 bath,2027 Court Place,"Garland, TX",75041
+1833,"$199,999",3 Bd,3 bath,3129 Willowbrook Court,"Garland, TX",75044
+1834,"$232,900",3 Bd,2 bath,2502 Patricia Lane,"Garland, TX",75041
+1835,"$238,900",3 Bd,2 bath,3238 Knights Haven Lane,"Garland, TX",75044
+1836,"$250,000",3 Bd,3 bath,4229 Burning Tree Lane,"Garland, TX",75042
+1837,"$259,900",3 Bd,2 bath,513 Willowcrest Drive,"Garland, TX",75040
+1838,"$260,000",3 Bd,2 bath,4501 Baskerville Drive,"Garland, TX",75043
+1839,"$263,000",3 Bd,2 bath,1821 Homestead Place,"Garland, TX",75044
+1840,"$274,999",4 Bd,2 bath,3705 Berrywood Circle,"Garland, TX",75040
+1841,"$287,900",4 Bd,2 bath,2514 Rodeo Court,"Garland, TX",75044
+1842,"$425,000",4 Bd,3 bath,1310 GENOA Circle,"Garland, TX",75040
+1843,"$162,600",3 Bd,2 bath,2837 Beasley Drive,"Garland, TX",75041
+1844,"$174,990",3 Bd,2 bath,3614 Edgewood Drive,"Garland, TX",75042
+1845,"$190,000",3 Bd,2 bath,1418 Greencove Drive,"Garland, TX",75040
+1846,"$230,000",3 Bd,2 bath,5433 Deep Canyon Drive,"Garland, TX",75043
+1847,"$242,900",4 Bd,2 bath,1433 Park East Drive,"Garland, TX",75043
+1848,"$245,000",3 Bd,2 bath,501 WORCESTER Lane,"Garland, TX",75040
+1849,"$159,000",2 Bd,2 bath,5728 Marina Drive,"Garland, TX",75043
+1850,"$208,000",3 Bd,2 bath,4213 Mary Jane Lane,"Garland, TX",75043
+1851,"$249,000",3 Bd,2 bath,2404 Scotswood Drive,"Garland, TX",75041
+1852,"$299,000",3 Bd,3 bath,6403 Eagle Nest Drive,"Garland, TX",75044
+1853,"$237,500",4 Bd,2 bath,1010 Lawson Drive,"Garland, TX",75042
+1854,"$239,000",3 Bd,3 bath,3403 Aries Drive,"Garland, TX",75044
+1855,"$45,000",0 Bd,0 bath,101 McKinley Street,"Garland, TX",75042
+1856,"$199,500",2 Bd,"1 bath
+    | 1,243",1301 W Walnut ST,"Garland, TX",75040
+1857,"$204,900",3 Bd,2 bath,1729 Whiteoak Drive,"Garland, TX",75040
+1858,"$210,000",3 Bd,1 bath,1312 Sylvan Drive,"Garland, TX",75040
+1859,"$230,000",3 Bd,2 bath,1807 Geary Street,"Garland, TX",75043
+1860,"$249,000",3 Bd,2 bath,3505 Ridgemoor Drive,"Garland, TX",75044
+1861,"$250,000",3 Bd,2 bath,1109 Quail Drive,"Garland, TX",75040
+1862,"$265,000",4 Bd,2 bath,3801 Bellaire Drive,"Garland, TX",75040
+1863,"$269,333",3 Bd,2 bath,3217 Flameleaf Street,"Garland, TX",75044
+1864,"$289,900",3 Bd,2 bath,2402 EMERSON Drive,"Garland, TX",75044
+1865,"$295,000",4 Bd,3 bath,2625 Rochdale Street,"Garland, TX",75040
+1866,"$319,000",4 Bd,3 bath,925 Royal Birkdale Drive,"Garland, TX",75044
+1867,"$365,000",4 Bd,4 bath,1614 Skyline Drive,"Garland, TX",75043
+1868,"$450,000",5 Bd,4 bath,510 Basswood Trail,"Garland, TX",75040
+1869,"$239,900",3 Bd,2 bath,4209 Tynes Drive,"Garland, TX",75042
+1870,"$265,000",3 Bd,2 bath,3417 Forest Hills Circle,"Garland, TX",75044
+1871,"$274,900",3 Bd,2 bath,714 Carpenter Drive,"Garland, TX",75040
+1872,"$310,000",5 Bd,2 bath,1421 Bowie Street,"Garland, TX",75042
+1873,"$315,000",4 Bd,3 bath,2102 Richbrook Drive,"Garland, TX",75044
+1874,"$45,000",3 Bd,2 bath,608 Edgefield Drive,"Garland, TX",75040
+1875,"$140,000",4 Bd,2 bath,1018 Beverly Drive,"Garland, TX",75040
+1876,"$165,000",2 Bd,1 bath,840 Holly Drive,"Garland, TX",75040
+1877,"$205,000",3 Bd,2 bath,1702 Legend Drive,"Garland, TX",75040
+1878,"$239,000",4 Bd,2 bath,1110 Mill River Drive,"Garland, TX",75043
+1879,"$270,000",5 Bd,3 bath,1228 ravina,"Garland, TX",75041
+1880,"$425,000",4 Bd,4 bath,1506 Turning Leaf Lane,"Garland, TX",75040
+1881,"$225,000",3 Bd,"2 bath
+    | 1,773",3809 Whiterock TRL,"Garland, TX",75043
+1882,"$225,900",3 Bd,2 bath,5537 Jester Drive,"Garland, TX",75044
+1883,"$291,000",4 Bd,3 bath,1325 Meandering Way,"Garland, TX",75040
+1884,"$395,900",4 Bd,3 bath,142 Camelia Street,"Garland, TX",75043
+1885,"$197,500",3 Bd,2 bath,1106 Lourock Street,"Garland, TX",75040
+1886,"$270,000",4 Bd,2 bath,1413 Kingsbridge Drive,"Garland, TX",75044
+1887,"$349,000",5 Bd,4 bath,4113 Carrington Drive,"Garland, TX",75043
+1888,"$510,000",6 Bd,4 bath,3117 Knightsbridge Lane,"Garland, TX",75043
+1889,"$235,000",3 Bd,2 bath,1720 Bardfield Avenue,"Garland, TX",75041
+1890,"$245,000",3 Bd,2 bath,1506 Glouchester Drive,"Garland, TX",75044
+1891,"$399,900",4 Bd,3 bath,3130 Cross Timbers Lane,"Garland, TX",75044
+1892,"$179,900",3 Bd,1 bath,536 Henderson Circle,"Garland, TX",75040
+1893,"$240,000",3 Bd,2 bath,1417 Danbury Drive,"Garland, TX",75040
+1894,"$449,000",4 Bd,3 bath,1433 Prestonwood Road,"Garland, TX",75040
+1895,"$91,000",1 Bd,1 bath,5805 Marvin Loving Drive,"Garland, TX",75043
+1896,"$184,900",2 Bd,2 bath,5106 Lakeridge Court,"Garland, TX",75043
+1897,"$90,000",0 Bd,0 bath,504 Paul Street,"Garland, TX",75043
+1898,"$184,900",4 Bd,2 bath,2814 Hardy Way,"Garland, TX",75041
+1899,"$228,900",4 Bd,3 bath,102 Roma Drive,"Garland, TX",75041
+1900,"$235,000",4 Bd,2 bath,852 Crockett Street,"Garland, TX",75040
+1901,"$249,900",3 Bd,2 bath,3421 Shoreside Drive,"Garland, TX",75043
+1902,"$335,000",4 Bd,3 bath,2506 Cresthaven Drive,"Garland, TX",75040
+1903,"$210,000",3 Bd,2 bath,1108 Sleepy Hollow Drive,"Garland, TX",75043
+1904,"$230,000",4 Bd,3 bath,905 Bradfield Drive,"Garland, TX",75042
+1905,"$295,000",3 Bd,2 bath,3314 RIDGE OAK Drive,"Garland, TX",75044
+1906,"$358,990",3 Bd,3 bath,3105 Annette Court,"Garland, TX",75044
+1907,"$485,396",3 Bd,3 bath,369 Myrtle Beach Drive,"Garland, TX",75040
+1908,"$140,000",2 Bd,1 bath,2705 Holm Drive,"Garland, TX",75041
+1909,"$140,000",2 Bd,"1 bath
+    | 1,136",2705 Holm DR,"Garland, TX",75041
+1910,"$210,000",3 Bd,2 bath,1410 Quail Drive,"Garland, TX",75040
+1911,"$225,000",3 Bd,2 bath,3929 Roanoke Drive,"Garland, TX",75041
+1912,"$270,000",3 Bd,2 bath,2909 Riviera Drive,"Garland, TX",75040
+1913,"$229,000",3 Bd,3 bath,3116 Pebblebrook Court,"Garland, TX",75044
+1914,"$235,000",3 Bd,2 bath,6326 McCartney Lane,"Garland, TX",75043
+1915,"$293,000",5 Bd,4 bath,1110 Cabana Lane,"Garland, TX",75042
+1916,"$335,000",4 Bd,3 bath,1505 Palm Valley Drive,"Garland, TX",75043
+1917,"$130,000",2 Bd,"2 bath
+    | 1,100",5906 Marina DR 36,"Garland, TX",75043
+1918,"$179,000",3 Bd,2 bath,1005 Foxe Basin Drive,"Garland, TX",75040
+1919,"$179,000",2 Bd,1 bath,2940 Pegasus Drive,"Garland, TX",75044
+1920,"$399,900",3 Bd,3 bath,2133 Rolling Oak Lane,"Garland, TX",75044
+1921,"$193,500",3 Bd,2 bath,2006 Woodnote Lane,"Garland, TX",75040
+1922,"$249,900",3 Bd,2 bath,4110 Ashville Drive,"Garland, TX",75041
+1923,"$287,000",3 Bd,"2 bath
+    | 1,812",3130 Ripplewood DR,"Garland, TX",75044
+1924,"$304,900",4 Bd,2 bath,1125 Gardengate Circle,"Garland, TX",75043
+1925,"$290,000",4 Bd,2 bath,3417 Blueridge Lane,"Garland, TX",75042
+1926,"$149,900",2 Bd,2 bath,3217 Whatley Drive,"Garland, TX",75043
+1927,"$205,000",3 Bd,2 bath,5657 Saddleback Road,"Garland, TX",75043
+1928,"$556,735",4 Bd,3 bath,381 Myrtle Beach,"Garland, TX",75040
+1929,"$240,000",3 Bd,"2 bath
+    | 1,679",1417 Danbury DR,"Garland, TX",75040
+1930,"$271,900",3 Bd,2 bath,1302 Peaceway Drive,"Garland, TX",75043
+1931,"$315,000",3 Bd,3 bath,4729 Forrest Springs Cove,"Garland, TX",75043
+1932,"$360,543",3 Bd,2 bath,5506 Juniper Drive,"Garland, TX",75043
+1933,"$120,000",2 Bd,2 bath,4436 Wind River Lane,"Garland, TX",75042
+1934,"$195,000",3 Bd,1 bath,2601 Lakewood Drive,"Garland, TX",75042
+1935,"$303,493",2 Bd,2 bath,1633 Dewberry Lane,"Garland, TX",75042
+1936,"$303,493",2 Bd,"2 bath
+    | 1,380",1633 Dewberry LN,"Garland, TX",75042
+1937,"$214,900",3 Bd,2 bath,413 Peaceful Drive,"Garland, TX",75043
+1938,"$189,800",3 Bd,3 bath,4902 Rollingwood Court,"Garland, TX",75043
+1939,"$180,000",3 Bd,2 bath,134 E Kingsley Road,"Garland, TX",75041
+1940,"$303,521",2 Bd,"2 bath
+    | 1,380",1637 Dewberry LN,"Garland, TX",75042
+1941,"$326,690",2 Bd,"2 bath
+    | 1,380",1642 Greatfield DR,"Garland, TX",75042
+1942,"$528,000",0 Bd,0 bath,2053 W Walnut Street,"Garland, TX",75042
+1943,"$279,000",4 Bd,3 bath,1000 Cuero Drive,"Garland, TX",75040
+1944,"$349,900",4 Bd,3 bath,3313 Enclave Court,"Garland, TX",75040
+1945,"$374,900",3 Bd,3 bath,2609 Rockport Circle,"Garland, TX",75044
+1946,"$499,000",4 Bd,4 bath,1857 Mcclary Street,"Garland, TX",75040
+1947,"$189,900",3 Bd,2 bath,2101 Gemini Drive,"Garland, TX",75040
+1948,"$303,521",2 Bd,2 bath,1637 Dewberry Lane,"Garland, TX",75042
+1949,"$240,000",3 Bd,2 bath,1114 Intervale,"Garland, TX",75043
+1950,"$354,000",4 Bd,3 bath,1418 Glenshire Drive,"Garland, TX",75043
+1951,"$295,000",3 Bd,"2 bath
+    | 1,868",425 Brookfield DR,"Garland, TX",75040
+1952,"$528,000",0 Bd,0 bath,2117 W Walnut Street,"Garland, TX",75042
+1953,"$975,000",7 Bd,8 bath,2817 Country Valley Road,"Garland, TX",75043
+1954,"$240,000",3 Bd,2 bath,4041 Salem Drive,"Garland, TX",75043
+1955,"$250,000",3 Bd,2 bath,4101 Hillsdale Lane,"Garland, TX",75042
+1956,"$240,000",3 Bd,2 bath,1030 Delores Drive,"Garland, TX",75040
+1957,"$293,000",3 Bd,2 bath,2226 Villawood Lane,"Garland, TX",75040
+1958,"$215,000",3 Bd,2 bath,1714 Indian School Road,"Garland, TX",75044
+1959,"$120,000",3 Bd,2 bath,3558 Zion Road,"Garland, TX",75043
+1960,"$195,000",3 Bd,2 bath,822 Bandera Lane,"Garland, TX",75040
+1961,"$285,114",4 Bd,4 bath,1012 Sylvan Drive,"Garland, TX",75040
+1962,"$650,000",5 Bd,"5 bath
+    | 3,728",2818 Woods Lane,"Garland, TX",75044
+1963,"$209,900",3 Bd,2 bath,4217 Princeton Drive,"Garland, TX",75042
+1964,"$394,900",4 Bd,3 bath,4917 Meadow Vista Place,"Garland, TX",75043
+1965,"$345,000",5 Bd,4 bath,4430 Stirling Drive,"Garland, TX",75043
+1966,"$130,000",2 Bd,2 bath,5906 Marina Drive,"Garland, TX",75043
+1967,"$145,000",3 Bd,2 bath,604 Eastern Star Drive,"Garland, TX",75040
+1968,"$458,155",3 Bd,3 bath,1649 Goodfield Lane,"Garland, TX",75042
+1969,"$270,000",3 Bd,2 bath,417 Perdido Drive,"Garland, TX",75043
+1970,"$301,025",2 Bd,2 bath,1630 Dewberry Lane,"Garland, TX",75042
+1971,"$301,025",2 Bd,"2 bath
+    | 1,380",1630 Dewberry LN,"Garland, TX",75042
+1972,"$308,274",2 Bd,2 bath,1634 Goodfield Lane,"Garland, TX",75042
+1973,"$308,274",2 Bd,"2 bath
+    | 1,380",1634 Goodfield LN,"Garland, TX",75042
+1974,"$349,000",4 Bd,3 bath,2001 Westshore Drive,"Garland, TX",75043
+1975,"$92,000",1 Bd,1 bath,5825 Marvin Loving,"Garland, TX",75043
+1976,"$470,709",3 Bd,3 bath,1450 Prestonwood,"Garland, TX",75040
+1977,"$259,900",3 Bd,2 bath,5701 Excalibur Drive,"Garland, TX",75044
+1978,"$334,990",4 Bd,3 bath,1302 INCLINE Circle,"Garland, TX",75040
+1979,"$375,000",4 Bd,4 bath,2909 Club Meadow Drive,"Garland, TX",75043
+1980,"$725,000",0 Bd,0 bath,3301 Roan Road,"Garland, TX",75043
+1981,"$240,000",3 Bd,3 bath,5115 Whitehaven Drive,"Garland, TX",75043
+1982,"$189,000",2 Bd,1 bath,218 Barger Street,"Garland, TX",75040
+1983,"$447,360",4 Bd,3 bath,1622 Everett Drive,"Garland, TX",75044
+1984,"$159,000",2 Bd,2 bath,4818 Redwood Drive,"Garland, TX",75043
+1985,"$386,148",4 Bd,4 bath,5506 Blue Pointe Lane,"Garland, TX",75043
+1986,"$328,226",3 Bd,2 bath,5505 Blue Pointe Lane,"Garland, TX",75043
+1987,"$367,587",3 Bd,3 bath,5501 Blue Pointe Lane,"Garland, TX",75043
+1988,"$339,900",3 Bd,2 bath,3121 Ridge Oak Drive,"Garland, TX",75044
+1989,"$185,000",3 Bd,3 bath,3144 Pebblebrook Court,"Garland, TX",75044
+1990,"$150,000",0 Bd,0 bath,1975 Commerce Street,"Garland, TX",75040
+1991,"$267,500",4 Bd,2 bath,910 Dairy Road,"Garland, TX",75040
+1992,"$385,900",3 Bd,2 bath,5526 Blue Point Lane,"Garland, TX",75043
+1993,"$402,900",3 Bd,3 bath,5530 Blue Point Lane,"Garland, TX",75043
+1994,"$230,000",3 Bd,2 bath,1030 Holland Drive,"Garland, TX",75040
+1995,"$457,940",3 Bd,3 bath,1434 Prestonwood,"Garland, TX",75040
+1996,"$437,500",4 Bd,3 bath,2909 Oak Springs Drive,"Garland, TX",75044
+1997,"$474,990",4 Bd,3 bath,2701 High Cotton Lane,"Garland, TX",75042
+1998,"$379,990",4 Bd,3 bath,1314 INCLINE Circle,"Garland, TX",75040
+1999,"$89,000",1 Bd,1 bath,5805 Lake Hubbard Parkway,"Garland, TX",75043
+2000,"$89,500",1 Bd,1 bath,5801 Lake Hubbard Parkway,"Garland, TX",75043
+2001,"$125,000",3 Bd,2 bath,925 E Daugherty Drive,"Garland, TX",75041
+2002,"$185,000",4 Bd,2 bath,318 W Daugherty Drive,"Garland, TX",75041
+2003,"$199,900",3 Bd,2 bath,3517 Edgewood Drive,"Garland, TX",75042
+2004,"$204,000",3 Bd,2 bath,101 S Purdue Drive,"Garland, TX",75042
+2005,"$226,900",4 Bd,3 bath,922 Bard Drive,"Garland, TX",75040
+2006,"$324,990",4 Bd,3 bath,1301 INCLINE Circle,"Garland, TX",75040
+2007,"$325,990",2 Bd,3 bath,2506 High Cotton Lane,"Garland, TX",75042
+2008,"$414,703",3 Bd,2 bath,4405 Avocet Circle,"Garland, TX",75043
+2009,"$481,445",4 Bd,3 bath,2409 Hickey Drive,"Garland, TX",75043
+2010,"$499,639",4 Bd,4 bath,4509 Gannet Lane,"Garland, TX",75043
+2011,"$499,990",4 Bd,4 bath,1718 Cherokee Rose Trail,"Garland, TX",75042
+2012,"$566,649",5 Bd,5 bath,4305 Gulls Landing Circle,"Garland, TX",75043
+2013,"$2,490,000",4 Bd,4 bath,5609 Lyons Road,"Garland, TX",75043
+2014,"$109,000",0 Bd,0 bath,5475 Robin Road,"Garland, TX",75043
+2015,"$121,900",0 Bd,0 bath,5253 Lake Terrace Court,"Garland, TX",75043
+2016,"$265,000",0 Bd,0 bath,904 Michael Ann Drive,"Garland, TX",75042
+2017,"$285,000",0 Bd,"0 bath
+    | 392,214",701 Dairy Rd,"Garland, TX",75040
+2018,"$151,900",3 Bd,"2 bath
+    | 1,220",739 Valiant CIR,"Garland, TX",75043
+2019,"$260,000",4 Bd,"2 bath
+    | 2,437",3001 Ridgedale DR,"Garland, TX",75041
+2020,"$399,991",4 Bd,"3 bath
+    | 3,481",7314 Woodsprings DR,"Garland, TX",75044
+2021,"$205,000",3 Bd,"2 bath
+    | 1,776",1117 Saturn Springs DR,"Garland, TX",75041
+2022,"$240,000",3 Bd,2 bath,1030 Delores Drive,"Garland, TX",75040
+2023,"$291,000",4 Bd,3 bath,1325 Meandering Way,"Garland, TX",75040
+2024,"$118,000",2 Bd,2 bath,1813 E Grauwyler Road,"Irving, TX",75061
+2025,"$199,000",2 Bd,3 bath,414 Santa Fe Trail,"Irving, TX",75063
+2026,"$205,000",3 Bd,1 bath,215 Parkway Drive,"Irving, TX",75061
+2027,"$249,900",3 Bd,2 bath,2818 Posey Drive,"Irving, TX",75062
+2028,"$297,900",2 Bd,3 bath,1956 Lantana Lane,"Irving, TX",75063
+2029,"$439,500",4 Bd,3 bath,5210 Montego Bay Drive,"Irving, TX",75038
+2030,"$549,900",4 Bd,3 bath,1836 Remington Drive,"Irving, TX",75063
+2031,"$650,000",6 Bd,7 bath,3918 Wingren Drive,"Irving, TX",75062
+2032,"$1,500,000",4 Bd,7 bath,305 Steeplechase Drive,"Irving, TX",75062
+2033,"$112,500",2 Bd,2 bath,1821 E Grauwyler Road,"Irving, TX",75061
+2034,"$219,000",3 Bd,2 bath,2321 Meadow Lark Lane,"Irving, TX",75060
+2035,"$630,000",5 Bd,4 bath,2402 Pistachio Drive,"Irving, TX",75063
+2036,"$195,000",3 Bd,2 bath,1944 N Ruby Road,"Irving, TX",75060
+2037,"$207,000",2 Bd,3 bath,2320 Northlake Court,"Irving, TX",75038
+2038,"$230,000",3 Bd,2 bath,3810 Bremerton,"Irving, TX",75062
+2039,"$234,900",3 Bd,2 bath,2302 Anderson Street,"Irving, TX",75062
+2040,"$245,000",3 Bd,3 bath,3612 Vienna Street,"Irving, TX",75038
+2041,"$249,999",3 Bd,3 bath,111 Seva Court,"Irving, TX",75061
+2042,"$275,000",3 Bd,2 bath,4125 Astoria Street,"Irving, TX",75062
+2043,"$284,950",4 Bd,2 bath,1422 Addington Street,"Irving, TX",75062
+2044,"$299,000",3 Bd,3 bath,700 Irongate Circle,"Irving, TX",75060
+2045,"$325,000",4 Bd,3 bath,1319 Glenbrook Drive,"Irving, TX",75061
+2046,"$325,000",4 Bd,2 bath,3829 Twin Falls Street,"Irving, TX",75062
+2047,"$338,777",3 Bd,3 bath,311 Red River Trail,"Irving, TX",75063
+2048,"$375,000",2 Bd,2 bath,330 Las Colinas Boulevard E,"Irving, TX",75039
+2049,"$379,999",3 Bd,2 bath,8904 Crescent Court,"Irving, TX",75063
+2050,"$399,900",4 Bd,3 bath,3706 Devonshire Court E,"Irving, TX",75062
+2051,"$475,000",4 Bd,4 bath,2126 Aquilla Court,"Irving, TX",75062
+2052,"$550,000",3 Bd,3 bath,1904 Remington Drive,"Irving, TX",75063
+2053,"$550,000",3 Bd,3 bath,232 Skystone Drive,"Irving, TX",75038
+2054,"$569,000",4 Bd,4 bath,4426 Saint Andrews Boulevard,"Irving, TX",75038
+2055,"$799,000",4 Bd,4 bath,400 Sewell Court,"Irving, TX",75038
+2056,"$205,000",3 Bd,1 bath,1814 Bradford Street,"Irving, TX",75061
+2057,"$217,000",3 Bd,2 bath,2508 W Rochelle Drive,"Irving, TX",75062
+2058,"$255,000",3 Bd,2 bath,1612 Rusdell Drive,"Irving, TX",75060
+2059,"$269,999",3 Bd,2 bath,1726 Cypress Drive,"Irving, TX",75061
+2060,"$344,000",2 Bd,3 bath,559 W Royal Lane,"Irving, TX",75039
+2061,"$344,900",3 Bd,3 bath,6843 Deseo,"Irving, TX",75039
+2062,"$349,900",3 Bd,2 bath,1026 Pedernales Trail,"Irving, TX",75063
+2063,"$349,990",3 Bd,3 bath,309 Sheridan Trail,"Irving, TX",75063
+2064,"$440,000",4 Bd,4 bath,5203 Montego Bay Drive,"Irving, TX",75038
+2065,"$464,900",4 Bd,"4 bath
+    | 2,998",1621 Shadow LN,"Irving, TX",75060
+2066,"$464,900",4 Bd,4 bath,1621 Shadow Lane,"Irving, TX",75060
+2067,"$470,000",4 Bd,3 bath,5215 Montego Bay Drive,"Irving, TX",75038
+2068,"$480,000",3 Bd,4 bath,8710 Broken Point Drive,"Irving, TX",75063
+2069,"$699,000",4 Bd,4 bath,6527 Barcelona,"Irving, TX",75039
+2070,"$169,900",2 Bd,2 bath,4557 N O Connor Road,"Irving, TX",75062
+2071,"$215,000",3 Bd,2 bath,2621 Marta Drive,"Irving, TX",75060
+2072,"$225,000",2 Bd,3 bath,2009 Wilshire Drive,"Irving, TX",75061
+2073,"$309,900",3 Bd,2 bath,1576 Angie Lane,"Irving, TX",75060
+2074,"$309,990",3 Bd,4 bath,3657 Vienna Street,"Irving, TX",75038
+2075,"$315,000",2 Bd,3 bath,545 Via Amalfi,"Irving, TX",75039
+2076,"$399,900",3 Bd,3 bath,8124 Crabapple Lane,"Irving, TX",75063
+2077,"$449,900",5 Bd,3 bath,3206 Salinas Court,"Irving, TX",75062
+2078,"$504,900",3 Bd,4 bath,625 Dalton Lane,"Irving, TX",75039
+2079,"$244,900",3 Bd,2 bath,717 Goodyear Street,"Irving, TX",75062
+2080,"$315,999",2 Bd,3 bath,1543 Camino Lago,"Irving, TX",75039
+2081,"$364,990",3 Bd,3 bath,1209 Saint Monet Drive,"Irving, TX",75038
+2082,"$379,990",3 Bd,4 bath,658 Arbol,"Irving, TX",75039
+2083,"$475,000",4 Bd,4 bath,3576 Hathaway Court,"Irving, TX",75062
+2084,"$549,000",4 Bd,3 bath,4413 Caesar Lane,"Irving, TX",75038
+2085,"$575,000",4 Bd,3 bath,2119 N Hill Drive,"Irving, TX",75038
+2086,"$575,000",5 Bd,5 bath,500 Evergreen Oak Circle,"Irving, TX",75063
+2087,"$575,000",5 Bd,4 bath,2201 Pistachio Drive,"Irving, TX",75063
+2088,"$208,000",3 Bd,1 bath,1549 John Smith Drive,"Irving, TX",75061
+2089,"$209,900",3 Bd,2 bath,2500 William Brewster Drive,"Irving, TX",75062
+2090,"$230,000",5 Bd,2 bath,4001 Yellowstone Street,"Irving, TX",75062
+2091,"$260,000",3 Bd,2 bath,3113 Lark Lane,"Irving, TX",75062
+2092,"$287,500",3 Bd,2 bath,1840 Pilgrim Drive,"Irving, TX",75061
+2093,"$299,900",3 Bd,2 bath,3031 Stallion Crossing,"Irving, TX",75060
+2094,"$319,900",3 Bd,2 bath,2420 Briarcliff Drive,"Irving, TX",75062
+2095,"$343,000",3 Bd,3 bath,452 Renaissance Lane,"Irving, TX",75060
+2096,"$350,000",4 Bd,3 bath,200 Irongate Circle,"Irving, TX",75060
+2097,"$375,000",3 Bd,4 bath,561 W Royal Lane,"Irving, TX",75039
+2098,"$415,000",3 Bd,3 bath,9919 Hennings Street,"Irving, TX",75063
+2099,"$477,000",4 Bd,3 bath,215 Harper Street,"Irving, TX",75063
+2100,"$479,000",3 Bd,3 bath,7047 Nueces Drive,"Irving, TX",75039
+2101,"$539,000",3 Bd,3 bath,4878 Cloudcroft Lane,"Irving, TX",75038
+2102,"$225,000",3 Bd,2 bath,1910 Etain Road,"Irving, TX",75060
+2103,"$236,000",1 Bd,1 bath,330 Las Colinas Boulevard E,"Irving, TX",75039
+2104,"$599,999",3 Bd,3 bath,300 Hawn Court,"Irving, TX",75038
+2105,"$175,000",3 Bd,2 bath,4427 Westminster Drive,"Irving, TX",75038
+2106,"$249,000",4 Bd,2 bath,1811 Dennis,"Irving, TX",75062
+2107,"$412,990",4 Bd,3 bath,4115 Napoli Way,"Irving, TX",75038
+2108,"$524,900",3 Bd,4 bath,737 Sid Rich Drive,"Irving, TX",75039
+2109,"$600,000",3 Bd,3 bath,3819 Cabeza De Vaca Circle,"Irving, TX",75062
+2110,"$789,000",5 Bd,5 bath,3824 Roosevelt Drive,"Irving, TX",75063
+2111,"$205,000",3 Bd,3 bath,1114 Carrington Court,"Irving, TX",75060
+2112,"$245,000",3 Bd,2 bath,3217 Konet Street,"Irving, TX",75060
+2113,"$375,000",2 Bd,3 bath,564 Ballustrade Drive,"Irving, TX",75039
+2114,"$385,000",3 Bd,2 bath,507 Cox Drive,"Irving, TX",75062
+2115,"$950,734",4 Bd,4 bath,4306 Saint Andrews Boulevard,"Irving, TX",75038
+2116,"$215,000",3 Bd,2 bath,1101 Patricia Street,"Irving, TX",75060
+2117,"$215,000",4 Bd,2 bath,2211 Dewitt Street,"Irving, TX",75062
+2118,"$218,000",3 Bd,1 bath,1513 Belmead Lane,"Irving, TX",75061
+2119,"$224,900",3 Bd,2 bath,1817 Puritan Drive,"Irving, TX",75061
+2120,"$229,000",3 Bd,1 bath,1433 Meadowbrook Lane,"Irving, TX",75061
+2121,"$264,000",2 Bd,3 bath,2517 Corbeau Drive,"Irving, TX",75038
+2122,"$309,900",3 Bd,2 bath,400 Holly Tree Court,"Irving, TX",75063
+2123,"$324,900",2 Bd,3 bath,691 Senda,"Irving, TX",75039
+2124,"$330,000",4 Bd,3 bath,121 W 11th Street,"Irving, TX",75060
+2125,"$350,000",3 Bd,3 bath,725 Ridgecrest Drive,"Irving, TX",75060
+2126,"$360,000",2 Bd,4 bath,6461 Naples Drive,"Irving, TX",75039
+2127,"$365,000",3 Bd,3 bath,1227 Saint Monet Drive,"Irving, TX",75038
+2128,"$389,900",3 Bd,4 bath,627 Via Ravello,"Irving, TX",75039
+2129,"$424,990",4 Bd,3 bath,1401 N. Britain Road,"Irving, TX",75061
+2130,"$524,900",3 Bd,4 bath,722 Will Rice Avenue,"Irving, TX",75039
+2131,"$525,000",4 Bd,4 bath,3354 Ricci Lane,"Irving, TX",75062
+2132,"$525,000",4 Bd,"4 bath
+    | 3,449",3354 Ricci LN,"Irving, TX",75062
+2133,"$149,000",3 Bd,2 bath,1420 Abbott Drive,"Irving, TX",75060
+2134,"$199,000",3 Bd,2 bath,2406 Morgan Street,"Irving, TX",75062
+2135,"$205,000",3 Bd,1 bath,4013 Rainier Street,"Irving, TX",75062
+2136,"$249,999",3 Bd,2 bath,100 Kimili Court,"Irving, TX",75060
+2137,"$289,999",2 Bd,3 bath,6631 Via Positano,"Irving, TX",75039
+2138,"$350,000",3 Bd,"3 bath
+    | 2,732",725 Ridgecrest DR,"Irving, TX",75060
+2139,"$384,000",4 Bd,3 bath,300 Casa Grande Court,"Irving, TX",75061
+2140,"$385,000",4 Bd,2 bath,732 Cimarron Trail,"Irving, TX",75063
+2141,"$450,000",4 Bd,3 bath,9725 Cliffside Drive,"Irving, TX",75063
+2142,"$1,180,000",5 Bd,6 bath,1912 Cottonwood Valley Circle S,"Irving, TX",75038
+2143,"$174,900",1 Bd,2 bath,683 Cimarron Trail,"Irving, TX",75063
+2144,"$220,000",3 Bd,2 bath,1624 W 6th Street,"Irving, TX",75060
+2145,"$279,000",4 Bd,2 bath,1514 W Grauwyler Road,"Irving, TX",75061
+2146,"$319,990",3 Bd,3 bath,4439 Samarth Street,"Irving, TX",75061
+2147,"$375,000",3 Bd,3 bath,500 Bordeaux Square,"Irving, TX",75038
+2148,"$430,000",4 Bd,3 bath,3108 Wingren Road,"Irving, TX",75062
+2149,"$619,900",3 Bd,4 bath,101 Decker Court,"Irving, TX",75062
+2150,"$195,000",3 Bd,2 bath,1201 Fairdale Street,"Irving, TX",75062
+2151,"$242,000",4 Bd,2 bath,301 W 15th Street,"Irving, TX",75060
+2152,"$284,000",3 Bd,3 bath,3645 Vienna Street,"Irving, TX",75038
+2153,"$395,000",3 Bd,2 bath,8508 Mill Creek Road,"Irving, TX",75063
+2154,"$498,000",4 Bd,4 bath,1516 Camino Lago,"Irving, TX",75039
+2155,"$655,000",5 Bd,4 bath,4714 Alcazar Court,"Irving, TX",75062
+2156,"$118,000",2 Bd,"2 bath
+    | 1,094",1813 E Grauwyler RD 143,"Irving, TX",75061
+2157,"$140,000",0 Bd,0 bath,9 Bukhari Court,"Irving, TX",75061
+2158,"$145,000",0 Bd,0 bath,10 Bukhari Court,"Irving, TX",75061
+2159,"$320,000",2 Bd,3 bath,1955 Lantana Lane,"Irving, TX",75063
+2160,"$550,000",4 Bd,3 bath,1215 Harbor Dune Court,"Irving, TX",75063
+2161,"$575,000",5 Bd,3 bath,9611 Wolf Creek Drive,"Irving, TX",75063
+2162,"$1,095,000",3 Bd,4 bath,4765 Cloudcroft Lane,"Irving, TX",75038
+2163,"$235,000",3 Bd,2 bath,3013 W Rochelle Road,"Irving, TX",75062
+2164,"$299,000",4 Bd,3 bath,2026 Woodoak Drive,"Irving, TX",75060
+2165,"$387,000",3 Bd,2 bath,9611 Cliffside Drive,"Irving, TX",75063
+2166,"$625,000",4 Bd,4 bath,6204 Saddlebrook Way,"Irving, TX",75039
+2167,"$1,495,000",4 Bd,6 bath,4553 Byron Circle,"Irving, TX",75038
+2168,"$120,000",2 Bd,2 bath,932 Turtle Cove,"Irving, TX",75060
+2169,"$237,000",3 Bd,2 bath,2408 Mcclure Street,"Irving, TX",75062
+2170,"$249,500",3 Bd,2 bath,3025 Steven Street,"Irving, TX",75062
+2171,"$279,990",0 Bd,0 bath,2150 Kimbrough Drive,"Irving, TX",75038
+2172,"$430,000",3 Bd,3 bath,600 Rockingham Drive,"Irving, TX",75063
+2173,"$479,900",5 Bd,4 bath,1000 Brushwood Drive,"Irving, TX",75063
+2174,"$550,000",3 Bd,4 bath,2300 Creekside Circle N,"Irving, TX",75063
+2175,"$164,900",3 Bd,1 bath,2429 W 6th Street,"Irving, TX",75060
+2176,"$1,995,000",0 Bd,0 bath,1929 S Macarthur Boulevard,"Irving, TX",75060
+2177,"$245,000",3 Bd,2 bath,3315 Hillside Lane,"Irving, TX",75062
+2178,"$357,000",3 Bd,2 bath,936 Old Mill Circle,"Irving, TX",75061
+2179,"$400,000",3 Bd,4 bath,616 Crest Ridge Drive,"Irving, TX",75061
+2180,"$469,000",3 Bd,2 bath,3433 Begonia Lane,"Irving, TX",75038
+2181,"$649,000",5 Bd,4 bath,7200 Comal Drive,"Irving, TX",75039
+2182,"$195,000",3 Bd,2 bath,1506 Ronne Drive,"Irving, TX",75060
+2183,"$197,500",2 Bd,3 bath,418 Santa Fe Trail,"Irving, TX",75063
+2184,"$300,000",3 Bd,3 bath,6442 Love Drive,"Irving, TX",75039
+2185,"$499,900",4 Bd,4 bath,506 Bellah Drive,"Irving, TX",75062
+2186,"$129,000",2 Bd,2 bath,3645 W Northgate Drive,"Irving, TX",75062
+2187,"$409,000",4 Bd,3 bath,313 Santa Clara Street,"Irving, TX",75062
+2188,"$500,000",4 Bd,3 bath,6321 Saddlebrook Way,"Irving, TX",75039
+2189,"$205,000",1 Bd,1 bath,330 Las Colinas Boulevard E,"Irving, TX",75039
+2190,"$295,999",2 Bd,3 bath,1926 Loma Alta Drive,"Irving, TX",75063
+2191,"$370,000",4 Bd,4 bath,601 Poplar Lane,"Irving, TX",75063
+2192,"$542,263",3 Bd,4 bath,6824 Verandah Way,"Irving, TX",75039
+2193,"$1,075,000",4 Bd,4 bath,4447 Lena Lane,"Irving, TX",75038
+2194,"$160,000",2 Bd,2 bath,4266 Madera Road,"Irving, TX",75038
+2195,"$275,000",2 Bd,3 bath,2539 Champagne Drive,"Irving, TX",75038
+2196,"$565,000",5 Bd,4 bath,7405 Bradford Pear Drive,"Irving, TX",75063
+2197,"$385,000",3 Bd,4 bath,6411 Las Colinas Boulevard,"Irving, TX",75039
+2198,"$199,000",3 Bd,2 bath,613 Campana Court,"Irving, TX",75061
+2199,"$355,000",5 Bd,4 bath,3552 Manesh Drive,"Irving, TX",75062
+2200,"$729,000",5 Bd,5 bath,4704 Almeria Court,"Irving, TX",75062
+2201,"$995,000",5 Bd,7 bath,614 Lake Point Drive,"Irving, TX",75039
+2202,"$425,000",2 Bd,3 bath,4340 Castle Rock Court,"Irving, TX",75038
+2203,"$268,900",3 Bd,2 bath,2743 Cartwright Street,"Irving, TX",75062
+2204,"$139,500",2 Bd,2 bath,905 Turtle Cove,"Irving, TX",75060
+2205,"$175,000",0 Bd,2 bath,2804 Cibola Drive,"Irving, TX",75062
+2206,"$379,655",3 Bd,3 bath,9818 Romo Street,"Irving, TX",75063
+2207,"$389,000",2 Bd,"2 bath
+    | 1,376",330 Las Colinas Boulevard Unit# 822,"Irving, TX",75039
+2208,"$389,000",2 Bd,2 bath,330 Las Colinas Boulevard E,"Irving, TX",75039
+2209,"$395,005",3 Bd,3 bath,234 Woodson Street,"Irving, TX",75063
+2210,"$415,395",4 Bd,3 bath,9807 Romo Street,"Irving, TX",75063
+2211,"$418,600",3 Bd,3 bath,9806 Romo Street,"Irving, TX",75063
+2212,"$425,990",4 Bd,3 bath,242 Woodson Street,"Irving, TX",75603
+2213,"$433,990",4 Bd,3 bath,250 Woodson Street,"Irving, TX",75063
+2214,"$437,740",4 Bd,3 bath,259 Woodson Street,"Irving, TX",75063
+2215,"$440,855",4 Bd,3 bath,246 Woodson Street,"Irving, TX",75063
+2216,"$454,990",4 Bd,3 bath,209 Woodson Street,"Irving, TX",75063
+2217,"$471,990",4 Bd,4 bath,222 Woodson Street,"Irving, TX",75063
+2218,"$472,090",4 Bd,4 bath,9819 Romo Street,"Irving, TX",75063
+2219,"$480,520",4 Bd,4 bath,228 Harper Street,"Irving, TX",75063
+2220,"$496,900",3 Bd,4 bath,5425 Patterson Street,"Irving, TX",75039
+2221,"$514,900",3 Bd,4 bath,617 Dalton Lane,"Irving, TX",75039
+2222,"$519,900",3 Bd,4 bath,633 Dalton Lane,"Irving, TX",75039
+2223,"$549,900",3 Bd,4 bath,5437 Patterson Street,"Irving, TX",75039
+2224,"$224,900",3 Bd,2 bath,2525 Morgan Street,"Irving, TX",75062
+2225,"$279,000",3 Bd,3 bath,4012 Tacoma Street,"Irving, TX",75062
+2226,"$424,000",3 Bd,4 bath,609 Via Ravello,"Irving, TX",75039
+2227,"$345,000",2 Bd,"3 bath
+    | 1,977",545 Via Amalfi  #311,"Irving, TX",75039
+2228,"$219,000",2 Bd,2 bath,207 Cimarron Trail,"Irving, TX",75063
+2229,"$550,000",3 Bd,4 bath,101 Decker Court,"Irving, TX",75062
+2230,"$199,000",0 Bd,0 bath,6 Jabir Street,"Irving, TX",75061
+2231,"$275,000",5 Bd,4 bath,905 Bower Drive,"Irving, TX",75061
+2232,"$816,000",4 Bd,6 bath,659 Brookstone Drive,"Irving, TX",75039
+2233,"$115,000",2 Bd,2 bath,1819 E Grauwyler Road,"Irving, TX",75061
+2234,"$499,900",5 Bd,5 bath,8660 Drayton Drive,"Irving, TX",75063
+2235,"$229,900",2 Bd,2 bath,904 Canal Street,"Irving, TX",75063
+2236,"$625,000",6 Bd,5 bath,2205 Aristocrat Drive,"Irving, TX",75063
+2237,"$849,500",4 Bd,5 bath,2630 Dames Lane,"Irving, TX",75063
+2238,"$109,000",0 Bd,0 bath,2615 Roger Williams Drive,"Irving, TX",75061
+2239,"$315,000",3 Bd,3 bath,1200 Woodleigh Drive,"Irving, TX",75061
+2240,"$270,000",4 Bd,2 bath,2201 Rose Court,"Irving, TX",75060
+2241,"$374,900",2 Bd,3 bath,652 Dalton Lane,"Irving, TX",75039
+2242,"$249,000",3 Bd,2 bath,901 Bowman Street,"Irving, TX",75060
+2243,"$290,000",2 Bd,3 bath,4132 William Dehaes Drive,"Irving, TX",75038
+2244,"$849,500",4 Bd,5 bath,653 Clearwater Drive,"Irving, TX",75039
+2245,"$1,089,000",0 Bd,0 bath,712 Hilltop Drive,"Irving, TX",75060
+2246,"$849,500",4 Bd,"5 bath
+    | 4,433",653 Clearwater DR,"Irving, TX",75039
+2247,"$190,000",3 Bd,2 bath,2122 Scarlet Oaks Drive,"Irving, TX",75060
+2248,"$195,000",2 Bd,3 bath,414 Santa Fe Trail,"Irving, TX",75063
+2249,"$284,900",4 Bd,"2 bath
+    | 1,817",1524 John Smith Drive,"Irving, TX",75061
+2250,"$1,595,000",5 Bd,8 bath,435 O Connor Ridge Boulevard,"Irving, TX",75038
+2251,"$484,900",3 Bd,4 bath,629 Dalton Lane,"Irving, TX",75039
+2252,"$489,900",3 Bd,4 bath,5421 Patterson Street,"Irving, TX",75039
+2253,"$5,000",0 Bd,0 bath,9999 Grauwyler Road,"Irving, TX",75061
+2254,"$374,900",2 Bd,3 bath,642 Dalton Lane,"Irving, TX",75039
+2255,"$299,500",4 Bd,2 bath,1919 Brenton Street,"Irving, TX",75062
+2256,"$295,000",4 Bd,3 bath,4731 AMAL SALEH Street,"Irving, TX",75061
+2257,"$525,000",4 Bd,3 bath,700 Canal Street,"Irving, TX",75063
+2258,"$530,238",3 Bd,3 bath,6769 Verandah Way,"Irving, TX",75039
+2259,"$791,060",4 Bd,4 bath,7931 Banyan Way,"Irving, TX",75063
+2260,"$395,000",3 Bd,4 bath,662 Arbol,"Irving, TX",75039
+2261,"$395,000",3 Bd,"4 bath
+    | 2,107",662 Arbol Unit# 19,"Irving, TX",75039
+2262,"$224,900",2 Bd,3 bath,219 Cimarron Trail,"Irving, TX",75063
+2263,"$174,900",1 Bd,"2 bath
+    | 1,002",683 Cimarron TRL,"Irving, TX",75063
+2264,"$412,000",3 Bd,3 bath,9947 Michael Irvin Street,"Irving, TX",75063
+2265,"$414,000",3 Bd,3 bath,9943 Michael Irvin Street,"Irving, TX",75063
+2266,"$473,000",3 Bd,3 bath,227 Harper Street,"Irving, TX",75063
+2267,"$359,000",2 Bd,2 bath,330 Las Colinas Boulevard E,"Irving, TX",75039
+2268,"$635,000",3 Bd,4 bath,6859 Verandah Way,"Irving, TX",75039
+2269,"$169,000",0 Bd,0 bath,13 Wildbriar Drive,"Irving, TX",75061
+2270,"$610,000",5 Bd,6 bath,7904 Swenson Drive,"Irving, TX",75063
+2271,"$475,900",3 Bd,4 bath,656 Dalton Lane,"Irving, TX",75039
+2272,"$115,000",2 Bd,"1 bath
+    | 1,084",1819 Grauwyler Road E 178,"Irving, TX",75061
+2273,"$445,000",3 Bd,3 bath,4303 Spyglass Hill Lane,"Irving, TX",75038
+2274,"$493,996",3 Bd,2 bath,3404 Begonia Lane,"Irving, TX",75038
+2275,"$374,900",2 Bd,3 bath,648 Dalton Lane,"Irving, TX",75039
+2276,"$475,900",3 Bd,4 bath,634 Dalton Lane,"Irving, TX",75039
+2277,"$3,795,000",6 Bd,9 bath,4405 Windsor Ridge Drive,"Irving, TX",75038
+2278,"$289,000",2 Bd,3 bath,6631 Via Positano,"Irving, TX",75039
+2279,"$484,900",3 Bd,4 bath,621 Dalton Lane,"Irving, TX",75039
+2280,"$219,900",3 Bd,2 bath,1204 Milner Road,"Irving, TX",75061
+2281,"$250,000",3 Bd,2 bath,8652 Wellington Point Drive,"Irving, TX",75063
+2282,"$364,950",3 Bd,3 bath,8304 Richmond Court,"Irving, TX",75063
+2283,"$374,900",2 Bd,3 bath,638 Dalton Lane,"Irving, TX",75039
+2284,"$399,990",7 Bd,4 bath,612 S Delaware Street,"Irving, TX",75060
+2285,"$453,900",2 Bd,3 bath,101 Decker Drive,"Irving, TX",75062
+2286,"$526,851",4 Bd,4 bath,629 Courtyard Lane,"Irving, TX",75039
+2287,"$528,327",4 Bd,4 bath,6776 Verandah Way,"Irving, TX",75039
+2288,"$610,000",3 Bd,2 bath,1712 W 7th Street,"Irving, TX",75060
+2289,"$965,000",4 Bd,6 bath,4759 Byron Circle,"Irving, TX",75038
+2290,"$1,112,000",2 Bd,3 bath,300 Golf Club Drive,"Irving, TX",75038
+2291,"$2,300,000",5 Bd,10 bath,4401 Windsor Ridge Drive,"Irving, TX",75038
+2292,"$144,000",0 Bd,0 bath,5 Shemsa Way,"Irving, TX",75061
+2293,"$154,000",0 Bd,0 bath,1204 Holly Street,"Irving, TX",75061
+2294,"$160,000",0 Bd,0 bath,29 Hanaa Court,"Irving, TX",75038
+2295,"$175,000",3 Bd,2 bath,1816 Peabody Avenue,"Dallas, TX",75215
+2296,"$1,825,000",7 Bd,12 bath,2000 Park Avenue,"Dallas, TX",75215
+2297,"$185,000",3 Bd,2 bath,2805 South Boulevard,"Dallas, TX",75215
+2298,"$347,500",2 Bd,2 bath,1823 S Ervay Street,"Dallas, TX",75215
+2299,"$189,900",4 Bd,2 bath,3526 Parnell Street,"Dallas, TX",75215
+2300,"$175,000",3 Bd,2 bath,3508 Booker Street,"Dallas, TX",75215
+2301,"$100,000",4 Bd,2 bath,2309 Jordan Street,"Dallas, TX",75215
+2302,"$499,900",2 Bd,3 bath,1529 Cosette Drive,"Dallas, TX",75215
+2303,"$509,900",2 Bd,3 bath,1537 Cosette Drive,"Dallas, TX",75215
+2304,"$183,990",3 Bd,2 bath,3820 Colonial Avenue,"Dallas, TX",75215
+2305,"$225,000",3 Bd,2 bath,3037 Warren Avenue,"Dallas, TX",75215
+2306,"$300,000",3 Bd,3 bath,1728 Stoneman Street,"Dallas, TX",75215
+2307,"$165,000",3 Bd,2 bath,4423 Colonial Avenue,"Dallas, TX",75215
+2308,"$146,990",3 Bd,2 bath,3204 Tuskegee Street,"Dallas, TX",75215
+2309,"$199,900",2 Bd,2 bath,4107 East Side Avenue,"Dallas, TX",75226
+2310,"$325,000",3 Bd,2 bath,1823 Clear Creek Lane,"Carrollton, TX",75007
+2311,"$330,000",3 Bd,3 bath,2126 Nob Hill,"Carrollton, TX",75006
+2312,"$340,000",3 Bd,3 bath,2816 S Surrey Drive,"Carrollton, TX",75006
+2313,"$399,000",3 Bd,3 bath,2111 Clearwater Trail,"Carrollton, TX",75010
+2314,"$578,000",5 Bd,"4 bath
+    | 3,781",4108 Saginaw Lane,"Carrollton, TX",75010
+2315,"$589,000",4 Bd,4 bath,4637 Stone Oak Drive,"Carrollton, TX",75010
+2316,"$412,000",4 Bd,3 bath,1476 Hollow Ridge Drive,"Carrollton, TX",75007
+2317,"$190,000",2 Bd,3 bath,3550 Country Square Drive,"Carrollton, TX",75006
+2318,"$220,000",2 Bd,1 bath,1605 Baxley Street,"Carrollton, TX",75006
+2319,"$229,900",3 Bd,2 bath,2165 Villa Place,"Carrollton, TX",75006
+2320,"$230,400",2 Bd,2 bath,2102 Willowgate Lane,"Carrollton, TX",75006
+2321,"$240,000",2 Bd,2 bath,2205 Cedarcrest Drive,"Carrollton, TX",75007
+2322,"$240,000",3 Bd,2 bath,2615 Medina Drive,"Carrollton, TX",75007
+2323,"$270,000",3 Bd,3 bath,2109 Via Estrada,"Carrollton, TX",75006
+2324,"$275,000",3 Bd,2 bath,3005 Hyde Court,"Carrollton, TX",75007
+2325,"$303,000",3 Bd,2 bath,1514 Cecil Drive,"Carrollton, TX",75006
+2326,"$317,550",3 Bd,3 bath,1305 Dallshan Drive,"Carrollton, TX",75007
+2327,"$340,000",3 Bd,3 bath,2749 Carmel Drive,"Carrollton, TX",75006
+2328,"$349,900",3 Bd,3 bath,4670 Rhett Lane,"Carrollton, TX",75010
+2329,"$425,000",4 Bd,2 bath,3817 Harrison Drive,"Carrollton, TX",75010
+2330,"$459,900",3 Bd,3 bath,7 Country Lake Drive,"Carrollton, TX",75006
+2331,"$179,900",2 Bd,2 bath,2640 Via La Paloma,"Carrollton, TX",75006
+2332,"$237,300",2 Bd,2 bath,2106 Holly Hill Lane,"Carrollton, TX",75007
+2333,"$255,000",3 Bd,2 bath,2105 Yewpon Court,"Carrollton, TX",75007
+2334,"$255,000",3 Bd,"2 bath
+    | 1,676",2105 Yewpon CT,"Carrollton, TX",75007
+2335,"$290,000",3 Bd,3 bath,2225 Chapman Drive,"Carrollton, TX",75010
+2336,"$315,000",3 Bd,2 bath,1901 Primrose Lane,"Carrollton, TX",75007
+2337,"$325,000",4 Bd,2 bath,2022 Wedgewood Lane,"Carrollton, TX",75006
+2338,"$340,000",4 Bd,3 bath,1352 Marken Court,"Carrollton, TX",75007
+2339,"$345,000",4 Bd,3 bath,1932 Chesham Drive,"Carrollton, TX",75007
+2340,"$359,900",3 Bd,3 bath,1533 Joy Drive,"Carrollton, TX",75007
+2341,"$409,900",3 Bd,3 bath,2303 Castle Rock Road,"Carrollton, TX",75007
+2342,"$429,000",3 Bd,2 bath,2152 Spencer Lane,"Carrollton, TX",75010
+2343,"$429,900",3 Bd,3 bath,4678 Dozier Road,"Carrollton, TX",75010
+2344,"$437,102",3 Bd,3 bath,1528 Olive Street,"Carrollton, TX",75006
+2345,"$440,000",3 Bd,2 bath,4872 Haven Ridge Road,"Carrollton, TX",75010
+2346,"$479,225",3 Bd,3 bath,1545 Kessler Drive,"Carrollton, TX",75006
+2347,"$532,018",3 Bd,3 bath,1508 Jackson Street,"Carrollton, TX",75006
+2348,"$544,900",4 Bd,4 bath,4720 Alexander Drive,"Carrollton, TX",75010
+2349,"$649,900",5 Bd,4 bath,4461 Young Drive,"Carrollton, TX",75010
+2350,"$650,000",5 Bd,4 bath,1508 Prairie Drive,"Carrollton, TX",75007
+2351,"$810,000",4 Bd,5 bath,2412 Cardinal Boulevard,"Carrollton, TX",75010
+2352,"$810,000",4 Bd,"5 bath
+    | 3,767",2412 Cardinal BLVD,"Carrollton, TX",75010
+2353,"$210,000",3 Bd,2 bath,2035 Clubridge Drive,"Carrollton, TX",75006
+2354,"$240,000",2 Bd,2 bath,1603 Baxley Street,"Carrollton, TX",75006
+2355,"$245,000",3 Bd,3 bath,2119 Via Estrada,"Carrollton, TX",75006
+2356,"$250,000",3 Bd,2 bath,2702 Creek Wood Court,"Carrollton, TX",75006
+2357,"$292,500",2 Bd,3 bath,2127 Mcparland Court,"Carrollton, TX",75006
+2358,"$345,000",3 Bd,2 bath,3100 Delaford Drive,"Carrollton, TX",75007
+2359,"$399,999",4 Bd,"2 bath
+    | 2,440",1100 Yorkshire Drive,"Carrollton, TX",75007
+2360,"$470,000",4 Bd,3 bath,2260 Red Mule Lane,"Carrollton, TX",75010
+2361,"$319,997",3 Bd,"3 bath
+    | 2,032",2412 Via Bonita,"Carrollton, TX",75006
+2362,"$350,000",3 Bd,3 bath,2861 Edinburgh Drive,"Carrollton, TX",75006
+2363,"$380,000",4 Bd,3 bath,2239 Woodcreek,"Carrollton, TX",75006
+2364,"$384,900",4 Bd,3 bath,1222 Sycamore Drive,"Carrollton, TX",75007
+2365,"$199,000",1 Bd,2 bath,1220 W Trinity Mills Road,"Carrollton, TX",75006
+2366,"$259,000",2 Bd,3 bath,1220 W Trinity Mills Road,"Carrollton, TX",75006
+2367,"$299,000",3 Bd,3 bath,1220 W Trinity Mills Road,"Carrollton, TX",75006
+2368,"$329,900",3 Bd,2 bath,1504 Caldwell Circle,"Carrollton, TX",75010
+2369,"$500,000",5 Bd,4 bath,3627 Field Stone Drive,"Carrollton, TX",75007
+2370,"$234,000",3 Bd,1 bath,1013 E Alan Avenue,"Carrollton, TX",75006
+2371,"$250,000",3 Bd,2 bath,2249 Heartside Place,"Carrollton, TX",75006
+2372,"$285,000",3 Bd,2 bath,2008 Toulon Lane,"Carrollton, TX",75007
+2373,"$340,000",3 Bd,3 bath,4213 Harvest Hill Road,"Carrollton, TX",75010
+2374,"$359,900",4 Bd,3 bath,1111 Pawnee Trail,"Carrollton, TX",75007
+2375,"$219,500",3 Bd,2 bath,2635 Via Valencia,"Carrollton, TX",75006
+2376,"$280,000",3 Bd,2 bath,3123 Oak Hill Road,"Carrollton, TX",75007
+2377,"$310,000",2 Bd,3 bath,4121 Indian Run Drive,"Carrollton, TX",75010
+2378,"$319,000",3 Bd,3 bath,1717 Brookview Drive,"Carrollton, TX",75007
+2379,"$339,000",3 Bd,2 bath,2204 Ridgewood,"Carrollton, TX",75006
+2380,"$365,000",3 Bd,2 bath,1002 Ridgeview,"Carrollton, TX",75007
+2381,"$429,900",3 Bd,3 bath,2240 Longwood Drive,"Carrollton, TX",75010
+2382,"$535,000",3 Bd,2 bath,2409 Mare Road,"Carrollton, TX",75010
+2383,"$544,900",4 Bd,4 bath,3609 Cimarron Drive,"Carrollton, TX",75007
+2384,"$215,000",3 Bd,3 bath,2205 Montclair Drive,"Carrollton, TX",75007
+2385,"$335,000",3 Bd,3 bath,3141 Riverside Drive,"Carrollton, TX",75007
+2386,"$341,900",3 Bd,4 bath,2785 Troutt Drive,"Carrollton, TX",75010
+2387,"$355,000",3 Bd,3 bath,1336 Riley Drive,"Carrollton, TX",75007
+2388,"$363,000",4 Bd,3 bath,4365 Onyx Drive,"Carrollton, TX",75010
+2389,"$250,000",3 Bd,"3 bath
+    | 1,795",2265 Jackson Circle,"Carrollton, TX",75006
+2390,"$299,000",3 Bd,2 bath,2910 Menlo Park Lane,"Carrollton, TX",75007
+2391,"$359,000",3 Bd,3 bath,2401D Cort Drive,"Carrollton, TX",75010
+2392,"$550,000",4 Bd,3 bath,1024 Caprock Lane,"Carrollton, TX",75010
+2393,"$1,100,000",4 Bd,6 bath,5132 Steinbeck Street,"Carrollton, TX",75010
+2394,"$220,000",2 Bd,1 bath,1600 Baxley Street,"Carrollton, TX",75006
+2395,"$225,000",3 Bd,2 bath,2660 Via La Paloma,"Carrollton, TX",75006
+2396,"$278,000",3 Bd,3 bath,2986 Buttonwood Drive,"Carrollton, TX",75006
+2397,"$305,000",4 Bd,2 bath,2904 Sierra Drive,"Carrollton, TX",75007
+2398,"$370,000",3 Bd,2 bath,2511 Sunridge Road,"Carrollton, TX",75006
+2399,"$375,000",3 Bd,3 bath,1024 Nottingham Drive,"Carrollton, TX",75007
+2400,"$420,000",4 Bd,3 bath,2321 Highland Heights Lane,"Carrollton, TX",75007
+2401,"$718,000",5 Bd,4 bath,4549 Tall Knight Lane,"Carrollton, TX",75010
+2402,"$190,000",3 Bd,2 bath,2121 Travis Drive,"Carrollton, TX",75006
+2403,"$229,900",3 Bd,2 bath,1831 BRIARCREST Cove,"Carrollton, TX",75006
+2404,"$230,000",3 Bd,2 bath,2309 Smoky Hill Road,"Carrollton, TX",75006
+2405,"$300,000",3 Bd,3 bath,1724 Alpine Drive,"Carrollton, TX",75007
+2406,"$539,900",4 Bd,3 bath,4540 Sir Craig Drive,"Carrollton, TX",75010
+2407,"$620,000",4 Bd,4 bath,3936 Freshwater Drive,"Carrollton, TX",75007
+2408,"$354,900",3 Bd,3 bath,1901 Greenbrook Drive,"Carrollton, TX",75006
+2409,"$265,000",4 Bd,2 bath,1845 Burning Tree Lane,"Carrollton, TX",75006
+2410,"$445,000",3 Bd,3 bath,2313 Bella Court,"Carrollton, TX",75010
+2411,"$565,000",4 Bd,4 bath,2331 Aberdeen Place,"Carrollton, TX",75007
+2412,"$624,999",4 Bd,4 bath,2540 Green Oak Drive,"Carrollton, TX",75010
+2413,"$280,000",3 Bd,2 bath,3112 Mayfair Drive,"Carrollton, TX",75007
+2414,"$545,000",4 Bd,3 bath,4505 Tall Knight Lane,"Carrollton, TX",75010
+2415,"$700,000",4 Bd,4 bath,5008 Sage Hill Drive,"Carrollton, TX",75010
+2416,"$790,000",4 Bd,"5 bath
+    | 4,883",4200 Mann CT,"Carrollton, TX",75010
+2417,"$315,000",3 Bd,2 bath,3833 Harrison Drive,"Carrollton, TX",75010
+2418,"$365,000",4 Bd,3 bath,1835 S Perry Road,"Carrollton, TX",75006
+2419,"$610,000",3 Bd,3 bath,5017 Sage Hill Drive,"Carrollton, TX",75010
+2420,"$255,000",3 Bd,2 bath,2312 Placid Drive,"Carrollton, TX",75007
+2421,"$319,500",3 Bd,2 bath,1838 Castille Drive,"Carrollton, TX",75007
+2422,"$365,000",3 Bd,3 bath,2124 Larkspur Drive,"Carrollton, TX",75010
+2423,"$369,000",3 Bd,2 bath,2503 Nature Bend Lane,"Carrollton, TX",75006
+2424,"$389,000",4 Bd,3 bath,3203 Hillpark Lane,"Carrollton, TX",75007
+2425,"$490,000",4 Bd,4 bath,1742 Auburn Drive,"Carrollton, TX",75007
+2426,"$515,000",5 Bd,4 bath,3636 Canyon Oaks Drive,"Carrollton, TX",75007
+2427,"$400,000",4 Bd,3 bath,4044 Windy Crest Circle,"Carrollton, TX",75007
+2428,"$309,500",4 Bd,2 bath,2316 Greenhill Drive,"Carrollton, TX",75006
+2429,"$425,000",5 Bd,3 bath,1802 Dew Valley Drive,"Carrollton, TX",75010
+2430,"$274,900",3 Bd,2 bath,2919 Rayswood Drive,"Carrollton, TX",75007
+2431,"$310,000",4 Bd,3 bath,2111 Daniel Way,"Carrollton, TX",75006
+2432,"$375,000",3 Bd,3 bath,3920 Luke Lane,"Carrollton, TX",75007
+2433,"$429,900",3 Bd,3 bath,4909 Sage Hill Drive,"Carrollton, TX",75010
+2434,"$149,000",4 Bd,2 bath,2723 Creek Wood Court,"Carrollton, TX",75006
+2435,"$285,000",3 Bd,2 bath,2810 Cliffbrook Drive,"Carrollton, TX",75007
+2436,"$290,000",3 Bd,3 bath,1921 Meadowview Court,"Carrollton, TX",75010
+2437,"$479,412",3 Bd,3 bath,1533 Kessler Drive,"Carrollton, TX",75006
+2438,"$499,999",3 Bd,3 bath,4216 Colton Drive,"Carrollton, TX",75010
+2439,"$654,900",4 Bd,4 bath,4649 Stone Oak Drive,"Carrollton, TX",75010
+2440,"$350,000",4 Bd,3 bath,2517 Rosebud Circle,"Carrollton, TX",75006
+2441,"$287,000",4 Bd,2 bath,1607 E Peters Colony Road,"Carrollton, TX",75007
+2442,"$200,000",2 Bd,2 bath,2263 Jackson Circle,"Carrollton, TX",75006
+2443,"$280,000",4 Bd,2 bath,2824 Kings Gate Drive,"Carrollton, TX",75006
+2444,"$243,000",3 Bd,2 bath,2212 Colonial Place,"Carrollton, TX",75007
+2445,"$285,000",3 Bd,2 bath,2107 Albert Road,"Carrollton, TX",75007
+2446,"$325,000",3 Bd,2 bath,2200 San Simeon Place,"Carrollton, TX",75006
+2447,"$336,900",4 Bd,2 bath,1814 Tree Line Drive,"Carrollton, TX",75007
+2448,"$340,000",3 Bd,2 bath,1422 Mapleview Drive,"Carrollton, TX",75007
+2449,"$495,000",5 Bd,4 bath,1511 Estates Way,"Carrollton, TX",75006
+2450,"$325,000",4 Bd,2 bath,2743 Timberleaf,"Carrollton, TX",75006
+2451,"$525,000",4 Bd,4 bath,2144 Bailey Street,"Carrollton, TX",75010
+2452,"$329,900",4 Bd,"2 bath
+    | 2,088",1307 E Branch Hollow DR,"Carrollton, TX",75007
+2453,"$230,000",3 Bd,2 bath,2003 Meadfoot Road,"Carrollton, TX",75007
+2454,"$529,900",3 Bd,3 bath,4237 Colton Drive,"Carrollton, TX",75010
+2455,"$1,990,000",0 Bd,0 bath,4409 Charles Street,"Carrollton, TX",75010
+2456,"$235,000",2 Bd,2 bath,1100 W Trinity Mills Road,"Carrollton, TX",75006
+2457,"$299,900",2 Bd,3 bath,1220 Trinity Mills Road,"Carrollton, TX",75006
+2458,"$560,000",5 Bd,5 bath,1724 Lomar Drive,"Carrollton, TX",75007
+2459,"$286,900",3 Bd,2 bath,2808 Prescott Drive,"Carrollton, TX",75006
+2460,"$335,000",4 Bd,4 bath,1045 Rodin Lane,"Carrollton, TX",75006
+2461,"$386,778",3 Bd,3 bath,4424 Benton Lane,"Carrollton, TX",75010
+2462,"$390,607",3 Bd,3 bath,4420 Benton Lane,"Carrollton, TX",75010
+2463,"$392,910",3 Bd,3 bath,4408 Benton Lane,"Carrollton, TX",75010
+2464,"$401,540",3 Bd,3 bath,4404 Benton Lane,"Carrollton, TX",75010
+2465,"$405,684",3 Bd,3 bath,4428 Benton Lane,"Carrollton, TX",75010
+2466,"$408,728",3 Bd,3 bath,4416 Benton Lane,"Carrollton, TX",75010
+2467,"$411,752",3 Bd,3 bath,4412 Benton Lane,"Carrollton, TX",75010
+2468,"$309,900",3 Bd,2 bath,1123 Holly Drive,"Carrollton, TX",75010
+2469,"$349,000",0 Bd,0 bath,4012 Memorial Court,"Carrollton, TX",75010
+2470,"$352,000",3 Bd,3 bath,1012 Thomas Place,"Carrollton, TX",75006
+2471,"$352,000",3 Bd,3 bath,1061 Thomas Place,"Carrollton, TX",75006
+2472,"$393,000",3 Bd,2 bath,1028 Thomas Place,"Carrollton, TX",75006
+2473,"$299,900",0 Bd,0 bath,3701 CanonGate Circle N,"Carrollton, TX",75007
+2474,"$168,900",2 Bd,"2 bath
+    | 1,051",1603 Marsh Lane #305,"Carrollton, TX",75006
+2475,"$875,000",4 Bd,7 bath,5009 Steinbeck Street,"Carrollton, TX",75010
+2476,"$580,000",5 Bd,5 bath,4321 Saginaw Lane,"Carrollton, TX",75010
+2477,"$479,900",4 Bd,4 bath,3736 Muirfield Drive,"Carrollton, TX",75007
+2478,"$325,000",3 Bd,3 bath,2210 Meadowstone Drive,"Carrollton, TX",75006
+2479,"$380,000",3 Bd,3 bath,1053 Thomas Place,"Carrollton, TX",75006
+2480,"$248,000",4 Bd,2 bath,1802 Willow Road,"Carrollton, TX",75006
+2481,"$362,000",3 Bd,3 bath,1065 Thomas Place,"Carrollton, TX",75006
+2482,"$340,000",4 Bd,2 bath,2211 San Simeon,"Carrollton, TX",75006
+2483,"$265,000",3 Bd,"3 bath
+    | 2,054",2932 Woodcroft CIR,"Carrollton, TX",75006
+2484,"$270,000",3 Bd,2 bath,2003 Greenstone Trail,"Carrollton, TX",75010
+2485,"$382,647",2 Bd,3 bath,2837 Troutt Drive,"Carrollton, TX",75010
+2486,"$392,990",3 Bd,3 bath,2833 Troutt Drive,"Carrollton, TX",75010
+2487,"$399,990",3 Bd,3 bath,2849 Troutt Drive,"Carrollton, TX",75010
+2488,"$460,673",3 Bd,3 bath,1544 Jackson Street,"Carrollton, TX",75006
+2489,"$446,395",3 Bd,3 bath,1524 Jackson Street,"Carrollton, TX",75006
+2490,"$1,900,000",0 Bd,0 bath,3816 Quivera Circle,"Carrollton, TX",75007
+2491,"$7,000,000",0 Bd,0 bath,3918 Rolling Oaks Drive,"Carrollton, TX",75007
+2492,"$374,771",3 Bd,3 bath,1515 Jackson Street,"Carrollton, TX",75006
+2493,"$355,859",3 Bd,3 bath,1509 Jackson Street,"Carrollton, TX",75006
+2494,"$356,203",3 Bd,3 bath,1513 Jackson Street,"Carrollton, TX",75006
+2495,"$398,990",3 Bd,3 bath,2841 Troutt Drive,"Carrollton, TX",75010
+2496,"$439,431",3 Bd,3 bath,2845 Troutt Drive,"Carrollton, TX",75010
+2497,"$495,000",6 Bd,4 bath,2424 Guerrero Drive,"Carrollton, TX",75006
+2498,"$124,900",2 Bd,1 bath,3550 Country Square,"Carrollton, TX",75006
+2499,"$129,900",1 Bd,1 bath,1601 Marsh Lane,"Carrollton, TX",75006
+2500,"$255,000",3 Bd,2 bath,2007 Cedarwood Drive,"Carrollton, TX",75007
+2501,"$270,000",4 Bd,2 bath,2102 Victoria,"Carrollton, TX",75007
+2502,"$330,000",3 Bd,3 bath,2304 McCoy Court,"Carrollton, TX",75006
+2503,"$330,500",3 Bd,3 bath,3636 Fuchsia Drive,"Carrollton, TX",75007
+2504,"$333,900",3 Bd,3 bath,4690 Dozier Road,"Carrollton, TX",75010
+2505,"$338,625",2 Bd,2 bath,2700 OLD DENTON Road,"Carrollton, TX",75007
+2506,"$349,000",4 Bd,3 bath,2100 Greenstone Trail,"Carrollton, TX",75010
+2507,"$369,990",2 Bd,3 bath,4405 Benton Lane,"Carrollton, TX",75010
+2508,"$381,990",3 Bd,3 bath,4401 Benton Lane,"Carrollton, TX",75010
+2509,"$389,990",3 Bd,3 bath,4425 Benton Lane,"Carrollton, TX",75010
+2510,"$399,900",4 Bd,3 bath,4216 Eastwood Drive,"Carrollton, TX",75010
+2511,"$402,990",3 Bd,3 bath,2829 Troutt Drive,"Carrollton, TX",75010
+2512,"$453,369",3 Bd,3 bath,1520 Jackson Street,"Carrollton, TX",75006
+2513,"$155,000",0 Bd,0 bath,1815 Gravley Drive,"Carrollton, TX",75006
+2514,"$360,000",0 Bd,0 bath,1612 Rosetree Lane,"Carrollton, TX",75006
+2515,"$375,000",0 Bd,0 bath,1616 Rosetree Lane,"Carrollton, TX",75006
+2516,"$375,000",0 Bd,0 bath,1620 Rosetree Lane,"Carrollton, TX",75006
+2517,"$375,000",0 Bd,0 bath,1624 Rosetree Lane,"Carrollton, TX",75006
+2518,"$389,000",0 Bd,0 bath,1608 Rosetree Lane,"Carrollton, TX",75006
+2519,"$399,000",0 Bd,0 bath,1628 Rosetree Lane,"Carrollton, TX",75006
+2520,"$303,000",3 Bd,2 bath,1514 Cecil Drive,"Carrollton, TX",75006
+2521,"$240,000",2 Bd,2 bath,1603 Baxley Street,"Carrollton, TX",75006
+2522,"$220,000",2 Bd,1 bath,1605 Baxley Street,"Carrollton, TX",75006
+2523,"$229,900",3 Bd,2 bath,1831 BRIARCREST Cove,"Carrollton, TX",75006
+2524,"$220,000",2 Bd,1 bath,1600 Baxley Street,"Carrollton, TX",75006
+2525,"$479,225",3 Bd,3 bath,1545 Kessler Drive,"Carrollton, TX",75006
+2526,"$460,673",3 Bd,3 bath,1544 Jackson Street,"Carrollton, TX",75006
+2527,"$479,412",3 Bd,3 bath,1533 Kessler Drive,"Carrollton, TX",75006
+2528,"$446,395",3 Bd,3 bath,1524 Jackson Street,"Carrollton, TX",75006
+2529,"$453,369",3 Bd,3 bath,1520 Jackson Street,"Carrollton, TX",75006
+2530,"$450,000",3 Bd,2 bath,3777 Lakeway Court,"Addison, TX",75001
+2531,"$469,900",4 Bd,3 bath,3756 Woodshadow Lane,"Addison, TX",75001
+2532,"$500,000",3 Bd,4 bath,5029 Calloway Drive,"Addison, TX",75001
+2533,"$339,500",3 Bd,2 bath,4004 Morman Lane,"Addison, TX",75001
+2534,"$975,000",3 Bd,"4 bath
+    | 3,500",14730 Celestial Place,"Addison, TX",75254
+2535,"$429,000",3 Bd,3 bath,5017 Morris Avenue,"Addison, TX",75001
+2536,"$212,000",2 Bd,3 bath,4067 Beltway Drive,"Addison, TX",75001
+2537,"$2,795,000",5 Bd,8 bath,5505 Celestial Road,"Addison, TX",75254
+2538,"$429,900",3 Bd,2 bath,3820 Waterford Drive,"Addison, TX",75001
+2539,"$448,000",3 Bd,2 bath,14597 Waterview Circle,"Addison, TX",75001
+2540,"$613,000",3 Bd,4 bath,4132 Runyon Road,"Addison, TX",75001
+2541,"$194,900",2 Bd,2 bath,16301 Ledgemont Lane,"Addison, TX",75001
+2542,"$385,000",2 Bd,3 bath,14955 Oak Road,"Addison, TX",75001
+2543,"$395,000",3 Bd,4 bath,3920 Amberwood Drive,"Addison, TX",75001
+2544,"$160,000",2 Bd,2 bath,16301 Ledgemont Lane,"Addison, TX",75001
+2545,"$129,900",1 Bd,1 bath,16301 Ledgemont Lane,"Addison, TX",75001
+2546,"$331,900",1 Bd,3 bath,4106 Runyon Road,"Addison, TX",75001
+2547,"$369,000",2 Bd,3 bath,14815 Surveyor Boulevard,"Addison, TX",75001
+2548,"$399,900",3 Bd,4 bath,3916 Amberwood Drive,"Addison, TX",75001
+2549,"$495,000",3 Bd,3 bath,3834 Canot Lane,"Addison, TX",75001
+2550,"$449,900",3 Bd,3 bath,14588 Poe Court,"Addison, TX",75001
+2551,"$195,000",1 Bd,2 bath,4130 Proton Drive,"Addison, TX",75001
+2552,"$439,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2553,"$376,000",2 Bd,3 bath,5055 Addison Circle,"Addison, TX",75001
+2554,"$255,000",1 Bd,1 bath,5055 Addison Circle,"Addison, TX",75001
+2555,"$349,000",3 Bd,3 bath,4102 Oberlin Way,"Addison, TX",75001
+2556,"$384,900",2 Bd,2 bath,5055 Addison Circle,"Addison, TX",75001
+2557,"$404,000",2 Bd,2 bath,15875 Spectrum Drive,"Addison, TX",75001
+2558,"$591,000",3 Bd,4 bath,14975 Oak Street,"Addison, TX",75001
+2559,"$445,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2560,"$590,000",3 Bd,4 bath,14965 Oak Street,"Addison, TX",75001
+2561,"$485,000",3 Bd,4 bath,14947 Oak Street,"Addison, TX",75001
+2562,"$475,000",3 Bd,4 bath,14949 Oak Street,"Addison, TX",75001
+2563,"$599,000",3 Bd,4 bath,14961 Oak Street,"Addison, TX",75001
+2564,"$395,000",2 Bd,2 bath,15875 Spectrum Drive,"Addison, TX",75001
+2565,"$1,877,000",3 Bd,7 bath,14816 Bellbrook Drive,"Addison, TX",75254
+2566,"$395,000",2 Bd,3 bath,5055 Addison Circle,"Addison, TX",75001
+2567,"$347,500",3 Bd,2 bath,5055 Addison Circle,"Addison, TX",75001
+2568,"$594,000",3 Bd,4 bath,14977 Oak Street,"Addison, TX",75001
+2569,"$449,900",3 Bd,4 bath,15762 Seabolt,"Addison, TX",75001
+2570,"$375,000",2 Bd,2 bath,15875 Spectrum Drive,"Addison, TX",75001
+2571,"$385,000",4 Bd,4 bath,3940 Asbury Lane,"Addison, TX",75001
+2572,"$385,000",2 Bd,2 bath,15875 Spectrum Drive,"Addison, TX",75001
+2573,"$425,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2574,"$435,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2575,"$449,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2576,"$454,380",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2577,"$454,949",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2578,"$455,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2579,"$459,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2580,"$465,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2581,"$469,000",3 Bd,3 bath,15875 Spectrum Drive,"Addison, TX",75001
+2582,"$495,900",3 Bd,4 bath,14981 Oak Street,"Addison, TX",75001
+2583,"$2,195,000",4 Bd,6 bath,14929 Havenshire Place,"Addison, TX",75254
+2584,"$5,895,000",4 Bd,8 bath,25 Glen Abbey Drive,"Dallas, TX",75248
+2585,"$825,000",4 Bd,4 bath,5508 Bent Trail,"Dallas, TX",75248
+2586,"$569,000",4 Bd,4 bath,5007 Briar Tree Drive,"Dallas, TX",75248
+2587,"$520,000",3 Bd,4 bath,5017 Briar Tree Drive,"Dallas, TX",75248
+2588,"$509,900",3 Bd,4 bath,17201 Meadow Tree Circle,"Dallas, TX",75248
+2589,"$2,795,000",5 Bd,7 bath,8 Green Park,"Dallas, TX",75248
+2590,"$2,195,000",4 Bd,6 bath,14929 Havenshire Place,"Addison, TX",75254
+2591,"$3,795,000",5 Bd,7 bath,39 Braewood Place,"Dallas, TX",75248
+2592,"$7,500,000",7 Bd,9 bath,23 Ash Bluff Lane,"Dallas, TX",75248
+2593,"$1,249,000",3 Bd,3 bath,14 Abbey Creek Way,"Dallas, TX",75248
+2594,"$1,650,000",3 Bd,4 bath,31 Abbey Creek Way,"Dallas, TX",75248
+2595,"$975,000",3 Bd,"4 bath
+    | 3,500",14730 Celestial Place,"Addison, TX",75254
+2596,"$69,900",0 Bd,0 bath,1511 Cypress Bend Drive,"Cedar Hill, TX",75104
+2597,"$287,373",3 Bd,3 bath,1024 Randy Road,"Cedar Hill, TX",75104
+2598,"$1,225,000",5 Bd,7 bath,1609 Promontory Drive,"Cedar Hill, TX",75104
+2599,"$89,900",0 Bd,0 bath,2833 Plume Court,"Cedar Hill, TX",75104
+2600,"$239,900",3 Bd,2 bath,807 Clover Hill Lane,"Cedar Hill, TX",75104
+2601,"$280,000",3 Bd,2 bath,716 High Drive,"Cedar Hill, TX",75104
+2602,"$454,000",5 Bd,3 bath,1129 Wishing Well Court,"Cedar Hill, TX",75104
+2603,"$199,000",3 Bd,1 bath,732 W Parkerville Road,"Cedar Hill, TX",75104
+2604,"$259,900",4 Bd,2 bath,1084 Magnolia Lane,"Cedar Hill, TX",75104
+2605,"$430,000",5 Bd,5 bath,422 Hageman Lane,"Cedar Hill, TX",75104
+2606,"$615,000",4 Bd,4 bath,2303 Autumn Run Court,"Cedar Hill, TX",75104
+2607,"$199,990",0 Bd,0 bath,1353 Overlook Circle,"Cedar Hill, TX",75104
+2608,"$260,000",3 Bd,2 bath,438 Tranquility Lane,"Cedar Hill, TX",75104
+2609,"$274,900",3 Bd,3 bath,722 Cindy Drive,"Cedar Hill, TX",75104
+2610,"$175,000",0 Bd,0 bath,2000 Jasmine Circle,"Cedar Hill, TX",75104
+2611,"$200,000",3 Bd,4 bath,821 Witherspoon Court,"Cedar Hill, TX",75104
+2612,"$225,000",3 Bd,2 bath,122 Cooper Street,"Cedar Hill, TX",75104
+2613,"$275,000",5 Bd,3 bath,407 Mckinley Street,"Cedar Hill, TX",75104
+2614,"$158,000",3 Bd,1 bath,519 Antoine Street,"Cedar Hill, TX",75104
+2615,"$276,000",3 Bd,2 bath,1306 Flagstone,"Cedar Hill, TX",75104
+2616,"$360,000",4 Bd,3 bath,426 Hageman,"Cedar Hill, TX",75104
+2617,"$55,000",0 Bd,0 bath,830 Monique,"Cedar Hill, TX",75104
+2618,"$87,900",0 Bd,0 bath,1505 Cypress Bend Drive,"Cedar Hill, TX",75104
+2619,"$125,000",0 Bd,0 bath,2130 Rohne,"Cedar Hill, TX",75104
+2620,"$134,500",3 Bd,"3 bath
+    | 1,242",929 Vedral Place #929,"Cedar Hill, TX",75104
+2621,"$245,900",4 Bd,2 bath,731 Hawthorn Drive,"Cedar Hill, TX",75104
+2622,"$268,000",5 Bd,3 bath,301 Oak Lane,"Cedar Hill, TX",75104
+2623,"$285,000",4 Bd,3 bath,729 Gibson Street,"Cedar Hill, TX",75104
+2624,"$249,900",3 Bd,2 bath,1507 Baker Drive,"Cedar Hill, TX",75104
+2625,"$260,000",3 Bd,2 bath,1422 Baker Drive,"Cedar Hill, TX",75104
+2626,"$550,000",0 Bd,0 bath,2425 Mountain View Court,"Cedar Hill, TX",75104
+2627,"$258,990",4 Bd,3 bath,765 Lowe Drive,"Cedar Hill, TX",75104
+2628,"$1,299,000",5 Bd,9 bath,1320 N Cedar Hill Road,"Cedar Hill, TX",75104
+2629,"$250,000",3 Bd,2 bath,324 Wentwood Drive,"Cedar Hill, TX",75104
+2630,"$665,000",4 Bd,6 bath,2812 Sonterra Drive,"Cedar Hill, TX",75104
+2631,"$145,000",1 Bd,1 bath,324 Texas Street,"Cedar Hill, TX",75104
+2632,"$570,000",4 Bd,5 bath,2829 Eden Drive,"Cedar Hill, TX",75104
+2633,"$749,500",4 Bd,4 bath,2813 Sonterra Drive,"Cedar Hill, TX",75104
+2634,"$75,000",0 Bd,0 bath,2714 Whispering Oaks Cove,"Cedar Hill, TX",75104
+2635,"$268,000",4 Bd,3 bath,1402 Samuel Street,"Cedar Hill, TX",75104
+2636,"$150,000",2 Bd,2 bath,456 Dollins Street,"Cedar Hill, TX",75104
+2637,"$269,900",4 Bd,3 bath,312 Birchwood Lane,"Cedar Hill, TX",75104
+2638,"$190,000",3 Bd,2 bath,105 Sagittarius Drive,"Cedar Hill, TX",75104
+2639,"$40,000",0 Bd,0 bath,1202 Plateau Street,"Cedar Hill, TX",75104
+2640,"$238,000",0 Bd,0 bath,0000 Joe Wilson RD,"Cedar Hill, TX",75104
+2641,"$226,000",4 Bd,2 bath,1027 Aries Street,"Cedar Hill, TX",75104
+2642,"$275,000",5 Bd,3 bath,700 Meandering Drive,"Cedar Hill, TX",75104
+2643,"$180,000",0 Bd,0 bath,2114 Grand View Court,"Cedar Hill, TX",75104
+2644,"$249,999",2 Bd,2 bath,1027 E Wintergreen Road,"Cedar Hill, TX",75104
+2645,"$325,000",0 Bd,0 bath,600 W FM ROAD 1382 Road,"Cedar Hill, TX",75104
+2646,"$490,000",5 Bd,4 bath,1110 Heather Circle,"Cedar Hill, TX",75104
+2647,"$120,000",0 Bd,0 bath,423 Golden Pond Drive,"Cedar Hill, TX",75104
+2648,"$295,000",3 Bd,2 bath,507 Evergreen Trail,"Cedar Hill, TX",75104
+2649,"$439,900",4 Bd,3 bath,332 Windy Meadow Drive,"Cedar Hill, TX",75104
+2650,"$249,999",2 Bd,"2 bath
+    | 1,420",1027 E Wintergreen RD,"Cedar Hill, TX",75104
+2651,"$539,900",6 Bd,5 bath,2613 Whispering Oaks Cove,"Cedar Hill, TX",75104
+2652,"$120,000",0 Bd,0 bath,2521 Hardwick Lane,"Cedar Hill, TX",76065
+2653,"$250,000",0 Bd,0 bath,2454 Hardwick Lane,"Cedar Hill, TX",75104
+2654,"$179,900",0 Bd,0 bath,11 Terrace Lane,"Cedar Hill, TX",75104
+2655,"$345,000",5 Bd,3 bath,1020 Hampshire Lane,"Cedar Hill, TX",75104
+2656,"$1,700,000",4 Bd,4 bath,1737 Valley View Drive,"Cedar Hill, TX",75104
+2657,"$239,990",3 Bd,3 bath,1420 Middleton Drive,"Cedar Hill, TX",75104
+2658,"$11,500",0 Bd,0 bath,13 Sabre Drive,"Cedar Hill, TX",75104
+2659,"$39,000",0 Bd,0 bath,924 Walters Drive,"Cedar Hill, TX",75104
+2660,"$292,449",3 Bd,2 bath,1449 Kingswood Drive,"Cedar Hill, TX",75104
+2661,"$195,000",0 Bd,0 bath,2132 Grand View Court,"Cedar Hill, TX",75104
+2662,"$355,000",5 Bd,4 bath,806 Sleepy Hollow Drive,"Cedar Hill, TX",75104
+2663,"$449,900",0 Bd,0 bath,731 Mobley Road,"Cedar Hill, TX",75104
+2664,"$850,000",5 Bd,6 bath,1422 Peak Street,"Cedar Hill, TX",75104
+2665,"$176,645",2 Bd,2 bath,914 Cresthaven Drive,"Cedar Hill, TX",75104
+2666,"$285,000",5 Bd,"3 bath
+    | 2,771",407 Mckinley Street,"Cedar Hill, TX",75104
+2667,"$414,766",4 Bd,4 bath,1523 Spring Hill Drive,"Cedar Hill, TX",75104
+2668,"$579,500",5 Bd,5 bath,810 Belclaire Circle,"Cedar Hill, TX",75104
+2669,"$423,488",3 Bd,3 bath,1546 Regal Bluff Drive,"Cedar Hill, TX",75104
+2670,"$524,900",3 Bd,5 bath,318 La Reata Court,"Cedar Hill, TX",75104
+2671,"$5,700,000",0 Bd,0 bath,889 Mobley Road,"Cedar Hill, TX",75104
+2672,"$265,000",4 Bd,3 bath,1089 Cove Hollow Drive,"Cedar Hill, TX",75104
+2673,"$99,000",0 Bd,0 bath,2488 Creekwood Drive,"Cedar Hill, TX",75104
+2674,"$249,000",4 Bd,2 bath,416 Everest Court,"Cedar Hill, TX",75104
+2675,"$242,500",3 Bd,2 bath,415 Meadow Ridge Drive,"Cedar Hill, TX",75104
+2676,"$455,000",4 Bd,3 bath,324 Shady Brook Lane,"Cedar Hill, TX",75104
+2677,"$530,000",4 Bd,4 bath,2449 Briarwood Cove,"Cedar Hill, TX",75104
+2678,"$480,000",4 Bd,3 bath,807 Laurel Hills,"Cedar Hill, TX",75104
+2679,"$49,900",0 Bd,0 bath,430 Lee Street,"Cedar Hill, TX",75104
+2680,"$1,800,000",7 Bd,9 bath,2422 Creekwood Drive,"Cedar Hill, TX",75104
+2681,"$160,000",3 Bd,2 bath,1516 Curtis Lane,"Cedar Hill, TX",75104
+2682,"$319,590",0 Bd,0 bath,TBD Tar Road,"Cedar Hill, TX",76065
+2683,"$330,000",4 Bd,3 bath,822 Clover Hill Lane,"Cedar Hill, TX",75104
+2684,"$386,282",3 Bd,2 bath,1523 Legacy Drive,"Cedar Hill, TX",75104
+2685,"$419,001",4 Bd,3 bath,1507 Legacy Dr. Drive,"Cedar Hill, TX",75104
+2686,"$9,950,000",8 Bd,10 bath,2449 Mountain View Court,"Cedar Hill, TX",75104
+2687,"$73,000",0 Bd,0 bath,925 Belclaire Circle,"Cedar Hill, TX",75104
+2688,"$74,000",0 Bd,0 bath,938 Beverly Circle,"Cedar Hill, TX",75104
+2689,"$79,000",0 Bd,0 bath,718 Shenandoah,"Cedar Hill, TX",75104
+2690,"$99,900",0 Bd,0 bath,2008 Blue Ridge Drive,"Cedar Hill, TX",76065
+2691,"$395,000",0 Bd,0 bath,2141 Grand View Court,"Cedar Hill, TX",75104
+2692,"$420,000",0 Bd,0 bath,1350 E Pleasant Run Road,"Cedar Hill, TX",75104
+2693,"$500,000",0 Bd,0 bath,2433 Mountain View Court,"Cedar Hill, TX",75104
+2694,"$199,000",3 Bd,1 bath,732 W Parkerville Road,"Cedar Hill, TX",75104
+2695,"$245,900",4 Bd,2 bath,731 Hawthorn Drive,"Cedar Hill, TX",75104
+2696,"$287,373",3 Bd,3 bath,1024 Randy Road,"Cedar Hill, TX",75104
+2697,"$292,449",3 Bd,2 bath,1449 Kingswood Drive,"Cedar Hill, TX",75104
+2698,"$490,000",5 Bd,4 bath,1110 Heather Circle,"Cedar Hill, TX",75104
+2699,"$145,000",1 Bd,1 bath,324 Texas Street,"Cedar Hill, TX",75104
+2700,"$260,000",3 Bd,2 bath,438 Tranquility Lane,"Cedar Hill, TX",75104
+2701,"$285,000",4 Bd,3 bath,729 Gibson Street,"Cedar Hill, TX",75104
+2702,"$242,500",3 Bd,2 bath,415 Meadow Ridge Drive,"Cedar Hill, TX",75104
+2703,"$1,700,000",4 Bd,4 bath,1737 Valley View Drive,"Cedar Hill, TX",75104
+2704,"$268,000",5 Bd,3 bath,301 Oak Lane,"Cedar Hill, TX",75104
+2705,"$225,000",3 Bd,2 bath,122 Cooper Street,"Cedar Hill, TX",75104
